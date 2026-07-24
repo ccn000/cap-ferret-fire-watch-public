@@ -652,34 +652,46 @@
       "tone": "danger"
     },
     {
+      "name": "Road access to the peninsula",
+      "status": "No public access",
+      "detail": "Ordinary inbound road access to the peninsula has not reopened. Open for destination-by-destination status.",
+      "tone": "danger",
+      "kind": "road-summary"
+    },
+    {
       "name": "Road access · Claouey",
       "status": "No public access",
       "detail": "No authority has announced that ordinary inbound road access to Claouey has reopened. The evacuation order and peninsula access restrictions still apply.",
-      "tone": "danger"
+      "tone": "danger",
+      "kind": "road-destination"
     },
     {
       "name": "Road access · Petit Piquey & Piraillan",
       "status": "No public access",
       "detail": "No authority has announced that ordinary inbound road access to Petit Piquey or Piraillan has reopened. The evacuation order and peninsula access restrictions still apply.",
-      "tone": "danger"
+      "tone": "danger",
+      "kind": "road-destination"
     },
     {
       "name": "Road access · Grand Piquey",
       "status": "No public access",
       "detail": "No authority has announced that ordinary inbound road access to Grand Piquey has reopened. The evacuation order and peninsula access restrictions still apply.",
-      "tone": "danger"
+      "tone": "danger",
+      "kind": "road-destination"
     },
     {
       "name": "Road access · Le Canon & L’Herbe",
       "status": "No public access",
       "detail": "No authority has announced that ordinary inbound road access to Le Canon or L’Herbe has reopened. The evacuation order and peninsula access restrictions still apply.",
-      "tone": "danger"
+      "tone": "danger",
+      "kind": "road-destination"
     },
     {
       "name": "Road access · Cap Ferret",
       "status": "No public access",
       "detail": "No authority has announced that ordinary inbound road access to Cap Ferret village or Bélisaire has reopened. The evacuation order and peninsula access restrictions still apply.",
-      "tone": "danger"
+      "tone": "danger",
+      "kind": "road-destination"
     },
     {
       "name": "Maritime leisure activities",
