@@ -2,14 +2,14 @@
   "incident": {
     "level": "ÉVACUATION TOTALE",
     "headline": "La presqu’île reste évacuée ; l’incendie progresse toujours et n’est pas maîtrisé.",
-    "summary": "La situation opérationnelle reste critique et s’étend au-delà de la presqu’île : le point de la mi-journée confirme plus de 10 000 hectares parcourus, 53 maisons et un camping détruits, 27 pompiers pris en charge et environ 1 000 pompiers mobilisés. Arès est désormais soumise à une évacuation obligatoire et la navigation sur le bassin d’Arcachon est temporairement interdite. Aucun signal ne permet d’envisager un déplacement vers le Cap Ferret.",
+    "summary": "La situation opérationnelle reste critique et s’étend au-delà de la presqu’île : le point de la mi-journée confirme plus de 10 000 hectares parcourus, 53 maisons et un camping détruits, 27 pompiers pris en charge et environ 1 000 pompiers mobilisés. Un média local a ensuite évoqué 12 500 hectares et 44 000 évacuations, sans qu’un bulletin officiel accessible ne l’ait encore confirmé. Arès est soumise à une évacuation obligatoire et la navigation sur le bassin d’Arcachon est temporairement interdite. Aucun signal ne permet d’envisager un déplacement vers le Cap Ferret.",
     "fireStatus": "Incendie très actif et imprévisible"
   },
   "currentAssessment": {
     "verdict": "N’allez pas au Cap Ferret : toute la presqu’île reste évacuée et l’incendie progresse encore.",
     "trajectory": "Dégradation",
-    "narrative": "Les faits déterminants sont l’évacuation complète de la presqu’île, un feu toujours décrit comme incontrôlé et en progression, et le renforcement des moyens annoncé à la mi-journée. Environ 1 000 pompiers sont désormais engagés. Les autorités font état de 53 maisons et d’un camping détruits, de 27 pompiers pris en charge, dont six transportés à l’hôpital, et d’aucun décès. Arès est soumise à une évacuation obligatoire et la préfecture maritime a temporairement interdit la navigation sur le bassin d’Arcachon. L’accès routier entrant reste fermé au public.",
-    "confidence": "Confiance élevée concernant les restrictions d’évacuation et de navigation, la mobilisation d’environ 1 000 pompiers et l’absence de possibilité de déplacement. Le point préfectoral de la mi-journée fournit le bilan immobilier le plus clair : 53 maisons et un camping détruits, tandis que 2 000 maisons ont été sauvées. Les formulations antérieures évoquant 80 habitations brûlées ou touchées ne doivent pas être interprétées comme 80 destructions totales confirmées.",
+    "narrative": "Les faits déterminants sont l’évacuation complète de la presqu’île, un feu toujours décrit comme incontrôlé et en progression, et le renforcement des moyens annoncé à la mi-journée. Environ 1 000 pompiers sont engagés. Les autorités font état de 53 maisons et d’un camping détruits, de 27 pompiers pris en charge, dont six transportés à l’hôpital, et d’aucun décès. Un média local évoque ensuite 12 500 hectares et 44 000 évacuations, mais ses chiffres plus tardifs de blessés ne sont pas corroborés par un bulletin officiel accessible. Arès est soumise à une évacuation obligatoire et la préfecture maritime a temporairement interdit la navigation sur le bassin d’Arcachon. L’accès routier entrant reste fermé au public.",
+    "confidence": "Confiance élevée concernant les restrictions d’évacuation et de navigation, la mobilisation d’environ 1 000 pompiers et l’absence de possibilité de déplacement. Le point préfectoral de la mi-journée fournit le bilan immobilier le plus clair : 53 maisons et un camping détruits, tandis que 2 000 maisons ont été sauvées. Un article local de 18 h 24 évoque 12 500 hectares et 44 000 évacuations ; ces totaux sont présentés comme rapportés dans l’attente d’un point officiel concordant. Les formulations antérieures évoquant 80 habitations brûlées ou touchées ne doivent pas être interprétées comme 80 destructions totales confirmées.",
     "priorities": [
       "Toute la presqu’île reste évacuée, et l’évacuation obligatoire s’étend à Arès, sur l’autre rive du nord du Bassin.",
       "Le feu reste incontrôlé ; 27 pompiers ont été pris en charge et les rafales d’ouest prévues pourraient atteindre 80 km/h.",
@@ -36,6 +36,11 @@
     }
   },
   "materialUpdates": {
+    "material-2026-07-24-1824": {
+      "title": "Un média local évoque 12 500 hectares et 44 000 évacuations ; confirmation officielle attendue",
+      "detail": "Bordeaux Gazette, citant un point de situation de l’après-midi, indique que l’incendie toujours non maîtrisé aurait parcouru 12 500 hectares et conduit à l’évacuation de 44 000 personnes en deux jours. Le média mentionne également environ 1 000 pompiers et 260 moyens terrestres. Les informations municipales et maritimes officielles accessibles reprennent toujours les premières mesures d’évacuation et de navigation, sans ce bilan chiffré plus tardif : les chiffres sont donc présentés comme rapportés et non comme un total officiel confirmé.",
+      "incrementalNews": "Un rapport plus tardif porte la surface rapportée de plus de 10 000 à 12 500 hectares et les évacuations d’environ 40 000 à 44 000. Il ne modifie pas la recommandation de ne pas se déplacer ni n’établit une réouverture."
+    },
     "material-2026-07-24-1356": {
       "title": "Le point de la mi-journée confirme des moyens renforcés, des pompiers blessés et d’importants dégâts",
       "detail": "Le dernier point préfectoral et des services de secours porte à environ 1 000 le nombre de pompiers engagés sur l’incendie girondin. Les autorités font état de 53 maisons et d’un camping détruits, de 2 000 maisons sauvées et de 27 pompiers pris en charge, dont six transportés à l’hôpital ; aucun décès n’est signalé. Le SDIS indique que le feu a progressé de 800 à 1 000 hectares par heure pendant plusieurs heures dans la nuit, tandis que des rafales d’ouest pouvant atteindre 80 km/h restent redoutées.",
