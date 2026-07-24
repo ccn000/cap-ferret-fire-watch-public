@@ -160,6 +160,16 @@
       "detail": "L’interdiction temporaire de navigation confirme l’indisponibilité des excursions commerciales et de la navigation de loisirs normales."
     }
   },
+  "aviation": {
+    "overall": {
+      "status": "Aucune perturbation majeure"
+    },
+    "trackedFlight": {
+      "date": "Lundi 27 juillet 2026",
+      "route": "Londres-Gatwick → Bordeaux",
+      "status": "Prévu"
+    }
+  },
   "restaurants": {
     "Chez Hortense": {
       "status": "Inaccessible au public",
@@ -245,6 +255,27 @@
     "media": "Média"
   },
   "socialSignals": {
+    "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrfjms5ast2e": {
+      "title": "Une publication liée à un média décrit une presqu’île devenue ville morte tandis que les derniers évacués arrivent à Arcachon",
+      "summary": "Une publication Bluesky de veille médiatique relaie l’arrivée des derniers évacués à Arcachon et décrit l’atmosphère de ville morte de la presqu’île vidée.",
+      "interesting": "Elle apporte une dimension humaine et visuelle immédiate à la fin de l’évacuation, sans modifier le statut officiel des accès.",
+      "credibility": "Publication liée à un média · fiabilité moyenne",
+      "incremental": "Contexte d’évacuation"
+    },
+    "https://bsky.app/profile/did:plc:bar6wrmt435iolvp47ku5zar/post/3mrff5s2ckec2": {
+      "title": "Un observateur météo côtier indique que la bascule annoncée du vent a déjà commencé",
+      "summary": "Une publication Mastodon relayée sur Bluesky signale que le flux côtier commence à tourner à l’ouest près de Biscarrosse, avec un nord-ouest attendu ensuite.",
+      "interesting": "Cette observation apporte un contexte local opportun sur le changement de vent surveillé par les secours et les autorités, mais ne constitue pas une prévision officielle.",
+      "credibility": "Observation météo non vérifiée · faible",
+      "incremental": "Contexte sur le vent"
+    },
+    "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrfiva4hmx2t": {
+      "title": "Une publication de veille médiatique signale l’explosion d’une bouteille de gaz filmée pendant un direct télévisé",
+      "summary": "La publication relaie des images d’une bouteille de gaz explosant à Lège-Cap-Ferret alors qu’une équipe de télévision préparait un direct.",
+      "interesting": "Elle illustre les dangers secondaires auxquels les secours sont confrontés autour des bâtiments touchés, sans établir de nouveau périmètre ni de nouveau bilan humain.",
+      "credibility": "Images liées à un média · fiabilité moyenne",
+      "incremental": "Contexte opérationnel"
+    },
     "https://x.com/danielbozec/status/2080525299968524395": {
       "title": "Des images de la route montrent pourquoi l’unique sortie terrestre suscitait autant d’inquiétude",
       "summary": "Un contributeur Reddit a relayé une vidéo récente attribuée au journaliste de Sud Ouest Daniel Bozec, filmée sur la route de la presqu’île, tandis que les commentaires suivaient son accessibilité.",
