@@ -628,9 +628,39 @@
   ],
   "access": [
     {
-      "name": "Travel to Le Canon",
+      "name": "Travel to the peninsula",
       "status": "Not possible",
-      "detail": "The entire peninsula is under an evacuation order; inbound road access is restricted and ordinary navigation on Arcachon Bay is temporarily prohibited.",
+      "detail": "The entire peninsula remains under an evacuation order. Public inbound travel is not permitted; road and maritime access are restricted to authorised evacuation, emergency and essential movements.",
+      "tone": "danger"
+    },
+    {
+      "name": "Road access · Claouey",
+      "status": "No public access",
+      "detail": "No authority has announced that ordinary inbound road access to Claouey has reopened. The evacuation order and peninsula access restrictions still apply.",
+      "tone": "danger"
+    },
+    {
+      "name": "Road access · Petit Piquey & Piraillan",
+      "status": "No public access",
+      "detail": "No authority has announced that ordinary inbound road access to Petit Piquey or Piraillan has reopened. The evacuation order and peninsula access restrictions still apply.",
+      "tone": "danger"
+    },
+    {
+      "name": "Road access · Grand Piquey",
+      "status": "No public access",
+      "detail": "No authority has announced that ordinary inbound road access to Grand Piquey has reopened. The evacuation order and peninsula access restrictions still apply.",
+      "tone": "danger"
+    },
+    {
+      "name": "Road access · Le Canon & L’Herbe",
+      "status": "No public access",
+      "detail": "No authority has announced that ordinary inbound road access to Le Canon or L’Herbe has reopened. The evacuation order and peninsula access restrictions still apply.",
+      "tone": "danger"
+    },
+    {
+      "name": "Road access · Cap Ferret",
+      "status": "No public access",
+      "detail": "No authority has announced that ordinary inbound road access to Cap Ferret village or Bélisaire has reopened. The evacuation order and peninsula access restrictions still apply.",
       "tone": "danger"
     },
     {
