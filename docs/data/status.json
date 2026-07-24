@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-24T21:45:54.910Z",
+  "generatedAt": "2026-07-24T21:49:00.000Z",
   "sectionUpdates": {
-    "assessment": "2026-07-24T23:09:00+02:00",
-    "map": "2026-07-24T23:18:00+02:00",
-    "material": "2026-07-24T23:09:00+02:00",
+    "assessment": "2026-07-24T23:46:00+02:00",
+    "map": "2026-07-24T23:30:00+02:00",
+    "material": "2026-07-24T23:46:00+02:00",
     "access": "2026-07-24T16:28:00+02:00",
     "localCommerce": "2026-07-24T06:40:00+02:00",
     "restaurants": "2026-07-24T06:40:00+02:00",
@@ -28,7 +28,7 @@
     "verdict": "Do not travel to Cap Ferret: the whole peninsula remains evacuated and the fire is still progressing.",
     "trajectory": "Deteriorating",
     "trajectoryTone": "danger",
-    "narrative": "The decisive late-evening change is the fire’s turn east after a wind reversal. Reuters reports it is now progressing toward metropolitan Bordeaux, while Franceinfo reports that additional metropolitan evacuations are being prepared and that Saint-Médard-en-Jalles residents should be ready for a probable evacuation. The interior minister reports about 14,000 hectares burned and more than 110,000 people evacuated in Gironde; a still-later media total gives roughly 19,000 hectares, while Franceinfo says about 140,000 people have been evacuated across the wider South-West. The peninsula remains fully evacuated, inbound road access and ordinary navigation on Arcachon Bay remain unavailable, and no reopening signal exists. A later Reuters dispatch says Bordeaux Airport has closed because of heavy smoke, superseding an earlier live-board check that showed it open.",
+    "narrative": "The decisive late-evening change is the fire’s turn east after a wind reversal. Reuters reports it is now progressing toward metropolitan Bordeaux, while Franceinfo reports that additional metropolitan evacuations are being prepared and that residents of Saint-Médard-en-Jalles and Saint-Jean-d’Illac should be ready for a probable evacuation. The interior minister reports about 14,000 hectares burned and more than 110,000 people evacuated in Gironde; a still-later media total gives roughly 19,000 hectares, while Franceinfo says about 140,000 people have been evacuated across the wider South-West. The peninsula remains fully evacuated, inbound road access and ordinary navigation on Arcachon Bay remain unavailable, and no reopening signal exists. A later Reuters dispatch says Bordeaux Airport has closed because of heavy smoke, superseding an earlier live-board check that showed it open.",
     "confidence": "High confidence that the fire changed direction toward the Bordeaux metropolitan area, that further evacuations are being prepared, and that the peninsula remains inaccessible. The minister’s approximately 14,000-hectare and 110,000-plus Gironde-evacuation totals are the strongest late official figures. Treat the later roughly 19,000-hectare report and the approximately 140,000 South-West evacuation total as media-reported pending a matching prefectural bulletin. Reuters reports the airport closure, but the public live board had shown it open earlier; the dashboard therefore treats the closure as the current decisive aviation signal until the airport publishes a later operational update.",
     "priorities": [
       "The entire peninsula remains evacuated; pressure has expanded east toward the Bordeaux metropolitan area and additional evacuations are being prepared.",
@@ -81,7 +81,7 @@
       "id": "material-2026-07-24-2309",
       "time": "23:09",
       "title": "Wind reversal turns the fire toward metropolitan Bordeaux; further evacuations are being prepared",
-      "detail": "Reuters reports that the uncontrolled Gironde fire changed orientation late Friday after a wind reversal and began progressing east toward the Bordeaux metropolitan area. The interior minister described the phenomenon as unprecedented and reported about 14,000 hectares burned and more than 110,000 Gironde evacuations. Franceinfo reports preparations for three additional metropolitan evacuations, says Saint-Médard-en-Jalles residents should be ready for a probable evacuation, and records severe outbound congestion at Andernos. A later media report places the affected area near 19,000 hectares; that higher figure awaits matching official confirmation.",
+      "detail": "Reuters reports that the uncontrolled Gironde fire changed orientation late Friday after a wind reversal and began progressing east toward the Bordeaux metropolitan area. The interior minister described the phenomenon as unprecedented and reported about 14,000 hectares burned and more than 110,000 Gironde evacuations. Franceinfo reports preparations for three additional metropolitan evacuations, says residents of Saint-Médard-en-Jalles and Saint-Jean-d’Illac should be ready for a probable evacuation, and records severe outbound congestion at Andernos. A later media report places the affected area near 19,000 hectares; that higher figure awaits matching official confirmation.",
       "incrementalNews": "This is a new trajectory and evacuation phase: the fire is no longer advancing only around the northern Bassin and peninsula corridor but has turned east toward metropolitan Bordeaux. The strongest late totals rise from 12,500 to about 14,000 hectares and from 44,000 to more than 110,000 Gironde evacuations, with a later media estimate near 19,000 hectares.",
       "sources": [
         {
@@ -1248,6 +1248,13 @@
         "kind": "evacuation"
       },
       {
+        "name": "Saint-Jean-d’Illac",
+        "lat": 44.811,
+        "lng": -0.783,
+        "status": "Residents told to prepare for probable evacuation · no order yet confirmed",
+        "kind": "evacuation"
+      },
+      {
         "name": "Claouey",
         "lat": 44.752,
         "lng": -1.184,
@@ -1401,7 +1408,7 @@
       "healthy": 7,
       "failed": 1,
       "criticalFailures": 0,
-      "synthesisReviewRequired": true,
+      "synthesisReviewRequired": false,
       "newestUrgentCandidateAt": "2026-07-24T21:30:45.888Z"
     }
   },
