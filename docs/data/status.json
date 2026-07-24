@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-07-24T16:46:45.203Z",
+  "generatedAt": "2026-07-24T17:40:11.706Z",
   "sectionUpdates": {
-    "assessment": "2026-07-24T18:24:00+02:00",
+    "assessment": "2026-07-24T18:36:00+02:00",
     "map": "2026-07-24T13:23:00+02:00",
-    "material": "2026-07-24T18:24:00+02:00",
+    "material": "2026-07-24T18:36:00+02:00",
     "access": "2026-07-24T13:23:00+02:00",
     "localCommerce": "2026-07-24T06:40:00+02:00",
     "restaurants": "2026-07-24T06:40:00+02:00",
     "ferries": "2026-07-24T13:23:00+02:00",
     "aviation": "2026-07-24T15:49:00+02:00",
     "reopening": "2026-07-24T13:56:00+02:00",
-    "articles": "2026-07-24T16:32:00.000Z",
-    "social": "2026-07-24T15:42:19+02:00",
-    "sources": "2026-07-24T16:46:45.203Z",
-    "weather": "2026-07-24T16:46:44.949Z"
+    "articles": "2026-07-24T17:07:16.000Z",
+    "social": "2026-07-24T16:12:09+02:00",
+    "sources": "2026-07-24T17:40:11.706Z",
+    "weather": "2026-07-24T17:40:11.444Z"
   },
   "incident": {
     "level": "FULL EVACUATION",
     "headline": "The peninsula remains evacuated; the fire is still progressing and not controlled.",
-    "summary": "The operational picture remains critical and has broadened beyond the peninsula: the midday briefing confirmed more than 10,000 hectares affected, 53 homes and a campsite destroyed, 27 firefighters treated and about 1,000 firefighters deployed. A later local report, not yet matched by an accessible authority bulletin, cites 12,500 hectares and 44,000 evacuations. Arès is under mandatory evacuation and navigation on Arcachon Bay is temporarily prohibited. There is no signal that travelling to Cap Ferret is viable.",
+    "summary": "The operational picture remains critical and has broadened beyond the peninsula: Reuters reports the prefecture’s 14:00 briefing put the fire at more than 12,500 hectares and 44,000 evacuations over 48 hours. About 1,000 firefighters are deployed; 53 homes and a campsite have been destroyed. Arès is under mandatory evacuation and navigation on Arcachon Bay is temporarily prohibited. There is no signal that travelling to Cap Ferret is viable.",
     "fireStatus": "Very active and unpredictable fire",
-    "affectedHectares": "> 10,000 (12,500 reported later; awaiting authority confirmation)",
-    "evacuatedPeople": "≈ 40,000",
+    "affectedHectares": "> 12,500 (prefecture, 14:00 briefing reported by Reuters)",
+    "evacuatedPeople": "44,000 evacuations reported over 48 hours",
     "firefighters": "≈ 1,000"
   },
   "currentAssessment": {
     "verdict": "Do not travel to Cap Ferret: the whole peninsula remains evacuated and the fire is still progressing.",
     "trajectory": "Deteriorating",
     "trajectoryTone": "danger",
-    "narrative": "The decisive facts are the complete evacuation of the Cap Ferret peninsula, a fire still described as uncontrolled and advancing, and the midday expansion of the emergency response. About 1,000 firefighters are engaged. Authorities report 53 homes and a campsite destroyed, 27 firefighters treated, six of them taken to hospital, and no deaths. A later local report cites 12,500 hectares and 44,000 evacuations, but its later injury figures have not been corroborated by an accessible authority bulletin. Arès has been placed under mandatory evacuation and the maritime prefecture has temporarily prohibited navigation on Arcachon Bay. Inbound road access remains closed to the public.",
-    "confidence": "High confidence on the evacuation and navigation restrictions, the approximately 1,000-firefighter deployment and the absence of a viable travel signal. The midday prefectural briefing gives the clearest damage count: 53 homes and one campsite destroyed, with 2,000 homes saved. A 18:24 local report cites 12,500 hectares and 44,000 evacuations; treat those later totals as reported, pending a matching authority briefing. Earlier wording that 80 homes were burned or affected should not be read as 80 confirmed total destructions.",
+    "narrative": "The decisive facts are the complete evacuation of the Cap Ferret peninsula, a fire still described as uncontrolled and advancing, and the expanded emergency response. Reuters reports the prefecture’s 14:00 briefing put the fire at more than 12,500 hectares and 44,000 evacuations over 48 hours; about 1,000 firefighters are engaged. Authorities report 53 homes and a campsite destroyed. Injury reporting conflicts: the earlier prefectural/SDIS briefing reported 27 firefighters treated, six hospitalised, while a later local report gives a higher figure that is not independently corroborated. Arès remains under mandatory evacuation and the maritime prefecture has temporarily prohibited navigation on Arcachon Bay. Inbound road access remains closed to the public.",
+    "confidence": "High confidence on the evacuation and navigation restrictions, the approximately 1,000-firefighter deployment, the prefecture-attributed 12,500-hectare / 44,000-evacuation update, and the absence of a viable travel signal. The clearest corroborated damage count remains 53 homes and one campsite destroyed, with 2,000 homes saved. Treat the conflicting later firefighter-injury count as unconfirmed; earlier wording that 80 homes were burned or affected should not be read as 80 confirmed total destructions.",
     "priorities": [
       "The entire peninsula remains evacuated, and mandatory evacuation has extended to Arès on the opposite side of the northern bay.",
       "The fire remains uncontrolled; 27 firefighters have required treatment and forecast westerly gusts could reach 80 km/h.",
@@ -63,13 +63,13 @@
     {
       "id": "material-2026-07-24-1824",
       "time": "18:24",
-      "title": "Later local report cites 12,500 hectares and 44,000 evacuations; authority confirmation is pending",
-      "detail": "Bordeaux Gazette, citing an afternoon situation report, says the still-uncontrolled fire had covered 12,500 hectares and that 44,000 people had been evacuated over two days. It also reports about 1,000 firefighters and 260 ground vehicles. The accessible official municipal and maritime information still reflects the earlier evacuation and navigation orders, not this later numerical briefing; the figures are therefore displayed as reported rather than as a confirmed authority total.",
-      "incrementalNews": "A later report raises the reported fire footprint from more than 10,000 to 12,500 hectares and the evacuation total from about 40,000 to 44,000. It does not change the no-travel verdict or establish a reopening.",
+      "title": "Reuters attributes 12,500 hectares and 44,000 evacuations to the prefecture’s 14:00 briefing",
+      "detail": "Reuters’ later version says the Gironde prefecture’s 14:00 situation update put the still-uncontrolled Saumos fire at more than 12,500 hectares. It reports 44,000 evacuations over 48 hours, alongside about 1,000 firefighters, more than 260 ground vehicles, 53 homes and one campsite destroyed. The evacuation and Arcachon Bay navigation restrictions remain operative; this confirmation does not establish a reopening.",
+      "incrementalNews": "The higher 12,500-hectare and 44,000-evacuation totals are now attributed by Reuters to the prefecture’s 14:00 briefing, rather than standing only as a local-media report. No access or reopening change follows.",
       "sources": [
         {
-          "name": "Bordeaux Gazette reporting an afternoon situation update",
-          "url": "https://www.bordeaux-gazette.com/%2Bincendie-en-gironde-le-feu-s-etend-de-saumos-au-bassin-d-arcachon%2B.html"
+          "name": "Reuters reporting the Gironde prefecture’s 14:00 situation briefing",
+          "url": "https://www.zonebourse.com/actualite-bourse/france-incendies-des-evacuations-en-cours-en-gironde-et-dans-les-landes-ce7f51dfd88ff620"
         },
         {
           "name": "Mairie de Lège-Cap-Ferret incident notice (evacuation remains the operative authority instruction)",
@@ -204,6 +204,28 @@
   ],
   "updates": [
     {
+      "id": "35d3bcc432fa",
+      "time": "19:07",
+      "title": "Incendie en Gironde. Une nuit d’évacuation au Porge, puis l’attente et l’angoisse à Lacanau : « On ne sait pas si notre maison est toujours debout » - Sud Ouest",
+      "detail": "Adds evacuation reporting but no independently confirmed material fact beyond the existing peninsula-wide order.",
+      "source": "Google News",
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOcjUtY2FzcHVNcFZ0VjFHT3R0TXlCMXNWVmI3clduYWlWc3RPQ1NPdG00dW5YX3ItRGRLUUZGeDM1RXVIb1BoRkd2eERBcFc4NUNibTBJVk91ZEktU0xFOTBnTm1PLXQ5X0tqY1ZJU0lETDcyVmItb1lSdVotY1BvNzZjNExINU9NdHZRY19kSG1KemZRNXJxQmd0dEVRWjFDTUs3SDU4bGV3dUNQRThsbmE4Y1BlTmY0MDJpMXJhdF9oa2hpZ2VBMF81UVdqa3VpV2hYYVhSbUtFTkFVS0c5alFwMzJiMUhibEZ4MXZ3N1pVOVNhN3B4a2VTOWVQcFdEOFB3S0xmcVgtQnNzeF9jRC16bU5yTXJJV1djUjln?oc=5",
+      "importance": 4,
+      "publishedAt": "2026-07-24T17:07:16.000Z"
+    },
+    {
+      "id": "13f3b34dc1ad",
+      "time": "19:00",
+      "title": "Comment les autorités ont évacué des dizaines de milliers de personnes face aux incendies en Gironde - Le HuffPost",
+      "detail": "Adds evacuation reporting but no independently confirmed material fact beyond the existing peninsula-wide order.",
+      "source": "Google News",
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdjQ2dkMyVDZwcjllRE14ZjI5VGV2R3VpdV9HdU5TS042dWp2bnFIM2I5MjQwSjlqNmZESWlleDctUHM4U21DOVYzMDkxZlR5eEpRYVo3Wm5INHJNVzhrN2tDSlR0MlJyNEltLXA5R2QxLTY4QWpTeV9aNmtqVGh4c0VzS2tUNElGYUdoekRyZDVLZDVmX2NySEpRYnlhN2RzekNrYmFfc215T1FNSWhMZlhKeUdVZTdCU1BQejluS1VlQ0p3VTVkbjdMN3V4SDV3SW1lSFViOHBDQ182TWc?oc=5",
+      "importance": 2,
+      "publishedAt": "2026-07-24T17:00:08.000Z"
+    },
+    {
       "id": "3637e3545271",
       "time": "18:32",
       "title": "Pollution de l’air en Gironde : « Cela devient irrespirable », des particules nocives créées par les incendies à l’ouest et de l’ozone à Bordeaux - Sud Ouest",
@@ -224,6 +246,17 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRzI5aTBqeW5wa1ItOUJsaU9wbHNnbmZjUVVVYXdHb0JxVE4tVVA1UGFjT3k2SWJyWmowTGl2SE1TOTF0bGM2RmxkMzd6OTJTNXhCZUhXUzRISmlSTmM4cmhnb3RuVDZRY2hRMU5BblVDek5iWkloMmRDc3VjVHhIYUpNT01QMUFOM0dWSnEtc1F2cnRmUXAzRjJwaWpJY3ZVQmRpaHNlUnBkZGtaeHNUMUdKanczeVBGVG00bTFBb28xUWFiMUpFNDVIUnJnOGVZWEw2VUlaeER6amg2TXk0SGpuTXNWcWQ1?oc=5",
       "importance": 2,
       "publishedAt": "2026-07-24T16:21:37.000Z"
+    },
+    {
+      "id": "7af9d175299b",
+      "time": "17:36",
+      "title": "Incendie en Gironde: \"On a mobilisé toute notre flotte dès 5h du matin\", explique Stéphanie Ferradou, capitaine d'armement d'une société de bateau-taxis privés à Lège-Cap Ferret - BFM",
+      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
+      "source": "Google News",
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPWFdjdFpzemVRNmlFR3FCc3hXdjJfeHQ4enRONjNfTWhxbDUwekg2SlI5V2RIeFpLTEVIOGZBZE1VRmY2Zk8yVnQzMDBXT1dVTnpndjVZZkIwQmRNMHliSk1rNnZ2WXRtR3ZCVXg5ZHF2aXIzMExkZXZNVWIxay14QjdkY1lLYUlVa0tnXzFnN3cxTmxlU2thcTNIUGhYbXJ2ckFYRGR2LW5aVDRnZGxBejVqc2Q1NEpNXzV2MEJRYkppSVQybTdyZFY2TmtuVzRwNGYwRXBXZXBvVnNvSDFnckVBcGIySVJLMG1uemVTZGh1T0xBWkVNc1Jkam0tNkdwNDFZUnI4elBsOWJHS3N1eUpib3BrTzlWTGdDWFV1MDdZeGtpOE9RNkNvbzQzYmpfQ1JnWTB6SnZCMXBVWFZTSy1BQVlXcDBBbDdCWFlTQmh2a1V2eGlhNC0yQXF3RGM?oc=5",
+      "importance": 2,
+      "publishedAt": "2026-07-24T15:36:03.000Z"
     },
     {
       "id": "49fc6fd9b192",
@@ -413,6 +446,17 @@
       "publishedAt": "2026-07-24T10:11:30.000Z"
     },
     {
+      "id": "3997271a919b",
+      "time": "11:47",
+      "title": "Dans le Sud-Ouest en feu, plus de 15.000 hectares partis en fumée et des évacuations par dizaines de milliers - France 24",
+      "detail": "Adds evacuation reporting but no independently confirmed material fact beyond the existing peninsula-wide order.",
+      "source": "Google News",
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQelNUb29sUElHQlhDNUdUaENWd2RhWmV6TkpfbWxwQXBNUXdfQnJvLU9hTlZZam5fMnZNaGJyYmZNLXB0VHQ4Q3BLNk9DNUpsaWxlZVQzdzF4d1YzWUlZZDBCamx0eTh3d0cxSnltbXprSlpSVmxEVnJ6bGpDZzZxa2ZYZjVqQTFJdXFVS01VdTNxME5WWEhmbVE1V2FhcVMxSzFzVkZRUm0xeUdIRDM0UTl3Qk42VS1Cb2JqNWpLUUFqODh0ZDZGOWxSNTM?oc=5",
+      "importance": 4,
+      "publishedAt": "2026-07-24T09:47:16.000Z"
+    },
+    {
       "id": "ced9013d9b2d",
       "time": "11:21",
       "title": "Feu Nord Bassin: Evacuation des villages de la presqu’île et du Porge. - InfoBassin",
@@ -598,50 +642,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOV3ZGc3pmRldpMkdPVW90bjJJYUtRMmxGTVFFSkUzTVFtMlR4OVBMZ0VEREkwSGdqbXpWYkpreGpXM3pkZ2tkNkVQc0JiTS1GbEQ1NFRVOUJUXy12WFRGenJTUERBU0ZYZFJkQjZma0JYSHNFRUJXblMwYUhxbWw3bVQzME82alZ2RTJKMEwtRkxCYTEwZjlsSkxzdTFKajRGN002SDJrWXVWb2s4REFwZGdOU2ltME52SFV0UlBuaFF0dm9aM2hoNGtFdHdib3FldjFpSV9RU2ZfU2pUTU9zSHB0VnZTcjd5S2pIRVFFem9XMmpqb05XY2czblFTSjFhOWtzX2tITUhsWUJuODVXNmtQOEttcjVsYjVyQVBiR3VCX2tLd1E?oc=5",
       "importance": 4,
       "publishedAt": "2026-07-24T07:04:52.000Z"
-    },
-    {
-      "id": "3e46b9cf5119",
-      "time": "08:49",
-      "title": "Incendies: Paris sollicite l'aide européenne, état d'urgence en Espagne - France 24",
-      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
-      "source": "Google News",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa1NyWUdMX2tCWWNwT3lydjltOGU4anpSS3dIVER0Wm8xQzFaY0RqdzJ3UXJ6SDVxZnhPRm9yazBQNGxOVEVUMjdjV3FydnVxZlM2cGdCVk91Z0pzdUl3aVFMQ3Vlc25XSVpET1NsVy1VTlhMeTAzLTNDUHlrTmgtNTdBTE8zRUFIeDVaWWx2dnNmYjFWU3A3cmZYcGQwOXJRRlRfTkVuaUk0eFNRLUx3Y0tTSUR3djdpMVJxYko1ME92dmVZT1laYzRTeW4?oc=5",
-      "importance": 2,
-      "publishedAt": "2026-07-24T06:49:14.000Z"
-    },
-    {
-      "id": "60b317fbcef1",
-      "time": "08:48",
-      "title": "Incendies: Paris sollicite l'aide européenne, état d'urgence en Espagne - boursedirect.fr",
-      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
-      "source": "Google News",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPM3ZCd28tdGZfMWg4bXo0NXY1VzZTTHhxSGp1ZnYzSU9MamE0aU9CLUJnRFZVc2tpczAyQW5LbjE2Y3lQM01nYWlkQ1U3ZlRacENWUy1NZzhJM19zM0RsMExXTG9XM3ZZTmZ5am5nRjNqQkstd04zbHVlR2lQVnAydFgtYUtIN3J6cnZwNG05ZE9yQXdJTjRkR3RfQXplajBPRWZKQVI5dElqeC1ydTFWZG9mMkd0RG45R29UMGpCU1h1dXlrVmlyRlI3dHlsTG4tVHF5d3NUN3hoT2xremIwNUlKczJDWmU5NlB3N2FIQlBBR0ZSSXlUODVxeUI4MDVSVHlfQjl3?oc=5",
-      "importance": 2,
-      "publishedAt": "2026-07-24T06:48:00.000Z"
-    },
-    {
-      "id": "d728eb43fbf3",
-      "time": "08:35",
-      "title": "Évacuation du Cap-Ferret, retour de la canicule, trop-perçu d'impôt remboursé... Les 5 infos à connaître ce 24 juillet - Le Figaro",
-      "detail": "Adds evacuation reporting but no independently confirmed material fact beyond the existing peninsula-wide order.",
-      "source": "Google News · reopening",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTnR2aTRjRWdCdHhrNU9yZWlfY0NROWFidm55MHFXaWdMZWxIbk5ncjlXVi1DcjIzSG5rUVhNNGZYU05NU1RCSlloelcwTVRYTGVPRjFwTzFsSnFLVHJVQjJiOVloYjZzRnkzTmt6WDVEbkgxRmNGcENlWTNHeEpNNkp5THplaTg0S196UExUOFlkYy14VjNXUV9TTVFrLTByVEk5WExUbVU2U241bW5qaU1PODduVkZmZGxVd1ZJNWlNcjRPX2tjRTd6cXNSTGN5WjNvd2k2d3pscHQ0SEc5VTlR?oc=5",
-      "importance": 4,
-      "publishedAt": "2026-07-24T06:35:14.000Z"
-    },
-    {
-      "id": "773303c08fe3",
-      "time": "08:14",
-      "title": "Même les satellites de la NASA captent l'immense incendie qui ravage la Gironde - AquitaineOnLine",
-      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
-      "source": "Google News",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWl6VnEtbm5DSGE4a2xmdkw0OEo1Rk1HbTFWSXJHZHpLU2Y1TVZucG51a1dkMndFbWxpT25RUnlReW96Y01zVVpXeFd6S3VKZFBuWXFsb2UyTGxaUUV5SDQ1dFZ3T3pPLTctUmNNOUt6ZWVWWVVZZlVvWlJWVVFmYmpSWnEzX3Y5YWZ1b0hmRXNuZHhQTWFPNVI0WUl6VGx0UC1PZWY3c0x5V28wRnc?oc=5",
-      "importance": 2,
-      "publishedAt": "2026-07-24T06:14:02.000Z"
     }
   ],
   "access": [
@@ -906,52 +906,62 @@
       "name": "Lège-Cap-Ferret Town Hall",
       "type": "Official",
       "url": "https://www.ville-lege-capferret.fr/top_slider/information-incendie-saumos/",
-      "checkedAt": "2026-07-24T16:46:45.203Z"
+      "checkedAt": "2026-07-24T17:40:11.706Z"
     },
     {
       "name": "Gironde Prefecture",
       "type": "Official",
       "url": "https://www.gironde.gouv.fr/",
-      "checkedAt": "2026-07-24T16:46:45.203Z"
+      "checkedAt": "2026-07-24T17:40:11.706Z"
     },
     {
       "name": "Gironde Department",
       "type": "Official",
       "url": "https://www.gironde.fr/actualites/vigilance-rouge-pour-le-risque-feu-de-foret",
-      "checkedAt": "2026-07-24T16:46:45.203Z"
+      "checkedAt": "2026-07-24T17:40:11.706Z"
     },
     {
       "name": "Feux de Forêt",
       "type": "Specialist",
       "url": "https://feuxdeforet.fr/",
-      "checkedAt": "2026-07-24T16:46:45.203Z"
+      "checkedAt": "2026-07-24T17:40:11.706Z"
     },
     {
       "name": "NASA FIRMS",
       "type": "Satellite",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/",
-      "checkedAt": "2026-07-24T16:46:45.203Z"
+      "checkedAt": "2026-07-24T17:40:11.706Z"
     },
     {
       "name": "Météo-France · forêts",
       "type": "Official",
       "url": "https://meteofrance.com/meteo-des-forets",
-      "checkedAt": "2026-07-24T16:46:45.203Z"
+      "checkedAt": "2026-07-24T17:40:11.706Z"
     },
     {
       "name": "France Bleu / ici Gironde",
       "type": "Local media",
       "url": "https://www.francebleu.fr/gironde",
-      "checkedAt": "2026-07-24T16:46:45.203Z"
+      "checkedAt": "2026-07-24T17:40:11.706Z"
     },
     {
       "name": "Public social networks",
       "type": "Signal",
       "url": "https://bsky.app/search?q=incendie%20Cap%20Ferret",
-      "checkedAt": "2026-07-24T16:46:45.203Z"
+      "checkedAt": "2026-07-24T17:40:11.706Z"
     }
   ],
   "socialSignals": [
+    {
+      "title": "A local-news post relayed evacuees’ accounts of the night the peninsula changed",
+      "summary": "A Bluesky post from Rue89 Bordeaux linked accounts from Cécile, Evelyne and Pierre describing their overnight evacuation as the wildfire reached the peninsula.",
+      "interesting": "It adds recent first-person evacuation texture from a local-news outlet without changing the official access or safety guidance.",
+      "source": "Bluesky · @rue89bordeaux.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:zh22aza6z77iuccvjv5hi3a3/post/3mrfqlb2ers25",
+      "createdAt": "2026-07-24T16:12:09+02:00",
+      "credibility": "Local-news post · medium",
+      "incremental": "Evacuation colour"
+    },
     {
       "title": "A local-news post gave a close-range indication of the fire's proximity to homes",
       "summary": "A Bluesky post from a local journalist relayed reporting that the fire was about 150 metres from homes at Cap Ferret and described firefighters' concern about increasingly unpredictable fire behaviour as weather deteriorates.",
@@ -1156,6 +1166,34 @@
       "source": "Bluesky · @trend-words-fr.bsky.social",
       "url": "https://bsky.app/profile/did:plc:m3aen4gaf2abm2yyq3wpbucu/post/3mrfjdl3ux42e",
       "createdAt": "2026-07-24T23:02:36+09:00",
+      "verification": "Unverified"
+    },
+    {
+      "title": "Alors que la préfecture de Gironde organise l'évacuation des habitants et vacanciers du Cap-Ferret, la Nasa montre l'ampleur de l'incendie par une photo satellite.",
+      "source": "Bluesky · @parismatch.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:bhf5kd4qg7qpmqimd45rlk3q/post/3mrfve3jcyr27",
+      "createdAt": "2026-07-24T17:37:36.314Z",
+      "verification": "Unverified"
+    },
+    {
+      "title": "Le parquet de Bordeaux détaille les procédures ouvertes depuis le début des incendies en Gironde rue89bordeaux.com/2026/07/ince... #Bordeaux",
+      "source": "Bluesky · @rue89bordeaux.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:zh22aza6z77iuccvjv5hi3a3/post/3mrfvcjtrgs2w",
+      "createdAt": "2026-07-24T17:36:45.039Z",
+      "verification": "Unverified"
+    },
+    {
+      "title": "Environ 374 Belges actuellement présents sur la presqu’île du Cap-Ferret touchée par un incendie",
+      "source": "Bluesky · @lesoir.be",
+      "url": "https://bsky.app/profile/did:plc:drxqcoxx5lgv2tue57fgnxcj/post/3mrfsxxshst2m",
+      "createdAt": "2026-07-24T16:55:02+00:00",
+      "verification": "Unverified"
+    },
+    {
+      "title": "Incendie en Gironde: l'animatrice Sophie Davant raconte son évacuation en urgence du Cap Ferret cette nuit 32 incendies sont actuellement en cours sur l'ensemble du territoire, a f",
+      "source": "Bluesky · @news-flows-fr.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrftfflnyj25",
+      "createdAt": "2026-07-24T16:43:35.000000Z",
       "verification": "Unverified"
     },
     {
@@ -1402,38 +1440,10 @@
       "url": "https://bsky.app/profile/did:plc:i7hoagrl2onqpg3xfpnhnu24/post/3mrf2itn3mz2j",
       "createdAt": "2026-07-24T11:37:03Z",
       "verification": "Unverified"
-    },
-    {
-      "title": "L’incendie qui menace la presqu’île touristique du cap Ferret, en Gironde, avait parcouru vendredi matin plus de 10 000 hectares. Le ministre de l’intérieur évoque « le plus gros f",
-      "source": "Bluesky · @mediapart.fr",
-      "url": "https://bsky.app/profile/did:plc:2egpzsea27fru2vkrjgdw2ob/post/3mrfaowqw2x2o",
-      "createdAt": "2026-07-24T11:27:48.000Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Cap-Ferret : des milliers de vacanciers évacués face à la progression des flammes Face à la progression d’un incendie en Gironde, des milliers de vacanciers ont dû quitter précipit",
-      "source": "Bluesky · @news-flows-fr.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrfdjkojfj2e",
-      "createdAt": "2026-07-24T11:21:16.000000Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Incendie en Gironde : « L’angoisse, c’est l’après, quand on va découvrir les paysages calcinés » www.lemonde.fr/planete/arti...",
-      "source": "Bluesky · @thierrypeltier.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:xtk7dvdlzz4ap3foghyil556/post/3mrfa45jh6c26",
-      "createdAt": "2026-07-24T11:17:22.213Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "L'incendie du Cap Ferret, c'est actuellement 1000 ha qui brulent à l'heure... soit 10 km² par heure... www.ici.fr/nouvelle-aqu...",
-      "source": "Bluesky · @leonidcccp.eurosky.social",
-      "url": "https://bsky.app/profile/did:plc:rgyamjtetz3vcapenvfoqty5/post/3mrf5y5uquk2c",
-      "createdAt": "2026-07-24T10:39:20.881Z",
-      "verification": "Unverified"
     }
   ],
   "traffic": {
-    "checkedAt": "2026-07-24T16:46:44.949Z",
+    "checkedAt": "2026-07-24T17:40:11.444Z",
     "sourceName": "Inforoutes Gironde",
     "sourceUrl": "https://www.gironde.fr/deplacements/inforoutes",
     "officialClosures": {
@@ -3424,25 +3434,25 @@
     "location": "Saumos–Lège fire corridor reference point",
     "latitude": 44.91,
     "longitude": -1.0600004,
-    "observedAt": "2026-07-24T18:45:00+02:00",
-    "modelUpdatedAt": "2026-07-24T16:46:44.949Z",
+    "observedAt": "2026-07-24T19:30:00+02:00",
+    "modelUpdatedAt": "2026-07-24T17:40:11.444Z",
     "sourceName": "Open-Meteo",
     "sourceUrl": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
     "officialFireDangerName": "Météo-France · Météo des forêts",
     "officialFireDangerUrl": "https://meteofrance.com/meteo-des-forets",
     "current": {
-      "temperatureC": 31.6,
-      "humidityPct": 25,
+      "temperatureC": 30.2,
+      "humidityPct": 28,
       "precipitationMm": 0,
-      "windSpeedKmh": 11.9,
-      "windDirectionDeg": 305,
-      "windDirection": "NW",
-      "windGustKmh": 29.2
+      "windSpeedKmh": 11,
+      "windDirectionDeg": 302,
+      "windDirection": "WNW",
+      "windGustKmh": 27.7
     },
     "forecast24h": {
-      "endsAt": "2026-07-25T16:45:00.000Z",
-      "maxTemperatureC": 31.1,
-      "minHumidityPct": 26,
+      "endsAt": "2026-07-25T17:30:00.000Z",
+      "maxTemperatureC": 29.2,
+      "minHumidityPct": 32,
       "maxWindSpeedKmh": 15.8,
       "maxWindGustKmh": 40.3,
       "peakGustAt": "2026-07-25T11:00:00+02:00",
@@ -3454,13 +3464,13 @@
         {
           "time": "2026-07-25T01:00:00+02:00",
           "temperatureC": 22.3,
-          "humidityPct": 76,
+          "humidityPct": 77,
           "precipitationProbabilityPct": 18,
           "precipitationMm": 0,
-          "windSpeedKmh": 10.5,
-          "windDirectionDeg": 274,
+          "windSpeedKmh": 10.1,
+          "windDirectionDeg": 275,
           "windDirection": "W",
-          "windGustKmh": 28.1
+          "windGustKmh": 27.2
         },
         {
           "time": "2026-07-25T07:00:00+02:00",
@@ -3474,15 +3484,15 @@
           "windGustKmh": 29.9
         },
         {
-          "time": "2026-07-25T18:00:00+02:00",
-          "temperatureC": 25.3,
-          "humidityPct": 50,
-          "precipitationProbabilityPct": 15,
+          "time": "2026-07-25T19:00:00+02:00",
+          "temperatureC": 25,
+          "humidityPct": 48,
+          "precipitationProbabilityPct": 20,
           "precipitationMm": 0,
-          "windSpeedKmh": 12.5,
-          "windDirectionDeg": 303,
-          "windDirection": "WNW",
-          "windGustKmh": 33.5
+          "windSpeedKmh": 12.9,
+          "windDirectionDeg": 306,
+          "windDirection": "NW",
+          "windGustKmh": 32.8
         }
       ]
     }
