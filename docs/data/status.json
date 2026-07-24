@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T22:33:08.784Z",
+  "generatedAt": "2026-07-24T22:48:02.047Z",
   "sectionUpdates": {
     "assessment": "2026-07-24T23:46:00+02:00",
     "map": "2026-07-24T23:30:00+02:00",
@@ -12,8 +12,8 @@
     "reopening": "2026-07-24T13:56:00+02:00",
     "articles": "2026-07-24T21:29:00.000Z",
     "social": "2026-07-25T00:22:14+02:00",
-    "sources": "2026-07-24T22:33:08.784Z",
-    "weather": "2026-07-24T22:33:06.428Z"
+    "sources": "2026-07-24T22:48:02.047Z",
+    "weather": "2026-07-24T22:48:01.784Z"
   },
   "incident": {
     "level": "FULL EVACUATION",
@@ -967,49 +967,49 @@
       "name": "Lège-Cap-Ferret Town Hall",
       "type": "Official",
       "url": "https://www.ville-lege-capferret.fr/top_slider/information-incendie-saumos/",
-      "checkedAt": "2026-07-24T22:33:08.784Z"
+      "checkedAt": "2026-07-24T22:48:02.047Z"
     },
     {
       "name": "Gironde Prefecture",
       "type": "Official",
       "url": "https://www.gironde.gouv.fr/",
-      "checkedAt": "2026-07-24T22:33:08.784Z"
+      "checkedAt": "2026-07-24T22:48:02.047Z"
     },
     {
       "name": "Gironde Department",
       "type": "Official",
       "url": "https://www.gironde.fr/actualites/vigilance-rouge-pour-le-risque-feu-de-foret",
-      "checkedAt": "2026-07-24T22:33:08.784Z"
+      "checkedAt": "2026-07-24T22:48:02.047Z"
     },
     {
       "name": "Feux de Forêt",
       "type": "Specialist",
       "url": "https://feuxdeforet.fr/",
-      "checkedAt": "2026-07-24T22:33:08.784Z"
+      "checkedAt": "2026-07-24T22:48:02.047Z"
     },
     {
       "name": "NASA FIRMS",
       "type": "Satellite",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/",
-      "checkedAt": "2026-07-24T22:33:08.784Z"
+      "checkedAt": "2026-07-24T22:48:02.047Z"
     },
     {
       "name": "Météo-France · forêts",
       "type": "Official",
       "url": "https://meteofrance.com/meteo-des-forets",
-      "checkedAt": "2026-07-24T22:33:08.784Z"
+      "checkedAt": "2026-07-24T22:48:02.047Z"
     },
     {
       "name": "France Bleu / ici Gironde",
       "type": "Local media",
       "url": "https://www.francebleu.fr/gironde",
-      "checkedAt": "2026-07-24T22:33:08.784Z"
+      "checkedAt": "2026-07-24T22:48:02.047Z"
     },
     {
       "name": "Public social networks",
       "type": "Signal",
       "url": "https://bsky.app/search?q=incendie%20Cap%20Ferret",
-      "checkedAt": "2026-07-24T22:33:08.784Z"
+      "checkedAt": "2026-07-24T22:48:02.047Z"
     }
   ],
   "socialSignals": [
@@ -1311,7 +1311,7 @@
     "feedSuccesses": 2,
     "feedFailures": 0,
     "newItemsSeen": 183,
-    "liveblogItemsSeen": 8,
+    "liveblogItemsSeen": 3,
     "sourceHealth": [
       {
         "id": "google-news-incident",
@@ -1320,11 +1320,11 @@
         "url": "https://news.google.com/rss/search?q=%28incendie+OR+feu%29+%28L%C3%A8ge-Cap-Ferret+OR+Saumos+OR+Le+Porge%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-24T22:33:05.101Z",
-        "latencyMs": 184,
+        "checkedAt": "2026-07-24T22:48:00.474Z",
+        "latencyMs": 192,
         "itemCount": 96,
         "error": null,
-        "lastGoodAt": "2026-07-24T22:33:05.101Z",
+        "lastGoodAt": "2026-07-24T22:48:00.474Z",
         "lastFailureAt": null
       },
       {
@@ -1334,11 +1334,11 @@
         "url": "https://news.google.com/rss/search?q=%28r%C3%A9ouverture+OR+retour+OR+acc%C3%A8s%29+%28Cap+Ferret+OR+L%C3%A8ge%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-24T22:33:05.135Z",
-        "latencyMs": 146,
+        "checkedAt": "2026-07-24T22:48:00.507Z",
+        "latencyMs": 153,
         "itemCount": 87,
         "error": null,
-        "lastGoodAt": "2026-07-24T22:33:05.135Z",
+        "lastGoodAt": "2026-07-24T22:48:00.507Z",
         "lastFailureAt": null
       },
       {
@@ -1348,11 +1348,11 @@
         "url": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-24T22:33:05.287Z",
-        "latencyMs": 168,
-        "itemCount": 8,
+        "checkedAt": "2026-07-24T22:48:00.667Z",
+        "latencyMs": 177,
+        "itemCount": 3,
         "error": null,
-        "lastGoodAt": "2026-07-24T22:33:05.287Z",
+        "lastGoodAt": "2026-07-24T22:48:00.667Z",
         "lastFailureAt": null
       },
       {
@@ -1362,12 +1362,12 @@
         "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-des-evacuations-par-bateau-en-gironde-la-situation-nest-pas-sous-controle-dans-les-landes-20260724_CUWC25TVWRFZ7JZIHU2QBJ66PI/",
         "critical": false,
         "status": "failed",
-        "checkedAt": "2026-07-24T22:33:05.287Z",
-        "latencyMs": 197,
+        "checkedAt": "2026-07-24T22:48:00.668Z",
+        "latencyMs": 180,
         "itemCount": null,
         "error": "403 ",
         "lastGoodAt": null,
-        "lastFailureAt": "2026-07-24T22:33:05.287Z"
+        "lastFailureAt": "2026-07-24T22:48:00.668Z"
       },
       {
         "id": "bluesky-search",
@@ -1376,11 +1376,11 @@
         "url": "https://api.bsky.app/xrpc/app.bsky.feed.searchPosts",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-24T22:33:08.784Z",
+        "checkedAt": "2026-07-24T22:48:02.047Z",
         "latencyMs": null,
         "itemCount": 30,
         "error": null,
-        "lastGoodAt": "2026-07-24T22:33:08.784Z",
+        "lastGoodAt": "2026-07-24T22:48:02.047Z",
         "lastFailureAt": null
       },
       {
@@ -1390,11 +1390,11 @@
         "url": "https://www.reddit.com/search.rss",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-24T22:33:08.784Z",
+        "checkedAt": "2026-07-24T22:48:02.047Z",
         "latencyMs": null,
-        "itemCount": 4,
+        "itemCount": 1,
         "error": null,
-        "lastGoodAt": "2026-07-24T22:33:08.784Z",
+        "lastGoodAt": "2026-07-24T22:48:02.047Z",
         "lastFailureAt": "2026-07-24T22:32:23.190Z"
       },
       {
@@ -1404,11 +1404,11 @@
         "url": "https://mastodon.social/api/v1/timelines/tag/gironde",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-24T22:33:08.784Z",
+        "checkedAt": "2026-07-24T22:48:02.047Z",
         "latencyMs": null,
         "itemCount": 20,
         "error": null,
-        "lastGoodAt": "2026-07-24T22:33:08.784Z",
+        "lastGoodAt": "2026-07-24T22:48:02.047Z",
         "lastFailureAt": null
       },
       {
@@ -1418,11 +1418,11 @@
         "url": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-24T22:33:06.428Z",
+        "checkedAt": "2026-07-24T22:48:01.785Z",
         "latencyMs": null,
         "itemCount": 3,
         "error": null,
-        "lastGoodAt": "2026-07-24T22:33:06.428Z",
+        "lastGoodAt": "2026-07-24T22:48:01.785Z",
         "lastFailureAt": null
       },
       {
@@ -1432,11 +1432,11 @@
         "url": "https://sig.gironde.fr/arcgis/services/ec_routes_ferm%C3%A9es/MapServer/WFSServer?service=WFS&version=2.0.0&request=GetFeature&typenames=ec_routes_ferm%C3%A9es%3ARoutes_d%C3%A9partementales_ferm%C3%A9es&outputFormat=GEOJSON",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-24T22:33:06.428Z",
+        "checkedAt": "2026-07-24T22:48:01.785Z",
         "latencyMs": null,
         "itemCount": 14,
         "error": null,
-        "lastGoodAt": "2026-07-24T22:33:06.428Z",
+        "lastGoodAt": "2026-07-24T22:48:01.785Z",
         "lastFailureAt": null
       }
     ],
@@ -1449,7 +1449,7 @@
       "newestUrgentCandidateAt": "2026-07-24T21:30:45.888Z"
     },
     "social": {
-      "checkedAt": "2026-07-24T22:33:08.784Z",
+      "checkedAt": "2026-07-24T22:48:02.047Z",
       "newestCandidateAt": "2026-07-24T22:31:15.008Z",
       "newestDisplayedAt": "2026-07-24T22:22:14.000Z",
       "lagMinutes": 9,
@@ -1464,18 +1464,17 @@
       "synthesisUpdatedAt": "2026-07-24T23:46:00+02:00",
       "urgentCandidatesAfterSynthesis": [],
       "classificationReasonCounts": {
-        "harm": 1,
-        "evacuation": 8,
-        "response": 3,
-        "access": 5,
-        "air-quality": 4,
-        "fire-behaviour": 2
+        "access": 3,
+        "evacuation": 5,
+        "fire-behaviour": 2,
+        "response": 1,
+        "air-quality": 3
       },
       "failedSources": [
         {
           "id": "liberation-live",
           "lastGoodAt": null,
-          "lastFailureAt": "2026-07-24T22:33:05.287Z",
+          "lastFailureAt": "2026-07-24T22:48:00.668Z",
           "error": "403 "
         }
       ]
@@ -1939,7 +1938,7 @@
     }
   ],
   "traffic": {
-    "checkedAt": "2026-07-24T22:33:06.428Z",
+    "checkedAt": "2026-07-24T22:48:01.785Z",
     "sourceName": "Inforoutes Gironde",
     "sourceUrl": "https://www.gironde.fr/deplacements/inforoutes",
     "officialClosures": {
@@ -4403,23 +4402,23 @@
     "location": "Saumos–Lège fire corridor reference point",
     "latitude": 44.91,
     "longitude": -1.0600004,
-    "observedAt": "2026-07-25T00:30:00+02:00",
-    "modelUpdatedAt": "2026-07-24T22:33:06.428Z",
+    "observedAt": "2026-07-25T00:45:00+02:00",
+    "modelUpdatedAt": "2026-07-24T22:48:01.784Z",
     "sourceName": "Open-Meteo",
     "sourceUrl": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
     "officialFireDangerName": "Météo-France · Météo des forêts",
     "officialFireDangerUrl": "https://meteofrance.com/meteo-des-forets",
     "current": {
-      "temperatureC": 22.2,
-      "humidityPct": 79,
+      "temperatureC": 22.1,
+      "humidityPct": 83,
       "precipitationMm": 0,
-      "windSpeedKmh": 9,
-      "windDirectionDeg": 254,
-      "windDirection": "WSW",
-      "windGustKmh": 20.9
+      "windSpeedKmh": 9.4,
+      "windDirectionDeg": 223,
+      "windDirection": "SW",
+      "windGustKmh": 23
     },
     "forecast24h": {
-      "endsAt": "2026-07-25T22:30:00.000Z",
+      "endsAt": "2026-07-25T22:45:00.000Z",
       "maxTemperatureC": 26.5,
       "minHumidityPct": 51,
       "maxWindSpeedKmh": 16.6,
@@ -4431,26 +4430,26 @@
       "maxPrecipitationProbabilityPct": 33,
       "checkpoints": [
         {
-          "time": "2026-07-25T06:00:00+02:00",
-          "temperatureC": 21.7,
-          "humidityPct": 81,
-          "precipitationProbabilityPct": 8,
-          "precipitationMm": 0,
-          "windSpeedKmh": 9.6,
-          "windDirectionDeg": 236,
-          "windDirection": "SW",
-          "windGustKmh": 24.1
-        },
-        {
-          "time": "2026-07-25T12:00:00+02:00",
-          "temperatureC": 25.7,
-          "humidityPct": 56,
+          "time": "2026-07-25T07:00:00+02:00",
+          "temperatureC": 21.8,
+          "humidityPct": 82,
           "precipitationProbabilityPct": 0,
           "precipitationMm": 0,
-          "windSpeedKmh": 16.6,
-          "windDirectionDeg": 222,
+          "windSpeedKmh": 9.7,
+          "windDirectionDeg": 243,
+          "windDirection": "WSW",
+          "windGustKmh": 23.4
+        },
+        {
+          "time": "2026-07-25T13:00:00+02:00",
+          "temperatureC": 25.3,
+          "humidityPct": 58,
+          "precipitationProbabilityPct": 0,
+          "precipitationMm": 0,
+          "windSpeedKmh": 15,
+          "windDirectionDeg": 226,
           "windDirection": "SW",
-          "windGustKmh": 39.6
+          "windGustKmh": 40.3
         },
         {
           "time": "2026-07-26T00:00:00+02:00",
@@ -4468,41 +4467,6 @@
   },
   "intelligenceCandidates": [
     {
-      "id": "9b2e577f81e4ef94",
-      "kind": "liveblog-entry",
-      "sourceId": "franceinfo-live",
-      "sourceName": "Franceinfo live",
-      "sourceUrl": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
-      "publishedAt": "2026-07-24T22:14:26.925Z",
-      "text": "Bonsoir @onsenfou848 , \"un feu de bâtiment dans la commune de Payrin s’est propagé très rapidement\" , écrit la préfecture du Tarn . \"Il a détruit une surface évaluée à une cinquantaine d’hectares et la situation demeure défavorable. Aucune victime n’est a déplorer à ce stade.\" Un journaliste de La Dépêche du Midi s'est rendu sur place.",
-      "score": 8,
-      "priority": "review",
-      "reasons": [
-        "harm"
-      ],
-      "authorityAttributed": true,
-      "changeLanguage": false,
-      "numbers": []
-    },
-    {
-      "id": "947364e996c6e80a",
-      "kind": "liveblog-entry",
-      "sourceId": "franceinfo-live",
-      "sourceName": "Franceinfo live",
-      "sourceUrl": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
-      "publishedAt": "2026-07-24T22:14:26.925Z",
-      "text": "Le média évoque \"une centaine d'habitations évacuées\" à Valdurenque, avec le déploiement de moyens aériens.",
-      "score": 10,
-      "priority": "review",
-      "reasons": [
-        "evacuation",
-        "response"
-      ],
-      "authorityAttributed": false,
-      "changeLanguage": false,
-      "numbers": []
-    },
-    {
       "id": "113e4bb8f984bea8",
       "kind": "liveblog-entry",
       "sourceId": "franceinfo-live",
@@ -4510,23 +4474,6 @@
       "sourceUrl": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
       "publishedAt": "2026-07-24T22:13:09.410Z",
       "text": "J'entends tout à fait votre désarroi, @shelmi , mais la communication en temps réel, minute par minute, est difficile sur un incendie aussi vaste. Je peux vous aiguiller vers notre carte sur l'évolution des feux en Gironde et dans les Landes, réalisé par notre journaliste Valentin Stoquer.",
-      "score": 6,
-      "priority": "context",
-      "reasons": [
-        "access"
-      ],
-      "authorityAttributed": false,
-      "changeLanguage": false,
-      "numbers": []
-    },
-    {
-      "id": "3e9c4f39c660db74",
-      "kind": "liveblog-entry",
-      "sourceId": "franceinfo-live",
-      "sourceName": "Franceinfo live",
-      "sourceUrl": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
-      "publishedAt": "2026-07-24T22:07:28.631Z",
-      "text": "#INCENDIES Ce live devait se mettre en sommeil à minuit, mais l'actualité impose de ne pas fermer la boutique tout de suite. J'en profite pour vous remercier pour vos messages et interrogations. Désolé s'il m'est impossible de répondre à toutes vos questions !",
       "score": 6,
       "priority": "context",
       "reasons": [
@@ -4550,44 +4497,6 @@
         "evacuation"
       ],
       "authorityAttributed": true,
-      "changeLanguage": false,
-      "numbers": []
-    },
-    {
-      "id": "a36a8b560ef40d99",
-      "kind": "liveblog-entry",
-      "sourceId": "franceinfo-live",
-      "sourceName": "Franceinfo live",
-      "sourceUrl": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
-      "publishedAt": "2026-07-24T21:49:48.500Z",
-      "text": "Bonsoir @Banane volante 42 , Sébastien Lecornu défend cet acheminement pour \"protéger les personnels engagés et les populations exposées aux fumées nocives pour la santé\" .",
-      "score": 10,
-      "priority": "review",
-      "reasons": [
-        "access",
-        "air-quality"
-      ],
-      "authorityAttributed": false,
-      "changeLanguage": false,
-      "numbers": [
-        "42 ,"
-      ]
-    },
-    {
-      "id": "84772f3435db06d3",
-      "kind": "liveblog-entry",
-      "sourceId": "franceinfo-live",
-      "sourceName": "Franceinfo live",
-      "sourceUrl": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
-      "publishedAt": "2026-07-24T21:48:38.810Z",
-      "text": "#INCENDIES Côté renforts, Sébastien Lecornu annonce que le \"service de santé des armées sera lui aussi mobilisé afin de faciliter la prise en charge médicale des personnes les plus vulnérables\" . \" Huit nouvelles unités de forces mobiles de la police et de la gendarmerie seront déployées pour faciliter les évacuations\" , écrit-il.",
-      "score": 10,
-      "priority": "review",
-      "reasons": [
-        "evacuation",
-        "response"
-      ],
-      "authorityAttributed": false,
       "changeLanguage": false,
       "numbers": []
     },
@@ -4681,23 +4590,6 @@
       "numbers": [
         "30"
       ]
-    },
-    {
-      "id": "da5bbb88249038fe",
-      "kind": "liveblog-entry",
-      "sourceId": "franceinfo-live",
-      "sourceName": "Franceinfo live",
-      "sourceUrl": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
-      "publishedAt": "2026-07-24T21:18:19.230Z",
-      "text": "#INCENDIES Petit conseil si vous êtes concernés par les évacuations annoncées ou possibles : chargez vos téléphones portables et vos batteries externes, si vous en avez, pour rester joignables.",
-      "score": 9,
-      "priority": "review",
-      "reasons": [
-        "evacuation"
-      ],
-      "authorityAttributed": false,
-      "changeLanguage": true,
-      "numbers": []
     },
     {
       "id": "909a4b21754685bb",
