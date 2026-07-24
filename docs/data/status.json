@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-07-24T20:45:19.149Z",
+  "generatedAt": "2026-07-24T21:30:09.499Z",
   "sectionUpdates": {
-    "assessment": "2026-07-24T18:36:00+02:00",
-    "map": "2026-07-24T16:28:00+02:00",
-    "material": "2026-07-24T18:36:00+02:00",
+    "assessment": "2026-07-24T23:09:00+02:00",
+    "map": "2026-07-24T23:18:00+02:00",
+    "material": "2026-07-24T23:09:00+02:00",
     "access": "2026-07-24T16:28:00+02:00",
     "localCommerce": "2026-07-24T06:40:00+02:00",
     "restaurants": "2026-07-24T06:40:00+02:00",
     "ferries": "2026-07-24T13:23:00+02:00",
-    "aviation": "2026-07-24T15:49:00+02:00",
+    "aviation": "2026-07-24T23:28:00+02:00",
     "reopening": "2026-07-24T13:56:00+02:00",
-    "articles": "2026-07-24T20:17:30.000Z",
+    "articles": "2026-07-24T21:29:00.000Z",
     "social": "2026-07-24T20:34:08.336Z",
-    "sources": "2026-07-24T20:45:19.149Z",
-    "weather": "2026-07-24T20:45:01.144Z"
+    "sources": "2026-07-24T21:30:09.499Z",
+    "weather": "2026-07-24T21:30:09.231Z"
   },
   "incident": {
     "level": "FULL EVACUATION",
-    "headline": "The peninsula remains evacuated; the fire is still progressing and not controlled.",
-    "summary": "The operational picture remains critical and has broadened beyond the peninsula: Reuters reports the prefecture’s 14:00 briefing put the fire at more than 12,500 hectares and 44,000 evacuations over 48 hours. About 1,000 firefighters are deployed; 53 homes and a campsite have been destroyed. Reuters also lists Arès and Andernos among the communes under preventive evacuation; navigation on Arcachon Bay is temporarily prohibited. There is no signal that travelling to Cap Ferret is viable.",
-    "fireStatus": "Very active and unpredictable fire",
-    "affectedHectares": "> 12,500 (prefecture, 14:00 briefing reported by Reuters)",
-    "evacuatedPeople": "44,000 evacuations reported over 48 hours",
+    "headline": "The peninsula remains evacuated; the fire has turned east toward metropolitan Bordeaux and further evacuations are being prepared.",
+    "summary": "The situation deteriorated materially on Friday evening. Reuters reports that a wind reversal turned the uncontrolled fire east toward the Bordeaux metropolitan area. The interior minister put the Gironde fire at about 14,000 hectares and more than 110,000 evacuations; later media reporting cites roughly 19,000 hectares and about 140,000 evacuations across the wider South-West. Franceinfo reports preparations for additional metropolitan evacuations, severe outbound congestion at Andernos and a particulate-pollution alert. Bordeaux Airport remained open shortly before 22:00, but there is still no viable basis for travelling to Cap Ferret.",
+    "fireStatus": "Uncontrolled · now progressing east",
+    "affectedHectares": "≈ 14,000 confirmed by minister; later media report ≈ 19,000",
+    "evacuatedPeople": "> 110,000 in Gironde; ≈ 140,000 across the South-West",
     "firefighters": "≈ 1,000"
   },
   "currentAssessment": {
     "verdict": "Do not travel to Cap Ferret: the whole peninsula remains evacuated and the fire is still progressing.",
     "trajectory": "Deteriorating",
     "trajectoryTone": "danger",
-    "narrative": "The decisive facts are the complete evacuation of the Cap Ferret peninsula, a fire still described as uncontrolled and advancing, and the expanded emergency response. Reuters reports the prefecture’s 14:00 briefing put the fire at more than 12,500 hectares and 44,000 evacuations over 48 hours; about 1,000 firefighters are engaged. Authorities report 53 homes and a campsite destroyed. Injury reporting conflicts: the earlier prefectural/SDIS briefing reported 27 firefighters treated, six hospitalised, while a later local report gives a higher figure that is not independently corroborated. Reuters also lists Arès and Andernos for preventive evacuation, and the maritime prefecture has temporarily prohibited navigation on Arcachon Bay. Inbound road access remains closed to the public.",
-    "confidence": "High confidence on the evacuation and navigation restrictions, the approximately 1,000-firefighter deployment, the prefecture-attributed 12,500-hectare / 44,000-evacuation update, and the absence of a viable travel signal. The clearest corroborated damage count remains 53 homes and one campsite destroyed, with 2,000 homes saved. Treat the conflicting later firefighter-injury count as unconfirmed; earlier wording that 80 homes were burned or affected should not be read as 80 confirmed total destructions.",
+    "narrative": "The decisive late-evening change is the fire’s turn east after a wind reversal. Reuters reports it is now progressing toward metropolitan Bordeaux, while Franceinfo reports that additional metropolitan evacuations are being prepared and that Saint-Médard-en-Jalles residents should be ready for a probable evacuation. The interior minister reports about 14,000 hectares burned and more than 110,000 people evacuated in Gironde; a still-later media total gives roughly 19,000 hectares, while Franceinfo says about 140,000 people have been evacuated across the wider South-West. The peninsula remains fully evacuated, inbound road access and ordinary navigation on Arcachon Bay remain unavailable, and no reopening signal exists. Bordeaux Airport was still open shortly before 22:00 with no next-day departure postponements then planned.",
+    "confidence": "High confidence that the fire changed direction toward the Bordeaux metropolitan area, that further evacuations are being prepared, and that the peninsula remains inaccessible. The minister’s approximately 14,000-hectare and 110,000-plus Gironde-evacuation totals are the strongest late official figures. Treat the later roughly 19,000-hectare report and the approximately 140,000 South-West evacuation total as media-reported pending a matching prefectural bulletin. Franceinfo did not identify all three metropolitan communes in the cited update, so the dashboard does not infer their names.",
     "priorities": [
-      "The entire peninsula remains evacuated; Reuters also lists Arès and Andernos for preventive evacuation on the northern side of the bay.",
-      "The fire remains uncontrolled; 27 firefighters have required treatment and forecast westerly gusts could reach 80 km/h.",
+      "The entire peninsula remains evacuated; pressure has expanded east toward the Bordeaux metropolitan area and additional evacuations are being prepared.",
+      "The fire remains uncontrolled after a wind reversal; the latest ministerial total is about 14,000 hectares and more than 110,000 Gironde evacuations.",
       "Road entry and ordinary navigation on Arcachon Bay are unavailable, so there is no viable land or public-water route for a holiday trip.",
-      "The next meaningful threshold is official control of the fire and permission to enter, followed by road, ferry, utility, beach, business and forest-access reopening."
+      "Bordeaux Airport remained open shortly before 22:00, but severe outbound road congestion and expanding evacuation planning reinforce the do-not-travel verdict."
     ]
   },
   "alerts": [
@@ -55,11 +55,32 @@
     },
     {
       "label": "Fire",
-      "value": "Not under control",
+      "value": "Uncontrolled · moving east",
       "tone": "danger"
     }
   ],
   "materialUpdates": [
+    {
+      "id": "material-2026-07-24-2309",
+      "time": "23:09",
+      "title": "Wind reversal turns the fire toward metropolitan Bordeaux; further evacuations are being prepared",
+      "detail": "Reuters reports that the uncontrolled Gironde fire changed orientation late Friday after a wind reversal and began progressing east toward the Bordeaux metropolitan area. The interior minister described the phenomenon as unprecedented and reported about 14,000 hectares burned and more than 110,000 Gironde evacuations. Franceinfo reports preparations for three additional metropolitan evacuations, says Saint-Médard-en-Jalles residents should be ready for a probable evacuation, and records severe outbound congestion at Andernos. A later media report places the affected area near 19,000 hectares; that higher figure awaits matching official confirmation.",
+      "incrementalNews": "This is a new trajectory and evacuation phase: the fire is no longer advancing only around the northern Bassin and peninsula corridor but has turned east toward metropolitan Bordeaux. The strongest late totals rise from 12,500 to about 14,000 hectares and from 44,000 to more than 110,000 Gironde evacuations, with a later media estimate near 19,000 hectares.",
+      "sources": [
+        {
+          "name": "Franceinfo live coverage supplied by the reader",
+          "url": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html"
+        },
+        {
+          "name": "Reuters reporting the wind reversal and eastward progression",
+          "url": "https://www.zonebourse.com/actualite-bourse/france-l-incendie-en-gironde-progresse-vers-l-est-en-direction-de-l-agglomeration-bordelaise-nunez-ce7f51dfd189fe23"
+        },
+        {
+          "name": "Libération live coverage supplied by the reader",
+          "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-des-evacuations-par-bateau-en-gironde-la-situation-nest-pas-sous-controle-dans-les-landes-20260724_CUWC25TVWRFZ7JZIHU2QBJ66PI/"
+        }
+      ]
+    },
     {
       "id": "material-2026-07-24-1824",
       "time": "18:24",
@@ -203,6 +224,50 @@
     }
   ],
   "updates": [
+    {
+      "id": "reader-franceinfo-live-20260724",
+      "time": "23:29",
+      "title": "DIRECT. Incendie en Gironde : la préfecture ordonne l’évacuation sans délai des premiers villages de la presqu’île du Cap-Ferret - franceinfo",
+      "detail": "The late live updates materially change the picture: the fire has turned toward metropolitan Bordeaux, further evacuations are being prepared, Andernos outbound traffic is almost stationary, particulate pollution has worsened, and Bordeaux Airport remained open shortly before 22:00.",
+      "source": "Franceinfo · reader supplied",
+      "sourceType": "media",
+      "url": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
+      "importance": 5,
+      "publishedAt": "2026-07-24T21:29:00.000Z"
+    },
+    {
+      "id": "reader-liberation-live-20260724",
+      "time": "23:28",
+      "title": "En direct – Incendies : des évacuations par bateau en Gironde, la situation n’est pas sous contrôle dans les Landes - Libération",
+      "detail": "The live coverage corroborates the continuing evacuation and uncontrolled regional-fire context; its late reporting is treated as supporting evidence for the new eastward-progression update.",
+      "source": "Libération · reader supplied",
+      "sourceType": "media",
+      "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-des-evacuations-par-bateau-en-gironde-la-situation-nest-pas-sous-controle-dans-les-landes-20260724_CUWC25TVWRFZ7JZIHU2QBJ66PI/",
+      "importance": 4,
+      "publishedAt": "2026-07-24T21:28:00.000Z"
+    },
+    {
+      "id": "11ff781b57cc",
+      "time": "23:09",
+      "title": "DIRECT. Incendies dans le sud-ouest de la France : 19.000 ha brûlés en Gironde, des évacuations en cours autour de Bordeaux - lanouvellerepublique.fr",
+      "detail": "Reports a later estimate near 19,000 hectares and evacuations around Bordeaux; the area figure is retained as media-reported pending matching official confirmation.",
+      "source": "Google News",
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNdDZscEFPZkJMekpxN3FsZTB6WUhVeUliekVfMHloVnRNTVBLeTVORWdLRVF0a25RdkFGTkVKRlVMQkZHS2I4NjFXMjQ2OFVYTnRZb1gzZmFSSW8wRVFKTWJQbzM4NXNyMGRiLXkyV1UxUXZjMU82aWloRDNuc1dLRlNneXg2a1lOMm9LSWw0WjdteHVjQ3d4LUhlNV9kOExtd1RCaW0zMnZLcWk5QzkxOHAzTnhWZHhnRzF2M2pCekpUQWF2bnB5Y2VRWW54UE5xbTVSOVBRSFROR2pTRmNNeDllNXJtNUkzVW9iWjZsQk9tVzctd3dLbVg1d0FUMFlLbGRNOG1oYzQ3VDhoRjJjZlVLZDBSdlJFS3c?oc=5",
+      "importance": 4,
+      "publishedAt": "2026-07-24T21:09:31.000Z"
+    },
+    {
+      "id": "e083f9a12ab7",
+      "time": "23:06",
+      "title": "Incendie en Gironde : un feu « hors normes » et un troisième jour sans grand espoir - Sud Ouest",
+      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
+      "source": "Google News",
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORVQ5aTJKR0VWUEdva0lEb3BKSThna1E2cUhwQ3ZDbEZYZHE4dlNaUWh6eW9lU0lhVW9keERCRVdBYnBFdEtBZ1VtRUFYQ2pxblRPUnk3MW1iWG9MalRiX185QktsSnNtSWlFZjVFRDZFeHZQUTFoV3VMLWtkYUNOaFlBMGJmMnVLaFFucHFmcVBDbHltTnZSMGJNQVMwU2toX3c2Z3AzTm9JSDlPNXZEaWlFdDNCTDhtUUdIWHM1LVdQTEhhQnFKdi02aGdCWDI5cFExeFB2eGNUT1VlSmZsN1JHSkZtNlVRaE1XMDBfVQ?oc=5",
+      "importance": 2,
+      "publishedAt": "2026-07-24T21:06:36.000Z"
+    },
     {
       "id": "1ef621e3ecf9",
       "time": "22:17",
@@ -620,28 +685,6 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQelNUb29sUElHQlhDNUdUaENWd2RhWmV6TkpfbWxwQXBNUXdfQnJvLU9hTlZZam5fMnZNaGJyYmZNLXB0VHQ4Q3BLNk9DNUpsaWxlZVQzdzF4d1YzWUlZZDBCamx0eTh3d0cxSnltbXprSlpSVmxEVnJ6bGpDZzZxa2ZYZjVqQTFJdXFVS01VdTNxME5WWEhmbVE1V2FhcVMxSzFzVkZRUm0xeUdIRDM0UTl3Qk42VS1Cb2JqNWpLUUFqODh0ZDZGOWxSNTM?oc=5",
       "importance": 4,
       "publishedAt": "2026-07-24T09:47:16.000Z"
-    },
-    {
-      "id": "ced9013d9b2d",
-      "time": "11:21",
-      "title": "Feu Nord Bassin: Evacuation des villages de la presqu’île et du Porge. - InfoBassin",
-      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
-      "source": "Google News",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEMnM2MW9ub05lSnowdldVUW14dTdLQUwyRm5ocWNUMUlsWEZ6NFBBRVM4TEVxSDFKZ3dVaExLei1ibF9Gb0oyVXV4SURGTXNTQ2VZaA?oc=5",
-      "importance": 2,
-      "publishedAt": "2026-07-24T09:21:29.000Z"
-    },
-    {
-      "id": "7740980f3374",
-      "time": "10:59",
-      "title": "Incendie en Gironde : « Tu as de l’eau ? » à l’entrée de la presqu’île du Cap Ferret, dans un camping cerné par les flammes - Sud Ouest",
-      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
-      "source": "Google News",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOQ1NyQ1c4WVhRM0FYMmpRWlktQlYzWTM5TmFDcFZ2QjVLWWs2RXlHem1xZnpHU3RENERrWXZFejRsaFhDMWMyZ2c4SE85cllYMklpSHdSVzJHa3RUOU1kNUpkcU5rMWVGYldCM0h1VnZXazByRUhfVUlOVlZTbzdkYUYxMExOc3ZWWjFVVzROQndIekR1UDNLR1B5c1lQWGItRmpMcTdlMXg4bVd0RGVuV0M5dXl2WlRHRzVuOEdHNHoxU2ZDMXlqbzhBQ041RF94XzliTEg4T0pPMVk2NHA0cXRldjMwWnNSUVNSQ2ZPXzkxeFJyQjRWcXNiM3RhaVhsdjNhb0JMVkRFSnFPMkNVS2tHY1ZKZ1hrYnktanRQY0w?oc=5",
-      "importance": 2,
-      "publishedAt": "2026-07-24T08:59:24.000Z"
     }
   ],
   "access": [
@@ -906,49 +949,49 @@
       "name": "Lège-Cap-Ferret Town Hall",
       "type": "Official",
       "url": "https://www.ville-lege-capferret.fr/top_slider/information-incendie-saumos/",
-      "checkedAt": "2026-07-24T20:45:19.149Z"
+      "checkedAt": "2026-07-24T21:30:09.499Z"
     },
     {
       "name": "Gironde Prefecture",
       "type": "Official",
       "url": "https://www.gironde.gouv.fr/",
-      "checkedAt": "2026-07-24T20:45:19.149Z"
+      "checkedAt": "2026-07-24T21:30:09.499Z"
     },
     {
       "name": "Gironde Department",
       "type": "Official",
       "url": "https://www.gironde.fr/actualites/vigilance-rouge-pour-le-risque-feu-de-foret",
-      "checkedAt": "2026-07-24T20:45:19.149Z"
+      "checkedAt": "2026-07-24T21:30:09.499Z"
     },
     {
       "name": "Feux de Forêt",
       "type": "Specialist",
       "url": "https://feuxdeforet.fr/",
-      "checkedAt": "2026-07-24T20:45:19.149Z"
+      "checkedAt": "2026-07-24T21:30:09.499Z"
     },
     {
       "name": "NASA FIRMS",
       "type": "Satellite",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/",
-      "checkedAt": "2026-07-24T20:45:19.149Z"
+      "checkedAt": "2026-07-24T21:30:09.499Z"
     },
     {
       "name": "Météo-France · forêts",
       "type": "Official",
       "url": "https://meteofrance.com/meteo-des-forets",
-      "checkedAt": "2026-07-24T20:45:19.149Z"
+      "checkedAt": "2026-07-24T21:30:09.499Z"
     },
     {
       "name": "France Bleu / ici Gironde",
       "type": "Local media",
       "url": "https://www.francebleu.fr/gironde",
-      "checkedAt": "2026-07-24T20:45:19.149Z"
+      "checkedAt": "2026-07-24T21:30:09.499Z"
     },
     {
       "name": "Public social networks",
       "type": "Signal",
       "url": "https://bsky.app/search?q=incendie%20Cap%20Ferret",
-      "checkedAt": "2026-07-24T20:45:19.149Z"
+      "checkedAt": "2026-07-24T21:30:09.499Z"
     }
   ],
   "socialSignals": [
@@ -1183,6 +1226,13 @@
         "kind": "evacuation"
       },
       {
+        "name": "Saint-Médard-en-Jalles",
+        "lat": 44.895,
+        "lng": -0.718,
+        "status": "Residents told to prepare for probable evacuation · no order yet confirmed",
+        "kind": "evacuation"
+      },
+      {
         "name": "Claouey",
         "lat": 44.752,
         "lng": -1.184,
@@ -1223,6 +1273,41 @@
       "source": "Bluesky · @trend-words-fr.bsky.social",
       "url": "https://bsky.app/profile/did:plc:m3aen4gaf2abm2yyq3wpbucu/post/3mrfjdl3ux42e",
       "createdAt": "2026-07-24T23:02:36+09:00",
+      "verification": "Unverified"
+    },
+    {
+      "title": "Incendie en Gironde: Andernos-les-Bains, habituellement animée, se transforme en ville fantôme après les évacuations 32 incendies sont en cours sur l'ensemble du territoire, a fait",
+      "source": "Bluesky · @news-flows-fr.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrgbvsp2ho2x",
+      "createdAt": "2026-07-24T21:11:26.000000Z",
+      "verification": "Unverified"
+    },
+    {
+      "title": "C'est un sacré gros incendie au Cap Ferret. Manuka, un mangaversien, a des fumées au dessus de chez lui (il habite à côté de Jarnac, en Charente) et il m'a dit que vers 19h, le sol",
+      "source": "Bluesky · @herbv78.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:bhmjg7t7dqmisfzdtp6e5mql/post/3mrgb4fjfg22a",
+      "createdAt": "2026-07-24T21:08:04.081Z",
+      "verification": "Unverified"
+    },
+    {
+      "title": "Incendie en Gironde. « Autant rester chez soi non ? » : entre Andernos et Audenge, des centaines de véhicules devant évacués arrêtés depuis des heures 🔗https://l.sudouest.fr/JMXx",
+      "source": "Bluesky · @sudouest-33.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:vyttkyftqfwlnijvlfxafwjg/post/3mrgasqqjkm2r",
+      "createdAt": "2026-07-24T21:02:25.556Z",
+      "verification": "Unverified"
+    },
+    {
+      "title": "Le feu se dirige vers Bordeaux Los Angeles a déjà été rasé par les flammes 🔥 (mais au mois de janvier) l’année dernière LFI : OMG c’est scandaleux y’a certainement des musulmans e",
+      "source": "Bluesky · @reheissergaspard.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:vfmtystszucn7zth6i7rgxcz/post/3mrgaj5ast223",
+      "createdAt": "2026-07-24T20:57:17.876Z",
+      "verification": "Unverified"
+    },
+    {
+      "title": "Incendie en Gironde: le feu de Lège-Cap Ferret se \"dirige vers la métropole bordelaise\" 📰 BFMTV - Climat #rss-optimus #actualite #meteo #bfmtv",
+      "source": "Bluesky · @rss-optimus.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:3lt6okyoet6gd44yvm742mp3/post/3mrgafanicq2j",
+      "createdAt": "2026-07-24T20:55:07.056Z",
       "verification": "Unverified"
     },
     {
@@ -1328,6 +1413,13 @@
       "source": "Bluesky · @bazouzabou.mstdn.fr.ap.brid.gy",
       "url": "https://bsky.app/profile/did:plc:7xnzfatinqrgutspserpnd3u/post/3mrfwjh3qf2q2",
       "createdAt": "2026-07-24T17:58:26.000Z",
+      "verification": "Unverified"
+    },
+    {
+      "title": "Incendie en Gironde : l'inquiétude se porte sur Lacanau En Gironde, le feu a parcouru 14 000 hectares, provoquant 110 000 évacuations dans le département. L'inquiétude se porte aus",
+      "source": "Bluesky · @news-flows-fr.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrgbldhfcs2n",
+      "createdAt": "2026-07-24T17:57:56.000000Z",
       "verification": "Unverified"
     },
     {
@@ -1455,52 +1547,10 @@
       "url": "https://bsky.app/profile/did:plc:pk5nq3gedpdb6xedfeobsm52/post/3mrfjnd6lo724",
       "createdAt": "2026-07-24T14:08:01.284Z",
       "verification": "Unverified"
-    },
-    {
-      "title": "L’impressionnant incendie parti de Saumos (Gironde) ce mercredi 22 juillet 2026, et qui touche désormais la presqu’île du cap Ferret, ravive de bien tristes souvenirs pour tous les",
-      "source": "Bluesky · @le-popu.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:czwvz7z2hxnl6lwwrjyvqx7t/post/3mrfjmioxlr25",
-      "createdAt": "2026-07-24T14:07:30.000Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Un feu \"imprévisible\" et \"vorace\" : le récit en images des incendies en Gironde et dans les Landes Un incendie s'est déclenché mercredi en Gironde, près de la très touristique pres",
-      "source": "Bluesky · @news-flows-fr.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrfndsmcqq2t",
-      "createdAt": "2026-07-24T14:04:07.000000Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Un feu \"imprévisible\" et \"vorace\" : on fait le récit en images des incendies en Gironde et dans les Landes Un incendie s'est déclenché mercredi en Gironde, près de la très touristi",
-      "source": "Bluesky · @news-flows-fr.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrfkv5pqxb25",
-      "createdAt": "2026-07-24T14:04:07.000000Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "\"Le feu est à proximité des habitations\": après le Cap Ferret, la ville d'Arès en Gironde contrainte d'évacuer en totalité Alors qu'un feu incendie a parcouru plus de 10.000 hectar",
-      "source": "Bluesky · @news-flows-fr.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrfjnhtpht2e",
-      "createdAt": "2026-07-24T13:52:56.000000Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Incendie du Cap-Ferret : les évacués en Gironde décrivent des scènes apocalyptiques. Lire l'article complet sur : artia13.city #artia13 #FlashInfo ",
-      "source": "Bluesky · @artia13city.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:3uvrjddd7tabm4reite53662/post/3mrfbv3sgij2y",
-      "createdAt": "2026-07-24T13:49:11Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Incendie au Cap Ferret : « Une ambiance de ville morte »… Avec les derniers évacués de la presqu’île « 20 Minutes » a suivi ce vendredi à Arcachon l’arrivée des derniers résidents ",
-      "source": "Bluesky · @news-flows-fr.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrfjms5ast2e",
-      "createdAt": "2026-07-24T13:42:19.000000Z",
-      "verification": "Unverified"
     }
   ],
   "traffic": {
-    "checkedAt": "2026-07-24T19:43:24.089Z",
+    "checkedAt": "2026-07-24T21:30:09.231Z",
     "sourceName": "Inforoutes Gironde",
     "sourceUrl": "https://www.gironde.fr/deplacements/inforoutes",
     "officialClosures": {
@@ -1628,6 +1678,189 @@
         {
           "type": "Feature",
           "properties": {
+            "road": "D3E9",
+            "closure": "Fermeture totale",
+            "incident": "Incendie de Saumos"
+          },
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -1.0548174,
+                  44.7112615
+                ],
+                [
+                  -1.0543638,
+                  44.7117699
+                ],
+                [
+                  -1.0541438,
+                  44.7121046
+                ],
+                [
+                  -1.0533375,
+                  44.7133699
+                ],
+                [
+                  -1.0529236,
+                  44.7139479
+                ],
+                [
+                  -1.0532551,
+                  44.7156845
+                ],
+                [
+                  -1.0532237,
+                  44.7159885
+                ],
+                [
+                  -1.0523482,
+                  44.7176697
+                ],
+                [
+                  -1.0520043,
+                  44.7181612
+                ],
+                [
+                  -1.0507979,
+                  44.7194498
+                ],
+                [
+                  -1.0503687,
+                  44.7198969
+                ],
+                [
+                  -1.0498421,
+                  44.7204767
+                ],
+                [
+                  -1.0496503,
+                  44.7207674
+                ],
+                [
+                  -1.0492354,
+                  44.7216317
+                ],
+                [
+                  -1.0482755,
+                  44.7235936
+                ],
+                [
+                  -1.0480962,
+                  44.7238811
+                ],
+                [
+                  -1.0463762,
+                  44.7257925
+                ],
+                [
+                  -1.0459129,
+                  44.7262737
+                ],
+                [
+                  -1.0446886,
+                  44.727265
+                ],
+                [
+                  -1.0400921,
+                  44.7309011
+                ],
+                [
+                  -1.0396244,
+                  44.731279
+                ]
+              ],
+              [
+                [
+                  -1.039384,
+                  44.7314879
+                ],
+                [
+                  -1.0391856,
+                  44.7316122
+                ],
+                [
+                  -1.0362805,
+                  44.7338962
+                ],
+                [
+                  -1.0338213,
+                  44.7358294
+                ],
+                [
+                  -1.0330669,
+                  44.7364466
+                ],
+                [
+                  -1.03288,
+                  44.736621
+                ]
+              ],
+              [
+                [
+                  -1.0326384,
+                  44.7367792
+                ],
+                [
+                  -1.0324865,
+                  44.736918
+                ],
+                [
+                  -1.0295181,
+                  44.7392059
+                ],
+                [
+                  -1.0241381,
+                  44.7434082
+                ],
+                [
+                  -1.0236192,
+                  44.7438725
+                ],
+                [
+                  -1.0232516,
+                  44.7443905
+                ],
+                [
+                  -1.0230641,
+                  44.7449691
+                ],
+                [
+                  -1.0226,
+                  44.748294
+                ],
+                [
+                  -1.0222903,
+                  44.7506031
+                ],
+                [
+                  -1.0213677,
+                  44.7572512
+                ],
+                [
+                  -1.0195902,
+                  44.7701913
+                ],
+                [
+                  -1.0188873,
+                  44.7752005
+                ],
+                [
+                  -1.0185018,
+                  44.7778998
+                ],
+                [
+                  -1.0184897,
+                  44.7780132
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "road": "D807",
             "closure": "Fermeture totale",
             "incident": "Incendie de Saumos"
@@ -1743,6 +1976,206 @@
         {
           "type": "Feature",
           "properties": {
+            "road": "D107E1",
+            "closure": "Fermeture totale",
+            "incident": "Incendie de Saumos"
+          },
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -0.832627,
+                  44.9242911
+                ],
+                [
+                  -0.8330931,
+                  44.9259292
+                ],
+                [
+                  -0.833868,
+                  44.9285718
+                ],
+                [
+                  -0.8345121,
+                  44.930724
+                ],
+                [
+                  -0.8346395,
+                  44.931246
+                ],
+                [
+                  -0.8346121,
+                  44.9314958
+                ],
+                [
+                  -0.8336208,
+                  44.9340955
+                ],
+                [
+                  -0.8329016,
+                  44.9348175
+                ],
+                [
+                  -0.8317636,
+                  44.9357346
+                ],
+                [
+                  -0.8306966,
+                  44.9362848
+                ],
+                [
+                  -0.82985,
+                  44.9367075
+                ],
+                [
+                  -0.8296202,
+                  44.9367649
+                ],
+                [
+                  -0.8289371,
+                  44.936835
+                ],
+                [
+                  -0.8288164,
+                  44.9368797
+                ],
+                [
+                  -0.8283642,
+                  44.9374186
+                ],
+                [
+                  -0.8281117,
+                  44.9377924
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "road": "D1250",
+            "closure": "Fermeture totale",
+            "incident": "Incendie de Saumos"
+          },
+          "geometry": {
+            "type": "MultiLineString",
+            "coordinates": [
+              [
+                [
+                  -0.8642827,
+                  44.6875053
+                ],
+                [
+                  -0.8651989,
+                  44.6870282
+                ],
+                [
+                  -0.868202,
+                  44.6854311
+                ],
+                [
+                  -0.8692273,
+                  44.6848702
+                ]
+              ],
+              [
+                [
+                  -0.8694306,
+                  44.6847605
+                ],
+                [
+                  -0.8702476,
+                  44.6843321
+                ],
+                [
+                  -0.8723969,
+                  44.6831936
+                ],
+                [
+                  -0.8804569,
+                  44.6791298
+                ],
+                [
+                  -0.8868964,
+                  44.6758443
+                ],
+                [
+                  -0.8906873,
+                  44.6739642
+                ],
+                [
+                  -0.8978823,
+                  44.6704595
+                ],
+                [
+                  -0.9010878,
+                  44.6689314
+                ],
+                [
+                  -0.9092972,
+                  44.6650392
+                ],
+                [
+                  -0.9115299,
+                  44.66396
+                ],
+                [
+                  -0.917695,
+                  44.6608358
+                ],
+                [
+                  -0.9200474,
+                  44.6597204
+                ],
+                [
+                  -0.9241619,
+                  44.6578155
+                ],
+                [
+                  -0.9273083,
+                  44.6563649
+                ],
+                [
+                  -0.9300074,
+                  44.6551407
+                ],
+                [
+                  -0.9326064,
+                  44.653923
+                ],
+                [
+                  -0.9341628,
+                  44.6531678
+                ],
+                [
+                  -0.9395487,
+                  44.6506646
+                ],
+                [
+                  -0.9467625,
+                  44.6474135
+                ],
+                [
+                  -0.9495641,
+                  44.6461708
+                ],
+                [
+                  -0.949909,
+                  44.646063
+                ],
+                [
+                  -0.9500874,
+                  44.646045
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
             "road": "D107",
             "closure": "Fermeture totale",
             "incident": "Incendie de Saumos"
@@ -1750,6 +2183,96 @@
           "geometry": {
             "type": "MultiLineString",
             "coordinates": [
+              [
+                [
+                  -1.2121045,
+                  44.8933295
+                ],
+                [
+                  -1.2097803,
+                  44.8939063
+                ],
+                [
+                  -1.20768,
+                  44.8944423
+                ],
+                [
+                  -1.2063901,
+                  44.8948238
+                ],
+                [
+                  -1.2003241,
+                  44.8943782
+                ],
+                [
+                  -1.1894923,
+                  44.8935325
+                ],
+                [
+                  -1.1850664,
+                  44.8921731
+                ],
+                [
+                  -1.1787743,
+                  44.8892687
+                ],
+                [
+                  -1.1684203,
+                  44.884444
+                ],
+                [
+                  -1.148171,
+                  44.8790371
+                ],
+                [
+                  -1.1428075,
+                  44.8767534
+                ],
+                [
+                  -1.1361771,
+                  44.8735682
+                ],
+                [
+                  -1.1315927,
+                  44.8730103
+                ],
+                [
+                  -1.1304707,
+                  44.8730017
+                ],
+                [
+                  -1.1191594,
+                  44.875539
+                ],
+                [
+                  -1.1137312,
+                  44.8761763
+                ],
+                [
+                  -1.1070758,
+                  44.8752659
+                ],
+                [
+                  -1.1035889,
+                  44.874518
+                ],
+                [
+                  -1.0999413,
+                  44.8737509
+                ],
+                [
+                  -1.0939952,
+                  44.8731883
+                ],
+                [
+                  -1.0930731,
+                  44.8730595
+                ],
+                [
+                  -1.0927526,
+                  44.8730108
+                ]
+              ],
               [
                 [
                   -1.084609,
@@ -3491,23 +4014,23 @@
     "location": "Saumos–Lège fire corridor reference point",
     "latitude": 44.91,
     "longitude": -1.0600004,
-    "observedAt": "2026-07-24T22:45:00+02:00",
-    "modelUpdatedAt": "2026-07-24T20:45:01.144Z",
+    "observedAt": "2026-07-24T23:30:00+02:00",
+    "modelUpdatedAt": "2026-07-24T21:30:09.231Z",
     "sourceName": "Open-Meteo",
     "sourceUrl": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
     "officialFireDangerName": "Météo-France · Météo des forêts",
     "officialFireDangerUrl": "https://meteofrance.com/meteo-des-forets",
     "current": {
-      "temperatureC": 22,
-      "humidityPct": 79,
+      "temperatureC": 21.9,
+      "humidityPct": 80,
       "precipitationMm": 0,
-      "windSpeedKmh": 5.1,
-      "windDirectionDeg": 274,
-      "windDirection": "W",
-      "windGustKmh": 11.9
+      "windSpeedKmh": 8.5,
+      "windDirectionDeg": 216,
+      "windDirection": "SW",
+      "windGustKmh": 18.4
     },
     "forecast24h": {
-      "endsAt": "2026-07-25T20:45:00.000Z",
+      "endsAt": "2026-07-25T21:30:00.000Z",
       "maxTemperatureC": 26.5,
       "minHumidityPct": 51,
       "maxWindSpeedKmh": 16.6,
@@ -3515,14 +4038,14 @@
       "peakGustAt": "2026-07-25T13:00:00+02:00",
       "peakGustDirectionDeg": 226,
       "peakGustDirection": "SW",
-      "precipitationMm": 0,
-      "maxPrecipitationProbabilityPct": 35,
+      "precipitationMm": 0.1,
+      "maxPrecipitationProbabilityPct": 33,
       "checkpoints": [
         {
           "time": "2026-07-25T05:00:00+02:00",
           "temperatureC": 21.5,
           "humidityPct": 81,
-          "precipitationProbabilityPct": 18,
+          "precipitationProbabilityPct": 13,
           "precipitationMm": 0,
           "windSpeedKmh": 8.6,
           "windDirectionDeg": 237,
@@ -3533,7 +4056,7 @@
           "time": "2026-07-25T11:00:00+02:00",
           "temperatureC": 24.8,
           "humidityPct": 61,
-          "precipitationProbabilityPct": 3,
+          "precipitationProbabilityPct": 0,
           "precipitationMm": 0,
           "windSpeedKmh": 14.6,
           "windDirectionDeg": 230,
@@ -3541,15 +4064,15 @@
           "windGustKmh": 36.7
         },
         {
-          "time": "2026-07-25T22:00:00+02:00",
-          "temperatureC": 21.9,
-          "humidityPct": 77,
-          "precipitationProbabilityPct": 25,
-          "precipitationMm": 0,
-          "windSpeedKmh": 10.9,
-          "windDirectionDeg": 297,
+          "time": "2026-07-25T23:00:00+02:00",
+          "temperatureC": 21.5,
+          "humidityPct": 78,
+          "precipitationProbabilityPct": 13,
+          "precipitationMm": 0.1,
+          "windSpeedKmh": 12.6,
+          "windDirectionDeg": 283,
           "windDirection": "WNW",
-          "windGustKmh": 27.7
+          "windGustKmh": 30.6
         }
       ]
     }

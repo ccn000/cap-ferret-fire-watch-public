@@ -1,20 +1,20 @@
 {
   "incident": {
     "level": "ÉVACUATION TOTALE",
-    "headline": "La presqu’île reste évacuée ; l’incendie progresse toujours et n’est pas maîtrisé.",
-    "summary": "La situation opérationnelle reste critique et s’étend au-delà de la presqu’île : Reuters attribue au point préfectoral de 14 heures plus de 12 500 hectares parcourus et 44 000 évacuations en 48 heures. Environ 1 000 pompiers sont mobilisés ; 53 maisons et un camping ont été détruits. Reuters cite également Arès et Andernos parmi les communes soumises à une évacuation préventive ; la navigation sur le bassin d’Arcachon est temporairement interdite. Aucun signal ne permet d’envisager un déplacement vers le Cap Ferret.",
-    "fireStatus": "Incendie très actif et imprévisible"
+    "headline": "La presqu’île reste évacuée ; l’incendie a tourné vers l’est en direction de la métropole bordelaise et de nouvelles évacuations se préparent.",
+    "summary": "La situation s’est matériellement dégradée vendredi soir. Reuters indique qu’une inversion du vent a orienté l’incendie incontrôlé vers l’est, en direction de la métropole bordelaise. Le ministre de l’Intérieur fait état d’environ 14 000 hectares et de plus de 110 000 évacuations en Gironde ; un bilan médiatique plus tardif évoque près de 19 000 hectares et environ 140 000 évacuations dans l’ensemble du Sud-Ouest. Franceinfo signale la préparation d’autres évacuations métropolitaines, des bouchons extrêmes à la sortie d’Andernos et une alerte aux particules fines. L’aéroport de Bordeaux restait ouvert peu avant 22 heures, mais aucun élément ne permet d’envisager un déplacement vers le Cap Ferret.",
+    "fireStatus": "Non maîtrisé · progresse désormais vers l’est"
   },
   "currentAssessment": {
     "verdict": "N’allez pas au Cap Ferret : toute la presqu’île reste évacuée et l’incendie progresse encore.",
     "trajectory": "Dégradation",
-    "narrative": "Les faits déterminants sont l’évacuation complète de la presqu’île, un feu toujours décrit comme incontrôlé et en progression, et le renforcement des moyens. Reuters attribue au point préfectoral de 14 heures plus de 12 500 hectares parcourus et 44 000 évacuations en 48 heures ; environ 1 000 pompiers sont engagés. Les autorités font état de 53 maisons et d’un camping détruits. Les bilans de blessés divergent : le point préfectoral/SDIS antérieur fait état de 27 pompiers pris en charge, dont six hospitalisés, tandis qu’un média local avance un chiffre supérieur non corroboré indépendamment. Reuters cite également Arès et Andernos pour une évacuation préventive, et la préfecture maritime a temporairement interdit la navigation sur le bassin d’Arcachon. L’accès routier entrant reste fermé au public.",
-    "confidence": "Confiance élevée concernant les restrictions d’évacuation et de navigation, la mobilisation d’environ 1 000 pompiers, la mise à jour préfectorale de plus de 12 500 hectares et 44 000 évacuations rapportée par Reuters, et l’absence de possibilité de déplacement. Le bilan immobilier le plus clairement corroboré reste 53 maisons et un camping détruits, tandis que 2 000 maisons ont été sauvées. Le chiffre de blessés plus élevé rapporté ultérieurement reste non confirmé ; les formulations évoquant 80 habitations brûlées ou touchées ne doivent pas être interprétées comme 80 destructions totales confirmées.",
+    "narrative": "Le changement décisif de la soirée est l’orientation du feu vers l’est après une inversion du vent. Reuters indique qu’il progresse désormais vers la métropole bordelaise, tandis que Franceinfo signale la préparation de nouvelles évacuations métropolitaines et demande aux habitants de Saint-Médard-en-Jalles de se tenir prêts à une évacuation probable. Le ministre de l’Intérieur fait état d’environ 14 000 hectares brûlés et de plus de 110 000 personnes évacuées en Gironde ; un bilan médiatique encore plus tardif évoque près de 19 000 hectares, tandis que Franceinfo indique environ 140 000 évacuations dans l’ensemble du Sud-Ouest. La presqu’île reste entièrement évacuée, l’accès routier entrant et la navigation ordinaire sur le Bassin demeurent indisponibles, et aucun signal de réouverture n’existe. L’aéroport de Bordeaux restait ouvert peu avant 22 heures, sans report prévu à ce moment-là pour les départs du lendemain.",
+    "confidence": "Confiance élevée sur le changement de direction vers la métropole bordelaise, la préparation d’autres évacuations et l’inaccessibilité persistante de la presqu’île. Les chiffres ministériels d’environ 14 000 hectares et de plus de 110 000 évacuations en Gironde constituent les données officielles tardives les plus solides. Le bilan d’environ 19 000 hectares et les quelque 140 000 évacuations dans le Sud-Ouest restent présentés comme médiatiques dans l’attente d’un bulletin préfectoral concordant. Franceinfo ne nomme pas les trois communes métropolitaines dans l’information citée ; le tableau de bord n’en déduit donc pas les noms.",
     "priorities": [
-      "Toute la presqu’île reste évacuée ; Reuters cite également Arès et Andernos pour une évacuation préventive, sur la rive nord du Bassin.",
-      "Le feu reste incontrôlé ; 27 pompiers ont été pris en charge et les rafales d’ouest prévues pourraient atteindre 80 km/h.",
+      "Toute la presqu’île reste évacuée ; la pression s’étend vers l’est, en direction de la métropole bordelaise, où d’autres évacuations se préparent.",
+      "Le feu reste incontrôlé après une inversion du vent ; le dernier bilan ministériel fait état d’environ 14 000 hectares et de plus de 110 000 évacuations en Gironde.",
       "L’accès routier entrant et la navigation ordinaire sur le bassin d’Arcachon sont indisponibles : aucune voie terrestre ou maritime publique ne permet un séjour touristique.",
-      "Le prochain seuil décisif est la maîtrise officielle du feu et l’autorisation d’entrer, puis la réouverture de la route, des navettes, des réseaux, des plages, des commerces et des accès forestiers."
+      "L’aéroport de Bordeaux restait ouvert peu avant 22 heures, mais les bouchons extrêmes à la sortie d’Andernos et l’extension des préparatifs d’évacuation renforcent la recommandation de ne pas se déplacer."
     ]
   },
   "alerts": {
@@ -32,10 +32,15 @@
     },
     "Fire": {
       "label": "Incendie",
-      "value": "Non maîtrisé"
+      "value": "Non maîtrisé · progresse vers l’est"
     }
   },
   "materialUpdates": {
+    "material-2026-07-24-2309": {
+      "title": "L’inversion du vent oriente le feu vers la métropole bordelaise ; de nouvelles évacuations se préparent",
+      "detail": "Reuters indique que l’incendie incontrôlé de Gironde a changé d’orientation vendredi soir après une inversion du vent et progresse désormais vers l’est, en direction de la métropole bordelaise. Le ministre de l’Intérieur décrit un phénomène inédit et fait état d’environ 14 000 hectares brûlés et de plus de 110 000 évacuations en Gironde. Franceinfo signale la préparation de trois nouvelles évacuations métropolitaines, demande aux habitants de Saint-Médard-en-Jalles de se tenir prêts à une évacuation probable et constate des bouchons extrêmes à la sortie d’Andernos. Un bilan médiatique plus tardif approche 19 000 hectares ; ce chiffre supérieur attend une confirmation officielle concordante.",
+      "incrementalNews": "Il s’agit d’une nouvelle phase de trajectoire et d’évacuation : le feu ne progresse plus seulement autour du nord du Bassin et de la presqu’île, mais s’est orienté vers l’est en direction de la métropole bordelaise. Les meilleurs bilans tardifs passent de 12 500 à environ 14 000 hectares et de 44 000 à plus de 110 000 évacuations en Gironde, avec une estimation médiatique ultérieure proche de 19 000 hectares."
+    },
     "material-2026-07-24-1824": {
       "title": "Reuters attribue 12 500 hectares et 44 000 évacuations au point préfectoral de 14 heures",
       "detail": "La version plus récente de Reuters indique que le point préfectoral girondin de 14 heures établit que l’incendie de Saumos, toujours non maîtrisé, a parcouru plus de 12 500 hectares. Reuters rapporte 44 000 évacuations en 48 heures, environ 1 000 pompiers, plus de 260 moyens terrestres, 53 maisons et un camping détruits ; elle cite également Arès et Andernos pour une évacuation préventive. Les restrictions d’évacuation et de navigation sur le bassin restent applicables ; cette confirmation n’établit aucune réouverture.",
@@ -83,6 +88,9 @@
     }
   },
   "updates": {
+    "reader-franceinfo-live-20260724": "Les mises à jour tardives modifient matériellement la situation : le feu s’est orienté vers la métropole bordelaise, d’autres évacuations se préparent, le trafic sortant d’Andernos est presque à l’arrêt, la pollution aux particules s’aggrave et l’aéroport de Bordeaux restait ouvert peu avant 22 heures.",
+    "reader-liberation-live-20260724": "Le direct confirme la poursuite des évacuations et le caractère incontrôlé des incendies régionaux ; ses informations tardives servent d’élément d’appui à la nouvelle mise à jour sur la progression vers l’est.",
+    "11ff781b57cc": "Signale une estimation plus tardive proche de 19 000 hectares et des évacuations autour de Bordeaux ; la superficie reste présentée comme médiatique dans l’attente d’une confirmation officielle concordante.",
     "35d3bcc432fa": "Ajoute un récit de l’évacuation, sans fait matériel indépendant confirmé au-delà de l’ordre déjà applicable à toute la presqu’île.",
     "13f3b34dc1ad": "Ajoute un récit de l’évacuation, sans fait matériel indépendant confirmé au-delà de l’ordre déjà applicable à toute la presqu’île.",
     "3637e3545271": "N’ajoute aucun fait matériel nouveau au-delà de la confirmation de l’incendie en cours au Cap Ferret.",
@@ -410,6 +418,7 @@
     "Lège": "Évacué · feu à proximité / habitations touchées",
     "Arès": "Évacuation préventive obligatoire",
     "Andernos-les-Bains": "Évacuation préventive rapportée par Reuters",
+    "Saint-Médard-en-Jalles": "Habitants invités à se préparer à une évacuation probable · aucun ordre encore confirmé",
     "Claouey": "Évacué",
     "Le Canon": "Évacué · départ de navette maritime annoncé",
     "Grand Piquey": "Évacué · départ de navette maritime annoncé",
