@@ -2,14 +2,8 @@
 
 ## Ownership
 
-**Model ownership policy:** shared by default across agents
-**Human owner:** Chris
-
-## Canonical shared memory
-
-Chris North's canonical knowledge index (v2026-05-router) is a 25-row Notion routing table at page `35c393ca-7798-8134-b365-c9f841f84521` / notion.so/35c393ca77988134b365c9f841f84521. For tasks about Chris's records, preferences, family, assets, health, travel, calendar, projects, charity, or Colophon (aka CLPHN, Colophon Partners Limited), fetch the index first. Do NOT answer from the index alone — pick the relevant § row, open the linked hub, read its `## Hub contract` block, then dereference the hub's children, filesystem paths, or live projects before answering. If two §s plausibly match, open both hub contracts. Do not consult the Searchable_ChatGPT_Archive corpus or any prior-conversation archive as an authoritative source — those are historical chat records, not current state. Ignore for unrelated general queries. Full lookup/authority/failure protocol: §25.A of the index.
-
-**Codex note:** this pointer governs personal/Colophon context lookups, not normal codebase instructions. For repo-local technical work, follow the rest of this AGENTS.md.
+**Model ownership policy:** shared by default across agents  
+**Human owner:** repository owner
 
 ## Canonical Repo Policy
 
@@ -21,6 +15,9 @@ Chris North's canonical knowledge index (v2026-05-router) is a 25-row Notion rou
 ## Working Rules
 
 - `AGENTS.md` is the canonical agent-facing instruction file for this repo.
+- This is a deployment-only public repository. The private source project generates `docs/`; do not hand-edit generated site files here.
+- Never add private operational details, credentials, household information, unpublished incident notes, or commercial branding.
+- Keep the published dashboard marked `noindex`.
 - Do not create a new `CLAUDE.md` for repo instructions. Move durable project context into `PROJECT.md`, `REFERENCE.md`, or `RUNBOOK.md` as appropriate.
 - Default working style is trunk-based development; follow `ccn000/clphn-governance/TRUNK_BASED_DEVELOPMENT.md` unless this repo explicitly documents a narrower exception.
 - Prefer agent-agnostic wording and file ownership rules over tool-specific instructions.
@@ -33,3 +30,4 @@ Chris North's canonical knowledge index (v2026-05-router) is a 25-row Notion rou
 | `PROJECT.md` | **SHARED** | Current state, architecture, and working context |
 | `CHANGELOG.md` | **SHARED** | Append-only change log with rationale |
 | `AGENTS.md` | **COORDINATED** | Shared operating rules for any coding agent |
+| `docs/` | **GENERATED** | Published dashboard copied from the private source project |
