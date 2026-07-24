@@ -11,7 +11,7 @@
     "aviation": "2026-07-24T15:49:00+02:00",
     "reopening": "2026-07-24T13:56:00+02:00",
     "articles": "2026-07-24T20:17:30.000Z",
-    "social": "2026-07-24T16:12:09+02:00",
+    "social": "2026-07-24T20:34:08.336Z",
     "sources": "2026-07-24T20:45:19.149Z",
     "weather": "2026-07-24T20:45:01.144Z"
   },
@@ -952,6 +952,56 @@
     }
   ],
   "socialSignals": [
+    {
+      "title": "A satellite observer saw a possible reduction in fire intensity—but explicitly cautioned that the signal was ambiguous",
+      "summary": "Cédric Mas posted that the affected area remained striking while the apparent intensity looked lower, but questioned whether rain or a gap in satellite coverage explained the image.",
+      "interesting": "This is an early visual interpretation worth watching, not evidence that the fire is contained or weakening. The author’s own caveat is essential.",
+      "source": "Bluesky · @cedricmas.eurosky.social",
+      "url": "https://bsky.app/profile/did:plc:x6iwiot43norkasv6mnxvfgs/post/3mrg77q3rv22s",
+      "createdAt": "2026-07-24T20:34:08.336Z",
+      "credibility": "Specialist observation · low",
+      "incremental": "Possible intensity signal"
+    },
+    {
+      "title": "A media-linked post relayed the prefect’s warning that the fire was heading toward the Bordeaux metropolitan area",
+      "summary": "A Bluesky news-flow account linked BFMTV reporting that the regional prefect described the fire as moving toward metropolitan Bordeaux and said further evacuations should be expected.",
+      "interesting": "It adds later directional and evacuation-risk context beyond the peninsula, but the social post is a relay and must not be read as a precise fire-path forecast.",
+      "source": "Bluesky · @news-flows-fr.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrg7mzj6gd2t",
+      "createdAt": "2026-07-24T20:30:47.000Z",
+      "credibility": "Media-linked report · medium",
+      "incremental": "Directional warning"
+    },
+    {
+      "title": "A Franceinfo-linked post described a second night of continuous firefighting",
+      "summary": "The post linked a France Télévisions report following crews through an operation with no meaningful overnight pause after roughly 48 hours of firefighting.",
+      "interesting": "It provides useful operational texture on fatigue and sustained deployment without changing the official control, casualty or access status.",
+      "source": "Bluesky · @newsfr.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:m6a3yhogcjfbeuzpo3ih47kd/post/3mrfzeqbrpw2v",
+      "createdAt": "2026-07-24T18:49:33.420Z",
+      "credibility": "Media-linked report · medium",
+      "incremental": "Firefighting colour"
+    },
+    {
+      "title": "A television-linked post added another first-person account of the urgent Cap Ferret evacuation",
+      "summary": "A Bluesky news-flow account linked a BFMTV interview in which Sophie Davant described having to evacuate Cap Ferret.",
+      "interesting": "It adds another direct account of how abruptly visitors had to leave, but no new access instruction or incident fact.",
+      "source": "Bluesky · @news-flows-fr.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrfzexz6su2f",
+      "createdAt": "2026-07-24T18:28:23.000Z",
+      "credibility": "Broadcast interview relay · medium",
+      "incremental": "Evacuation colour"
+    },
+    {
+      "title": "A traffic-alert post reported preventive evacuations expanding around the fire corridor",
+      "summary": "The post named Sainte-Hélène, Salaunes and Lanton and urged motorists to avoid the wider sector as the incident progressed.",
+      "interesting": "It is a potentially incremental operational warning about pressure spreading beyond the peninsula; treat the named scope as unverified here until matched to an authority notice.",
+      "source": "Bluesky · @traficalert-news.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:y6cvlg265swmzvzndadp5jfs/post/3mrfwonvpis2f",
+      "createdAt": "2026-07-24T18:01:25.000Z",
+      "credibility": "Traffic-alert relay · low",
+      "incremental": "Possible evacuation expansion"
+    },
     {
       "title": "A local-news post relayed evacuees’ accounts of the night the peninsula changed",
       "summary": "A Bluesky post from Rue89 Bordeaux linked accounts from Cécile, Evelyne and Pierre describing their overnight evacuation as the wildfire reached the peninsula.",
