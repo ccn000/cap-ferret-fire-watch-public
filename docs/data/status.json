@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T21:49:00.000Z",
+  "generatedAt": "2026-07-24T22:33:08.784Z",
   "sectionUpdates": {
     "assessment": "2026-07-24T23:46:00+02:00",
     "map": "2026-07-24T23:30:00+02:00",
@@ -11,9 +11,9 @@
     "aviation": "2026-07-24T23:46:00+02:00",
     "reopening": "2026-07-24T13:56:00+02:00",
     "articles": "2026-07-24T21:29:00.000Z",
-    "social": "2026-07-24T20:34:08.336Z",
-    "sources": "2026-07-24T21:45:54.910Z",
-    "weather": "2026-07-24T21:45:54.685Z"
+    "social": "2026-07-25T00:22:14+02:00",
+    "sources": "2026-07-24T22:33:08.784Z",
+    "weather": "2026-07-24T22:33:06.428Z"
   },
   "incident": {
     "level": "FULL EVACUATION",
@@ -329,6 +329,30 @@
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOZ2VORV85dHNXcVVibm9GSHo4VWdkeFJCOWxIU3dXYXQ4X2FHQkJ5dWpBYVQxZVVDeFVQQlJwQmJmQU9Pc0NKZVhyVFpkQnE2ZmdpZEV3TjFMWndXdHlIRFJsMFlFMGFrU05kNXpuWnhmbVI0ZE1kdHJDMUd1Qk10S08tLUFjcGNWQWZCLVJJRFEwM19DalJpY25WWS1peW9kSW44R0l2OE5aaUNENkl6N3lwV2FiWmpPZzZlczF2SmlNUlRpZGNVM2VIODA1bTZMVHZscE1DUFVHSFl1RmxuU19IbjlyM1NaS29UaFIzc1VaOGltVmF4ZnpOc0ZJSHdZbS1UYXN3QlZpYzNDdEFzQ0pEYXVHTE1IUzdKN2QzUlUzUzU4Mzh4Mm5lV2RoUWp4eTFnM1l5cHlVNHliUUw3ZGFUVjhNS0t1dWRzNQ?oc=5",
       "importance": 2,
       "publishedAt": "2026-07-24T19:15:16.000Z"
+    },
+    {
+      "id": "97a4d0bd4999",
+      "time": "20:39",
+      "title": "Plus de 12 500 hectares brûlés en Gironde et au moins 44 000 personnes évacuées : le scénario noir - franceinfo",
+      "detail": "Adds evacuation reporting but no independently confirmed material fact beyond the existing peninsula-wide order.",
+      "source": "Google News",
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQRnZsNHdkV2x5SnMyNkxrYWRtXzRYQ1ZTMVZZa0t1cmJzMEs0SzAtdjgxdTZtUDlMN1Nxa3l4MndCX1pISXktVUJ5Z25ESlFWSXFhZTZFV29wMC1mMk9GQmp0dmF2bW90c0hxVHNLRVAxZl96YnkzdmJ4VlEtSm9fOE9rUEt6Y0E0VndWRVgyc0Z4dS1KU0hGZy1pQkxybGMyOUlIN2J3OFdqeVp2cEt0TlkwRjRsWjBZSlpCbENvdmVvUkdWNXFsekNjdDdMcG1nRzNxaEVSTXZnMFVuSDMyRjZrOWotQjBuZVZaV2ZvUEF0WnloOG1TVUdXUlh6STlUbUJlU2tYWEdLYm1zX2FrN0RlSF9xaHhBaEZuTmVGSEpPWWJNLU5tZXJPc0YzTC1KOVp1Y3AxYw?oc=5",
+      "importance": 4,
+      "publishedAt": "2026-07-24T18:39:03.000Z",
+      "classification": {
+        "score": 6,
+        "priority": "context",
+        "reasons": [
+          "evacuation"
+        ],
+        "authorityAttributed": false,
+        "changeLanguage": false,
+        "numbers": [
+          "12 500 hectares",
+          "44 000 personnes"
+        ]
+      }
     },
     {
       "id": "3b7064c3cc47",
@@ -679,27 +703,6 @@
         "changeLanguage": false,
         "numbers": []
       }
-    },
-    {
-      "id": "ced9013d9b2d",
-      "time": "11:21",
-      "title": "Feu Nord Bassin: Evacuation des villages de la presqu’île et du Porge. - InfoBassin",
-      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
-      "source": "Google News",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEMnM2MW9ub05lSnowdldVUW14dTdLQUwyRm5ocWNUMUlsWEZ6NFBBRVM4TEVxSDFKZ3dVaExLei1ibF9Gb0oyVXV4SURGTXNTQ2VZaA?oc=5",
-      "importance": 2,
-      "publishedAt": "2026-07-24T09:21:29.000Z",
-      "classification": {
-        "score": 5,
-        "priority": "context",
-        "reasons": [
-          "evacuation"
-        ],
-        "authorityAttributed": false,
-        "changeLanguage": false,
-        "numbers": []
-      }
     }
   ],
   "access": [
@@ -964,52 +967,72 @@
       "name": "Lège-Cap-Ferret Town Hall",
       "type": "Official",
       "url": "https://www.ville-lege-capferret.fr/top_slider/information-incendie-saumos/",
-      "checkedAt": "2026-07-24T21:45:54.910Z"
+      "checkedAt": "2026-07-24T22:33:08.784Z"
     },
     {
       "name": "Gironde Prefecture",
       "type": "Official",
       "url": "https://www.gironde.gouv.fr/",
-      "checkedAt": "2026-07-24T21:45:54.910Z"
+      "checkedAt": "2026-07-24T22:33:08.784Z"
     },
     {
       "name": "Gironde Department",
       "type": "Official",
       "url": "https://www.gironde.fr/actualites/vigilance-rouge-pour-le-risque-feu-de-foret",
-      "checkedAt": "2026-07-24T21:45:54.910Z"
+      "checkedAt": "2026-07-24T22:33:08.784Z"
     },
     {
       "name": "Feux de Forêt",
       "type": "Specialist",
       "url": "https://feuxdeforet.fr/",
-      "checkedAt": "2026-07-24T21:45:54.910Z"
+      "checkedAt": "2026-07-24T22:33:08.784Z"
     },
     {
       "name": "NASA FIRMS",
       "type": "Satellite",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/",
-      "checkedAt": "2026-07-24T21:45:54.910Z"
+      "checkedAt": "2026-07-24T22:33:08.784Z"
     },
     {
       "name": "Météo-France · forêts",
       "type": "Official",
       "url": "https://meteofrance.com/meteo-des-forets",
-      "checkedAt": "2026-07-24T21:45:54.910Z"
+      "checkedAt": "2026-07-24T22:33:08.784Z"
     },
     {
       "name": "France Bleu / ici Gironde",
       "type": "Local media",
       "url": "https://www.francebleu.fr/gironde",
-      "checkedAt": "2026-07-24T21:45:54.910Z"
+      "checkedAt": "2026-07-24T22:33:08.784Z"
     },
     {
       "name": "Public social networks",
       "type": "Signal",
       "url": "https://bsky.app/search?q=incendie%20Cap%20Ferret",
-      "checkedAt": "2026-07-24T21:45:54.910Z"
+      "checkedAt": "2026-07-24T22:33:08.784Z"
     }
   ],
   "socialSignals": [
+    {
+      "title": "A public relay lists additional communes told to prepare for evacuation as the fire moves east",
+      "summary": "A Mastodon post relays the prefect’s prepare-to-evacuate warning and names Sainte-Hélène, Salaunes and Lanton among the communes concerned by the fire’s trajectory.",
+      "interesting": "It adds useful place-level detail to the broader metropolitan warning. This remains a secondary relay: residents must follow the prefecture and municipal channels for any actual evacuation order.",
+      "source": "Mastodon · @FoucPerotin@piaille.fr",
+      "url": "https://piaille.fr/@FoucPerotin/116977286174950269",
+      "createdAt": "2026-07-24T22:22:14.000Z",
+      "credibility": "Public relay of prefectural warning · medium",
+      "incremental": "Additional communes named"
+    },
+    {
+      "title": "A Bordeaux resident described outdoor air as barely breathable",
+      "summary": "A first-person Mastodon post from Bordeaux reported very strong smoke and said the air in the streets felt barely breathable.",
+      "interesting": "This adds immediate human colour to the official particulate-pollution alert and helps explain why smoke is now affecting transport and daily activity. It is an individual observation, not a sensor reading.",
+      "source": "Mastodon · @Martin_Pigeon@mamot.fr",
+      "url": "https://mamot.fr/@Martin_Pigeon/116977140953089918",
+      "createdAt": "2026-07-24T21:45:18.000Z",
+      "credibility": "First-person observation · low",
+      "incremental": "Smoke conditions"
+    },
     {
       "title": "A satellite observer saw a possible reduction in fire intensity—but explicitly cautioned that the signal was ambiguous",
       "summary": "Cédric Mas posted that the affected area remained striking while the apparent intensity looked lower, but questioned whether rain or a gap in satellite coverage explained the image.",
@@ -1297,11 +1320,11 @@
         "url": "https://news.google.com/rss/search?q=%28incendie+OR+feu%29+%28L%C3%A8ge-Cap-Ferret+OR+Saumos+OR+Le+Porge%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-24T21:45:52.835Z",
-        "latencyMs": 530,
+        "checkedAt": "2026-07-24T22:33:05.101Z",
+        "latencyMs": 184,
         "itemCount": 96,
         "error": null,
-        "lastGoodAt": "2026-07-24T21:45:52.835Z",
+        "lastGoodAt": "2026-07-24T22:33:05.101Z",
         "lastFailureAt": null
       },
       {
@@ -1311,11 +1334,11 @@
         "url": "https://news.google.com/rss/search?q=%28r%C3%A9ouverture+OR+retour+OR+acc%C3%A8s%29+%28Cap+Ferret+OR+L%C3%A8ge%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-24T21:45:52.869Z",
-        "latencyMs": 390,
+        "checkedAt": "2026-07-24T22:33:05.135Z",
+        "latencyMs": 146,
         "itemCount": 87,
         "error": null,
-        "lastGoodAt": "2026-07-24T21:45:52.869Z",
+        "lastGoodAt": "2026-07-24T22:33:05.135Z",
         "lastFailureAt": null
       },
       {
@@ -1325,11 +1348,11 @@
         "url": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-24T21:45:53.367Z",
-        "latencyMs": 338,
+        "checkedAt": "2026-07-24T22:33:05.287Z",
+        "latencyMs": 168,
         "itemCount": 8,
         "error": null,
-        "lastGoodAt": "2026-07-24T21:45:53.367Z",
+        "lastGoodAt": "2026-07-24T22:33:05.287Z",
         "lastFailureAt": null
       },
       {
@@ -1339,12 +1362,12 @@
         "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-des-evacuations-par-bateau-en-gironde-la-situation-nest-pas-sous-controle-dans-les-landes-20260724_CUWC25TVWRFZ7JZIHU2QBJ66PI/",
         "critical": false,
         "status": "failed",
-        "checkedAt": "2026-07-24T21:45:53.368Z",
-        "latencyMs": 172,
+        "checkedAt": "2026-07-24T22:33:05.287Z",
+        "latencyMs": 197,
         "itemCount": null,
         "error": "403 ",
         "lastGoodAt": null,
-        "lastFailureAt": "2026-07-24T21:45:53.368Z"
+        "lastFailureAt": "2026-07-24T22:33:05.287Z"
       },
       {
         "id": "bluesky-search",
@@ -1353,11 +1376,11 @@
         "url": "https://api.bsky.app/xrpc/app.bsky.feed.searchPosts",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-24T21:45:54.910Z",
+        "checkedAt": "2026-07-24T22:33:08.784Z",
         "latencyMs": null,
         "itemCount": 30,
         "error": null,
-        "lastGoodAt": "2026-07-24T21:45:54.910Z",
+        "lastGoodAt": "2026-07-24T22:33:08.784Z",
         "lastFailureAt": null
       },
       {
@@ -1367,11 +1390,25 @@
         "url": "https://www.reddit.com/search.rss",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-24T21:45:54.910Z",
+        "checkedAt": "2026-07-24T22:33:08.784Z",
         "latencyMs": null,
         "itemCount": 4,
         "error": null,
-        "lastGoodAt": "2026-07-24T21:45:54.910Z",
+        "lastGoodAt": "2026-07-24T22:33:08.784Z",
+        "lastFailureAt": "2026-07-24T22:32:23.190Z"
+      },
+      {
+        "id": "mastodon-search",
+        "name": "Mastodon public tag timelines",
+        "kind": "social-search",
+        "url": "https://mastodon.social/api/v1/timelines/tag/gironde",
+        "critical": false,
+        "status": "ok",
+        "checkedAt": "2026-07-24T22:33:08.784Z",
+        "latencyMs": null,
+        "itemCount": 20,
+        "error": null,
+        "lastGoodAt": "2026-07-24T22:33:08.784Z",
         "lastFailureAt": null
       },
       {
@@ -1381,11 +1418,11 @@
         "url": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-24T21:45:54.685Z",
+        "checkedAt": "2026-07-24T22:33:06.428Z",
         "latencyMs": null,
         "itemCount": 3,
         "error": null,
-        "lastGoodAt": "2026-07-24T21:45:54.685Z",
+        "lastGoodAt": "2026-07-24T22:33:06.428Z",
         "lastFailureAt": null
       },
       {
@@ -1395,21 +1432,53 @@
         "url": "https://sig.gironde.fr/arcgis/services/ec_routes_ferm%C3%A9es/MapServer/WFSServer?service=WFS&version=2.0.0&request=GetFeature&typenames=ec_routes_ferm%C3%A9es%3ARoutes_d%C3%A9partementales_ferm%C3%A9es&outputFormat=GEOJSON",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-24T21:45:54.685Z",
+        "checkedAt": "2026-07-24T22:33:06.428Z",
         "latencyMs": null,
         "itemCount": 14,
         "error": null,
-        "lastGoodAt": "2026-07-24T21:45:54.685Z",
+        "lastGoodAt": "2026-07-24T22:33:06.428Z",
         "lastFailureAt": null
       }
     ],
     "health": {
-      "checked": 8,
-      "healthy": 7,
+      "checked": 9,
+      "healthy": 8,
       "failed": 1,
       "criticalFailures": 0,
       "synthesisReviewRequired": false,
       "newestUrgentCandidateAt": "2026-07-24T21:30:45.888Z"
+    },
+    "social": {
+      "checkedAt": "2026-07-24T22:33:08.784Z",
+      "newestCandidateAt": "2026-07-24T22:31:15.008Z",
+      "newestDisplayedAt": "2026-07-24T22:22:14.000Z",
+      "lagMinutes": 9,
+      "reviewRequired": false,
+      "candidateCount": 35,
+      "displayedCount": 16,
+      "invalidCandidateLinks": 0,
+      "invalidDisplayedLinks": 0
+    },
+    "audit": {
+      "synthesisMaterialId": "material-2026-07-24-2346",
+      "synthesisUpdatedAt": "2026-07-24T23:46:00+02:00",
+      "urgentCandidatesAfterSynthesis": [],
+      "classificationReasonCounts": {
+        "harm": 1,
+        "evacuation": 8,
+        "response": 3,
+        "access": 5,
+        "air-quality": 4,
+        "fire-behaviour": 2
+      },
+      "failedSources": [
+        {
+          "id": "liberation-live",
+          "lastGoodAt": null,
+          "lastFailureAt": "2026-07-24T22:33:05.287Z",
+          "error": "403 "
+        }
+      ]
     }
   },
   "socialCandidates": [
@@ -1418,284 +1487,459 @@
       "source": "Bluesky · @trend-words-fr.bsky.social",
       "url": "https://bsky.app/profile/did:plc:m3aen4gaf2abm2yyq3wpbucu/post/3mrfjdl3ux42e",
       "createdAt": "2026-07-24T23:02:36+09:00",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
+    },
+    {
+      "title": "‼️ [ 🇫🇷 FRANCE ] 🔸 C’est désormais 22 000 hectares qui sont partis en fumée dans l’immense incendie de Lège-Cap-Ferret, au nord du bassin d’Arcachon. La Gironde est confrontée à",
+      "source": "Bluesky · @littlethinktank.fr",
+      "url": "https://bsky.app/profile/did:plc:2awsew56svs4bona4lj2tj67/post/3mrgfr6hwj72o",
+      "createdAt": "2026-07-24T22:31:15.008558+00:00",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.355Z"
+      }
+    },
+    {
+      "title": "L’incendie poussé par un vent d’ouest soutenu, se dirige vers la métropole de Bordeaux. La préfète demande à ce que chacun se prépare à évacuer dans les communes concernées par la trajectoire de l’incendie : Sainte-Hélène, Salaunes, Lanton,",
+      "source": "Mastodon · @FoucPerotin@piaille.fr",
+      "url": "https://piaille.fr/@FoucPerotin/116977286174950269",
+      "createdAt": "2026-07-24T22:22:14.000Z",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "mastodon",
+        "reason": "Mastodon URLs must identify an account and numeric status.",
+        "checkedAt": "2026-07-24T22:31:10.110Z"
+      }
+    },
+    {
+      "title": "RT: @asso_psfdf 🔥 19 000 hectares C'est la surface déjà parcourue par l'incendie en cours en Gironde Un chiffre vertigineux, qui témoigne d'une situation totalement hors normes et qui exige la plus grande vigilance de chacun ⚠️ Si vous vou",
+      "source": "Mastodon · @ExtremeMeteo@mastox.eu",
+      "url": "https://mastox.eu/@ExtremeMeteo/116977207041085097",
+      "createdAt": "2026-07-24T22:02:07.000Z",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "mastodon",
+        "reason": "Mastodon URLs must identify an account and numeric status.",
+        "checkedAt": "2026-07-24T22:31:10.110Z"
+      }
+    },
+    {
+      "title": "Incendie en Gironde : le feu s’étend de Saumos au bassin d’Arcachon https://www.europesays.com/fr/1085999/ Toujours non maîtrisé, l’incendie parti mercredi de Saumos s’est propagé ",
+      "source": "Bluesky · @fr-france.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:5ekaaudi6pc22b4axp54hqre/post/3mrgdiegiym23",
+      "createdAt": "2026-07-24T21:50:31+00:00",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:10.109Z"
+      }
+    },
+    {
+      "title": "Bon, hé bien je peux témoigner que l'air est à peine respirable dans les rues de # Bordeaux ... Ce n'est pas drôle. # Incendie # Gironde",
+      "source": "Mastodon · @Martin_Pigeon@mamot.fr",
+      "url": "https://mamot.fr/@Martin_Pigeon/116977140953089918",
+      "createdAt": "2026-07-24T21:45:18.000Z",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "mastodon",
+        "reason": "Mastodon URLs must identify an account and numeric status.",
+        "checkedAt": "2026-07-24T22:31:10.110Z"
+      }
     },
     {
       "title": "Incendie en Gironde: Andernos-les-Bains, habituellement animée, se transforme en ville fantôme après les évacuations 32 incendies sont en cours sur l'ensemble du territoire, a fait",
       "source": "Bluesky · @news-flows-fr.bsky.social",
       "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrgbvsp2ho2x",
       "createdAt": "2026-07-24T21:11:26.000000Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
     },
     {
       "title": "C'est un sacré gros incendie au Cap Ferret. Manuka, un mangaversien, a des fumées au dessus de chez lui (il habite à côté de Jarnac, en Charente) et il m'a dit que vers 19h, le sol",
       "source": "Bluesky · @herbv78.bsky.social",
       "url": "https://bsky.app/profile/did:plc:bhmjg7t7dqmisfzdtp6e5mql/post/3mrgb4fjfg22a",
       "createdAt": "2026-07-24T21:08:04.081Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
     },
     {
       "title": "Incendie en Gironde. « Autant rester chez soi non ? » : entre Andernos et Audenge, des centaines de véhicules devant évacués arrêtés depuis des heures 🔗https://l.sudouest.fr/JMXx",
       "source": "Bluesky · @sudouest-33.bsky.social",
       "url": "https://bsky.app/profile/did:plc:vyttkyftqfwlnijvlfxafwjg/post/3mrgasqqjkm2r",
       "createdAt": "2026-07-24T21:02:25.556Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
     },
     {
       "title": "Le feu se dirige vers Bordeaux Los Angeles a déjà été rasé par les flammes 🔥 (mais au mois de janvier) l’année dernière LFI : OMG c’est scandaleux y’a certainement des musulmans e",
       "source": "Bluesky · @reheissergaspard.bsky.social",
       "url": "https://bsky.app/profile/did:plc:vfmtystszucn7zth6i7rgxcz/post/3mrgaj5ast223",
       "createdAt": "2026-07-24T20:57:17.876Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
     },
     {
       "title": "Incendie en Gironde: le feu de Lège-Cap Ferret se \"dirige vers la métropole bordelaise\" 📰 BFMTV - Climat #rss-optimus #actualite #meteo #bfmtv",
       "source": "Bluesky · @rss-optimus.bsky.social",
       "url": "https://bsky.app/profile/did:plc:3lt6okyoet6gd44yvm742mp3/post/3mrgafanicq2j",
       "createdAt": "2026-07-24T20:55:07.056Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
+    },
+    {
+      "title": "J'ai préparé un bagage avec quelques affaires, préparé la caisse d'Isis... Sait on jamais. La préfète a indiqué \"chacun doit se préparer a évacuer \" # incendie # Bordeaux",
+      "source": "Mastodon · @optimistique33@gayfr.social",
+      "url": "https://gayfr.social/@optimistique33/116976879262159665",
+      "createdAt": "2026-07-24T20:38:45.000Z",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "mastodon",
+        "reason": "Mastodon URLs must identify an account and numeric status.",
+        "checkedAt": "2026-07-24T22:31:10.110Z"
+      }
     },
     {
       "title": "Incendie du Cap Ferret La superficie est impressionnante mais il semble que l’intensité se réduise (pluies ? Ou satellites qui n’ont pas survolé la zone)",
       "source": "Bluesky · @cedricmas.eurosky.social",
       "url": "https://bsky.app/profile/did:plc:x6iwiot43norkasv6mnxvfgs/post/3mrg77q3rv22s",
       "createdAt": "2026-07-24T20:34:08.336Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
     },
     {
       "title": "Incendie en Gironde: le feu de Lège-Cap Ferret se \"dirige vers la métropole bordelaise\" Vendredi 24 juillet, la préfète de la Nouvelle-Aquitaine et de la Gironde a annoncé que le f",
       "source": "Bluesky · @news-flows-fr.bsky.social",
       "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrg7mzj6gd2t",
       "createdAt": "2026-07-24T20:30:47.000000Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
     },
     {
       "title": "DIRECT. Incendie en Gironde : 8 700 hectares parcourus, le feu continue à progresser rapidement, évacuation \" immédiate \" de plusieurs villages de la presqu’île du Cap-Ferret… Suiv",
       "source": "Bluesky · @actusfr.bsky.social",
       "url": "https://bsky.app/profile/did:plc:ujcfuunnifiu3jwuf3vek6ee/post/3mrfycwktt52g",
       "createdAt": "2026-07-24T20:30:21+02:00",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
     },
     {
       "title": "Un feu \"imprévisible\" et \"vorace\" : on fait le récit en images des incendies en Gironde et dans les Landes www.franceinfo.fr/faits-divers... Un incendie s'est déclenché mercredi en",
       "source": "Bluesky · @niiqo.eurosky.social",
       "url": "https://bsky.app/profile/did:plc:cdfsnjo3ggkaivkimlxsnxpu/post/3mrg6wkybux2e",
       "createdAt": "2026-07-24T20:29:00.708Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
+    },
+    {
+      "title": "On est en train de gentiment étouffer sous les odeurs de fumées à Bordeaux, et sur France Inter il y a un concert de The Divine Comedy… l’impression d’un naufrage en musique… # incendie",
+      "source": "Mastodon · @VincentPerrot@piaille.fr",
+      "url": "https://piaille.fr/@VincentPerrot/116976754244498252",
+      "createdAt": "2026-07-24T20:06:58.000Z",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "mastodon",
+        "reason": "Mastodon URLs must identify an account and numeric status.",
+        "checkedAt": "2026-07-24T22:31:10.110Z"
+      }
+    },
+    {
+      "title": "Ça se rapproche toujours plus ! # incendie # Bordeaux",
+      "source": "Mastodon · @optimistique33@gayfr.social",
+      "url": "https://gayfr.social/@optimistique33/116976729557634662",
+      "createdAt": "2026-07-24T20:00:41.000Z",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "mastodon",
+        "reason": "Mastodon URLs must identify an account and numeric status.",
+        "checkedAt": "2026-07-24T22:31:10.110Z"
+      }
     },
     {
       "title": "Incendie en Gironde : \"Un sentiment de très grande insécurité...\" Où vont aller les milliers de personnes évacuées de la presqu'île du Cap-Ferret ?",
       "source": "Bluesky · @ekime.bsky.social",
       "url": "https://bsky.app/profile/did:plc:bjql5x4d2sknkpmpfla2maqt/post/3mrg55exfuj2z",
       "createdAt": "2026-07-24T19:57:00.606Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
+    },
+    {
+      "title": "RT: @c2f4af755202454 Cet après-midi, le ciel de Lacanau s’est voilé d’une épaisse fumée noire. L’incendie en Gironde continue de progresser et sème la panique. Certains commerçants ont déjà choisi de fermer en ville. # incendie # Gironde # ",
+      "source": "Mastodon · @ExtremeMeteo@mastox.eu",
+      "url": "https://mastox.eu/@ExtremeMeteo/116976697616487591",
+      "createdAt": "2026-07-24T19:52:34.000Z",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "mastodon",
+        "reason": "Mastodon URLs must identify an account and numeric status.",
+        "checkedAt": "2026-07-24T22:31:10.110Z"
+      }
+    },
+    {
+      "title": "❗🏥 Plan blanc décrété en Gironde, et notamment au CHU de Bordeaux qui accueille des patients d'autres hôpitaux et des résidents de foyers et d'Ehpad évacués. Pour ne rien arranger, une partie du personnel habite elle-même en zone évacuée e",
+      "source": "Mastodon · @nicolasberrod@mastox.eu",
+      "url": "https://mastox.eu/@nicolasberrod/116976585634078112",
+      "createdAt": "2026-07-24T19:24:05.000Z",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "mastodon",
+        "reason": "Mastodon URLs must identify an account and numeric status.",
+        "checkedAt": "2026-07-24T22:31:10.110Z"
+      }
     },
     {
       "title": "Seul point positif de cet incendie au Cap-Ferret, y a un paquet de jeux de mölkky qui ont cramé.",
       "source": "Bluesky · @abdokro.bsky.social",
       "url": "https://bsky.app/profile/did:plc:55rajl426zw5zavfn4bg2r2k/post/3mrg2wx4sb22b",
       "createdAt": "2026-07-24T19:17:38.765Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
+    },
+    {
+      "title": "Mais quel enfer ! # incendie # Bordeaux",
+      "source": "Mastodon · @optimistique33@gayfr.social",
+      "url": "https://gayfr.social/@optimistique33/116976539976439034",
+      "createdAt": "2026-07-24T19:12:28.000Z",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "mastodon",
+        "reason": "Mastodon URLs must identify an account and numeric status.",
+        "checkedAt": "2026-07-24T22:31:10.110Z"
+      }
     },
     {
       "title": "Au final c'est un garage qui a pris feu et qui a rapidement été éteint, mais leur stock de pneus a brulés, ce qui explique la quantité importante de fumée noire malgré que cela n'a",
       "source": "Bluesky · @pierrrrrrre.bsky.social",
       "url": "https://bsky.app/profile/did:plc:enczsykyagzv3jtm7pjhqvbj/post/3mrg2i2qxjk2o",
       "createdAt": "2026-07-24T19:09:19.254Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
     },
     {
       "title": "À Lège-Cap-Ferret, les pompiers affrontent une nuit sans repos: 48 heures de combat, évacuations massives, maisons qui brûlent et une lutte où le feu semble ne jamais dormir. Des h",
       "source": "Bluesky · @newsfr.bsky.social",
       "url": "https://bsky.app/profile/did:plc:m6a3yhogcjfbeuzpo3ih47kd/post/3mrfzeqbrpw2v",
       "createdAt": "2026-07-24T18:49:33.420Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
+    },
+    {
+      "title": "Les fumées de Gironde sont arrivées à Nantes 8( # incendies # incendies2026 # nantes # gironde",
+      "source": "Mastodon · @kimael@mamot.fr",
+      "url": "https://mamot.fr/@kimael/116976449210334600",
+      "createdAt": "2026-07-24T18:49:23.000Z",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "mastodon",
+        "reason": "Mastodon URLs must identify an account and numeric status.",
+        "checkedAt": "2026-07-24T22:31:10.110Z"
+      }
     },
     {
       "title": "Incendie en Gironde : l'évacuation de la presqu'île du Cap-Ferret ordonnée, plus de 10 000 ha parcourus par les flammes - @afp.com via Marianne CHENU @leparisien.fr www.leparisien.",
       "source": "Bluesky · @jeromeollier.bsky.social",
       "url": "https://bsky.app/profile/did:plc:b3qde47tvk2i6fx4hmwhwokp/post/3mrfyv6lu6c2o",
       "createdAt": "2026-07-24T18:40:51.996Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
     },
     {
       "title": "Incendie en Gironde: l'animatrice Sophie Davant raconte son évacuation du Cap Ferret L'animatrice Sophie Davant était invitée au micro de BFMTV, ce vendredi 24 juillet. Elle racont",
       "source": "Bluesky · @news-flows-fr.bsky.social",
       "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrfzexz6su2f",
       "createdAt": "2026-07-24T18:28:23.000000Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
     },
     {
       "title": "#incendies Gironde Lacanau Bordeaux Arcachon Landes Cap Ferret #incendie les pompiers sont des héros ; ils risquent leurs vies pour sauver celle des autres , ils sont soutenus par ",
       "source": "Bluesky · @bazouzabou.mstdn.fr.ap.brid.gy",
       "url": "https://bsky.app/profile/did:plc:7xnzfatinqrgutspserpnd3u/post/3mrfxmgmnotq2",
       "createdAt": "2026-07-24T18:17:48.000Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
+    },
+    {
+      "title": "# incendies Gironde Lacanau Bordeaux Arcachon Landes Cap Ferret # incendie les pompiers sont des héros ; ils risquent leurs vies pour sauver celle des autres , ils sont soutenus par la population en revanche ils ne sont pas assez rémunérés ",
+      "source": "Mastodon · @bazouzabou@mstdn.fr",
+      "url": "https://mstdn.fr/@bazouzabou/116976324993919927",
+      "createdAt": "2026-07-24T18:17:48.000Z",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "mastodon",
+        "reason": "Mastodon URLs must identify an account and numeric status.",
+        "checkedAt": "2026-07-24T22:31:10.110Z"
+      }
     },
     {
       "title": "Incendie en Gironde: le maire de Lège-Cap-Ferret déclare que l'incendie a fait deux blessés dans sa commune #LègeCapFerret #Incendie #pompier #gironde",
       "source": "Bluesky · @actusnonstop.bsky.social",
       "url": "https://bsky.app/profile/did:plc:7qmby2e45iyhog62rbboioik/post/3mrfwyo2inc2a",
       "createdAt": "2026-07-24T18:07:01.394Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
     },
     {
       "title": "EN DIRECT - Incendies : en Gironde, 12 500 hectares de forêt «détruits», «l’évolution météorologique n’est pas favorable», le «pire incendie de l’histoire» sévit en Espagne www.lib",
       "source": "Bluesky · @sabinameir.bsky.social",
       "url": "https://bsky.app/profile/did:plc:kuy3jrhvgfcnw6gdwudltrki/post/3mrfwy75d4c2p",
       "createdAt": "2026-07-24T18:06:45.758Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
     },
     {
       "title": "🔥 MESURE | Évacuation préventive de Sainte-Hèlene, Salaunes et Lanton face à la progression de l’incendie en cours. Contournez largement le secteur #incendie #Gironde ➡️ https://i",
       "source": "Bluesky · @traficalert-news.bsky.social",
       "url": "https://bsky.app/profile/did:plc:y6cvlg265swmzvzndadp5jfs/post/3mrfwonvpis2f",
       "createdAt": "2026-07-24T18:01:25+00:00",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
     },
     {
       "title": "Les fumées de l'incendie en Gironde visibles jusqu'en Vendée https://www.ici.fr/pays-de-la-loire/en-images-les-fumees-de-l-incendie-de-gironde-visibles-jusqu-en-vendee-1147027",
       "source": "Bluesky · @bazouzabou.mstdn.fr.ap.brid.gy",
       "url": "https://bsky.app/profile/did:plc:7xnzfatinqrgutspserpnd3u/post/3mrfwjh3qf2q2",
       "createdAt": "2026-07-24T17:58:26.000Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
     },
     {
       "title": "Incendie en Gironde : l'inquiétude se porte sur Lacanau En Gironde, le feu a parcouru 14 000 hectares, provoquant 110 000 évacuations dans le département. L'inquiétude se porte aus",
       "source": "Bluesky · @news-flows-fr.bsky.social",
       "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrgbldhfcs2n",
       "createdAt": "2026-07-24T17:57:56.000000Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Alors que la préfecture de Gironde organise l'évacuation des habitants et vacanciers du Cap-Ferret, la Nasa montre l'ampleur de l'incendie par une photo satellite.",
-      "source": "Bluesky · @parismatch.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:bhf5kd4qg7qpmqimd45rlk3q/post/3mrfve3jcyr27",
-      "createdAt": "2026-07-24T17:37:36.314Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Le parquet de Bordeaux détaille les procédures ouvertes depuis le début des incendies en Gironde rue89bordeaux.com/2026/07/ince... #Bordeaux",
-      "source": "Bluesky · @rue89bordeaux.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:zh22aza6z77iuccvjv5hi3a3/post/3mrfvcjtrgs2w",
-      "createdAt": "2026-07-24T17:36:45.039Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Incendie en Gironde: le maire de Lège-Cap-Ferret déclare que l'incendie a fait deux blessés dans sa commune Philippe de Gonneville, le maire de Lège-Cap-Ferret a déclaré en début d",
-      "source": "Bluesky · @news-flows-fr.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrfvq5ligm26",
-      "createdAt": "2026-07-24T17:23:11.000000Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Environ 374 Belges actuellement présents sur la presqu’île du Cap-Ferret touchée par un incendie",
-      "source": "Bluesky · @lesoir.be",
-      "url": "https://bsky.app/profile/did:plc:drxqcoxx5lgv2tue57fgnxcj/post/3mrfsxxshst2m",
-      "createdAt": "2026-07-24T16:55:02+00:00",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Incendie en Gironde: l'animatrice Sophie Davant raconte son évacuation en urgence du Cap Ferret cette nuit 32 incendies sont actuellement en cours sur l'ensemble du territoire, a f",
-      "source": "Bluesky · @news-flows-fr.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrftfflnyj25",
-      "createdAt": "2026-07-24T16:43:35.000000Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Incendie du bassin d'Arcachon : les images sidérantes du très huppé Cap-Ferret déserté ",
-      "source": "Bluesky · @news-flows-fr.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrfrxxr6fl2z",
-      "createdAt": "2026-07-24T16:34:04.000000Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Cécile, Evelyne et Pierre racontent la nuit où la presqu’île du Cap-Ferret a basculé face à l’incendie et décrivent leur évacuation rue89bordeaux.com/2026/07/on-a... #Bordeaux",
-      "source": "Bluesky · @rue89bordeaux.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:zh22aza6z77iuccvjv5hi3a3/post/3mrfqlb2ers25",
-      "createdAt": "2026-07-24T16:12:09.099Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Le scénario catastrophe, testé en 2025, devient réalité : la presqu'île du Cap-Ferret évacuée par la mer et la terre face à un incendie monstre 👉 ebx.sh/jYtuex",
-      "source": "Bluesky · @emilydumortier.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:35pmngfxoy4dd7tmuefeahss/post/3mrfow2nizc2v",
-      "createdAt": "2026-07-24T15:42:23.998Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "L’impressionnant incendie parti de Saumos ravive de bien tristes souvenirs ➡️ https://l.lejdc.fr/YOX",
-      "source": "Bluesky · @lejdc.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:phv64ne2j6sbmj2m6heyube3/post/3mrfovikjib25",
-      "createdAt": "2026-07-24T15:41:59.000Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Incendie en Gironde: \"On a mobilisé toute notre flotte dès 5h du matin\", explique Stéphanie Ferradou, capitaine d'armement d'une société de bateau-taxis privés à Lège-Cap Ferret À ",
-      "source": "Bluesky · @news-flows-fr.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrfprljn4j2s",
-      "createdAt": "2026-07-24T15:36:03.000000Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Incendie en Gironde : le feu à 150 mètres des maisons du Cap-Ferret, les pompiers craignent des \"feux imprévisibles\" avec la dégradation de la météo 👉 ebx.sh/zxBOv4",
-      "source": "Bluesky · @emilydumortier.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:35pmngfxoy4dd7tmuefeahss/post/3mrfohudo3c2v",
-      "createdAt": "2026-07-24T15:34:27.620Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "EN DIRECT - Incendies: La préfète de la Nouvelle-Aquitaine et de la Gironde ordonne l’évacuation préventive d’Arès, Andernos, Le Temple et Saumos",
-      "source": "Bluesky · @morandiniblog2.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:i7hoagrl2onqpg3xfpnhnu24/post/3mrfgc4vwoj2p",
-      "createdAt": "2026-07-24T15:08:03Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Direct – l’Europe en feu : Madrid face au \"pire incendie de son histoire\", environ 374 Belges actuellement présents sur la presqu'île du Cap-Ferret",
-      "source": "Bluesky · @polbegov.skyfleet.blue",
-      "url": "https://bsky.app/profile/did:plc:yp75bmg575z7c7v735ldvjoc/post/3mrfmws7spj2k",
-      "createdAt": "2026-07-24T15:07:00.977Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Incendie au Cap Ferret : Julien Courbet raconte son évacuation tv-programme.com/news/incendi...",
-      "source": "Bluesky · @programme-tv.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:bfd35cqqheksbkbdrr5q722j/post/3mrfmjp7osc2o",
-      "createdAt": "2026-07-24T14:59:41.877Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Un incendie s'est déclenché mercredi en Gironde, près de la très touristique presqu'île du cap Ferret. Un autre est survenu jeudi dans le département voisin des Landes. Des millier",
-      "source": "Bluesky · @franceinfo.fr",
-      "url": "https://bsky.app/profile/did:plc:vb7d3zz6khc7zqcg7743eqiq/post/3mrfkcjbkm526",
-      "createdAt": "2026-07-24T14:19:37.019Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "C'est à 20h00 qu'on met nos petits pulls en cachemire sur les épaules en soutien aux personnes du Cap Ferret qui sont dans un giga incendie tout moche ?",
-      "source": "Bluesky · @laurstol.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:fwhs64fpcwise3acd66suxbt/post/3mrfjqgverk2o",
-      "createdAt": "2026-07-24T14:09:46.807Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "35 000 personnes évacuées au Cap-Ferret, 25 000 dans les Landes et 500 dans le Var. L'expression \"réfugiés climatiques\" prend de la consistance... www.franceinfo.fr/faits-divers...",
-      "source": "Bluesky · @piedminu.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:isafru3pzm7jwbsadiheefwg/post/3mrfjnjwjhk24",
-      "createdAt": "2026-07-24T14:08:09.326Z",
-      "verification": "Unverified"
-    },
-    {
-      "title": "Un incendie dévaste actuellement la Gironde. Laurent Delahousse partage sa tristesse en regardant les images du Cap Ferret en flammes, suite à Ingrid Chauvin. 20/20 #GirondeEnFeu h",
-      "source": "Bluesky · @fetchfeeds.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:pk5nq3gedpdb6xedfeobsm52/post/3mrfjnd6lo724",
-      "createdAt": "2026-07-24T14:08:01.284Z",
-      "verification": "Unverified"
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-24T22:31:53.356Z"
+      }
     }
   ],
   "traffic": {
-    "checkedAt": "2026-07-24T21:45:54.685Z",
+    "checkedAt": "2026-07-24T22:33:06.428Z",
     "sourceName": "Inforoutes Gironde",
     "sourceUrl": "https://www.gironde.fr/deplacements/inforoutes",
     "officialClosures": {
@@ -4159,23 +4403,23 @@
     "location": "Saumos–Lège fire corridor reference point",
     "latitude": 44.91,
     "longitude": -1.0600004,
-    "observedAt": "2026-07-24T23:45:00+02:00",
-    "modelUpdatedAt": "2026-07-24T21:45:54.685Z",
+    "observedAt": "2026-07-25T00:30:00+02:00",
+    "modelUpdatedAt": "2026-07-24T22:33:06.428Z",
     "sourceName": "Open-Meteo",
     "sourceUrl": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
     "officialFireDangerName": "Météo-France · Météo des forêts",
     "officialFireDangerUrl": "https://meteofrance.com/meteo-des-forets",
     "current": {
-      "temperatureC": 22.5,
-      "humidityPct": 76,
+      "temperatureC": 22.2,
+      "humidityPct": 79,
       "precipitationMm": 0,
-      "windSpeedKmh": 10.7,
-      "windDirectionDeg": 220,
-      "windDirection": "SW",
-      "windGustKmh": 26.6
+      "windSpeedKmh": 9,
+      "windDirectionDeg": 254,
+      "windDirection": "WSW",
+      "windGustKmh": 20.9
     },
     "forecast24h": {
-      "endsAt": "2026-07-25T21:45:00.000Z",
+      "endsAt": "2026-07-25T22:30:00.000Z",
       "maxTemperatureC": 26.5,
       "minHumidityPct": 51,
       "maxWindSpeedKmh": 16.6,
@@ -4209,20 +4453,161 @@
           "windGustKmh": 39.6
         },
         {
-          "time": "2026-07-25T23:00:00+02:00",
-          "temperatureC": 21.5,
-          "humidityPct": 78,
-          "precipitationProbabilityPct": 13,
-          "precipitationMm": 0.1,
-          "windSpeedKmh": 12.6,
-          "windDirectionDeg": 283,
-          "windDirection": "WNW",
-          "windGustKmh": 30.6
+          "time": "2026-07-26T00:00:00+02:00",
+          "temperatureC": 21.4,
+          "humidityPct": 77,
+          "precipitationProbabilityPct": 10,
+          "precipitationMm": 0,
+          "windSpeedKmh": 14.7,
+          "windDirectionDeg": 281,
+          "windDirection": "W",
+          "windGustKmh": 40
         }
       ]
     }
   },
   "intelligenceCandidates": [
+    {
+      "id": "9b2e577f81e4ef94",
+      "kind": "liveblog-entry",
+      "sourceId": "franceinfo-live",
+      "sourceName": "Franceinfo live",
+      "sourceUrl": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
+      "publishedAt": "2026-07-24T22:14:26.925Z",
+      "text": "Bonsoir @onsenfou848 , \"un feu de bâtiment dans la commune de Payrin s’est propagé très rapidement\" , écrit la préfecture du Tarn . \"Il a détruit une surface évaluée à une cinquantaine d’hectares et la situation demeure défavorable. Aucune victime n’est a déplorer à ce stade.\" Un journaliste de La Dépêche du Midi s'est rendu sur place.",
+      "score": 8,
+      "priority": "review",
+      "reasons": [
+        "harm"
+      ],
+      "authorityAttributed": true,
+      "changeLanguage": false,
+      "numbers": []
+    },
+    {
+      "id": "947364e996c6e80a",
+      "kind": "liveblog-entry",
+      "sourceId": "franceinfo-live",
+      "sourceName": "Franceinfo live",
+      "sourceUrl": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
+      "publishedAt": "2026-07-24T22:14:26.925Z",
+      "text": "Le média évoque \"une centaine d'habitations évacuées\" à Valdurenque, avec le déploiement de moyens aériens.",
+      "score": 10,
+      "priority": "review",
+      "reasons": [
+        "evacuation",
+        "response"
+      ],
+      "authorityAttributed": false,
+      "changeLanguage": false,
+      "numbers": []
+    },
+    {
+      "id": "113e4bb8f984bea8",
+      "kind": "liveblog-entry",
+      "sourceId": "franceinfo-live",
+      "sourceName": "Franceinfo live",
+      "sourceUrl": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
+      "publishedAt": "2026-07-24T22:13:09.410Z",
+      "text": "J'entends tout à fait votre désarroi, @shelmi , mais la communication en temps réel, minute par minute, est difficile sur un incendie aussi vaste. Je peux vous aiguiller vers notre carte sur l'évolution des feux en Gironde et dans les Landes, réalisé par notre journaliste Valentin Stoquer.",
+      "score": 6,
+      "priority": "context",
+      "reasons": [
+        "access"
+      ],
+      "authorityAttributed": false,
+      "changeLanguage": false,
+      "numbers": []
+    },
+    {
+      "id": "3e9c4f39c660db74",
+      "kind": "liveblog-entry",
+      "sourceId": "franceinfo-live",
+      "sourceName": "Franceinfo live",
+      "sourceUrl": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
+      "publishedAt": "2026-07-24T22:07:28.631Z",
+      "text": "#INCENDIES Ce live devait se mettre en sommeil à minuit, mais l'actualité impose de ne pas fermer la boutique tout de suite. J'en profite pour vous remercier pour vos messages et interrogations. Désolé s'il m'est impossible de répondre à toutes vos questions !",
+      "score": 6,
+      "priority": "context",
+      "reasons": [
+        "access"
+      ],
+      "authorityAttributed": false,
+      "changeLanguage": false,
+      "numbers": []
+    },
+    {
+      "id": "2d14bf437eb09765",
+      "kind": "liveblog-entry",
+      "sourceId": "franceinfo-live",
+      "sourceName": "Franceinfo live",
+      "sourceUrl": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
+      "publishedAt": "2026-07-24T21:57:32.986Z",
+      "text": "#INCENDIES Dans les commentaires, vous vous demandez si votre commune girondine est concernée par les évacuations ou si elle est menacée par les flammes. Pour l'heure, il faut s'en tenir à ce qu'a dit la préfète sur les évacuations, en début de soirée. Les habitants et les vacanciers de huit communes ont été évacués ou doivent être prêts pour l'être dans les heures à venir : Sainte-Hélène, Salaunes, Lanton, Audenge, Saint-Médard-en-Jalles, Saint-Aubin, Saint-Jean-d'Illac et Martignas-sur-Jalle.",
+      "score": 9,
+      "priority": "review",
+      "reasons": [
+        "evacuation"
+      ],
+      "authorityAttributed": true,
+      "changeLanguage": false,
+      "numbers": []
+    },
+    {
+      "id": "a36a8b560ef40d99",
+      "kind": "liveblog-entry",
+      "sourceId": "franceinfo-live",
+      "sourceName": "Franceinfo live",
+      "sourceUrl": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
+      "publishedAt": "2026-07-24T21:49:48.500Z",
+      "text": "Bonsoir @Banane volante 42 , Sébastien Lecornu défend cet acheminement pour \"protéger les personnels engagés et les populations exposées aux fumées nocives pour la santé\" .",
+      "score": 10,
+      "priority": "review",
+      "reasons": [
+        "access",
+        "air-quality"
+      ],
+      "authorityAttributed": false,
+      "changeLanguage": false,
+      "numbers": [
+        "42 ,"
+      ]
+    },
+    {
+      "id": "84772f3435db06d3",
+      "kind": "liveblog-entry",
+      "sourceId": "franceinfo-live",
+      "sourceName": "Franceinfo live",
+      "sourceUrl": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
+      "publishedAt": "2026-07-24T21:48:38.810Z",
+      "text": "#INCENDIES Côté renforts, Sébastien Lecornu annonce que le \"service de santé des armées sera lui aussi mobilisé afin de faciliter la prise en charge médicale des personnes les plus vulnérables\" . \" Huit nouvelles unités de forces mobiles de la police et de la gendarmerie seront déployées pour faciliter les évacuations\" , écrit-il.",
+      "score": 10,
+      "priority": "review",
+      "reasons": [
+        "evacuation",
+        "response"
+      ],
+      "authorityAttributed": false,
+      "changeLanguage": false,
+      "numbers": []
+    },
+    {
+      "id": "d679c55085440cbd",
+      "kind": "liveblog-entry",
+      "sourceId": "franceinfo-live",
+      "sourceName": "Franceinfo live",
+      "sourceUrl": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
+      "publishedAt": "2026-07-24T21:41:55.543Z",
+      "text": "#INCENDIES Dans les commentaires, @Best Maman Eveer / Forever Fifille (incroyable surnom) nous partage son expérience pour évacuer Andernos, aujourd'hui.",
+      "score": 7,
+      "priority": "review",
+      "reasons": [
+        "evacuation"
+      ],
+      "authorityAttributed": false,
+      "changeLanguage": false,
+      "numbers": []
+    },
     {
       "id": "6d52655e797ee932",
       "kind": "liveblog-entry",
