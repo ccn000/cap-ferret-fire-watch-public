@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-07-25T03:20:07.865Z",
+  "generatedAt": "2026-07-25T03:40:28.255Z",
   "sectionUpdates": {
-    "assessment": "2026-07-25T03:35:00+02:00",
-    "map": "2026-07-24T23:30:00+02:00",
-    "material": "2026-07-25T03:35:00+02:00",
+    "assessment": "2026-07-25T04:09:00+02:00",
+    "map": "2026-07-25T03:58:00+02:00",
+    "material": "2026-07-25T04:09:00+02:00",
     "access": "2026-07-24T16:28:00+02:00",
     "localCommerce": "2026-07-24T06:40:00+02:00",
     "restaurants": "2026-07-24T06:40:00+02:00",
     "ferries": "2026-07-24T13:23:00+02:00",
-    "aviation": "2026-07-25T03:35:00+02:00",
+    "aviation": "2026-07-25T03:58:00+02:00",
     "reopening": "2026-07-24T13:56:00+02:00",
-    "articles": "2026-07-24T21:29:00.000Z",
+    "articles": "2026-07-25T02:09:00.000Z",
     "social": "2026-07-25T02:52:03+02:00",
-    "sources": "2026-07-25T03:20:07.865Z",
-    "weather": "2026-07-25T03:19:57.496Z"
+    "sources": "2026-07-25T03:40:28.255Z",
+    "weather": "2026-07-25T03:40:21.794Z"
   },
   "incident": {
     "level": "FULL EVACUATION",
-    "headline": "The peninsula remains evacuated; the fire has turned east toward metropolitan Bordeaux and further evacuations are being prepared.",
-    "summary": "The situation deteriorated materially on Friday evening. Reuters reports that a wind reversal turned the uncontrolled fire east toward the Bordeaux metropolitan area. Its latest dispatch says more than 141,000 people have been evacuated across Gironde and Landes, with more than 1,000 military personnel, additional police and gendarmerie units and hospital contingency support being deployed. Franceinfo reports preparations for additional metropolitan evacuations, severe outbound congestion at Andernos and a particulate-pollution alert. Contrary to the interior minister’s earlier closure statement, Bordeaux Airport directly told Le Monde and Radio France that it remained open; its official board was actively listing flights at 03:17. This correction does not change the no-travel conclusion for Cap Ferret.",
+    "headline": "The peninsula remains evacuated; seven additional Bordeaux-area municipalities are wholly or partly under preventive evacuation orders.",
+    "summary": "The eastward escalation has become an active metropolitan evacuation. The prefect ordered preventive evacuations in Saint-Médard-en-Jalles, Le Haillan, Saint-Jean-d’Illac, Martignas-sur-Jalle and Saint-Aubin-de-Médoc, plus the outer-ring sectors of Mérignac and Eysines. The Mérignac order materially increases uncertainty around Bordeaux Airport and its road access because the airport is in the municipality’s outer sector. The official airport board is still listing flights, so no airport closure is confirmed. Le Monde’s 04:09 live update also raises the firefighter casualty total to 42 treated, including nine evacuated, all described as relative emergencies.",
     "fireStatus": "Uncontrolled · now progressing east",
     "affectedHectares": "≈ 14,000 confirmed by minister; later media report ≈ 19,000",
     "evacuatedPeople": "> 141,000 across Gironde and Landes (Reuters)",
@@ -28,13 +28,14 @@
     "verdict": "Do not travel to Cap Ferret: the whole peninsula remains evacuated and the fire is still progressing.",
     "trajectory": "Deteriorating",
     "trajectoryTone": "danger",
-    "narrative": "The decisive late-evening change is the fire’s turn east after a wind reversal. Reuters reports it is now progressing toward metropolitan Bordeaux, while Franceinfo reports that additional metropolitan evacuations are being prepared and that residents of Saint-Médard-en-Jalles and Saint-Jean-d’Illac should be ready for a probable evacuation. A 00:36 Reuters update says more than 141,000 people have been evacuated across Gironde and Landes, that military support has risen above 1,000 personnel and that hospitals have activated their emergency plan. The peninsula remains fully evacuated, inbound road access and ordinary navigation on Arcachon Bay remain unavailable, and no reopening signal exists. The airport’s communications team twice contradicted the interior minister’s reported closure claim, and the official Bordeaux Airport board was actively listing flights at 03:17; aviation therefore moves back to amber rather than red.",
-    "confidence": "High confidence that the fire changed direction toward the Bordeaux metropolitan area, that further evacuations are being prepared, and that the peninsula remains inaccessible. Reuters attributes the 141,000-plus evacuation total across Gironde and Landes, the expanded military support and hospital contingency activation to the Prime Minister’s late crisis response; these are reported national measures, not a new local access order. Treat the later roughly 19,000-hectare report as media-reported pending a matching prefectural bulletin. On aviation, the minister’s closure statement was carried by Reuters, but Bordeaux Airport directly told Le Monde and Radio France it remained open and its 03:17 live board listed arrivals and departures. Smoke-related delays or a later restriction remain possible.",
+    "narrative": "At 03:32 and 03:58, the warning became a set of evacuation orders. The prefect ordered five municipalities evacuated preventively and ordered partial evacuations in the outer-ring sectors of Mérignac and Eysines. People were directed by road toward Bordeaux, with reception at Hall 3 of the Parc des Expositions. At 04:09, Le Monde reported that 42 firefighters had been treated, including nine evacuated, all in relative emergencies. The whole Cap Ferret peninsula remains evacuated, inbound road access and ordinary navigation on Arcachon Bay remain unavailable, and no reopening signal exists. Bordeaux Airport’s official board is still listing flights, but the evacuation of outer Mérignac materially raises both closure and ground-access risk.",
+    "confidence": "High confidence in the seven additional metropolitan evacuation orders: Le Monde reports the prefectural instructions and AFP/ATS independently reports the same municipalities and partial scope. The exact boundary of the outer-Mérignac order and whether it formally includes the airport site have not been established here. The airport board remains active, so the dashboard does not declare the airport closed; it now treats access and continuity as materially uncertain rather than stable.",
     "priorities": [
-      "The entire peninsula remains evacuated; pressure has expanded east toward the Bordeaux metropolitan area and additional evacuations are being prepared.",
+      "Seven additional Bordeaux-area municipalities are now wholly or partly under preventive evacuation orders; this is no longer only a prepare-to-evacuate warning.",
+      "Le Monde now reports 42 firefighters treated, including nine evacuated, all in relative emergencies.",
       "The fire remains uncontrolled after a wind reversal; Reuters now reports more than 141,000 evacuations across Gironde and Landes, with additional national support deployed.",
       "Road entry and ordinary navigation on Arcachon Bay are unavailable, so there is no viable land or public-water route for a holiday trip.",
-      "Bordeaux Airport is operating and listing flights after directly contradicting the minister’s closure statement, but smoke-related delays remain possible; check directly with the airline before relying on Monday’s BA2572 schedule."
+      "Bordeaux Airport is still listing flights, but outer Mérignac is now under an evacuation order; verify the airport, airline and road access before relying on any flight."
     ]
   },
   "alerts": [
@@ -60,6 +61,36 @@
     }
   ],
   "materialUpdates": [
+    {
+      "id": "material-2026-07-25-0409",
+      "time": "04:09",
+      "title": "Firefighter casualty total rises to 42 treated, including nine evacuated",
+      "detail": "Le Monde’s live update says 42 firefighters injured while fighting the Gironde fires have been treated. Nine were evacuated, all described as relative emergencies.",
+      "incrementalNews": "This replaces the earlier official tally of 27 firefighters treated and six taken to hospital. It is a material worsening of the human impact on the emergency response, although no life-threatening firefighter injury is reported in this update.",
+      "sources": [
+        {
+          "name": "Le Monde live coverage, updated at 04:09",
+          "url": "https://www.lemonde.fr/planete/live/2026/07/25/en-direct-incendies-le-feu-se-dirige-vers-bordeaux-500-militaires-supplementaires-et-1-5-million-de-masques-ffp2-envoyes-en-gironde_6730417_3244.html"
+        }
+      ]
+    },
+    {
+      "id": "material-2026-07-25-0358",
+      "time": "03:58",
+      "title": "Seven additional Bordeaux-area municipalities ordered wholly or partly evacuated",
+      "detail": "The prefect ordered preventive evacuation of Saint-Médard-en-Jalles, Le Haillan, Saint-Jean-d’Illac, Martignas-sur-Jalle and Saint-Aubin-de-Médoc. The outer-ring sectors of Mérignac and Eysines were also ordered evacuated, with residents directed toward Bordeaux and reception at Hall 3 of the Parc des Expositions.",
+      "incrementalNews": "The metropolitan risk has moved from preparation to compulsory evacuation. Because Bordeaux Airport is in outer Mérignac, the order materially raises the risk of airport closure and disrupted ground access. The live airport board still lists flights, so closure is not confirmed.",
+      "sources": [
+        {
+          "name": "Le Monde live report of the prefectural orders at 03:32 and 03:58",
+          "url": "https://www.lemonde.fr/planete/live/2026/07/25/en-direct-incendies-le-feu-se-dirige-vers-bordeaux-500-militaires-supplementaires-et-1-5-million-de-masques-ffp2-envoyes-en-gironde_6730417_3244.html"
+        },
+        {
+          "name": "AFP/ATS report independently listing the seven municipalities",
+          "url": "https://www.swissinfo.ch/fre/incendies-en-france%3A-nouvelles-%C3%A9vacuations-pr%C3%A8s-de-bordeaux/91797653"
+        }
+      ]
+    },
     {
       "id": "material-2026-07-25-0335",
       "time": "03:35",
@@ -276,6 +307,90 @@
   ],
   "updates": [
     {
+      "id": "4bb790713e25",
+      "time": "04:09",
+      "title": "EN DIRECT, incendies : le feu se dirige vers Bordeaux ; 500 militaires supplémentaires et 1,5 million de masques FFP2 envoyés en Gironde",
+      "detail": "Adds a developing roundup; its individual claims require confirmation against the latest authority briefing.",
+      "candidateText": "EN DIRECT, incendies : le feu se dirige vers Bordeaux ; 500 militaires supplémentaires et 1,5 million de masques FFP2 envoyés en Gironde Une mobilisation du service de santé des armées et un plan blanc dans les établissements de santé ont aussi été annoncés. Quarante-deux sapeurs-pompiers blessés dans la lutte contre les feux en Gironde ont été pris en charge dont neuf évacués, « tous en urgence relative ».",
+      "sourceId": "lemonde-planete-live-index",
+      "source": "Le Monde · Planète live index",
+      "sourceType": "media",
+      "url": "https://www.lemonde.fr/planete/live/2026/07/25/en-direct-incendies-le-feu-se-dirige-vers-bordeaux-500-militaires-supplementaires-et-1-5-million-de-masques-ffp2-envoyes-en-gironde_6730417_3244.html",
+      "importance": 2,
+      "publishedAt": "2026-07-25T02:09:00.000Z",
+      "classification": {
+        "score": 19,
+        "priority": "urgent-review",
+        "reasons": [
+          "evacuation",
+          "harm",
+          "response"
+        ],
+        "authorityAttributed": true,
+        "changeLanguage": true,
+        "numbers": [
+          "500",
+          "1,5"
+        ]
+      },
+      "liveIndex": true
+    },
+    {
+      "id": "b49a350b15ab",
+      "time": "02:48",
+      "title": "Incendies au Cap-Ferret : plus de 10 000 hectares parcourus dans le Sud-Ouest",
+      "detail": "Adds a reported fire-size or progression figure, which must be read with its stated time and source.",
+      "candidateText": "Incendies au Cap-Ferret : plus de 10 000 hectares parcourus dans le Sud-Ouest « Au moment où je vous parle, de manière progressive, il y a 40 000 personnes qui ont été évacuées ou qui sont en cours d’être évacués actuellement » en Gironde, a fait savoir à l’Agence France-Presse le ministre de l’intérieur, Laurent Nuñez, soulignant que, pour l’instant, le bilan humain était « nul ».",
+      "sourceId": "lemonde-planete-live-index",
+      "source": "Le Monde · Planète live index",
+      "sourceType": "media",
+      "url": "https://www.lemonde.fr/videos/video/2026/07/24/incendies-au-cap-ferret-plus-de-10-000-hectares-parcourus-dans-le-sud-ouest_6731475_1669088.html",
+      "importance": 4,
+      "publishedAt": "2026-07-25T00:48:51.000Z",
+      "classification": {
+        "score": 23,
+        "priority": "urgent-review",
+        "reasons": [
+          "evacuation",
+          "fire-behaviour",
+          "fire-scale",
+          "access"
+        ],
+        "authorityAttributed": true,
+        "changeLanguage": false,
+        "numbers": [
+          "10 000 hectares",
+          "40 000 personnes"
+        ]
+      },
+      "liveIndex": true
+    },
+    {
+      "id": "5eef67db7289",
+      "time": "23:42",
+      "title": "La presqu’île du Cap-Ferret prise au piège des incendies en Gironde : « Ça fait quatre ans qu’on s’y attendait »",
+      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
+      "candidateText": "La presqu’île du Cap-Ferret prise au piège des incendies en Gironde : « Ça fait quatre ans qu’on s’y attendait » La très chic station balnéaire est en proie aux aléas du dérèglement climatique : érosion côtière, montée des eaux et risque d’incendies. Elle a été complètement évacuée vendredi.",
+      "sourceId": "lemonde-planete-live-index",
+      "source": "Le Monde · Planète live index",
+      "sourceType": "media",
+      "url": "https://www.lemonde.fr/planete/article/2026/07/24/la-presqu-ile-du-cap-ferret-prise-au-piege-des-incendies-en-gironde-ca-fait-quatre-ans-qu-on-s-y-attendait_6731540_3244.html",
+      "importance": 2,
+      "publishedAt": "2026-07-24T21:42:01.000Z",
+      "classification": {
+        "score": 11,
+        "priority": "urgent-review",
+        "reasons": [
+          "evacuation",
+          "access"
+        ],
+        "authorityAttributed": false,
+        "changeLanguage": false,
+        "numbers": []
+      },
+      "liveIndex": true
+    },
+    {
       "id": "reader-franceinfo-live-20260724",
       "time": "23:29",
       "title": "DIRECT. Incendie en Gironde : la préfecture ordonne l’évacuation sans délai des premiers villages de la presqu’île du Cap-Ferret - franceinfo",
@@ -311,19 +426,6 @@
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORVQ5aTJKR0VWUEdva0lEb3BKSThna1E2cUhwQ3ZDbEZYZHE4dlNaUWh6eW9lU0lhVW9keERCRVdBYnBFdEtBZ1VtRUFYQ2pxblRPUnk3MW1iWG9MalRiX185QktsSnNtSWlFZjVFRDZFeHZQUTFoV3VMLWtkYUNOaFlBMGJmMnVLaFFucHFmcVBDbHltTnZSMGJNQVMwU2toX3c2Z3AzTm9JSDlPNXZEaWlFdDNCTDhtUUdIWHM1LVdQTEhhQnFKdi02aGdCWDI5cFExeFB2eGNUT1VlSmZsN1JHSkZtNlVRaE1XMDBfVQ?oc=5",
       "importance": 2,
       "publishedAt": "2026-07-24T21:06:36.000Z"
-    },
-    {
-      "id": "reader-lemonde-airport-correction-20260725",
-      "time": "00:37",
-      "title": "EN DIRECT. Incendies : le feu se dirige vers Bordeaux ; l’aéroport dément avoir fermé - Le Monde",
-      "detail": "Directly corrects the airport picture: Bordeaux Airport told Le Monde and Radio France that it remained open despite the minister’s closure statement, while warning that smoke had slowed activity and conditions could still change.",
-      "source": "Le Monde · editorially reviewed",
-      "sourceType": "media",
-      "url": "https://www.lemonde.fr/planete/live/2026/07/25/en-direct-incendies-le-feu-se-dirige-vers-bordeaux-500-militaires-supplementaires-et-1-5-million-de-masques-ffp2-envoyes-en-gironde_6730417_3244.html",
-      "importance": 3,
-      "publishedAt": "2026-07-24T20:37:00.000Z",
-      "reviewed": true,
-      "collectionMode": "editorial"
     },
     {
       "id": "97675ef285cd",
@@ -434,6 +536,30 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXUtQlZUWl9ld0Y3X1FiN3dod0g2V01NdmRXOVUtSk5UQlVZUVVVMWhUSHdTRHBlYXJ3UXNLVnBtMTNKaEVjSUstM0U1YTdRaklTejJ5Nk01bXpCV0hwTUJhMjFRRXVvU2Y0TDlEaG1NeFRYUU9LRWw4ejhDMWhDU3JGZ1NNNnJKbjRNVDB6bTJOZWQ0N3pFSDR3dkdHcXpJWThYQVdHZ2M?oc=5",
       "importance": 2,
       "publishedAt": "2026-07-24T18:23:00.000Z"
+    },
+    {
+      "id": "9814c1169487",
+      "time": "19:26",
+      "title": "Dans la « souricière » du Cap-Ferret - Le Parisien",
+      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
+      "candidateText": "Dans la « souricière » du Cap-Ferret - Le Parisien &lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jMTltUFlEcUg4bHRnc0VpOUJZX0RSZzM4WFc0THZFS1NLU1UySWZRX05mMmVfejVkWUhBNEo1RmM1OC1xWWM1YjZKMUhLNFlBYWp2MXNTVmZlZ2w5MzV1R3hYNlE?oc=5\" target=\"_blank\"&gt;Dans la « souricière » du Cap-Ferret&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Le Parisien&lt;/font&gt;",
+      "sourceId": "google-news-reopening",
+      "source": "Google News · reopening",
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jMTltUFlEcUg4bHRnc0VpOUJZX0RSZzM4WFc0THZFS1NLU1UySWZRX05mMmVfejVkWUhBNEo1RmM1OC1xWWM1YjZKMUhLNFlBYWp2MXNTVmZlZ2w5MzV1R3hYNlE?oc=5",
+      "importance": 2,
+      "publishedAt": "2026-07-24T17:26:50.000Z",
+      "classification": {
+        "score": 4,
+        "priority": "context",
+        "reasons": [
+          "access"
+        ],
+        "authorityAttributed": false,
+        "changeLanguage": false,
+        "numbers": []
+      },
+      "liveIndex": false
     },
     {
       "id": "83bdf0c14cf0",
@@ -631,6 +757,28 @@
       "publishedAt": "2026-07-24T13:41:00.000Z"
     },
     {
+      "id": "4aa8c34374e1",
+      "time": "15:26",
+      "title": "Incendie en Gironde : vent d’ouest et possibles rafales, l’après-midi et la soirée de tous les dangers - Sud Ouest",
+      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
+      "candidateText": "Incendie en Gironde : vent d’ouest et possibles rafales, l’après-midi et la soirée de tous les dangers - Sud Ouest &lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNWU3cnBGMkU4YXNkUmlxZnE5ODVyOHV4bG5rS1lWZEF6S1VVeXdXYTVwRWYtZTFMVWRCWEszdkhaVGhiaEJhcHBMcXdXbFlCSmRfaThqVzczX01vTUotbGtrOURleVFEV1h2NVJpSUV1Q3lkTWdqQUh1bXZQdFdBdHlkMWxWV2V2VXRmYlZEOGxLQmU5TU9mUFhyOUhkVlNvdVRiUnVSRjNmTEVXc2VxdmVzSVpQb2ZRUmtOT004bzFLM1RqSTNVVklsa2FFLWdUNWJHSGdveVU4V0JPU0FvcmxZcXlwdjEzRjV3OWtKUXlnZGFtRkNfc1hvYw?oc=5\" target=\"_blank\"&gt;Incendie en Gironde : vent d’ouest et possibles rafales, l’après-midi et la soirée de tous les dangers&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Sud Ouest&lt;/font&gt;",
+      "sourceId": "google-news-incident",
+      "source": "Google News",
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNWU3cnBGMkU4YXNkUmlxZnE5ODVyOHV4bG5rS1lWZEF6S1VVeXdXYTVwRWYtZTFMVWRCWEszdkhaVGhiaEJhcHBMcXdXbFlCSmRfaThqVzczX01vTUotbGtrOURleVFEV1h2NVJpSUV1Q3lkTWdqQUh1bXZQdFdBdHlkMWxWV2V2VXRmYlZEOGxLQmU5TU9mUFhyOUhkVlNvdVRiUnVSRjNmTEVXc2VxdmVzSVpQb2ZRUmtOT004bzFLM1RqSTNVVklsa2FFLWdUNWJHSGdveVU4V0JPU0FvcmxZcXlwdjEzRjV3OWtKUXlnZGFtRkNfc1hvYw?oc=5",
+      "importance": 2,
+      "publishedAt": "2026-07-24T13:26:14.000Z",
+      "classification": {
+        "score": 0,
+        "priority": "context",
+        "reasons": [],
+        "authorityAttributed": false,
+        "changeLanguage": false,
+        "numbers": []
+      },
+      "liveIndex": false
+    },
+    {
       "id": "b9e8bbf1e61f",
       "time": "15:20",
       "title": "CARTE. Incendies en Gironde : bouchons, évacuations ralenties, pourquoi le Cap Ferret est une véritable \"souricière\" pour les touristes et les habitants - ladepeche.fr",
@@ -653,109 +801,84 @@
       "publishedAt": "2026-07-24T13:10:31.000Z"
     },
     {
-      "id": "8f299e295074",
-      "time": "14:31",
-      "title": "NEWS France. Nouvelle-Aquitaine PRÉFET de la Gironde. Lège Cap-Ferret : évacuation par voie maritime des populations [Réd. Les Sables-d’Olonne] - Le Reporter sablais",
-      "detail": "Adds evacuation reporting but no independently confirmed material fact beyond the existing peninsula-wide order.",
-      "source": "Google News",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQOTZyWTllLVE5RHJiMW5jcG10bWVWMy1YcV91b3pKQjNvTFZsVFlRT1pkcEg2ZDBFeFhSaHVUUHdUS0Z2em5ad3JHbjlvZEkxMWVHWjhjZVVrem9Xa1pBazJjOWxiSnJkTUcyWG5pUTA4NVlUVlFYUWl2dU1PeXpsb2JHMTBmY2pfR18zMjZzSWFyMHIzalpVSmUtWmQ3U2kzR3BrTUc0NUFBa1l4eWhuRHlGOE5UWUQ1LXdqcC1YaW9JM0FRM00wZVlkV0FhTWcxcjhyOWZhVFdTNWEyeV9PaHpyUlRtdEJ3U0MyX1Ewd2R3QUlvTk9PRTZQUXMtRHM?oc=5",
-      "importance": 4,
-      "publishedAt": "2026-07-24T12:31:08.000Z"
-    },
-    {
-      "id": "98e63709d39d",
-      "time": "14:06",
-      "title": "Incendie en Gironde : vent d’ouest et possibles rafales, l’après-midi de tous les dangers - Sud Ouest",
-      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
-      "source": "Google News",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNWU3cnBGMkU4YXNkUmlxZnE5ODVyOHV4bG5rS1lWZEF6S1VVeXdXYTVwRWYtZTFMVWRCWEszdkhaVGhiaEJhcHBMcXdXbFlCSmRfaThqVzczX01vTUotbGtrOURleVFEV1h2NVJpSUV1Q3lkTWdqQUh1bXZQdFdBdHlkMWxWV2V2VXRmYlZEOGxLQmU5TU9mUFhyOUhkVlNvdVRiUnVSRjNmTEVXc2VxdmVzSVpQb2ZRUmtOT004bzFLM1RqSTNVVklsa2FFLWdUNWJHSGdveVU4V0JPU0FvcmxZcXlwdjEzRjV3OWtKUXlnZGFtRkNfc1hvYw?oc=5",
-      "importance": 2,
-      "publishedAt": "2026-07-24T12:06:57.000Z"
-    },
-    {
-      "id": "05c25988b15d",
-      "time": "13:51",
-      "title": "DIRECT. \"C’est un incendie XXL\" : 40.000 personnes évacuées au Cap Ferret et plus de 23.000 à Biscarrosse - lanouvellerepublique.fr",
-      "detail": "Adds a reported 40,000-person evacuation estimate, which is higher than earlier authority figures and needs reconciliation.",
-      "source": "Google News · reopening",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNdDZscEFPZkJMekpxN3FsZTB6WUhVeUliekVfMHloVnRNTVBLeTVORWdLRVF0a25RdkFGTkVKRlVMQkZHS2I4NjFXMjQ2OFVYTnRZb1gzZmFSSW8wRVFKTWJQbzM4NXNyMGRiLXkyV1UxUXZjMU82aWloRDNuc1dLRlNneXg2a1lOMm9LSWw0WjdteHVjQ3d4LUhlNV9kOExtd1RCaW0zMnZLcWk5QzkxOHAzTnhWZHhnRzF2M2pCekpUQWF2bnB5Y2VRWW54UE5xbTVSOVBRSFROR2pTRmNNeDllNXJtNUkzVW9iWjZsQk9tVzctd3dLbVg1d0FUMFlLbGRNOG1oYzQ3VDhoRjJjZlVLZDBSdlJFS3c?oc=5",
-      "importance": 2,
-      "publishedAt": "2026-07-24T11:51:29.000Z"
-    },
-    {
-      "id": "9814c1169487",
-      "time": "13:09",
-      "title": "Dans la « souricière » du Cap-Ferret - Le Parisien",
-      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
-      "source": "Google News · reopening",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jMTltUFlEcUg4bHRnc0VpOUJZX0RSZzM4WFc0THZFS1NLU1UySWZRX05mMmVfejVkWUhBNEo1RmM1OC1xWWM1YjZKMUhLNFlBYWp2MXNTVmZlZ2w5MzV1R3hYNlE?oc=5",
-      "importance": 2,
-      "publishedAt": "2026-07-24T11:09:01.000Z"
-    },
-    {
-      "id": "16c6c18ac520",
-      "time": "13:04",
-      "title": "Incendie en Gironde: les pompiers continuent de lutter contre les flammes au Porge - BFM",
-      "detail": "Adds operational colour on firefighting resources but no standalone travel-safety conclusion.",
-      "source": "Google News",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaURzVEdmOXVtS1ZyekhiQ1VJd0VFU3F4dG0zY29jaC1tNVVYVDU3aUJjUVBFZkFjbEZVV1JfNXlqa25HVzFGRzJDWnNSSlFSNnZuYVNNZmxpSFN5bm1qV01UYkFRY0tUSGR6ZTNuZWVnZURGa2xoMFdPWmZDUVNvUmEwUExtb2pLVHpYSEFmQWFDOWw2aGJGbzdRRUxQUmhhVlg2LVItdy0zOF9qVjNoRGlfTVBHSFpqNjFLb0h3dldKeEJhQ2RHSGgyU0tkblhndTc3WjcwZzVudVZYanlDNWJmR1VNQQ?oc=5",
-      "importance": 2,
-      "publishedAt": "2026-07-24T11:04:43.000Z"
-    },
-    {
       "id": "7806230d9350",
       "time": "12:57",
       "title": "Incendie en cours : point de situation à 21h30 - Les services de l'État en Gironde",
       "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
+      "candidateText": "Incendie en cours : point de situation à 21h30 - Les services de l'État en Gironde &lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWnpucmxxXzJkcmtmNVFLUVNMWllwYTZnWmtoX191RkczU202RjFhQU0wTVV6LWw1UlJTX21tVGg2R1dwTzlXbmM1aTQyTUd5cGlDWUZCNTNqenJxOHE5dTJaM0dKcXRaVVYyUUMzcGNUYmkzQnZnc09zMHNjNFlRbVNIb1dmZzVYRjg4dlBQaFZON0xfVFdoSnFDa1ItOEFvdjRoRVNUWWZJb2dfSG1aMHo2Tld4UFVVTl9pZHRiVUtzTzRpc01CTHR1QmpTNXNMTnFJRDdIbDl0WmxHRHc?oc=5\" target=\"_blank\"&gt;Incendie en cours : point de situation à 21h30&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Les services de l'État en Gironde&lt;/font&gt;",
+      "sourceId": "google-news-incident",
       "source": "Google News",
       "sourceType": "media",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWnpucmxxXzJkcmtmNVFLUVNMWllwYTZnWmtoX191RkczU202RjFhQU0wTVV6LWw1UlJTX21tVGg2R1dwTzlXbmM1aTQyTUd5cGlDWUZCNTNqenJxOHE5dTJaM0dKcXRaVVYyUUMzcGNUYmkzQnZnc09zMHNjNFlRbVNIb1dmZzVYRjg4dlBQaFZON0xfVFdoSnFDa1ItOEFvdjRoRVNUWWZJb2dfSG1aMHo2Tld4UFVVTl9pZHRiVUtzTzRpc01CTHR1QmpTNXNMTnFJRDdIbDl0WmxHRHc?oc=5",
       "importance": 2,
-      "publishedAt": "2026-07-24T10:57:26.000Z"
-    },
-    {
-      "id": "c4b2ddf0ec52",
-      "time": "12:46",
-      "title": "[Photos] Incendies : 40.000 personnes évacuent le Cap-Ferret, 105 habitations et bâtiments \"touchés par les flammes\", \"voire détruits\" à Biscarrosse - Imaz Press",
-      "detail": "Adds a reported 40,000-person evacuation estimate, which is higher than earlier authority figures and needs reconciliation.",
-      "source": "Google News",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMnRjY09sVEFYX19xQWZ1M2dRNzYwWTlmV1NjWDk2LWhuWXZwc1dOblFYSkJteGJNTkMxNGlEUGppQ3RoSGc3WXY5S21fb1NwWGVFUklLQ09QeVRIVzBtMW96LTdjeVNNVDRPbUJLeVlYYkZuQ3VDQkhJdXh4OGM3ZnIwNXZIamhpX2JMT3FTWWM2b0k5czNrZzlEdjVtUzk4akdnRVhFUGMwWHNBdXFjXzhKQ3VqTVlyZWdjWWx3dHhMX3pheTJCdEhBbV81eXBhd3NDN2RSbUZ4RUF4dVVVazN6NHR6cmpmRmNhRFZELWRsSXRpXzd3UHB3?oc=5",
-      "importance": 2,
-      "publishedAt": "2026-07-24T10:46:35.000Z"
+      "publishedAt": "2026-07-24T10:57:26.000Z",
+      "classification": {
+        "score": 0,
+        "priority": "context",
+        "reasons": [],
+        "authorityAttributed": false,
+        "changeLanguage": false,
+        "numbers": []
+      },
+      "liveIndex": false
     },
     {
       "id": "a970e87bfb35",
       "time": "12:45",
       "title": "A10 - A63 - A660 - D106 - Cap-Ferret, Lège, Biscarrosse : accès impossible à plusieurs secteurs - Radio VINCI Autoroutes",
       "detail": "Adds road-access reporting, relevant to travel only once confirmed by the authorities managing the closure.",
+      "candidateText": "A10 - A63 - A660 - D106 - Cap-Ferret, Lège, Biscarrosse : accès impossible à plusieurs secteurs - Radio VINCI Autoroutes &lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNczVUeDdfRmRZb1JfdVItdGxiXzQ2bFdOZjI4Z3plNFloTlJ4aXVrd0tKN1FfREUtZGY1X09GQ0g2WVpsc2NYQUwtdHV2VkhlVFpuWHpyLTExLUZkdFdSUmxXdndlelJhbEY0SXBoZlFXRXZSMkJFTzZTVWJpa0Fvbk1iZXUtLVlZaGh1S0ZYdTRKMHJzQTl4OFlkYW16VkJTa1V0MnZQZVNVemlnMENqWEFNbEJaa1pic2I2R1dwT0YtdS04NzVydkExTHE?oc=5\" target=\"_blank\"&gt;A10 - A63 - A660 - D106 - Cap-Ferret, Lège, Biscarrosse : accès impossible à plusieurs secteurs&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Radio VINCI Autoroutes&lt;/font&gt;",
+      "sourceId": "google-news-reopening",
       "source": "Google News · reopening",
       "sourceType": "media",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNczVUeDdfRmRZb1JfdVItdGxiXzQ2bFdOZjI4Z3plNFloTlJ4aXVrd0tKN1FfREUtZGY1X09GQ0g2WVpsc2NYQUwtdHV2VkhlVFpuWHpyLTExLUZkdFdSUmxXdndlelJhbEY0SXBoZlFXRXZSMkJFTzZTVWJpa0Fvbk1iZXUtLVlZaGh1S0ZYdTRKMHJzQTl4OFlkYW16VkJTa1V0MnZQZVNVemlnMENqWEFNbEJaa1pic2I2R1dwT0YtdS04NzVydkExTHE?oc=5",
       "importance": 2,
-      "publishedAt": "2026-07-24T10:45:00.000Z"
+      "publishedAt": "2026-07-24T10:45:00.000Z",
+      "classification": {
+        "score": 4,
+        "priority": "context",
+        "reasons": [
+          "access"
+        ],
+        "authorityAttributed": false,
+        "changeLanguage": false,
+        "numbers": []
+      },
+      "liveIndex": false
     },
     {
       "id": "30fc8d0e5a5c",
       "time": "12:27",
       "title": "Incendie en Gironde. « J’aimerais avant tout qu’il n’y ait pas de blessés… et retrouver ma tente » : à Lège-Cap-Ferret avec les évacués du camping du Porge-Océan - Sud Ouest",
       "detail": "Adds evacuation reporting but no independently confirmed material fact beyond the existing peninsula-wide order.",
+      "candidateText": "Incendie en Gironde. « J’aimerais avant tout qu’il n’y ait pas de blessés… et retrouver ma tente » : à Lège-Cap-Ferret avec les évacués du camping du Porge-Océan - Sud Ouest &lt;a href=\"https://news.google.com/rss/articles/CBMiuwJBVV95cUxPZmViZTl2R202WTlXOUpiVV9JWkxFVWZxeTUxZ0FLQW1ieUNZLS1mMUFJRlR0TzlDRFR2emVFaE9CTFpmZzFJTW9qMTVLT1NRV21ZQ05DWllNMFlrTXRnZ3RRRGg0blF4end4MTRjNGtSQlZ2djN3SlkyX3dVZEtiRFJjZHhrYUZaYWRmbndtS3djTG9raDJlb0FmOVY5VGtjMUc0cGhncVpNMldBSXBBaUNFQXI2LVB6QUlGRkZoRUgwZS02Z0ZDdzdRSjU4SFhfWVM0Z21EQ2ttZWlCOEZrWEl4M0RaVmxEczlBRUNwRzBqcXpxQm5abVpSSUNkcmlOX0xLUGp4UXhvV0dPZmRHRXpTUXk3WTFTZ291MWtNeFZXNXBXYXQyME00VDhoYy1aMjFrMjlrMHZzU1U?oc=5\" target=\"_blank\"&gt;Incendie en Gironde. « J’aimerais avant tout qu’il n’y ait pas de blessés… et retrouver ma tente » : à Lège-Cap-Ferret avec les évacués du camping du Porge-Océan&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Sud Ouest&lt;/font&gt;",
+      "sourceId": "google-news-incident",
       "source": "Google News",
       "sourceType": "media",
       "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPZmViZTl2R202WTlXOUpiVV9JWkxFVWZxeTUxZ0FLQW1ieUNZLS1mMUFJRlR0TzlDRFR2emVFaE9CTFpmZzFJTW9qMTVLT1NRV21ZQ05DWllNMFlrTXRnZ3RRRGg0blF4end4MTRjNGtSQlZ2djN3SlkyX3dVZEtiRFJjZHhrYUZaYWRmbndtS3djTG9raDJlb0FmOVY5VGtjMUc0cGhncVpNMldBSXBBaUNFQXI2LVB6QUlGRkZoRUgwZS02Z0ZDdzdRSjU4SFhfWVM0Z21EQ2ttZWlCOEZrWEl4M0RaVmxEczlBRUNwRzBqcXpxQm5abVpSSUNkcmlOX0xLUGp4UXhvV0dPZmRHRXpTUXk3WTFTZ291MWtNeFZXNXBXYXQyME00VDhoYy1aMjFrMjlrMHZzU1U?oc=5",
       "importance": 2,
-      "publishedAt": "2026-07-24T10:27:18.000Z"
+      "publishedAt": "2026-07-24T10:27:18.000Z",
+      "classification": {
+        "score": 13,
+        "priority": "urgent-review",
+        "reasons": [
+          "evacuation",
+          "access",
+          "harm"
+        ],
+        "authorityAttributed": false,
+        "changeLanguage": false,
+        "numbers": []
+      },
+      "liveIndex": false
     },
     {
       "id": "ba7e45a7ad32",
       "time": "12:11",
       "title": "\"On a l'impression que c'est la fin du monde\": au Cap Ferret, récit d'une évacuation dans les flammes et la fumée - BFM",
       "detail": "Adds evacuation reporting but no independently confirmed material fact beyond the existing peninsula-wide order.",
+      "candidateText": "\"On a l'impression que c'est la fin du monde\": au Cap Ferret, récit d'une évacuation dans les flammes et la fumée - BFM &lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSE5oNjF1Skg2bVF5RVh5QW0yRHNLSUsxUTQtY0ZJQWxINi1wMkZNdEM2cHpEMVdNT00xbFpQQi1icFZqWGFvaUxwT0g3djFYb2J4U09TWHoySWxkVF9uZDJZY3I5RzZVdFE2Vl9WSWhXcy00bHlHcmE4SndEbklLc2hKWjJqUzJEbDJkYkdMdFVRRU1KYlQ5bmJHR0FBcjF4MWgyVVplVEJkaXVSOGJ3WWJZRDd3amw4dVRld2kwRjhuSW4ybEE5TWhzR3A5emZMc0FRUjdmekMtY0VvRXVlOXdBYmhES1l2TDNDLUd3VktjVUxfamdLOUtuTVFSdw?oc=5\" target=\"_blank\"&gt;\"On a l'impression que c'est la fin du monde\": au Cap Ferret, récit d'une évacuation dans les flammes et la fumée&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;BFM&lt;/font&gt;",
+      "sourceId": "google-news-reopening",
       "source": "Google News · reopening",
       "sourceType": "media",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSE5oNjF1Skg2bVF5RVh5QW0yRHNLSUsxUTQtY0ZJQWxINi1wMkZNdEM2cHpEMVdNT00xbFpQQi1icFZqWGFvaUxwT0g3djFYb2J4U09TWHoySWxkVF9uZDJZY3I5RzZVdFE2Vl9WSWhXcy00bHlHcmE4SndEbklLc2hKWjJqUzJEbDJkYkdMdFVRRU1KYlQ5bmJHR0FBcjF4MWgyVVplVEJkaXVSOGJ3WWJZRDd3amw4dVRld2kwRjhuSW4ybEE5TWhzR3A5emZMc0FRUjdmekMtY0VvRXVlOXdBYmhES1l2TDNDLUd3VktjVUxfamdLOUtuTVFSdw?oc=5",
@@ -772,7 +895,59 @@
         "authorityAttributed": false,
         "changeLanguage": false,
         "numbers": []
-      }
+      },
+      "liveIndex": false
+    },
+    {
+      "id": "ced9013d9b2d",
+      "time": "11:21",
+      "title": "Feu Nord Bassin: Evacuation des villages de la presqu’île et du Porge. - InfoBassin",
+      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
+      "candidateText": "Feu Nord Bassin: Evacuation des villages de la presqu’île et du Porge. - InfoBassin &lt;a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEMnM2MW9ub05lSnowdldVUW14dTdLQUwyRm5ocWNUMUlsWEZ6NFBBRVM4TEVxSDFKZ3dVaExLei1ibF9Gb0oyVXV4SURGTXNTQ2VZaA?oc=5\" target=\"_blank\"&gt;Feu Nord Bassin: Evacuation des villages de la presqu’île et du Porge.&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;InfoBassin&lt;/font&gt;",
+      "sourceId": "google-news-incident",
+      "source": "Google News",
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEMnM2MW9ub05lSnowdldVUW14dTdLQUwyRm5ocWNUMUlsWEZ6NFBBRVM4TEVxSDFKZ3dVaExLei1ibF9Gb0oyVXV4SURGTXNTQ2VZaA?oc=5",
+      "importance": 2,
+      "publishedAt": "2026-07-24T09:21:29.000Z",
+      "classification": {
+        "score": 5,
+        "priority": "context",
+        "reasons": [
+          "evacuation"
+        ],
+        "authorityAttributed": false,
+        "changeLanguage": false,
+        "numbers": []
+      },
+      "liveIndex": false
+    },
+    {
+      "id": "7cef66a4da89",
+      "time": "10:58",
+      "title": "Face au \"plus gros feu de la saison\", 40.000 personnes évacuent le Cap-Ferret - Boursorama",
+      "detail": "Adds a reported 40,000-person evacuation estimate, which is higher than earlier authority figures and needs reconciliation.",
+      "candidateText": "Face au \"plus gros feu de la saison\", 40.000 personnes évacuent le Cap-Ferret - Boursorama &lt;a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMmx2NXNhX1VHeWhxaGtoSlJaeXNOYWNDQXd1eC0zcWNpanp3d0Y2TWRCR29xenNZSlNPT2d5ZGZoM1hxajFVbUhMenQ2cmttMnpUczJubTJWYjM4aFdQcHlyZDFEemMxQXg1NFZqVzFIQVV6S2l3U1lQb2xldFhqemk2Z2w5bm80OVFCZEVxTjZhOG1OT0hsUjhYTXd4ZlNNZWNqbnAxMTcxLUVwMENuQlJoZTV0QmVBeGM4ZzA3MmRub2wxU2xacWV6UkREMmZFY2VtU3d1NXotMXVZblBoUGFyT19HdUk4LUxaaG1ZVlM0ZWNVOEZQbzQydnBoVTjSAf8BQVVfeXFMUDJsdjVzYV9VR3locWhraEpSWnlzTmFjQ0F3dXgtM3FjaWp6d3dGNk1kQkdvcXpzWUpTT09neWRmaDNYcWoxVW1ITHp0NnJrbTJ6VHMybm0yVmIzOGhXUHB5cmQxRHpjMUF4NTRWalcxSEFVektpd1NZUG9sZXRYanppNmdsOW5vNDlRQmRFcU42YThtTk9IbFI4WE13eGZTTWVjam5wMTE3MS1FcDBDbkJSaGU1dEJlQXhjOGcwNzJkbm9sMVNsWnFlelJERDJmRWNlbVN3dTV6LTF1WW5QaFBhck9fR3VJOC1MWmhtWVZTNGVjVThGUG80MnZwaFU4?oc=5\" target=\"_blank\"&gt;Face au \"plus gros feu de la saison\", 40.000 personnes évacuent le Cap-Ferret&lt;/a&gt;&nbsp;&nbsp;&lt;font color=\"#6f6f6f\"&gt;Boursorama&lt;/font&gt;",
+      "sourceId": "google-news-incident",
+      "source": "Google News",
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMmx2NXNhX1VHeWhxaGtoSlJaeXNOYWNDQXd1eC0zcWNpanp3d0Y2TWRCR29xenNZSlNPT2d5ZGZoM1hxajFVbUhMenQ2cmttMnpUczJubTJWYjM4aFdQcHlyZDFEemMxQXg1NFZqVzFIQVV6S2l3U1lQb2xldFhqemk2Z2w5bm80OVFCZEVxTjZhOG1OT0hsUjhYTXd4ZlNNZWNqbnAxMTcxLUVwMENuQlJoZTV0QmVBeGM4ZzA3MmRub2wxU2xacWV6UkREMmZFY2VtU3d1NXotMXVZblBoUGFyT19HdUk4LUxaaG1ZVlM0ZWNVOEZQbzQydnBoVTjSAf8BQVVfeXFMUDJsdjVzYV9VR3locWhraEpSWnlzTmFjQ0F3dXgtM3FjaWp6d3dGNk1kQkdvcXpzWUpTT09neWRmaDNYcWoxVW1ITHp0NnJrbTJ6VHMybm0yVmIzOGhXUHB5cmQxRHpjMUF4NTRWalcxSEFVektpd1NZUG9sZXRYanppNmdsOW5vNDlRQmRFcU42YThtTk9IbFI4WE13eGZTTWVjam5wMTE3MS1FcDBDbkJSaGU1dEJlQXhjOGcwNzJkbm9sMVNsWnFlelJERDJmRWNlbVN3dTV6LTF1WW5QaFBhck9fR3VJOC1MWmhtWVZTNGVjVThGUG80MnZwaFU4?oc=5",
+      "importance": 2,
+      "publishedAt": "2026-07-24T08:58:35.000Z",
+      "classification": {
+        "score": 10,
+        "priority": "review",
+        "reasons": [
+          "evacuation",
+          "access"
+        ],
+        "authorityAttributed": false,
+        "changeLanguage": false,
+        "numbers": [
+          "40.000 personnes"
+        ]
+      },
+      "liveIndex": false
     }
   ],
   "access": [
@@ -895,6 +1070,20 @@
       "status": "Operating · smoke-related delays remain possible",
       "sourceName": "Bordeaux Airport live board updated 03:17; direct statements to Le Monde and Radio France",
       "sourceUrl": "https://www.bordeaux.aeroport.fr/vols-destinations/arrivees-departs-du-jour"
+    },
+    "operationalRisk": {
+      "closure": {
+        "level": "amber",
+        "status": "Elevated risk · outer Mérignac ordered evacuated",
+        "detail": "The airport is still listing flights, but the prefectural order now covers outer Mérignac. No direct notice has yet confirmed that the airport site is closed."
+      },
+      "groundAccess": {
+        "level": "amber",
+        "status": "High uncertainty · verify the route before travel",
+        "detail": "Evacuation traffic and controls in Mérignac can disrupt road and public-transport access even while flights remain listed.",
+        "sourceName": "Le Monde live report of the prefectural evacuation order",
+        "sourceUrl": "https://www.lemonde.fr/planete/live/2026/07/25/en-direct-incendies-le-feu-se-dirige-vers-bordeaux-500-militaires-supplementaires-et-1-5-million-de-masques-ffp2-envoyes-en-gironde_6730417_3244.html"
+      }
     },
     "trackedFlight": {
       "flightNumber": "BA2572",
@@ -1037,63 +1226,63 @@
       "name": "Lège-Cap-Ferret Town Hall",
       "type": "Official",
       "url": "https://www.ville-lege-capferret.fr/top_slider/information-incendie-saumos/",
-      "checkedAt": "2026-07-25T03:19:54.338Z",
+      "checkedAt": "2026-07-25T03:40:17.253Z",
       "status": "ok"
     },
     {
       "name": "Gironde Prefecture",
       "type": "Official",
       "url": "https://www.gironde.gouv.fr/",
-      "checkedAt": "2026-07-25T03:19:54.371Z",
+      "checkedAt": "2026-07-25T03:40:17.284Z",
       "status": "ok"
     },
     {
       "name": "Gironde Department",
       "type": "Official",
       "url": "https://www.gironde.fr/actualites/vigilance-rouge-pour-le-risque-feu-de-foret",
-      "checkedAt": "2026-07-25T03:19:54.371Z",
+      "checkedAt": "2026-07-25T03:40:17.284Z",
       "status": "ok"
     },
     {
       "name": "Feux de Forêt",
       "type": "Specialist",
       "url": "https://feuxdeforet.fr/",
-      "checkedAt": "2026-07-25T03:19:54.372Z",
+      "checkedAt": "2026-07-25T03:40:17.285Z",
       "status": "ok"
     },
     {
       "name": "NASA FIRMS",
       "type": "Satellite",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/",
-      "checkedAt": "2026-07-25T03:19:54.372Z",
+      "checkedAt": "2026-07-25T03:40:17.285Z",
       "status": "ok"
     },
     {
       "name": "Météo-France · forêts",
       "type": "Official",
       "url": "https://meteofrance.com/meteo-des-forets",
-      "checkedAt": "2026-07-25T03:19:54.372Z",
+      "checkedAt": "2026-07-25T03:40:17.285Z",
       "status": "ok"
     },
     {
       "name": "France Bleu / ici Gironde",
       "type": "Local media",
       "url": "https://www.francebleu.fr/gironde",
-      "checkedAt": "2026-07-25T03:19:54.373Z",
+      "checkedAt": "2026-07-25T03:40:17.286Z",
       "status": "ok"
     },
     {
       "name": "Bordeaux Airport",
       "type": "Official transport",
       "url": "https://www.bordeaux.aeroport.fr/vols-destinations/arrivees-departs-du-jour",
-      "checkedAt": "2026-07-25T03:19:55.189Z",
+      "checkedAt": "2026-07-25T03:40:18.179Z",
       "status": "ok"
     },
     {
       "name": "Public social networks",
       "type": "Signal",
       "url": "https://bsky.app/search?q=incendie%20Cap%20Ferret",
-      "checkedAt": "2026-07-25T03:20:07.865Z",
+      "checkedAt": "2026-07-25T03:40:28.255Z",
       "status": "ok"
     }
   ],
@@ -1392,14 +1581,49 @@
         "name": "Saint-Médard-en-Jalles",
         "lat": 44.895,
         "lng": -0.718,
-        "status": "Residents told to prepare for probable evacuation · no order yet confirmed",
+        "status": "Preventive evacuation ordered",
         "kind": "evacuation"
       },
       {
         "name": "Saint-Jean-d’Illac",
         "lat": 44.811,
         "lng": -0.783,
-        "status": "Residents told to prepare for probable evacuation · no order yet confirmed",
+        "status": "Preventive evacuation ordered",
+        "kind": "evacuation"
+      },
+      {
+        "name": "Martignas-sur-Jalle",
+        "lat": 44.841,
+        "lng": -0.778,
+        "status": "Preventive evacuation ordered",
+        "kind": "evacuation"
+      },
+      {
+        "name": "Saint-Aubin-de-Médoc",
+        "lat": 44.912,
+        "lng": -0.725,
+        "status": "Preventive evacuation ordered",
+        "kind": "evacuation"
+      },
+      {
+        "name": "Le Haillan",
+        "lat": 44.872,
+        "lng": -0.678,
+        "status": "Preventive evacuation ordered",
+        "kind": "evacuation"
+      },
+      {
+        "name": "Mérignac · extra-rocade",
+        "lat": 44.83,
+        "lng": -0.69,
+        "status": "Partial preventive evacuation ordered · airport implications under review",
+        "kind": "evacuation"
+      },
+      {
+        "name": "Eysines · extra-rocade",
+        "lat": 44.884,
+        "lng": -0.651,
+        "status": "Partial preventive evacuation ordered",
         "kind": "evacuation"
       },
       {
@@ -1433,11 +1657,25 @@
     ]
   },
   "collection": {
-    "feedSuccesses": 2,
+    "feedSuccesses": 3,
     "feedFailures": 0,
-    "newItemsSeen": 182,
-    "liveblogItemsSeen": 3,
+    "newItemsSeen": 186,
+    "liveblogItemsSeen": 7,
     "sourceHealth": [
+      {
+        "id": "lemonde-planete-live-index",
+        "name": "Le Monde · Planète live index",
+        "kind": "rss",
+        "url": "https://www.lemonde.fr/planete/rss_full.xml",
+        "critical": true,
+        "status": "ok",
+        "checkedAt": "2026-07-25T03:40:18.363Z",
+        "latencyMs": 185,
+        "itemCount": 4,
+        "error": null,
+        "lastGoodAt": "2026-07-25T03:40:18.363Z",
+        "lastFailureAt": null
+      },
       {
         "id": "google-news-incident",
         "name": "Google News",
@@ -1445,11 +1683,11 @@
         "url": "https://news.google.com/rss/search?q=%28incendie+OR+feu%29+%28L%C3%A8ge-Cap-Ferret+OR+Saumos+OR+Le+Porge%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:19:55.363Z",
-        "latencyMs": 559,
+        "checkedAt": "2026-07-25T03:40:18.364Z",
+        "latencyMs": 519,
         "itemCount": 95,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:19:55.363Z",
+        "lastGoodAt": "2026-07-25T03:40:18.364Z",
         "lastFailureAt": null
       },
       {
@@ -1459,11 +1697,11 @@
         "url": "https://news.google.com/rss/search?q=%28r%C3%A9ouverture+OR+retour+OR+acc%C3%A8s%29+%28Cap+Ferret+OR+L%C3%A8ge%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:19:55.365Z",
-        "latencyMs": 531,
+        "checkedAt": "2026-07-25T03:40:18.365Z",
+        "latencyMs": 461,
         "itemCount": 87,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:19:55.365Z",
+        "lastGoodAt": "2026-07-25T03:40:18.365Z",
         "lastFailureAt": null
       },
       {
@@ -1473,11 +1711,11 @@
         "url": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:19:55.922Z",
-        "latencyMs": 224,
+        "checkedAt": "2026-07-25T03:40:18.884Z",
+        "latencyMs": 175,
         "itemCount": 3,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:19:55.922Z",
+        "lastGoodAt": "2026-07-25T03:40:18.884Z",
         "lastFailureAt": null
       },
       {
@@ -1487,12 +1725,12 @@
         "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-des-evacuations-par-bateau-en-gironde-la-situation-nest-pas-sous-controle-dans-les-landes-20260724_CUWC25TVWRFZ7JZIHU2QBJ66PI/",
         "critical": false,
         "status": "failed",
-        "checkedAt": "2026-07-25T03:19:55.923Z",
-        "latencyMs": 253,
+        "checkedAt": "2026-07-25T03:40:18.885Z",
+        "latencyMs": 196,
         "itemCount": null,
         "error": "403 ",
         "lastGoodAt": null,
-        "lastFailureAt": "2026-07-25T03:19:55.923Z"
+        "lastFailureAt": "2026-07-25T03:40:18.885Z"
       },
       {
         "id": "reference-cab7e13fe8",
@@ -1501,14 +1739,14 @@
         "url": "https://www.ville-lege-capferret.fr/top_slider/information-incendie-saumos/",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:19:54.338Z",
-        "latencyMs": 212,
+        "checkedAt": "2026-07-25T03:40:17.253Z",
+        "latencyMs": 209,
         "itemCount": 1643,
         "error": null,
         "contentHash": "a8be6297fa9f722f87b7",
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-25T03:19:54.338Z",
+        "lastGoodAt": "2026-07-25T03:40:17.253Z",
         "lastFailureAt": null
       },
       {
@@ -1518,14 +1756,14 @@
         "url": "https://www.gironde.gouv.fr/",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:19:54.371Z",
-        "latencyMs": 813,
+        "checkedAt": "2026-07-25T03:40:17.284Z",
+        "latencyMs": 792,
         "itemCount": 726,
         "error": null,
         "contentHash": "3d64f08c00eba14d5bbd",
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-25T03:19:54.371Z",
+        "lastGoodAt": "2026-07-25T03:40:17.284Z",
         "lastFailureAt": null
       },
       {
@@ -1535,14 +1773,14 @@
         "url": "https://www.gironde.fr/actualites/vigilance-rouge-pour-le-risque-feu-de-foret",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:19:54.371Z",
-        "latencyMs": 818,
+        "checkedAt": "2026-07-25T03:40:17.284Z",
+        "latencyMs": 894,
         "itemCount": 641,
         "error": null,
         "contentHash": "d94a32b47a28e48791b9",
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-25T03:19:54.371Z",
+        "lastGoodAt": "2026-07-25T03:40:17.284Z",
         "lastFailureAt": null
       },
       {
@@ -1552,14 +1790,14 @@
         "url": "https://feuxdeforet.fr/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:19:54.372Z",
-        "latencyMs": 186,
+        "checkedAt": "2026-07-25T03:40:17.285Z",
+        "latencyMs": 199,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-25T03:19:54.372Z",
+        "lastGoodAt": "2026-07-25T03:40:17.285Z",
         "lastFailureAt": null
       },
       {
@@ -1569,14 +1807,14 @@
         "url": "https://firms.modaps.eosdis.nasa.gov/map/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:19:54.372Z",
-        "latencyMs": 621,
+        "checkedAt": "2026-07-25T03:40:17.285Z",
+        "latencyMs": 583,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-25T03:19:54.372Z",
+        "lastGoodAt": "2026-07-25T03:40:17.285Z",
         "lastFailureAt": null
       },
       {
@@ -1586,14 +1824,14 @@
         "url": "https://meteofrance.com/meteo-des-forets",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:19:54.372Z",
-        "latencyMs": 264,
+        "checkedAt": "2026-07-25T03:40:17.285Z",
+        "latencyMs": 214,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-25T03:19:54.372Z",
+        "lastGoodAt": "2026-07-25T03:40:17.285Z",
         "lastFailureAt": null
       },
       {
@@ -1603,14 +1841,14 @@
         "url": "https://www.francebleu.fr/gironde",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:19:54.373Z",
-        "latencyMs": 417,
+        "checkedAt": "2026-07-25T03:40:17.286Z",
+        "latencyMs": 448,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-25T03:19:54.373Z",
+        "lastGoodAt": "2026-07-25T03:40:17.286Z",
         "lastFailureAt": null
       },
       {
@@ -1620,11 +1858,11 @@
         "url": "https://www.bordeaux.aeroport.fr/vols-destinations/arrivees-departs-du-jour",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:19:55.189Z",
-        "latencyMs": 173,
+        "checkedAt": "2026-07-25T03:40:18.179Z",
+        "latencyMs": 184,
         "itemCount": 134,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:19:55.189Z",
+        "lastGoodAt": "2026-07-25T03:40:18.179Z",
         "lastFailureAt": null
       },
       {
@@ -1634,11 +1872,11 @@
         "url": "https://api.bsky.app/xrpc/app.bsky.feed.searchPosts",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:20:07.865Z",
+        "checkedAt": "2026-07-25T03:40:28.255Z",
         "latencyMs": null,
         "itemCount": 30,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:20:07.865Z",
+        "lastGoodAt": "2026-07-25T03:40:28.255Z",
         "lastFailureAt": null
       },
       {
@@ -1648,12 +1886,12 @@
         "url": "https://www.reddit.com/search.rss",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:20:07.865Z",
+        "checkedAt": "2026-07-25T03:40:28.255Z",
         "latencyMs": null,
-        "itemCount": 1,
+        "itemCount": 4,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:20:07.865Z",
-        "lastFailureAt": "2026-07-24T22:32:23.190Z"
+        "lastGoodAt": "2026-07-25T03:40:28.255Z",
+        "lastFailureAt": "2026-07-25T03:39:05.568Z"
       },
       {
         "id": "mastodon-search",
@@ -1662,11 +1900,11 @@
         "url": "https://mastodon.social/api/v1/timelines/tag/gironde",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:20:07.865Z",
+        "checkedAt": "2026-07-25T03:40:28.255Z",
         "latencyMs": null,
         "itemCount": 20,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:20:07.865Z",
+        "lastGoodAt": "2026-07-25T03:40:28.255Z",
         "lastFailureAt": null
       },
       {
@@ -1676,11 +1914,11 @@
         "url": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:19:57.497Z",
+        "checkedAt": "2026-07-25T03:40:21.794Z",
         "latencyMs": null,
         "itemCount": 3,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:19:57.497Z",
+        "lastGoodAt": "2026-07-25T03:40:21.794Z",
         "lastFailureAt": null
       },
       {
@@ -1690,24 +1928,24 @@
         "url": "https://sig.gironde.fr/arcgis/services/ec_routes_ferm%C3%A9es/MapServer/WFSServer?service=WFS&version=2.0.0&request=GetFeature&typenames=ec_routes_ferm%C3%A9es%3ARoutes_d%C3%A9partementales_ferm%C3%A9es&outputFormat=GEOJSON",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:19:57.497Z",
+        "checkedAt": "2026-07-25T03:40:21.794Z",
         "latencyMs": null,
         "itemCount": 14,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:19:57.497Z",
-        "lastFailureAt": "2026-07-25T02:53:03.005Z"
+        "lastGoodAt": "2026-07-25T03:40:21.794Z",
+        "lastFailureAt": "2026-07-25T03:39:05.568Z"
       }
     ],
     "health": {
-      "checked": 17,
-      "healthy": 16,
+      "checked": 18,
+      "healthy": 17,
       "failed": 1,
       "criticalFailures": 0,
       "synthesisReviewRequired": false,
-      "newestUrgentCandidateAt": "2026-07-24T21:30:45.888Z"
+      "newestUrgentCandidateAt": "2026-07-25T02:09:00.000Z"
     },
     "social": {
-      "checkedAt": "2026-07-25T03:20:07.865Z",
+      "checkedAt": "2026-07-25T03:40:28.255Z",
       "newestCandidateAt": "2026-07-25T02:33:30.000Z",
       "newestDisplayedAt": "2026-07-25T02:33:30.000Z",
       "lagMinutes": 0,
@@ -1728,8 +1966,8 @@
     },
     "aviation": {
       "status": "ok",
-      "checkedAt": "2026-07-25T03:19:55.189Z",
-      "boardUpdatedAt": "2026-07-25T05:17:00+02:00",
+      "checkedAt": "2026-07-25T03:40:18.179Z",
+      "boardUpdatedAt": "2026-07-25T05:37:00+02:00",
       "listedFlightCount": 134,
       "operatingSignal": true,
       "trackedFlightListed": true,
@@ -1746,21 +1984,23 @@
       "error": null
     },
     "audit": {
-      "synthesisMaterialId": "material-2026-07-25-0335",
-      "synthesisUpdatedAt": "2026-07-25T03:35:00+02:00",
+      "synthesisMaterialId": "material-2026-07-25-0409",
+      "synthesisUpdatedAt": "2026-07-25T04:09:00+02:00",
       "urgentCandidatesAfterSynthesis": [],
       "classificationReasonCounts": {
-        "access": 3,
-        "evacuation": 5,
-        "fire-behaviour": 2,
-        "response": 1,
+        "evacuation": 9,
+        "harm": 1,
+        "response": 2,
+        "fire-behaviour": 3,
+        "fire-scale": 1,
+        "access": 6,
         "air-quality": 3
       },
       "failedSources": [
         {
           "id": "liberation-live",
           "lastGoodAt": null,
-          "lastFailureAt": "2026-07-25T03:19:55.923Z",
+          "lastFailureAt": "2026-07-25T03:40:18.885Z",
           "error": "403 "
         }
       ]
@@ -2224,7 +2464,7 @@
     }
   ],
   "traffic": {
-    "checkedAt": "2026-07-25T03:19:57.497Z",
+    "checkedAt": "2026-07-25T03:40:21.794Z",
     "sourceName": "Inforoutes Gironde",
     "sourceUrl": "https://www.gironde.fr/deplacements/inforoutes",
     "officialClosures": {
@@ -4688,23 +4928,23 @@
     "location": "Saumos–Lège fire corridor reference point",
     "latitude": 44.91,
     "longitude": -1.0600004,
-    "observedAt": "2026-07-25T05:15:00+02:00",
-    "modelUpdatedAt": "2026-07-25T03:19:57.496Z",
+    "observedAt": "2026-07-25T05:30:00+02:00",
+    "modelUpdatedAt": "2026-07-25T03:40:21.794Z",
     "sourceName": "Open-Meteo",
     "sourceUrl": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
     "officialFireDangerName": "Météo-France · Météo des forêts",
     "officialFireDangerUrl": "https://meteofrance.com/meteo-des-forets",
     "current": {
-      "temperatureC": 21.2,
-      "humidityPct": 87,
+      "temperatureC": 21.4,
+      "humidityPct": 88,
       "precipitationMm": 0,
-      "windSpeedKmh": 10.5,
-      "windDirectionDeg": 232,
+      "windSpeedKmh": 12.7,
+      "windDirectionDeg": 235,
       "windDirection": "SW",
-      "windGustKmh": 28.8
+      "windGustKmh": 30.2
     },
     "forecast24h": {
-      "endsAt": "2026-07-26T03:15:00.000Z",
+      "endsAt": "2026-07-26T03:30:00.000Z",
       "maxTemperatureC": 27.3,
       "minHumidityPct": 38,
       "maxWindSpeedKmh": 16.4,
@@ -4721,10 +4961,10 @@
           "humidityPct": 61,
           "precipitationProbabilityPct": 3,
           "precipitationMm": 0,
-          "windSpeedKmh": 14.7,
-          "windDirectionDeg": 248,
+          "windSpeedKmh": 15,
+          "windDirectionDeg": 247,
           "windDirection": "WSW",
-          "windGustKmh": 36.4
+          "windGustKmh": 36.7
         },
         {
           "time": "2026-07-25T17:00:00+02:00",
@@ -4752,6 +4992,51 @@
     }
   },
   "intelligenceCandidates": [
+    {
+      "id": "rss-4bb790713e25",
+      "kind": "live-index-entry",
+      "sourceId": "lemonde-planete-live-index",
+      "sourceName": "Le Monde · Planète live index",
+      "sourceUrl": "https://www.lemonde.fr/planete/live/2026/07/25/en-direct-incendies-le-feu-se-dirige-vers-bordeaux-500-militaires-supplementaires-et-1-5-million-de-masques-ffp2-envoyes-en-gironde_6730417_3244.html",
+      "publishedAt": "2026-07-25T02:09:00.000Z",
+      "text": "EN DIRECT, incendies : le feu se dirige vers Bordeaux ; 500 militaires supplémentaires et 1,5 million de masques FFP2 envoyés en Gironde Une mobilisation du service de santé des armées et un plan blanc dans les établissements de santé ont aussi été annoncés. Quarante-deux sapeurs-pompiers blessés dans la lutte contre les feux en Gironde ont été pris en charge dont neuf évacués, « tous en urgence relative ».",
+      "score": 19,
+      "priority": "urgent-review",
+      "reasons": [
+        "evacuation",
+        "harm",
+        "response"
+      ],
+      "authorityAttributed": true,
+      "changeLanguage": true,
+      "numbers": [
+        "500",
+        "1,5"
+      ]
+    },
+    {
+      "id": "rss-b49a350b15ab",
+      "kind": "live-index-entry",
+      "sourceId": "lemonde-planete-live-index",
+      "sourceName": "Le Monde · Planète live index",
+      "sourceUrl": "https://www.lemonde.fr/videos/video/2026/07/24/incendies-au-cap-ferret-plus-de-10-000-hectares-parcourus-dans-le-sud-ouest_6731475_1669088.html",
+      "publishedAt": "2026-07-25T00:48:51.000Z",
+      "text": "Incendies au Cap-Ferret : plus de 10 000 hectares parcourus dans le Sud-Ouest « Au moment où je vous parle, de manière progressive, il y a 40 000 personnes qui ont été évacuées ou qui sont en cours d’être évacués actuellement » en Gironde, a fait savoir à l’Agence France-Presse le ministre de l’intérieur, Laurent Nuñez, soulignant que, pour l’instant, le bilan humain était « nul ».",
+      "score": 23,
+      "priority": "urgent-review",
+      "reasons": [
+        "evacuation",
+        "fire-behaviour",
+        "fire-scale",
+        "access"
+      ],
+      "authorityAttributed": true,
+      "changeLanguage": false,
+      "numbers": [
+        "10 000 hectares",
+        "40 000 personnes"
+      ]
+    },
     {
       "id": "113e4bb8f984bea8",
       "kind": "liveblog-entry",
@@ -4783,6 +5068,24 @@
         "evacuation"
       ],
       "authorityAttributed": true,
+      "changeLanguage": false,
+      "numbers": []
+    },
+    {
+      "id": "rss-5eef67db7289",
+      "kind": "live-index-entry",
+      "sourceId": "lemonde-planete-live-index",
+      "sourceName": "Le Monde · Planète live index",
+      "sourceUrl": "https://www.lemonde.fr/planete/article/2026/07/24/la-presqu-ile-du-cap-ferret-prise-au-piege-des-incendies-en-gironde-ca-fait-quatre-ans-qu-on-s-y-attendait_6731540_3244.html",
+      "publishedAt": "2026-07-24T21:42:01.000Z",
+      "text": "La presqu’île du Cap-Ferret prise au piège des incendies en Gironde : « Ça fait quatre ans qu’on s’y attendait » La très chic station balnéaire est en proie aux aléas du dérèglement climatique : érosion côtière, montée des eaux et risque d’incendies. Elle a été complètement évacuée vendredi.",
+      "score": 11,
+      "priority": "urgent-review",
+      "reasons": [
+        "evacuation",
+        "access"
+      ],
+      "authorityAttributed": false,
       "changeLanguage": false,
       "numbers": []
     },
@@ -4948,6 +5251,26 @@
       "authorityAttributed": true,
       "changeLanguage": true,
       "numbers": []
+    },
+    {
+      "id": "rss-a74d47e7cb6a",
+      "kind": "live-index-entry",
+      "sourceId": "lemonde-planete-live-index",
+      "sourceName": "Le Monde · Planète live index",
+      "sourceUrl": "https://www.lemonde.fr/planete/article/2026/07/24/incendie-en-gironde-nous-sommes-face-a-un-feu-imprevisible_6731411_3244.html",
+      "publishedAt": "2026-07-24T08:11:18.000Z",
+      "text": "Incendie en Gironde : « L’angoisse, c’est l’après, quand on va découvrir les paysages calcinés » Le sinistre qui a démarré mercredi à Saumos a nécessité l’évacuation préventive de 20 000 personnes, détruit six maisons et tout ravagé sur une dizaine de kilomètres jusqu’au nord de Lège-Cap-Ferret. Un autre feu s’est déclenché plus au sud, près de Biscarrosse.",
+      "score": 12,
+      "priority": "urgent-review",
+      "reasons": [
+        "evacuation",
+        "access"
+      ],
+      "authorityAttributed": false,
+      "changeLanguage": false,
+      "numbers": [
+        "20 000 personnes"
+      ]
     }
   ]
 }
