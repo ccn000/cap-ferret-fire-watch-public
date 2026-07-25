@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T03:40:28.255Z",
+  "generatedAt": "2026-07-25T03:47:21.207Z",
   "sectionUpdates": {
     "assessment": "2026-07-25T04:09:00+02:00",
     "map": "2026-07-25T03:58:00+02:00",
@@ -12,8 +12,8 @@
     "reopening": "2026-07-24T13:56:00+02:00",
     "articles": "2026-07-25T02:09:00.000Z",
     "social": "2026-07-25T02:52:03+02:00",
-    "sources": "2026-07-25T03:40:28.255Z",
-    "weather": "2026-07-25T03:40:21.794Z"
+    "sources": "2026-07-25T03:47:21.207Z",
+    "weather": "2026-07-25T03:47:20.942Z"
   },
   "incident": {
     "level": "FULL EVACUATION",
@@ -1226,63 +1226,63 @@
       "name": "Lège-Cap-Ferret Town Hall",
       "type": "Official",
       "url": "https://www.ville-lege-capferret.fr/top_slider/information-incendie-saumos/",
-      "checkedAt": "2026-07-25T03:40:17.253Z",
+      "checkedAt": "2026-07-25T03:47:16.233Z",
       "status": "ok"
     },
     {
       "name": "Gironde Prefecture",
       "type": "Official",
       "url": "https://www.gironde.gouv.fr/",
-      "checkedAt": "2026-07-25T03:40:17.284Z",
+      "checkedAt": "2026-07-25T03:47:16.265Z",
       "status": "ok"
     },
     {
       "name": "Gironde Department",
       "type": "Official",
       "url": "https://www.gironde.fr/actualites/vigilance-rouge-pour-le-risque-feu-de-foret",
-      "checkedAt": "2026-07-25T03:40:17.284Z",
+      "checkedAt": "2026-07-25T03:47:16.266Z",
       "status": "ok"
     },
     {
       "name": "Feux de Forêt",
       "type": "Specialist",
       "url": "https://feuxdeforet.fr/",
-      "checkedAt": "2026-07-25T03:40:17.285Z",
+      "checkedAt": "2026-07-25T03:47:16.266Z",
       "status": "ok"
     },
     {
       "name": "NASA FIRMS",
       "type": "Satellite",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/",
-      "checkedAt": "2026-07-25T03:40:17.285Z",
+      "checkedAt": "2026-07-25T03:47:16.267Z",
       "status": "ok"
     },
     {
       "name": "Météo-France · forêts",
       "type": "Official",
       "url": "https://meteofrance.com/meteo-des-forets",
-      "checkedAt": "2026-07-25T03:40:17.285Z",
+      "checkedAt": "2026-07-25T03:47:16.267Z",
       "status": "ok"
     },
     {
       "name": "France Bleu / ici Gironde",
       "type": "Local media",
       "url": "https://www.francebleu.fr/gironde",
-      "checkedAt": "2026-07-25T03:40:17.286Z",
+      "checkedAt": "2026-07-25T03:47:16.267Z",
       "status": "ok"
     },
     {
       "name": "Bordeaux Airport",
       "type": "Official transport",
       "url": "https://www.bordeaux.aeroport.fr/vols-destinations/arrivees-departs-du-jour",
-      "checkedAt": "2026-07-25T03:40:18.179Z",
+      "checkedAt": "2026-07-25T03:47:18.160Z",
       "status": "ok"
     },
     {
       "name": "Public social networks",
       "type": "Signal",
       "url": "https://bsky.app/search?q=incendie%20Cap%20Ferret",
-      "checkedAt": "2026-07-25T03:40:28.255Z",
+      "checkedAt": "2026-07-25T03:47:21.207Z",
       "status": "ok"
     }
   ],
@@ -1659,7 +1659,7 @@
   "collection": {
     "feedSuccesses": 3,
     "feedFailures": 0,
-    "newItemsSeen": 186,
+    "newItemsSeen": 187,
     "liveblogItemsSeen": 7,
     "sourceHealth": [
       {
@@ -1669,11 +1669,11 @@
         "url": "https://www.lemonde.fr/planete/rss_full.xml",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:40:18.363Z",
-        "latencyMs": 185,
+        "checkedAt": "2026-07-25T03:47:18.382Z",
+        "latencyMs": 176,
         "itemCount": 4,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:40:18.363Z",
+        "lastGoodAt": "2026-07-25T03:47:18.382Z",
         "lastFailureAt": null
       },
       {
@@ -1683,11 +1683,11 @@
         "url": "https://news.google.com/rss/search?q=%28incendie+OR+feu%29+%28L%C3%A8ge-Cap-Ferret+OR+Saumos+OR+Le+Porge%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:40:18.364Z",
-        "latencyMs": 519,
+        "checkedAt": "2026-07-25T03:47:18.384Z",
+        "latencyMs": 591,
         "itemCount": 95,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:40:18.364Z",
+        "lastGoodAt": "2026-07-25T03:47:18.384Z",
         "lastFailureAt": null
       },
       {
@@ -1697,11 +1697,11 @@
         "url": "https://news.google.com/rss/search?q=%28r%C3%A9ouverture+OR+retour+OR+acc%C3%A8s%29+%28Cap+Ferret+OR+L%C3%A8ge%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:40:18.365Z",
-        "latencyMs": 461,
-        "itemCount": 87,
+        "checkedAt": "2026-07-25T03:47:18.384Z",
+        "latencyMs": 471,
+        "itemCount": 88,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:40:18.365Z",
+        "lastGoodAt": "2026-07-25T03:47:18.384Z",
         "lastFailureAt": null
       },
       {
@@ -1711,11 +1711,11 @@
         "url": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:40:18.884Z",
-        "latencyMs": 175,
+        "checkedAt": "2026-07-25T03:47:18.975Z",
+        "latencyMs": 233,
         "itemCount": 3,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:40:18.884Z",
+        "lastGoodAt": "2026-07-25T03:47:18.975Z",
         "lastFailureAt": null
       },
       {
@@ -1725,12 +1725,12 @@
         "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-des-evacuations-par-bateau-en-gironde-la-situation-nest-pas-sous-controle-dans-les-landes-20260724_CUWC25TVWRFZ7JZIHU2QBJ66PI/",
         "critical": false,
         "status": "failed",
-        "checkedAt": "2026-07-25T03:40:18.885Z",
-        "latencyMs": 196,
+        "checkedAt": "2026-07-25T03:47:18.977Z",
+        "latencyMs": 172,
         "itemCount": null,
         "error": "403 ",
         "lastGoodAt": null,
-        "lastFailureAt": "2026-07-25T03:40:18.885Z"
+        "lastFailureAt": "2026-07-25T03:47:18.977Z"
       },
       {
         "id": "reference-cab7e13fe8",
@@ -1739,14 +1739,14 @@
         "url": "https://www.ville-lege-capferret.fr/top_slider/information-incendie-saumos/",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:40:17.253Z",
-        "latencyMs": 209,
+        "checkedAt": "2026-07-25T03:47:16.233Z",
+        "latencyMs": 240,
         "itemCount": 1643,
         "error": null,
         "contentHash": "a8be6297fa9f722f87b7",
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-25T03:40:17.253Z",
+        "lastGoodAt": "2026-07-25T03:47:16.233Z",
         "lastFailureAt": null
       },
       {
@@ -1756,14 +1756,14 @@
         "url": "https://www.gironde.gouv.fr/",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:40:17.284Z",
-        "latencyMs": 792,
+        "checkedAt": "2026-07-25T03:47:16.265Z",
+        "latencyMs": 1056,
         "itemCount": 726,
         "error": null,
         "contentHash": "3d64f08c00eba14d5bbd",
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-25T03:40:17.284Z",
+        "lastGoodAt": "2026-07-25T03:47:16.265Z",
         "lastFailureAt": null
       },
       {
@@ -1773,14 +1773,14 @@
         "url": "https://www.gironde.fr/actualites/vigilance-rouge-pour-le-risque-feu-de-foret",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:40:17.284Z",
-        "latencyMs": 894,
+        "checkedAt": "2026-07-25T03:47:16.266Z",
+        "latencyMs": 195,
         "itemCount": 641,
         "error": null,
         "contentHash": "d94a32b47a28e48791b9",
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-25T03:40:17.284Z",
+        "lastGoodAt": "2026-07-25T03:47:16.266Z",
         "lastFailureAt": null
       },
       {
@@ -1790,14 +1790,14 @@
         "url": "https://feuxdeforet.fr/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:40:17.285Z",
-        "latencyMs": 199,
+        "checkedAt": "2026-07-25T03:47:16.266Z",
+        "latencyMs": 188,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-25T03:40:17.285Z",
+        "lastGoodAt": "2026-07-25T03:47:16.266Z",
         "lastFailureAt": null
       },
       {
@@ -1807,14 +1807,14 @@
         "url": "https://firms.modaps.eosdis.nasa.gov/map/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:40:17.285Z",
-        "latencyMs": 583,
+        "checkedAt": "2026-07-25T03:47:16.267Z",
+        "latencyMs": 1893,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-25T03:40:17.285Z",
+        "lastGoodAt": "2026-07-25T03:47:16.267Z",
         "lastFailureAt": null
       },
       {
@@ -1824,14 +1824,14 @@
         "url": "https://meteofrance.com/meteo-des-forets",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:40:17.285Z",
-        "latencyMs": 214,
+        "checkedAt": "2026-07-25T03:47:16.267Z",
+        "latencyMs": 211,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-25T03:40:17.285Z",
+        "lastGoodAt": "2026-07-25T03:47:16.267Z",
         "lastFailureAt": null
       },
       {
@@ -1841,14 +1841,14 @@
         "url": "https://www.francebleu.fr/gironde",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:40:17.286Z",
-        "latencyMs": 448,
+        "checkedAt": "2026-07-25T03:47:16.267Z",
+        "latencyMs": 490,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-25T03:40:17.286Z",
+        "lastGoodAt": "2026-07-25T03:47:16.267Z",
         "lastFailureAt": null
       },
       {
@@ -1858,11 +1858,11 @@
         "url": "https://www.bordeaux.aeroport.fr/vols-destinations/arrivees-departs-du-jour",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:40:18.179Z",
-        "latencyMs": 184,
+        "checkedAt": "2026-07-25T03:47:18.160Z",
+        "latencyMs": 222,
         "itemCount": 134,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:40:18.179Z",
+        "lastGoodAt": "2026-07-25T03:47:18.160Z",
         "lastFailureAt": null
       },
       {
@@ -1872,11 +1872,11 @@
         "url": "https://api.bsky.app/xrpc/app.bsky.feed.searchPosts",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:40:28.255Z",
+        "checkedAt": "2026-07-25T03:47:21.207Z",
         "latencyMs": null,
         "itemCount": 30,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:40:28.255Z",
+        "lastGoodAt": "2026-07-25T03:47:21.207Z",
         "lastFailureAt": null
       },
       {
@@ -1886,11 +1886,11 @@
         "url": "https://www.reddit.com/search.rss",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:40:28.255Z",
+        "checkedAt": "2026-07-25T03:47:21.207Z",
         "latencyMs": null,
         "itemCount": 4,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:40:28.255Z",
+        "lastGoodAt": "2026-07-25T03:47:21.207Z",
         "lastFailureAt": "2026-07-25T03:39:05.568Z"
       },
       {
@@ -1900,11 +1900,11 @@
         "url": "https://mastodon.social/api/v1/timelines/tag/gironde",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:40:28.255Z",
+        "checkedAt": "2026-07-25T03:47:21.207Z",
         "latencyMs": null,
         "itemCount": 20,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:40:28.255Z",
+        "lastGoodAt": "2026-07-25T03:47:21.207Z",
         "lastFailureAt": null
       },
       {
@@ -1914,11 +1914,11 @@
         "url": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:40:21.794Z",
+        "checkedAt": "2026-07-25T03:47:20.943Z",
         "latencyMs": null,
         "itemCount": 3,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:40:21.794Z",
+        "lastGoodAt": "2026-07-25T03:47:20.943Z",
         "lastFailureAt": null
       },
       {
@@ -1928,11 +1928,11 @@
         "url": "https://sig.gironde.fr/arcgis/services/ec_routes_ferm%C3%A9es/MapServer/WFSServer?service=WFS&version=2.0.0&request=GetFeature&typenames=ec_routes_ferm%C3%A9es%3ARoutes_d%C3%A9partementales_ferm%C3%A9es&outputFormat=GEOJSON",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-25T03:40:21.794Z",
+        "checkedAt": "2026-07-25T03:47:20.943Z",
         "latencyMs": null,
         "itemCount": 14,
         "error": null,
-        "lastGoodAt": "2026-07-25T03:40:21.794Z",
+        "lastGoodAt": "2026-07-25T03:47:20.943Z",
         "lastFailureAt": "2026-07-25T03:39:05.568Z"
       }
     ],
@@ -1945,7 +1945,7 @@
       "newestUrgentCandidateAt": "2026-07-25T02:09:00.000Z"
     },
     "social": {
-      "checkedAt": "2026-07-25T03:40:28.255Z",
+      "checkedAt": "2026-07-25T03:47:21.207Z",
       "newestCandidateAt": "2026-07-25T02:33:30.000Z",
       "newestDisplayedAt": "2026-07-25T02:33:30.000Z",
       "lagMinutes": 0,
@@ -1966,8 +1966,8 @@
     },
     "aviation": {
       "status": "ok",
-      "checkedAt": "2026-07-25T03:40:18.179Z",
-      "boardUpdatedAt": "2026-07-25T05:37:00+02:00",
+      "checkedAt": "2026-07-25T03:47:18.160Z",
+      "boardUpdatedAt": "2026-07-25T05:45:00+02:00",
       "listedFlightCount": 134,
       "operatingSignal": true,
       "trackedFlightListed": true,
@@ -2000,7 +2000,7 @@
         {
           "id": "liberation-live",
           "lastGoodAt": null,
-          "lastFailureAt": "2026-07-25T03:40:18.885Z",
+          "lastFailureAt": "2026-07-25T03:47:18.977Z",
           "error": "403 "
         }
       ]
@@ -2464,7 +2464,7 @@
     }
   ],
   "traffic": {
-    "checkedAt": "2026-07-25T03:40:21.794Z",
+    "checkedAt": "2026-07-25T03:47:20.943Z",
     "sourceName": "Inforoutes Gironde",
     "sourceUrl": "https://www.gironde.fr/deplacements/inforoutes",
     "officialClosures": {
@@ -4928,8 +4928,8 @@
     "location": "Saumos–Lège fire corridor reference point",
     "latitude": 44.91,
     "longitude": -1.0600004,
-    "observedAt": "2026-07-25T05:30:00+02:00",
-    "modelUpdatedAt": "2026-07-25T03:40:21.794Z",
+    "observedAt": "2026-07-25T05:45:00+02:00",
+    "modelUpdatedAt": "2026-07-25T03:47:20.942Z",
     "sourceName": "Open-Meteo",
     "sourceUrl": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
     "officialFireDangerName": "Météo-France · Météo des forêts",
@@ -4938,13 +4938,13 @@
       "temperatureC": 21.4,
       "humidityPct": 88,
       "precipitationMm": 0,
-      "windSpeedKmh": 12.7,
-      "windDirectionDeg": 235,
-      "windDirection": "SW",
-      "windGustKmh": 30.2
+      "windSpeedKmh": 13.7,
+      "windDirectionDeg": 240,
+      "windDirection": "WSW",
+      "windGustKmh": 33.5
     },
     "forecast24h": {
-      "endsAt": "2026-07-26T03:30:00.000Z",
+      "endsAt": "2026-07-26T03:45:00.000Z",
       "maxTemperatureC": 27.3,
       "minHumidityPct": 38,
       "maxWindSpeedKmh": 16.4,
@@ -4956,26 +4956,26 @@
       "maxPrecipitationProbabilityPct": 13,
       "checkpoints": [
         {
-          "time": "2026-07-25T11:00:00+02:00",
-          "temperatureC": 25.3,
-          "humidityPct": 61,
-          "precipitationProbabilityPct": 3,
+          "time": "2026-07-25T12:00:00+02:00",
+          "temperatureC": 26.3,
+          "humidityPct": 50,
+          "precipitationProbabilityPct": 0,
           "precipitationMm": 0,
-          "windSpeedKmh": 15,
-          "windDirectionDeg": 247,
+          "windSpeedKmh": 13.6,
+          "windDirectionDeg": 253,
           "windDirection": "WSW",
-          "windGustKmh": 36.7
+          "windGustKmh": 36.4
         },
         {
-          "time": "2026-07-25T17:00:00+02:00",
-          "temperatureC": 25.8,
-          "humidityPct": 46,
+          "time": "2026-07-25T18:00:00+02:00",
+          "temperatureC": 25,
+          "humidityPct": 55,
           "precipitationProbabilityPct": 13,
           "precipitationMm": 0,
-          "windSpeedKmh": 16.4,
-          "windDirectionDeg": 296,
-          "windDirection": "WNW",
-          "windGustKmh": 39.6
+          "windSpeedKmh": 16.1,
+          "windDirectionDeg": 309,
+          "windDirection": "NW",
+          "windGustKmh": 41.8
         },
         {
           "time": "2026-07-26T05:00:00+02:00",
