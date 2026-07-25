@@ -314,7 +314,15 @@
     "2aa59930b00e": "Ajoute un contexte de solidarité locale et de collecte de dons, sans nouvelle consigne d’accès ou d’évacuation.",
     "081eeb4811d8": "Ajoute du contexte sur le soutien aux pompiers et sinistrés, sans conclusion autonome nouvelle pour les déplacements ou la sécurité.",
     "17311b4951e6": "Ajoute un contexte sur l’adaptation d’un A400M à la lutte contre les feux, sans modifier l’état opérationnel publié pour le Cap Ferret.",
-    "9518fe9b369f": "Ajoute un contexte général sur les fumées nocives transportées à longue distance, sans fait matériel nouveau pour les consignes locales du Cap Ferret."
+    "9518fe9b369f": "Ajoute un contexte général sur les fumées nocives transportées à longue distance, sans fait matériel nouveau pour les consignes locales du Cap Ferret.",
+    "3985f271ce2c": "Thème du titre : tourisme, commerces ou activités locales perturbés.",
+    "f4d3ffd58c89": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "e5cd818329c0": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "7a02f534bb21": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "4205159abd02": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "5f0ea382c3bf": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "bf4ec4f4a597": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "7e5a1b49b8df": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes."
   },
   "access": {
     "Road access to the peninsula": {
@@ -694,6 +702,90 @@
       "interesting": "C’est un contexte de suivi aérien de faible crédibilité, pas la preuve que l’A400M a commencé des largages. C’est utile parce que Le Monde, AP et les sources officielles de réponse identifient déjà l’A400M comme un renfort prévu.",
       "credibility": "Commentaire public de suivi aérien · faible",
       "incremental": "Contexte A400M de réponse opérationnelle"
+    },
+    "https://mastodon.social/@lord_of_terrils/116981142442995763": {
+      "title": "Alors que le feu continue de progresser à une trentaine de kilomètres de Bordeaux et que de nouvelles communes…",
+      "summary": "Il relaie une carte, une direction ou une observation sur le comportement du feu utile pour interpréter les sources officielles. Texte du message : Alors que le feu continue de progresser à une trentaine de kilomètres de Bordeaux et que de nouvelles communes ont reçu l’ordre d’évacuer, la capitale girondine n’est pas concernée par le dispositif. Elle accueille en revanche…",
+      "interesting": "Ce signal peut aider à repérer une inquiétude émergente sur la progression, sans valoir périmètre officiel.",
+      "credibility": "Message Mastodon public · faible",
+      "incremental": "signal progression"
+    },
+    "https://bsky.app/profile/did:plc:jiducmlejdii4fhktgwlfva3/post/3mri2x5xjfe2t": {
+      "title": "La situation en Gironde reste tendue. Un incendie à 20 km de Bordeaux, des risques de complications sont à…",
+      "summary": "Il relaie une carte, une direction ou une observation sur le comportement du feu utile pour interpréter les sources officielles. Texte du message : La situation en Gironde reste tendue. Un incendie à 20 km de Bordeaux, des risques de complications sont à prévoir cet après-midi. 👉",
+      "interesting": "Ce signal peut aider à repérer une inquiétude émergente sur la progression, sans valoir périmètre officiel.",
+      "credibility": "Relais média · moyen",
+      "incremental": "signal progression"
+    },
+    "https://bsky.app/profile/did:plc:pipppvmhqb2lkmvbocq4asq3/post/3mrhr4cs42c22": {
+      "title": "A social post flags airport or Bordeaux-area access implications",
+      "summary": "Il pointe des conséquences possibles pour l’aéroport, les transports ou la périphérie bordelaise à vérifier avec les tableaux officiels et les alertes préfectorales. Texte du message : A social post flags airport or Bordeaux-area access implications",
+      "interesting": "Les implications pour l’aéroport et l’accès routier sont critiques pour décider, mais les réseaux sociaux restent un signal d’alerte à vérifier.",
+      "credibility": "Message Bluesky public · faible",
+      "incremental": "signal aéroport/accès"
+    },
+    "https://bsky.app/profile/did:plc:4gkclm6yru5t2eu73xkwzfzm/post/3mrhjfdvs722u": {
+      "title": "A social post adds colour on firefighting aircraft or response resources",
+      "summary": "Il apporte un détail contextuel issu des réseaux sociaux publics, sans modifier à lui seul la situation vérifiée. Texte du message : A social post adds colour on firefighting aircraft or response resources",
+      "interesting": "C’est utile comme contexte ou alerte précoce, mais pas comme source décisionnelle seule.",
+      "credibility": "Message Bluesky public · faible",
+      "incremental": "contexte local"
+    },
+    "https://www.reddit.com/r/bordeaux/comments/1v63y2v/les_bordelais_loin_de_chez_eux_pendant_les/": {
+      "title": "Les bordelais loin de chez eux pendant les incendies",
+      "summary": "Il apporte un détail contextuel issu des réseaux sociaux publics, sans modifier à lui seul la situation vérifiée. Texte du message : Les bordelais loin de chez eux pendant les incendies",
+      "interesting": "C’est utile comme contexte ou alerte précoce, mais pas comme source décisionnelle seule.",
+      "credibility": "Signal forum public · faible",
+      "incremental": "contexte local"
+    },
+    "https://www.reddit.com/r/bordeaux/comments/1v634ns/bénévolat_incendies/": {
+      "title": "Bénévolat incendies",
+      "summary": "Il apporte un détail contextuel issu des réseaux sociaux publics, sans modifier à lui seul la situation vérifiée. Texte du message : Bénévolat incendies",
+      "interesting": "C’est utile comme contexte ou alerte précoce, mais pas comme source décisionnelle seule.",
+      "credibility": "Signal forum public · faible",
+      "incremental": "contexte local"
+    },
+    "https://www.reddit.com/r/bordeaux/comments/1v6232b/incendie_besoins_prioritaires_numéro_daide/": {
+      "title": "Incendie : besoins prioritaires + numéro d'aide",
+      "summary": "Il apporte un détail contextuel issu des réseaux sociaux publics, sans modifier à lui seul la situation vérifiée. Texte du message : Incendie : besoins prioritaires + numéro d'aide",
+      "interesting": "C’est utile comme contexte ou alerte précoce, mais pas comme source décisionnelle seule.",
+      "credibility": "Signal forum public · faible",
+      "incremental": "contexte local"
+    },
+    "https://piaille.fr/@auvergnatedesenestre/116981030235621309": {
+      "title": "Puy-de-Dôme limite Allier. On ne voit plus l'horizon à cause de la #fumée des #incendies qui ont lieu en #Gironde…",
+      "summary": "Il apporte du contexte local sur les fumées, la pollution ou la qualité de l’air au-delà de la zone évacuée. Texte du message : Puy-de-Dôme limite Allier. On ne voit plus l'horizon à cause de la #fumée des #incendies qui ont lieu en #Gironde et dans les #Landes et l'air est devenu irrespirable. Le #tonnerre gronde au loin, j'espère vraiment que la foudre…",
+      "interesting": "Les fumées peuvent affecter le confort, les déplacements et le risque opérationnel même sans ordre d’évacuation local.",
+      "credibility": "Message Mastodon public · faible",
+      "incremental": "signal fumées/air"
+    },
+    "https://mastodon.social/@Snoro/116980353426797680": {
+      "title": "#Bordeaux #Gironde #NouvelleAquitaine #France Incendies : 140.000 personnes évacuées en Gironde et dans les…",
+      "summary": "Il apporte du contexte local sur les fumées, la pollution ou la qualité de l’air au-delà de la zone évacuée. Texte du message : #Bordeaux #Gironde #NouvelleAquitaine #France Incendies : 140.000 personnes évacuées en Gironde et dans les Landes, les fumées envahissent Bordeaux Plus de 140.000 personnes évacuées et 22.000 ha brûlés: dans la nuit de vendredi…",
+      "interesting": "Les fumées peuvent affecter le confort, les déplacements et le risque opérationnel même sans ordre d’évacuation local.",
+      "credibility": "Message Mastodon public · faible",
+      "incremental": "signal fumées/air"
+    },
+    "https://toot.aquilenet.fr/@_newick/116980266706691885": {
+      "title": "Les prévisions du taux de CO sont pas bonnes… > 1000ppm sur les feux puis sur l'agglomération bordelaise cette…",
+      "summary": "Il apporte du contexte local sur les fumées, la pollution ou la qualité de l’air au-delà de la zone évacuée. Texte du message : Les prévisions du taux de CO sont pas bonnes… > 1000ppm sur les feux puis sur l'agglomération bordelaise cette après midi, selon windy. #feudeforet #Gironde #Landes",
+      "interesting": "Les fumées peuvent affecter le confort, les déplacements et le risque opérationnel même sans ordre d’évacuation local.",
+      "credibility": "Message Mastodon public · faible",
+      "incremental": "signal fumées/air"
+    },
+    "https://bsky.app/profile/did:plc:xtk7dvdlzz4ap3foghyil556/post/3mrhx77szok2p": {
+      "title": "« Moi, ce feu, j’avoue qu’il me fait peur » : en Gironde, des pompiers « débordés » par un incendie incontrôlable…",
+      "summary": "Il décrit une activité visible des secours, comme des avions, des pompiers ou des renforts autour du feu. Texte du message : « Moi, ce feu, j’avoue qu’il me fait peur » : en Gironde, des pompiers « débordés » par un incendie incontrôlable www.lemonde.fr/planete/arti...",
+      "interesting": "Ce type de détail opérationnel peut apparaître sur les réseaux sociaux avant la presse, mais les chiffres et moyens engagés doivent rester vérifiés officiellement.",
+      "credibility": "Message Bluesky public · faible",
+      "incremental": "signal moyens engagés"
+    },
+    "https://bsky.app/profile/did:plc:4gkclm6yru5t2eu73xkwzfzm/post/3mrhso7u4ic2i": {
+      "title": "Le point commun entre Le Havre, Villeurbanne, Dijon, Angers, Grenoble, Saint-Denis, Nîmes, Aix-en-Provence,…",
+      "summary": "Il relaie une carte, une direction ou une observation sur le comportement du feu utile pour interpréter les sources officielles. Texte du message : Le point commun entre Le Havre, Villeurbanne, Dijon, Angers, Grenoble, Saint-Denis, Nîmes, Aix-en-Provence, Clermont-Ferrand, Le Mans et Brest ? Chacune de ces villes a moins d’hab",
+      "interesting": "Ce signal peut aider à repérer une inquiétude émergente sur la progression, sans valoir périmètre officiel.",
+      "credibility": "Message Bluesky public · faible",
+      "incremental": "signal progression"
     }
   },
   "mapStatuses": {
@@ -713,5 +805,48 @@
     "Le Canon": "Évacué · départ de navette maritime annoncé",
     "Grand Piquey": "Évacué · départ de navette maritime annoncé",
     "Cap Ferret": "Évacué"
+  },
+  "updateTitleThemes": {
+    "3985f271ce2c": "Thème du titre : tourisme, commerces ou activités locales perturbés.",
+    "f4d3ffd58c89": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "e5cd818329c0": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "7a02f534bb21": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "4205159abd02": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "5f0ea382c3bf": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "ca2b8704f2db": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "5a96de354379": "Thème du titre : moyens de lutte contre l’incendie et réponse opérationnelle.",
+    "9fc6c4a7255f": "Thème du titre : moyens de lutte contre l’incendie et réponse opérationnelle.",
+    "49cd6e5acb14": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "864476fe90b5": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "3ade0ce1e988": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "2aa59930b00e": "Thème du titre : implications pour l’aéroport, les transports ou l’accès autour de Bordeaux.",
+    "081eeb4811d8": "Thème du titre : moyens de lutte contre l’incendie et réponse opérationnelle.",
+    "39a753565e2e": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "a9e4e56c14ab": "Thème du titre : tourisme, commerces ou activités locales perturbés.",
+    "bf4ec4f4a597": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "cf22583b892d": "Thème du titre : moyens de lutte contre l’incendie et réponse opérationnelle.",
+    "66708381d833": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "cdb713ff72d1": "Thème du titre : moyens de lutte contre l’incendie et réponse opérationnelle.",
+    "5d5b6ba8e4f1": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "8b3a6fac628c": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "d9c396759f1e": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "5ca7828708c8": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "b6b82bb24f7f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "7e5a1b49b8df": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "03c9e4bab613": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "8aec4bffe48a": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "a29625669104": "Thème du titre : moyens de lutte contre l’incendie et réponse opérationnelle.",
+    "788c09a5f6b9": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "64368279a2cd": "Thème du titre : moyens de lutte contre l’incendie et réponse opérationnelle.",
+    "b152b13b4dc3": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "c7b6e518f639": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "b333fa003597": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "58197ef1ae33": "Thème du titre : tourisme, commerces ou activités locales perturbés.",
+    "fb96bbdc171f": "Thème du titre : moyens de lutte contre l’incendie et réponse opérationnelle.",
+    "a0c19983bbf0": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "ed29f37c6c4e": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "reader-franceinfo-live-20260724": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "reader-liberation-live-20260724": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "4cdffebfe3f5": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
   }
 }
