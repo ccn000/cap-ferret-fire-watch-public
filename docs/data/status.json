@@ -11,7 +11,7 @@
     "aviation": "2026-07-24T23:46:00+02:00",
     "reopening": "2026-07-24T13:56:00+02:00",
     "articles": "2026-07-24T21:29:00.000Z",
-    "social": "2026-07-25T00:22:14+02:00",
+    "social": "2026-07-25T01:11:07+02:00",
     "sources": "2026-07-24T23:48:54.482Z",
     "weather": "2026-07-24T23:48:51.394Z"
   },
@@ -1014,6 +1014,26 @@
   ],
   "socialSignals": [
     {
+      "title": "A climate expert argued that the advancing fire shows how little was learned from the catastrophic 2022 season",
+      "summary": "A Mastodon relay of an LCI interview quotes François Gemenne saying the Gironde fire is still gaining ground and that France has drawn too few lessons from the destructive fires of 2022.",
+      "interesting": "This is expert commentary rather than an operational update. It adds useful context on preparedness and the recurrence of extreme fire conditions, but it does not change evacuation, access or containment guidance.",
+      "source": "Mastodon · @Gemenne@mastox.eu",
+      "url": "https://mastox.eu/@Gemenne/116977478401519500",
+      "createdAt": "2026-07-24T23:11:07.000Z",
+      "credibility": "Named expert broadcast relay · medium",
+      "incremental": "Preparedness commentary"
+    },
+    {
+      "title": "A journalist reported two forest-smoking prosecutions as Gironde authorities enforce extreme-risk restrictions",
+      "summary": "A Mastodon post by journalist Nicolas Berrod reports that two men were prosecuted for endangering others after being found smoking in Gironde forests during the current fire emergency.",
+      "interesting": "This adds concrete colour on enforcement and unsafe behaviour during red-level fire risk. These are separate prevention cases and do not establish the cause of the Saumos–Lège fire.",
+      "source": "Mastodon · @nicolasberrod@mastox.eu",
+      "url": "https://mastox.eu/@nicolasberrod/116977422986604412",
+      "createdAt": "2026-07-24T22:57:02.000Z",
+      "credibility": "Journalist report · medium",
+      "incremental": "Restriction enforcement"
+    },
+    {
       "title": "A public relay lists additional communes told to prepare for evacuation as the fire moves east",
       "summary": "A Mastodon post relays the prefect’s prepare-to-evacuate warning and names Sainte-Hélène, Salaunes and Lanton among the communes concerned by the fire’s trajectory.",
       "interesting": "It adds useful place-level detail to the broader metropolitan warning. This remains a secondary relay: residents must follow the prefecture and municipal channels for any actual evacuation order.",
@@ -1451,11 +1471,13 @@
     "social": {
       "checkedAt": "2026-07-24T23:48:54.482Z",
       "newestCandidateAt": "2026-07-24T23:11:07.000Z",
-      "newestDisplayedAt": "2026-07-24T22:22:14.000Z",
-      "lagMinutes": 49,
+      "newestDisplayedAt": "2026-07-24T23:11:07.000Z",
+      "lagMinutes": 0,
+      "newerCandidateCount": 0,
+      "reviewSuggested": false,
       "reviewRequired": false,
       "candidateCount": 35,
-      "displayedCount": 16,
+      "displayedCount": 18,
       "invalidCandidateLinks": 0,
       "invalidDisplayedLinks": 0
     },
