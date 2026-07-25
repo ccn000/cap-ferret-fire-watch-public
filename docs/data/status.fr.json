@@ -8,14 +8,14 @@
   "currentAssessment": {
     "verdict": "N’allez pas au Cap Ferret : toute la presqu’île reste évacuée et l’incendie progresse encore.",
     "trajectory": "Dégradation",
-    "narrative": "À 03 h 32 puis 03 h 58, l’avertissement s’est transformé en ordres d’évacuation. La préfète a ordonné cinq évacuations communales préventives et deux évacuations partielles dans les secteurs extra-rocade de Mérignac et d’Eysines. Les habitants ont été dirigés par la route vers Bordeaux, avec un accueil au hall 3 du Parc des Expositions. À 04 h 09, Le Monde a indiqué que 42 pompiers avaient été pris en charge, dont neuf évacués, tous en urgence relative. À 06 h 17, l’index du direct du Monde indique l’envoi de 500 militaires supplémentaires et de 1,5 million de masques FFP2 en Gironde. À 06 h 30, Le Monde décrit des pompiers débordés par un feu incontrôlable ayant déjà entraîné environ 140 000 évacuations et brûlé près de 20 000 hectares. Toute la presqu’île du Cap Ferret reste évacuée et l’accès routier entrant demeure indisponible. La préfecture maritime a rouvert partiellement les zones du bassin d’Arcachon les plus éloignées de l’incendie, mais le couloir ouest et les points d’embarquement restent restreints, les bateaux d’évacuation sont suspendus et cela ne crée pas de voie publique vers le Cap Ferret. Le tableau officiel de l’aéroport affiche toujours des vols, mais l’évacuation de la partie extra-rocade de Mérignac accroît matériellement le risque de fermeture et de perturbation des accès.",
-    "confidence": "Confiance élevée dans les sept nouveaux ordres d’évacuation métropolitains : Le Monde rapporte les consignes préfectorales et l’AFP/ATS cite indépendamment les mêmes communes et le même périmètre partiel. La limite exacte de la zone extra-rocade de Mérignac et son application formelle au site aéroportuaire ne sont pas établies ici. Le tableau de l’aéroport reste actif : le tableau de bord ne déclare donc pas l’aéroport fermé, mais considère désormais ses accès et la continuité de son exploitation comme matériellement incertains.",
+    "narrative": "À 03 h 32 puis 03 h 58, l’avertissement s’est transformé en ordres d’évacuation. La préfète a ordonné cinq évacuations communales préventives et deux évacuations partielles dans les secteurs extra-rocade de Mérignac et d’Eysines. Les habitants ont été dirigés par la route vers Bordeaux, avec un accueil au hall 3 du Parc des Expositions. À 04 h 09, Le Monde a indiqué que 42 pompiers avaient été pris en charge, dont neuf évacués, tous en urgence relative. À 06 h 17, l’index du direct du Monde indique l’envoi de 500 militaires supplémentaires et de 1,5 million de masques FFP2 en Gironde. À 06 h 30, Le Monde décrit des pompiers débordés par un feu incontrôlable ayant déjà entraîné environ 140 000 évacuations et brûlé près de 20 000 hectares. À 09 h 55, la mairie de Bruges affichait aussi une alerte FR-Alert d’évacuation pour Bruges extra-rocade. Toute la presqu’île du Cap Ferret reste évacuée et l’accès routier entrant demeure indisponible. La préfecture maritime a rouvert partiellement les zones du bassin d’Arcachon les plus éloignées de l’incendie, mais le couloir ouest et les points d’embarquement restent restreints, les bateaux d’évacuation sont suspendus et cela ne crée pas de voie publique vers le Cap Ferret. Le tableau officiel de l’aéroport affiche toujours des vols et indique que l’activité aéroportuaire continue, mais le tram et les bus sont interrompus entre Mérignac Soleil et l’aéroport.",
+    "confidence": "Confiance élevée dans les nouveaux ordres et secteurs d’évacuation métropolitains : la préfecture confirme Le Haillan, Eysines extra-rocade et Mérignac extra-rocade, la mairie de Bruges confirme Bruges extra-rocade, et Le Monde rapporte le périmètre plus large de sept communes ou secteurs. La limite opérationnelle exacte autour du site aéroportuaire n’est toujours pas établie ici. Le tableau de l’aéroport reste actif et indique explicitement que l’activité continue : le tableau de bord ne déclare donc pas l’aéroport fermé, mais considère les accès terrestres comme perturbés puisque le même tableau officiel indique l’interruption du tram et des bus vers l’aéroport.",
     "priorities": [
-      "Sept communes supplémentaires de la métropole sont désormais totalement ou partiellement sous ordre d’évacuation préventive ; il ne s’agit plus d’une simple préparation.",
+      "Des communes et secteurs extra-rocade supplémentaires de la métropole restent sous ordre d’évacuation préventive ; Bruges extra-rocade est désormais aussi listé par sa mairie.",
       "Le Monde fait désormais état de 42 pompiers pris en charge, dont neuf évacués, tous en urgence relative.",
       "Le Monde fait désormais état de près de 20 000 hectares brûlés et d’environ 140 000 évacuations, en décrivant des pompiers débordés par le feu incontrôlable.",
-      "L’accès routier entrant reste indisponible. Le bassin d’Arcachon est partiellement rouvert loin du feu, mais les zones ouest et d’embarquement restent restreintes et l’évacuation de la presqu’île exclut toute voie maritime publique pour un séjour touristique.",
-      "L’aéroport de Bordeaux affiche toujours des vols, mais la partie extra-rocade de Mérignac est désormais sous ordre d’évacuation ; vérifiez l’aéroport, la compagnie et les accès routiers avant de compter sur un vol."
+      "L’accès routier entrant au Cap Ferret reste indisponible. Le bassin d’Arcachon est partiellement rouvert loin du feu, mais les zones ouest et d’embarquement restent restreintes et l’évacuation de la presqu’île exclut toute voie maritime publique pour un séjour touristique.",
+      "L’aéroport de Bordeaux exploite toujours des vols, mais son tableau officiel indique que le tram et les bus sont interrompus entre Mérignac Soleil et l’aéroport ; vérifiez l’aéroport, la compagnie et l’itinéraire terrestre avant de compter sur un vol."
     ]
   },
   "alerts": {
@@ -126,6 +126,11 @@
       "title": "Le bassin d’Arcachon rouvre partiellement, mais l’accès maritime au Cap Ferret reste restreint",
       "detail": "L’arrêté 2026-132 de la préfecture maritime adapte l’interdiction précédente de navigation sur le bassin d’Arcachon : les zones les plus éloignées de l’incendie peuvent rouvrir aux usagers de la mer, tandis que l’ouest du bassin et les cercles de sécurité de 0,25 mille nautique autour des points d’embarquement d’évacuation restent interdits. Les bateaux d’évacuation de l’UBA ont été suspendus par décision de la préfète de Gironde.",
       "incrementalNews": "C’est une amélioration de l’accès maritime pour certaines zones du bassin, pas une réouverture du Cap Ferret. Le signal d’interdiction totale du bassin disparaît, mais les navettes ordinaires, la navigation de loisirs près de la presqu’île et l’accès maritime public à la presqu’île évacuée restent indisponibles."
+    },
+    "material-2026-07-25-0955": {
+      "title": "Bruges extra-rocade ajouté au signal d’évacuation ; accès tram et bus à l’aéroport interrompu alors que les vols continuent",
+      "detail": "La mairie de Bruges indique que FR-Alert couvre désormais Bruges extra-rocade ainsi que Le Haillan, Eysines extra-rocade et Mérignac extra-rocade. Le tableau officiel de l’aéroport de Bordeaux indique que l’activité aéroportuaire est toujours en cours, mais que le tram et les bus sont interrompus entre Mérignac Soleil et l’aéroport.",
+      "incrementalNews": "Cela ajoute un secteur d’évacuation autour de Bordeaux et transforme le risque d’accès à l’aéroport en perturbation de première main : les vols sont listés, mais l’accès en transports publics au terminal est interrompu. Cela ne confirme toujours pas une fermeture de l’aéroport ni une autorisation de se rendre au Cap Ferret."
     }
   },
   "updates": {
@@ -214,7 +219,11 @@
     "64368279a2cd": "N’ajoute pas de fait matériel nouveau au-delà de la confirmation de l’incident incendie en cours autour du Cap Ferret.",
     "0de31a876ff6": "N’ajoute pas de fait matériel nouveau au-delà de la confirmation de l’incident incendie en cours autour du Cap Ferret.",
     "55779449ed25": "N’ajoute pas de fait matériel nouveau au-delà de la confirmation de l’incident incendie en cours autour du Cap Ferret.",
-    "3d0d94af9c44": "Ajoute du contexte opérationnel sur les moyens ou les pompiers, sans conclusion autonome sur la sécurité du trajet."
+    "3d0d94af9c44": "Ajoute du contexte opérationnel sur les moyens ou les pompiers, sans conclusion autonome sur la sécurité du trajet.",
+    "788c09a5f6b9": "N’ajoute pas de fait matériel nouveau au-delà de la confirmation de l’incident incendie en cours autour du Cap Ferret.",
+    "bb1ff8fb36df": "Ajoute du contexte opérationnel sur les moyens ou les pompiers, sans conclusion autonome sur la sécurité du trajet.",
+    "24a9b4e08681": "Ajoute un total d’évacuations supérieur à 140 000, utile pour rapprocher l’échelle régionale des ordres locaux officiels.",
+    "eb19fbe96229": "Ajoute un signal de couverture sur les évacuations, sans fait matériel confirmé indépendamment au-delà de l’ordre d’évacuation déjà retenu."
   },
   "access": {
     "Road access to the peninsula": {
@@ -304,16 +313,17 @@
   },
   "aviation": {
     "overall": {
-      "status": "En activité · des retards liés aux fumées restent possibles"
+      "status": "Vols en cours · accès tram/bus à l’aéroport interrompu",
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 09 h 33 ; avis préfectoraux et municipaux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
-        "status": "Risque accru · évacuation ordonnée à Mérignac extra-rocade",
-        "detail": "L’aéroport affiche toujours des vols, mais l’ordre préfectoral couvre désormais Mérignac extra-rocade. Aucun avis direct ne confirme encore la fermeture du site aéroportuaire."
+        "status": "Risque élevé · vols listés et activité maintenue",
+        "detail": "Le tableau officiel de l’aéroport liste toujours des arrivées et des départs et indique que l’activité aéroportuaire est en cours. Les ordres d’évacuation dans les secteurs extra-rocade voisins maintiennent un risque de fermeture élevé, mais aucun avis direct de l’aéroport ne confirme une fermeture du terminal."
       },
       "groundAccess": {
-        "status": "Forte incertitude · vérifier l’itinéraire avant tout déplacement",
-        "detail": "Les évacuations et contrôles à Mérignac peuvent perturber l’accès routier et les transports en commun même si des vols restent affichés."
+        "status": "Perturbé · accès tram et bus interrompu",
+        "detail": "L’aéroport de Bordeaux indique qu’aucun tram ni bus ne circule entre Mérignac Soleil et l’aéroport. L’accès routier peut aussi être affecté par les contrôles d’évacuation et la circulation dans le même couloir."
       }
     },
     "trackedFlight": {
@@ -563,6 +573,13 @@
       "interesting": "Cela ajoute un témoignage peu vérifié mais utile sur la portée ressentie des fumées au-delà du Bassin et de Bordeaux. Ce n’est ni une mesure officielle de qualité de l’air ni une consigne de sécurité.",
       "credibility": "Observation locale de première main · faible",
       "incremental": "Contexte sur la portée des fumées"
+    },
+    "https://piaille.fr/@david6677/116979307894353861": {
+      "title": "Un utilisateur Mastodon questionne l’écart entre les chiffres télévisés et l’étendue visible sur imagerie satellite",
+      "summary": "Un utilisateur Mastodon oppose un chiffre de Franceinfo TV à 19 000 hectares à un chiffre plus élevé de Sud Ouest et estime que les images satellites de la NASA semblent plus proches de l’estimation haute.",
+      "interesting": "Il s’agit d’une interprétation peu fiable d’images publiques, pas d’un périmètre mesuré ni d’une consigne de sécurité. Le signal est utile comme contexte, car il explique pourquoi plusieurs chiffres de surface brûlée peuvent circuler avant une réconciliation officielle.",
+      "credibility": "Interprétation d’imagerie publique · faible",
+      "incremental": "Contexte d’incertitude sur la surface brûlée"
     }
   },
   "mapStatuses": {
