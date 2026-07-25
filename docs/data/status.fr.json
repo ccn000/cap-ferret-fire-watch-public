@@ -1,20 +1,23 @@
 {
   "incident": {
     "level": "ÉVACUATION TOTALE",
-    "headline": "La presqu’île reste évacuée ; d’autres communes et secteurs de la métropole bordelaise sont sous ordre d’évacuation préventive.",
-    "summary": "L’escalade vers l’est est devenue une évacuation métropolitaine effective. La préfecture a ordonné l’évacuation immédiate de secteurs menacés de Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle et Saint-Jean-d’Illac, en plus du Haillan, des secteurs extra-rocade de Mérignac et d’Eysines et de Bruges extra-rocade. Ces périmètres doivent être lus comme les limites exactes des FR-Alert ou avis locaux, sans supposer que chaque adresse de chaque commune nommée est concernée. L’ordre visant Mérignac extra-rocade accroît fortement l’incertitude autour de l’aéroport de Bordeaux et de ses accès routiers, puisque l’aéroport se situe dans la partie extérieure de la commune. Le tableau officiel affiche toujours des vols : aucune fermeture de l’aéroport n’est donc confirmée. La préfecture maritime a partiellement rouvert le bassin d’Arcachon loin du feu tout en maintenant les restrictions sur le couloir ouest et les points d’embarquement. Le Monde décrit des pompiers débordés par un feu incontrôlable ayant brûlé près de 20 000 hectares et entraîné environ 140 000 évacuations. Le direct du Monde indique aussi que 42 pompiers ont été pris en charge, que 500 militaires supplémentaires ainsi que 1,5 million de masques FFP2 sont envoyés en Gironde et qu’un déploiement d’A400M est demandé pour la lutte contre le feu.",
-    "fireStatus": "Non maîtrisé · progresse désormais vers l’est"
+    "headline": "La presqu’île reste évacuée ; l’incendie de Saumos a parcouru environ 32 700 hectares et les évacuations préventives autour de Bordeaux se poursuivent.",
+    "summary": "Le dernier point officiel de la préfecture indique que l’incendie de Saumos avait parcouru près de 32 700 hectares à midi le 25 juillet. Le feu reste dangereux et continue de progresser, même si la baisse des températures et l’augmentation de l’humidité le rendent moins virulent et non convectif pour le moment. Les évacuations préventives de la nuit ont concerné 57 000 personnes à Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle, Saint-Jean-d’Illac, Audenge, Le Haillan, Eysines extra-rocade et Mérignac extra-rocade, portant le total préfectoral à 167 000. Toute la presqu’île du Cap Ferret reste évacuée et la mairie de Lège-Cap-Ferret demande toujours de ne pas revenir sur la commune. Le tableau de l’aéroport de Bordeaux continue d’afficher des arrivées et départs, dont BA2572, tandis que le tram et les bus entre Mérignac Soleil et l’aéroport restent interrompus.",
+    "fireStatus": "Non maîtrisé · progresse désormais vers l’est ; moins convectif mais toujours dangereux",
+    "affectedHectares": "≈32 700 hectares dans le point préfectoral de 13 h",
+    "evacuatedPeople": "167 000 évacuations préventives en Gironde",
+    "firefighters": "750 sapeurs-pompiers · 18 moyens aériens · ≈ 1 000 militaires en appui"
   },
   "currentAssessment": {
-    "verdict": "N’allez pas au Cap Ferret : toute la presqu’île reste évacuée et l’incendie progresse encore.",
+    "verdict": "N’allez pas au Cap Ferret : toute la presqu’île reste évacuée et l’incendie de Saumos reste dangereux.",
     "trajectory": "Dégradation",
-    "narrative": "À 12 h 46, l’index du direct du Monde a rapporté un nouveau chiffre du ministère de l’Intérieur : environ 167 000 personnes évacuées en Gironde, tandis que le ministre décrit près de 100 000 hectares brûlés en France en 2026 comme un record historique. Le même élément du Monde indique que le maire de Bordeaux, Thomas Cazenave, assure qu’une évacuation de la ville de Bordeaux elle-même n’est pas à l’ordre du jour. Cela actualise l’ampleur des évacuations sans changer la conclusion opérationnelle : des secteurs menacés à l’ouest de Bordeaux restent soumis aux périmètres FR-Alert ou locaux, toute la presqu’île du Cap Ferret reste évacuée et l’accès routier entrant demeure indisponible. Le Monde indique aussi que l’A400M militaire doit être déployé samedi pour aider la Sécurité civile à tenter de fixer l’incendie, mais cela reste un signal de moyens de réponse plutôt qu’une preuve de réouverture publique. La préfecture maritime a rouvert partiellement le bassin d’Arcachon loin du feu, mais le couloir ouest et les points d’embarquement restent restreints, les bateaux d’évacuation sont suspendus et cela ne crée pas de voie publique vers le Cap Ferret. Le tableau officiel de l’aéroport de Bordeaux affiche toujours des arrivées et départs, dont BA2572, et indique que l’activité aéroportuaire continue ; le tram et les bus entre Mérignac Soleil et l’aéroport restent interrompus, donc l’état du terminal, les vols et les accès terrestres restent trois analyses séparées.",
-    "confidence": "Confiance élevée dans l’actualisation des évacuations et des moyens de réponse : l’index du direct du Monde reprend le chiffre du ministère de l’Intérieur d’environ 167 000 personnes évacuées en Gironde et indique que l’évacuation de la ville de Bordeaux n’est pas à l’ordre du jour, le communiqué direct de la préfecture de Gironde confirme l’évacuation immédiate des secteurs menacés de Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle et Saint-Jean-d’Illac, et des avis séparés couvrent Le Haillan, Eysines extra-rocade, Mérignac extra-rocade et Bruges extra-rocade. Les noms de communes doivent être compris comme une géographie d’évacuation, pas comme la preuve que chaque adresse de chaque commune nommée est concernée ; les habitants doivent suivre leur FR-Alert et les consignes locales. La limite opérationnelle exacte autour du site aéroportuaire n’est toujours pas établie ici. Le tableau de l’aéroport reste actif et indique explicitement que l’activité continue : le tableau de bord ne déclare donc pas l’aéroport fermé, mais considère les accès terrestres comme perturbés puisque le même tableau officiel indique l’interruption du tram et des bus vers l’aéroport.",
+    "narrative": "À 13 h, la préfecture de la Gironde a indiqué que l’incendie de Saumos avait parcouru près de 32 700 hectares à midi. La préfecture précise que le feu est moins virulent et n’est plus convectif pour le moment grâce à la baisse des températures et à l’augmentation de l’humidité, mais qu’il reste dangereux, continue de progresser et pourrait subir une bascule du vent dans l’après-midi. Le même point officiel indique que 57 000 personnes ont été évacuées préventivement dans la nuit à Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle, Saint-Jean-d’Illac, Audenge, Le Haillan, Eysines extra-rocade et Mérignac extra-rocade, portant le total girondin à 167 000 évacuations préventives. Les moyens engagés sont désormais de 750 sapeurs-pompiers, 18 moyens aériens, 500 militaires déjà en appui plus 500 nouveaux moyens, et 1 700 membres des forces de sécurité. La conclusion pour le Cap Ferret ne change pas : la presqu’île reste évacuée, l’accès public entrant est indisponible et la mairie de Lège-Cap-Ferret demande toujours de ne pas revenir sur la commune. Le tableau officiel de l’aéroport de Bordeaux liste toujours des vols, dont BA2572, et indique que l’activité aéroportuaire continue ; le tram et les bus entre Mérignac Soleil et l’aéroport restent interrompus, donc l’état du terminal, l’exploitation des vols et les accès terrestres restent trois analyses séparées.",
+    "confidence": "Confiance élevée dans les chiffres actualisés de surface brûlée et d’évacuation : les 32 700 hectares, les 57 000 évacuations préventives de la nuit, les 167 000 évacuations préventives au total, les moyens listés et le bilan des sapeurs-pompiers blessés proviennent du point direct de la préfecture de la Gironde à 13 h et sont repris par le direct du Monde. La mairie de Lège-Cap-Ferret continue de demander de ne pas revenir sur la commune. Les noms de communes et la mention extra-rocade doivent être compris comme une géographie d’évacuation régie par FR-Alert et les périmètres locaux, pas comme la preuve que chaque adresse de chaque commune nommée est concernée. La limite opérationnelle exacte autour du site aéroportuaire n’est toujours pas établie ici. Le tableau de l’aéroport reste actif et indique explicitement que l’activité continue : le tableau de bord ne déclare donc pas l’aéroport fermé, mais considère les accès terrestres comme perturbés puisque le même tableau officiel indique l’interruption du tram et des bus vers l’aéroport.",
     "priorities": [
-      "Dernier point matériel : Le Monde rapporte que le ministère de l’Intérieur chiffre désormais les évacuations en Gironde à environ 167 000 personnes ; selon le maire, la ville de Bordeaux elle-même n’est pas à ce stade sous plan d’évacuation.",
-      "Le Monde rapporte que près de 100 000 hectares ont brûlé en France en 2026, décrit par le ministre de l’Intérieur comme un record historique ; c’est un contexte national de saison des feux, pas une estimation locale du périmètre.",
-      "L’A400M militaire est annoncé comme devant être déployé samedi pour aider la Sécurité civile à tenter de fixer le feu en Gironde ; cela reste un signal de renfort, pas une preuve de réouverture publique ni une télémétrie de vol.",
-      "Les ordres d’évacuation supplémentaires autour de Bordeaux s’appliquent toujours selon le périmètre exact FR-Alert ou local ; ne supposez pas que chaque commune nommée est entièrement évacuée sauf si votre propre alerte ou avis local l’indique.",
+      "Dernier point matériel : la préfecture de la Gironde indique que l’incendie de Saumos avait parcouru près de 32 700 hectares à midi le 25 juillet et reste dangereux même s’il est moins virulent et n’est plus convectif pour le moment.",
+      "La préfecture fait état de 57 000 évacuations préventives dans la nuit et de 167 000 évacuations préventives au total en Gironde ; suivez FR-Alert et les périmètres locaux sans supposer que chaque adresse de chaque commune nommée est concernée.",
+      "Les moyens engagés comprennent désormais 750 sapeurs-pompiers, 18 moyens aériens, 500 militaires déjà en appui, 500 nouveaux moyens ajoutés et 1 700 membres des forces de sécurité pour protéger les secteurs évacués.",
+      "La préfecture signale 54 sapeurs-pompiers blessés pris en charge, dont neuf évacués en urgence relative ; cette mise à jour ne donne aucune autorisation de retour ou de réouverture publique.",
       "L’accès routier entrant au Cap Ferret reste indisponible. Le bassin d’Arcachon est partiellement rouvert loin du feu, mais les zones ouest et d’embarquement restent restreintes et l’évacuation de la presqu’île exclut toute voie maritime publique pour un séjour touristique.",
       "L’aéroport de Bordeaux exploite toujours des vols, mais son tableau officiel indique que le tram et les bus sont interrompus entre Mérignac Soleil et l’aéroport ; vérifiez l’aéroport, la compagnie et l’itinéraire terrestre avant de compter sur un vol."
     ]
@@ -34,10 +37,15 @@
     },
     "Fire": {
       "label": "Incendie",
-      "value": "Non maîtrisé · progresse vers l’est"
+      "value": "Dangereux · 32 700 ha brûlés"
     }
   },
   "materialUpdates": {
+    "material-2026-07-25-1353": {
+      "title": "La préfecture fait état de 32 700 hectares brûlés et de 167 000 évacuations préventives",
+      "detail": "Le point de situation de 13 h de la préfecture de la Gironde, repris par l’entrée de 13 h 53 du direct du Monde, indique que l’incendie de Saumos avait parcouru près de 32 700 hectares à midi. La préfecture indique que 57 000 personnes ont été évacuées préventivement dans la nuit à Saint-Aubin-de-Médoc, Saint-Médard-en-Jalles, Martignas-sur-Jalle, Saint-Jean-d’Illac, Audenge, Le Haillan, Eysines extra-rocade et Mérignac extra-rocade, portant le total à 167 000 évacuations préventives.",
+      "incrementalNews": "Cela actualise matériellement l’ampleur locale du feu, l’ampleur des évacuations, les moyens engagés et le bilan des pompiers blessés après l’élément du ministère de l’Intérieur à 12 h 46. Le feu est décrit comme moins virulent et n’est plus convectif, mais toujours dangereux et en progression ; cela ne change pas la conclusion de ne pas se rendre au Cap Ferret et ne confirme aucune fermeture de l’aéroport."
+    },
     "material-2026-07-25-1246": {
       "title": "Le Monde rapporte 167 000 évacués en Gironde et un record national de surface brûlée",
       "detail": "L’index du direct du Monde indique que le ministre de l’Intérieur fait état d’environ 167 000 personnes évacuées en Gironde et de près de 100 000 hectares brûlés en France en 2026, qualifiés de record historique. Le même élément indique que le maire de Bordeaux, Thomas Cazenave, assure qu’une évacuation de la ville de Bordeaux n’est pas à l’ordre du jour.",
@@ -266,7 +274,19 @@
     "dc4b04fae702": "Ajoute du contexte humain sur les évacués, sans nouveau fait matériel vérifié pour le tableau de bord.",
     "615596857512": "Ajoute du contexte sur les fumées à Bordeaux, sans remplacer les avis officiels de qualité de l’air.",
     "1bd3c4631ff4": "Ajoute du contexte sur la propagation des odeurs de fumée au-delà de la Gironde, sans consigne locale nouvelle.",
-    "5a96de354379": "Ajoute du contexte opérationnel sur les moyens de lutte contre le feu, sans conclusion autonome de sécurité de déplacement."
+    "5a96de354379": "Ajoute du contexte opérationnel sur les moyens de lutte contre le feu, sans conclusion autonome de sécurité de déplacement.",
+    "c7b6e518f639": "N’ajoute pas de fait matériel nouveau au-delà de la confirmation de la coordination autour de l’incident incendie en cours.",
+    "b333fa003597": "N’ajoute pas de fait matériel nouveau au-delà de témoignages visuels sur les dégâts au Porge.",
+    "39a753565e2e": "Ajoute une précision sur Bordeaux et les scénarios gouvernementaux, sans modifier les consignes déjà synthétisées.",
+    "a0c19983bbf0": "N’ajoute pas de fait matériel nouveau au-delà de témoignages visuels sur les dégâts au Porge.",
+    "ed29f37c6c4e": "Ajoute un récit d’évacuation dans les Landes, sans modifier la consigne applicable au Cap Ferret.",
+    "313f1eb5744c": "Ajoute un contexte sur les fumées et les moyens de secours, sans conclusion autonome de sécurité ou de déplacement.",
+    "4a9a7fc54c03": "N’ajoute pas de fait matériel nouveau pour le Cap Ferret au-delà du contexte régional de risque incendie.",
+    "c4c8adde3300": "Ajoute un signal médiatique d’évacuation métropolitaine déjà couvert par les avis officiels et Le Monde.",
+    "f482a2648ffa": "Ajoute un contexte sur l’A400M déjà couvert par l’élément matériel sur les moyens de réponse.",
+    "2071c04f6f01": "Ajoute un bilan et des images des Landes, utile en contexte régional mais distinct du statut du Cap Ferret.",
+    "00fe434530cd": "Ajoute un éclairage sur la presqu’île prise dans la crise climatique et évacuée, sans nouvelle consigne opérationnelle.",
+    "498ccc796133": "Ajoute un contexte sur les fumées ressenties hors du bassin, sans modifier les consignes officielles locales."
   },
   "access": {
     "Road access to the peninsula": {
@@ -277,7 +297,7 @@
     "Travel to the peninsula": {
       "name": "Déplacement vers la presqu’île",
       "status": "Impossible",
-      "detail": "Toute la presqu’île reste soumise à un ordre d’évacuation. L’accès ordinaire du public est interdit ; l’accès routier reste fermé et la réouverture partielle du bassin d’Arcachon ne crée pas de voie maritime publique vers le Cap Ferret."
+      "detail": "Toute la presqu’île reste soumise à un ordre d’évacuation. L’accès ordinaire du public est interdit ; la mairie de Lège-Cap-Ferret demande toujours de ne pas revenir, l’accès routier reste fermé et la réouverture partielle du bassin d’Arcachon ne crée pas de voie maritime publique vers le Cap Ferret."
     },
     "Road access · Claouey": {
       "name": "Accès routier · Claouey",
@@ -357,7 +377,7 @@
   "aviation": {
     "overall": {
       "status": "Vols en cours · accès tram/bus à l’aéroport interrompu",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 12 h 55 ; avis préfectoraux et municipaux d’évacuation"
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 13 h 55 ; avis préfectoraux et municipaux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
@@ -420,7 +440,7 @@
   "reopeningSignals": {
     "Fire contained or controlled": {
       "name": "Incendie fixé ou maîtrisé",
-      "detail": "Non. Le feu est décrit comme incontrôlé et imprévisible."
+      "detail": "Non. La préfecture indique que le feu est moins virulent et n’est plus convectif pour le moment, mais qu’il reste dangereux et continue de progresser."
     },
     "Evacuation order lifted": {
       "name": "Ordre d’évacuation levé",
