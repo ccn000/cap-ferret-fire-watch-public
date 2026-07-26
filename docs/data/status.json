@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-26T22:04:34.552Z",
+  "generatedAt": "2026-07-26T23:01:28.639Z",
   "sectionUpdates": {
     "assessment": "2026-07-26T19:30:00+02:00",
-    "map": "2026-07-26T22:04:34.552Z",
+    "map": "2026-07-26T23:01:28.639Z",
     "material": "2026-07-26T19:30:00+02:00",
     "access": "2026-07-26T13:00:00+02:00",
     "localCommerce": "2026-07-24T06:40:00+02:00",
     "restaurants": "2026-07-24T06:40:00+02:00",
     "ferries": "2026-07-24T18:26:50+02:00",
-    "aviation": "2026-07-27T00:01:00+02:00",
+    "aviation": "2026-07-27T00:59:00+02:00",
     "reopening": "2026-07-26T19:30:00+02:00",
-    "articles": "2026-07-26T21:41:01.000Z",
+    "articles": "2026-07-26T22:03:27.000Z",
     "social": "2026-07-26T20:10:15.000Z",
-    "sources": "2026-07-26T22:04:34.552Z",
-    "weather": "2026-07-26T22:04:25.946Z",
+    "sources": "2026-07-26T23:01:28.639Z",
+    "weather": "2026-07-26T23:01:26.828Z",
     "officialCheckpoints": "2026-07-26T14:52:00+02:00"
   },
   "incident": {
@@ -745,6 +745,40 @@
   ],
   "updates": [
     {
+      "id": "87a3cf2acd0c",
+      "time": "00:03",
+      "title": "Incendies : \"115 000 hectares parcourus\" depuis le début de l'année, annonce Laurent Nuñez - franceinfo",
+      "detail": "Adds a reported fire-size or progression figure, which must be read with its stated time and source.",
+      "language": "fr",
+      "titleTheme": "Headline theme: fire size, burned area or direction of progression.",
+      "candidateText": "Incendies : \"115 000 hectares parcourus\" depuis le début de l'année, annonce Laurent Nuñez - franceinfo <a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxNZTZaSVVfTHRnN3Nxbms3R0d4NE5ZU2tfdzl3QWlzMnhlM2llV1NYUTdBSHZibUplaGhoQnFRb09yMVhSdHhYamFNdExjT21EWkVYTnpRVEdpd2RFN1FNQjNZNTZPS3p2TEtvQXpQb2NVOWdibnlzclM5ZmRod0ZlcEZDNFdoeXlwVmxWZ2txMDliN1pmdnVpQllfVWhhcVE4V0xFaWpPSXNCNDViUFp2aURZU3NxcE9idjlfbDlKbWl5YldqV01aODB1OGlsalJvNC1QU1lJTkJSdkQybmZvY3dpZ0tNUFBBcnpFdmNSbUY0d0Yxb3hESVlnLTAzRU1QNmpKWkoxTVZsaTBBWnBkMVl1cDlobEZWQzZfYml6cHBKVWVhRjZlb2ZQdENySVU?oc=5\" target=\"_blank\">Incendies : \"115 000 hectares parcourus\" depuis le début de l'année, annonce Laurent Nuñez</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">franceinfo</font>",
+      "sourceId": "google-news-incident",
+      "source": "Google News",
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNZTZaSVVfTHRnN3Nxbms3R0d4NE5ZU2tfdzl3QWlzMnhlM2llV1NYUTdBSHZibUplaGhoQnFRb09yMVhSdHhYamFNdExjT21EWkVYTnpRVEdpd2RFN1FNQjNZNTZPS3p2TEtvQXpQb2NVOWdibnlzclM5ZmRod0ZlcEZDNFdoeXlwVmxWZ2txMDliN1pmdnVpQllfVWhhcVE4V0xFaWpPSXNCNDViUFp2aURZU3NxcE9idjlfbDlKbWl5YldqV01aODB1OGlsalJvNC1QU1lJTkJSdkQybmZvY3dpZ0tNUFBBcnpFdmNSbUY0d0Yxb3hESVlnLTAzRU1QNmpKWkoxTVZsaTBBWnBkMVl1cDlobEZWQzZfYml6cHBKVWVhRjZlb2ZQdENySVU?oc=5",
+      "importance": 4,
+      "publishedAt": "2026-07-26T22:03:27.000Z",
+      "classification": {
+        "score": 6,
+        "priority": "context",
+        "reasons": [
+          "fire-scale"
+        ],
+        "authorityAttributed": false,
+        "changeLanguage": false,
+        "numbers": [
+          "115 000 hectares"
+        ]
+      },
+      "liveIndex": false,
+      "confirmedBy": {
+        "count": 1,
+        "sources": [
+          "Google News"
+        ]
+      }
+    },
+    {
       "id": "404c5c8a876f",
       "time": "23:41",
       "title": "« On donne rendez-vous au feu » : sur la route entre le bassin d’Arcachon et Bordeaux, méthode et patience contre l’incendie - Sud Ouest",
@@ -775,6 +809,39 @@
         "sources": [
           "Google News",
           "Google News · Sud Ouest local"
+        ]
+      }
+    },
+    {
+      "id": "2f481fad03d4",
+      "time": "23:38",
+      "title": "Le feu aux portes de Bordeaux, toujours pas d'évacuation prévue mais le Premier ministre appelle au \"réalisme\" - franceinfo",
+      "detail": "Adds regional access or logistics information that can affect whether travel to Cap Ferret is realistic, even if the peninsula order itself is unchanged.",
+      "language": "fr",
+      "titleTheme": "Headline theme: evacuation orders, evacuation scale or resident movement.",
+      "candidateText": "Le feu aux portes de Bordeaux, toujours pas d'évacuation prévue mais le Premier ministre appelle au \"réalisme\" - franceinfo <a href=\"https://news.google.com/rss/articles/CBMixgJBVV95cUxPNG1oUFZJTWdNVEZHV2ZEdURjSXNLV2pHMkVJeDk3XzRyeV9vUTdGeG9lX284QloxQXdwbjlZR1ZMbEZhSWVPbFROcXd5a2JMc1pXNlhNa2lmUFRRVGQ3cWhtTXBfelJPOXpORUhleUtYRjhkUFRVaW1EYko0a1F4V25CeGh2SVRZME8xWmx5RWF4N0tzcGxoejFYOS1vdlVjZVZOOUFodlc4Z1dYRDB6VWsxZnpqZDRxOXlXQ1F6N2VGVG9UOE9sRDlTNnZSS3VwWWYzSkVEMWVSQzk1d0tkUHQyc3Q2SFZ5WjlYamktVHB2ci1uTnFPeUZFMk4wUFZlbGNaMkRGcENxc0dsYW1mM2UybS15QW1fcVctR3NqaWNoNld2SEpqOGo4THRBUGc2eXNoRFpJVm0zd0xYSjRjc2xYX21lZw?oc=5\" target=\"_blank\">Le feu aux portes de Bordeaux, toujours pas d'évacuation prévue mais le Premier ministre appelle au \"réalisme\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">franceinfo</font>",
+      "sourceId": "google-news-incident",
+      "source": "Google News",
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPNG1oUFZJTWdNVEZHV2ZEdURjSXNLV2pHMkVJeDk3XzRyeV9vUTdGeG9lX284QloxQXdwbjlZR1ZMbEZhSWVPbFROcXd5a2JMc1pXNlhNa2lmUFRRVGQ3cWhtTXBfelJPOXpORUhleUtYRjhkUFRVaW1EYko0a1F4V25CeGh2SVRZME8xWmx5RWF4N0tzcGxoejFYOS1vdlVjZVZOOUFodlc4Z1dYRDB6VWsxZnpqZDRxOXlXQ1F6N2VGVG9UOE9sRDlTNnZSS3VwWWYzSkVEMWVSQzk1d0tkUHQyc3Q2SFZ5WjlYamktVHB2ci1uTnFPeUZFMk4wUFZlbGNaMkRGcENxc0dsYW1mM2UybS15QW1fcVctR3NqaWNoNld2SEpqOGo4THRBUGc2eXNoRFpJVm0zd0xYSjRjc2xYX21lZw?oc=5",
+      "importance": 4,
+      "publishedAt": "2026-07-26T21:38:51.000Z",
+      "classification": {
+        "score": 13,
+        "priority": "urgent-review",
+        "reasons": [
+          "evacuation",
+          "regional-access-logistics"
+        ],
+        "authorityAttributed": true,
+        "changeLanguage": true,
+        "numbers": []
+      },
+      "liveIndex": false,
+      "confirmedBy": {
+        "count": 1,
+        "sources": [
+          "Google News"
         ]
       }
     },
@@ -914,6 +981,40 @@
         "count": 1,
         "sources": [
           "Google News · Sud Ouest local"
+        ]
+      }
+    },
+    {
+      "id": "577c787c2802",
+      "time": "20:49",
+      "title": "Incendie en Gironde: \"Il a fallu évacuer le haillan\", raconte Arnaud Cormier, entraîneur adjoint des Girondins de Bordeaux - BFM",
+      "detail": "Adds regional access or logistics information that can affect whether travel to Cap Ferret is realistic, even if the peninsula order itself is unchanged.",
+      "language": "fr",
+      "titleTheme": "Headline theme: airport, transport or Bordeaux-area access implications.",
+      "candidateText": "Incendie en Gironde: \"Il a fallu évacuer le haillan\", raconte Arnaud Cormier, entraîneur adjoint des Girondins de Bordeaux - BFM <a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxNQlhtY0hBREp6N3NFbkdZeDQ0QmZvdHh3aVJ5S0tDWlNJUDlVaHBDaHlaRDV4VXFMTVhhTkZjdVVKTWtVOEtxLUVBazFFWDNJSl9MVk9yWHg2VHppSkQ0cENQSGgwUEFxU3RhMEdDSGdXOGFFSlk2RGtRUFdEWm9TWHpjcHBlMy12cndPMWZGMUc1b0hsZHBSTUYycWxWT3JaajBCUXJYWWNuSGJmYm5TelU1RmJfLTU3NkJVTlZjdEF4REZhZUMxWFBWOFJ5aGhJbTRvWW1jZDkxNm1YN0VCNnpyZzVJelJrcFcwOGJvOF80S2tBVGNiOTFZdUxTTjBqblhkeDRJQU5pZlJYVUVBakZOQWdIZw?oc=5\" target=\"_blank\">Incendie en Gironde: \"Il a fallu évacuer le haillan\", raconte Arnaud Cormier, entraîneur adjoint des Girondins de Bordeaux</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BFM</font>",
+      "sourceId": "google-news-incident",
+      "source": "Google News",
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNQlhtY0hBREp6N3NFbkdZeDQ0QmZvdHh3aVJ5S0tDWlNJUDlVaHBDaHlaRDV4VXFMTVhhTkZjdVVKTWtVOEtxLUVBazFFWDNJSl9MVk9yWHg2VHppSkQ0cENQSGgwUEFxU3RhMEdDSGdXOGFFSlk2RGtRUFdEWm9TWHpjcHBlMy12cndPMWZGMUc1b0hsZHBSTUYycWxWT3JaajBCUXJYWWNuSGJmYm5TelU1RmJfLTU3NkJVTlZjdEF4REZhZUMxWFBWOFJ5aGhJbTRvWW1jZDkxNm1YN0VCNnpyZzVJelJrcFcwOGJvOF80S2tBVGNiOTFZdUxTTjBqblhkeDRJQU5pZlJYVUVBakZOQWdIZw?oc=5",
+      "importance": 2,
+      "publishedAt": "2026-07-26T18:49:04.000Z",
+      "classification": {
+        "score": 17,
+        "priority": "urgent-review",
+        "reasons": [
+          "evacuation",
+          "airport-adjacent-evacuation",
+          "regional-access-logistics"
+        ],
+        "authorityAttributed": false,
+        "changeLanguage": false,
+        "numbers": []
+      },
+      "liveIndex": false,
+      "confirmedBy": {
+        "count": 1,
+        "sources": [
+          "Google News"
         ]
       }
     },
@@ -1960,108 +2061,6 @@
       }
     },
     {
-      "id": "34681cf0583c",
-      "time": "07:56",
-      "title": "Après une « propagation rapide » du feu en Gironde, la « surface brûlée » monte en flèche - Le HuffPost",
-      "detail": "Adds a reported fire-size or progression figure, which must be read with its stated time and source.",
-      "language": "fr",
-      "titleTheme": "Headline theme: fire size, burned area or direction of progression.",
-      "candidateText": "Après une « propagation rapide » du feu en Gironde, la « surface brûlée » monte en flèche - Le HuffPost <a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcHNTMmxUSzB4NUluMWFTdFNuTTN4SkR1cFh6eGloamdGT2RpaGVjZ2NtSnJTQjNLVjV5cl9ORW5JTWt6bmgzSmRDS3JXMlNobi1VN3dycGFOUllzN0xpTjh1NjNQU0FJdFpDU3hPVnBxTlYxU3pDNC1VWk1VUWZwSW96dnJMdWR5MktOX29vOEQyb0ZyRGFCaHJtYTc3bEgtcGRlQ3ZTSGdsVmtIeUVBOTFkRnlXVEo4aE9NTFdkb0Q0OWJvU1VkN0VGSTE5eV9laXlv?oc=5\" target=\"_blank\">Après une « propagation rapide » du feu en Gironde, la « surface brûlée » monte en flèche</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Le HuffPost</font>",
-      "sourceId": "google-news-incident",
-      "source": "Google News",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcHNTMmxUSzB4NUluMWFTdFNuTTN4SkR1cFh6eGloamdGT2RpaGVjZ2NtSnJTQjNLVjV5cl9ORW5JTWt6bmgzSmRDS3JXMlNobi1VN3dycGFOUllzN0xpTjh1NjNQU0FJdFpDU3hPVnBxTlYxU3pDNC1VWk1VUWZwSW96dnJMdWR5MktOX29vOEQyb0ZyRGFCaHJtYTc3bEgtcGRlQ3ZTSGdsVmtIeUVBOTFkRnlXVEo4aE9NTFdkb0Q0OWJvU1VkN0VGSTE5eV9laXlv?oc=5",
-      "importance": 2,
-      "publishedAt": "2026-07-26T05:56:58.000Z",
-      "classification": {
-        "score": 5,
-        "priority": "context",
-        "reasons": [
-          "fire-scale"
-        ],
-        "authorityAttributed": false,
-        "changeLanguage": false,
-        "numbers": []
-      },
-      "liveIndex": false,
-      "confirmedBy": {
-        "count": 1,
-        "sources": [
-          "Google News"
-        ]
-      }
-    },
-    {
-      "id": "97fde03c00ee",
-      "time": "07:48",
-      "title": "Incendie en Gironde: \"Aucune date de retour ne peut être annoncée aujourd'hui\", affirme le maire de Cestas - BFM",
-      "detail": "Adds regional access or logistics information that can affect whether travel to Cap Ferret is realistic, even if the peninsula order itself is unchanged.",
-      "language": "fr",
-      "titleTheme": "Headline theme: continuing coverage of the Gironde wildfire and its local consequences.",
-      "candidateText": "Incendie en Gironde: \"Aucune date de retour ne peut être annoncée aujourd'hui\", affirme le maire de Cestas - BFM <a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPcGh6NE1xdUJhNjFPdmdPdW9idllTYnpSUlNuN09WbkM1UXkzcERFQ255RFB5Y2hhdDZwTU5sTFBhSWo0QmVrb2Fld3BkbUpzSWtPbXlkSWVsNkthZjVqZUdyOHJkVzVnV3lkbjhZRlpFbDVROU0zdGVlNE1LaUI1RnEyZkV2bmh0YzZiMDB6TTBLejRvTkhyejd3Ui1Xa21oakxOalNNUUhCblhna1p3R2xSNGs0TGxqbG9JVTBmVlZPWTVrNjdpR3BsWG0xbVo3a0w3eGJWdjVhWTZkcmxwRVIxRlQxUUZudm9yMFRhNF93dXNULTdHaWNRVUpaaEtVNEE?oc=5\" target=\"_blank\">Incendie en Gironde: \"Aucune date de retour ne peut être annoncée aujourd'hui\", affirme le maire de Cestas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BFM</font>",
-      "sourceId": "google-news-incident",
-      "source": "Google News",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPcGh6NE1xdUJhNjFPdmdPdW9idllTYnpSUlNuN09WbkM1UXkzcERFQ255RFB5Y2hhdDZwTU5sTFBhSWo0QmVrb2Fld3BkbUpzSWtPbXlkSWVsNkthZjVqZUdyOHJkVzVnV3lkbjhZRlpFbDVROU0zdGVlNE1LaUI1RnEyZkV2bmh0YzZiMDB6TTBLejRvTkhyejd3Ui1Xa21oakxOalNNUUhCblhna1p3R2xSNGs0TGxqbG9JVTBmVlZPWTVrNjdpR3BsWG0xbVo3a0w3eGJWdjVhWTZkcmxwRVIxRlQxUUZudm9yMFRhNF93dXNULTdHaWNRVUpaaEtVNEE?oc=5",
-      "importance": 4,
-      "publishedAt": "2026-07-26T05:48:31.000Z",
-      "classification": {
-        "score": 6,
-        "priority": "context",
-        "reasons": [
-          "regional-access-logistics"
-        ],
-        "authorityAttributed": true,
-        "changeLanguage": false,
-        "numbers": []
-      },
-      "liveIndex": false,
-      "confirmedBy": {
-        "count": 1,
-        "sources": [
-          "Google News"
-        ]
-      }
-    },
-    {
-      "id": "224cdb2ac92c",
-      "time": "07:42",
-      "title": "Incendie en Gironde : de nouvelles évacuations dans la nuit, l’autoroute A63 fermée, le feu est à 15 km de Bordeaux, 42 000 hectares brûlés - L'Indépendant",
-      "detail": "Adds regional access or logistics information that can affect whether travel to Cap Ferret is realistic, even if the peninsula order itself is unchanged.",
-      "language": "fr",
-      "titleTheme": "Headline theme: evacuation orders, evacuation scale or resident movement.",
-      "candidateText": "Incendie en Gironde : de nouvelles évacuations dans la nuit, l’autoroute A63 fermée, le feu est à 15 km de Bordeaux, 42 000 hectares brûlés - L'Indépendant <a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxOTm9BdWMwNkMyUHRDcmdNMTNVQkJMeVZmTktPZmp3MnFhVVdkS2NYZ0tVaG4tMy1OelNpX1pGZ0gyd3ZsMDRBVHExUzhPV0s3QzhUQVgtdlo4MXBoWG83SGcxSUdNRzFYQ1dpczdLYUlwc3JzZUdGTFdNbWVhLWlxVzFxcEQ3Z2x6MU9kN2dUem8tbk8yWVVsMG4wbEJrSDJYWDFUOXlDVHBaZ2hPRkF1ZDdMeFlOLWtiendGZTREQjBCcG5BMFJzRVlLVk5DekxlU1hlbURmUGx3VXEtNm5BZG4wWllyZ2hwaGc1c2YzYlFJUlpJM2N0RlpHTWFGZUlMZ2FXM3R1dmhqM2Z0VlNjVUtqTQ?oc=5\" target=\"_blank\">Incendie en Gironde : de nouvelles évacuations dans la nuit, l’autoroute A63 fermée, le feu est à 15 km de Bordeaux, 42 000 hectares brûlés</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">L'Indépendant</font>",
-      "sourceId": "google-news-incident",
-      "source": "Google News",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTm9BdWMwNkMyUHRDcmdNMTNVQkJMeVZmTktPZmp3MnFhVVdkS2NYZ0tVaG4tMy1OelNpX1pGZ0gyd3ZsMDRBVHExUzhPV0s3QzhUQVgtdlo4MXBoWG83SGcxSUdNRzFYQ1dpczdLYUlwc3JzZUdGTFdNbWVhLWlxVzFxcEQ3Z2x6MU9kN2dUem8tbk8yWVVsMG4wbEJrSDJYWDFUOXlDVHBaZ2hPRkF1ZDdMeFlOLWtiendGZTREQjBCcG5BMFJzRVlLVk5DekxlU1hlbURmUGx3VXEtNm5BZG4wWllyZ2hwaGc1c2YzYlFJUlpJM2N0RlpHTWFGZUlMZ2FXM3R1dmhqM2Z0VlNjVUtqTQ?oc=5",
-      "importance": 4,
-      "publishedAt": "2026-07-26T05:42:00.000Z",
-      "classification": {
-        "score": 19,
-        "priority": "urgent-review",
-        "reasons": [
-          "evacuation",
-          "fire-scale",
-          "access",
-          "regional-access-logistics"
-        ],
-        "authorityAttributed": false,
-        "changeLanguage": false,
-        "numbers": [
-          "15",
-          "42 000 hectares"
-        ]
-      },
-      "liveIndex": false,
-      "confirmedBy": {
-        "count": 1,
-        "sources": [
-          "Google News"
-        ]
-      }
-    },
-    {
       "id": "reader-franceinfo-live-20260724",
       "time": "23:29",
       "title": "DIRECT. Incendie en Gironde : la préfecture ordonne l’évacuation sans délai des premiers villages de la presqu’île du Cap-Ferret - franceinfo",
@@ -2208,16 +2207,16 @@
   ],
   "aviation": {
     "overall": {
-      "level": "amber",
-      "status": "Operating flights · severe arrival disruption",
-      "sourceName": "Bordeaux Airport board updated at 00:01 CEST; prefectural evacuation notices",
+      "level": "green",
+      "status": "Operating flights · no major disruption flagged",
+      "sourceName": "Bordeaux Airport board updated at 00:59 CEST; prefectural evacuation notices",
       "sourceUrl": "https://www.bordeaux.aeroport.fr/vols-destinations/arrivees-departs-du-jour"
     },
     "operationalRisk": {
       "closure": {
         "level": "amber",
-        "status": "Elevated risk · flights operating but heavily disrupted",
-        "detail": "The official board still lists arrivals and departures, but it flags 2 delayed and 2 cancelled arrivals, plus 0 delayed and 0 cancelled departures. The airport's own flash notice says activity continues, while the hotel zone around the airport is evacuated until further notice and the halls close overnight, so the site cannot provide accommodation. Treat flight operation, terminal overnight access and ground access as separate signals."
+        "status": "Elevated risk · flights listed and activity continues",
+        "detail": "The official board lists arrivals and departures without major delay or cancellation flags at the time checked. The airport's own flash notice says activity continues, while the hotel zone around the airport is evacuated until further notice and the halls close overnight, so the site cannot provide accommodation. Treat flight operation, terminal overnight access and ground access as separate signals."
       },
       "groundAccess": {
         "level": "amber",
@@ -2357,126 +2356,126 @@
       "name": "Lège-Cap-Ferret Town Hall",
       "type": "Official",
       "url": "https://www.ville-lege-capferret.fr/top_slider/information-incendie-saumos/",
-      "checkedAt": "2026-07-26T22:04:18.794Z",
+      "checkedAt": "2026-07-26T23:01:22.030Z",
       "status": "ok"
     },
     {
       "name": "Gironde Prefecture",
       "type": "Official",
       "url": "https://www.gironde.gouv.fr/",
-      "checkedAt": "2026-07-26T22:04:18.824Z",
+      "checkedAt": "2026-07-26T23:01:22.061Z",
       "status": "ok"
     },
     {
       "name": "Marcheprime Town Hall",
       "type": "Official local",
       "url": "https://ville-marcheprime.fr/actualites/alerte-extreme-evacuation-imminente/",
-      "checkedAt": "2026-07-26T22:04:18.825Z",
+      "checkedAt": "2026-07-26T23:01:22.062Z",
       "status": "ok"
     },
     {
       "name": "Gironde Prefecture · press releases",
       "type": "Official",
       "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026",
-      "checkedAt": "2026-07-26T22:04:18.825Z",
+      "checkedAt": "2026-07-26T23:01:22.062Z",
       "status": "ok"
     },
     {
       "name": "Gironde Department",
       "type": "Official",
       "url": "https://www.gironde.fr/actualites/vigilance-rouge-pour-le-risque-feu-de-foret",
-      "checkedAt": "2026-07-26T22:04:18.825Z",
+      "checkedAt": "2026-07-26T23:01:22.063Z",
       "status": "ok"
     },
     {
       "name": "Bordeaux Métropole",
       "type": "Official local",
       "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees-collecte-dons",
-      "checkedAt": "2026-07-26T22:04:18.826Z",
+      "checkedAt": "2026-07-26T23:01:22.063Z",
       "status": "ok"
     },
     {
       "name": "Bordeaux Métropole · wildfire and pollution restrictions",
       "type": "Official local",
       "url": "https://www.bordeaux-metropole.fr/actualites/vigilance-noire-feux-foret-pollution-atmospherique-alertes-renforcees",
-      "checkedAt": "2026-07-26T22:04:18.826Z",
+      "checkedAt": "2026-07-26T23:01:22.063Z",
       "status": "ok"
     },
     {
       "name": "Gironde Inforoutes",
       "type": "Official transport",
       "url": "https://www.gironde.fr/deplacements/inforoutes",
-      "checkedAt": "2026-07-26T22:04:18.826Z",
+      "checkedAt": "2026-07-26T23:01:22.064Z",
       "status": "ok"
     },
     {
       "name": "Atlantic maritime prefecture",
       "type": "Official maritime",
       "url": "https://www.premar-atlantique.gouv.fr/communiques-presse/reouverture-partielle-du-bassin-d-arcachon-33-a-la-navigation",
-      "checkedAt": "2026-07-26T22:04:18.827Z",
+      "checkedAt": "2026-07-26T23:01:22.064Z",
       "status": "ok"
     },
     {
       "name": "Nouvelle-Aquitaine transport",
       "type": "Official transport",
       "url": "https://transports.nouvelle-aquitaine.fr/",
-      "checkedAt": "2026-07-26T22:04:18.827Z",
+      "checkedAt": "2026-07-26T23:01:22.064Z",
       "status": "ok"
     },
     {
       "name": "Feux de Forêt",
       "type": "Specialist",
       "url": "https://feuxdeforet.fr/",
-      "checkedAt": "2026-07-26T22:04:18.827Z",
+      "checkedAt": "2026-07-26T23:01:22.064Z",
       "status": "ok"
     },
     {
       "name": "NASA FIRMS",
       "type": "Satellite",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/",
-      "checkedAt": "2026-07-26T22:04:18.828Z",
+      "checkedAt": "2026-07-26T23:01:22.065Z",
       "status": "ok"
     },
     {
       "name": "Météo-France · forêts",
       "type": "Official",
       "url": "https://meteofrance.com/meteo-des-forets",
-      "checkedAt": "2026-07-26T22:04:18.828Z",
+      "checkedAt": "2026-07-26T23:01:22.065Z",
       "status": "ok"
     },
     {
       "name": "Atmo Nouvelle-Aquitaine",
       "type": "Official air quality",
       "url": "https://www.atmo-nouvelleaquitaine.org/",
-      "checkedAt": "2026-07-26T22:04:18.828Z",
+      "checkedAt": "2026-07-26T23:01:22.065Z",
       "status": "ok"
     },
     {
       "name": "France Bleu / ici Gironde",
       "type": "Local media",
       "url": "https://www.francebleu.fr/gironde",
-      "checkedAt": "2026-07-26T22:04:18.828Z",
+      "checkedAt": "2026-07-26T23:01:22.065Z",
       "status": "ok"
     },
     {
       "name": "TVCapFerret · Bassin fire live",
       "type": "Local media",
       "url": "https://tvcapferret.com/vigilance-orange-feux-foret-gironde-lege-cap-ferret/",
-      "checkedAt": "2026-07-26T22:04:18.828Z",
+      "checkedAt": "2026-07-26T23:01:22.065Z",
       "status": "ok"
     },
     {
       "name": "Bordeaux Airport",
       "type": "Official transport",
       "url": "https://www.bordeaux.aeroport.fr/vols-destinations/arrivees-departs-du-jour",
-      "checkedAt": "2026-07-26T22:04:19.987Z",
+      "checkedAt": "2026-07-26T23:01:23.089Z",
       "status": "ok"
     },
     {
       "name": "Public social networks",
       "type": "Signal",
       "url": "https://bsky.app/search?q=incendie%20Cap%20Ferret",
-      "checkedAt": "2026-07-26T22:04:34.552Z",
+      "checkedAt": "2026-07-26T23:01:28.639Z",
       "status": "ok"
     }
   ],
@@ -2826,11 +2825,11 @@
         "url": "https://www.lemonde.fr/planete/rss_full.xml",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:20.148Z",
-        "latencyMs": 156,
+        "checkedAt": "2026-07-26T23:01:24.341Z",
+        "latencyMs": 231,
         "itemCount": 7,
         "error": null,
-        "lastGoodAt": "2026-07-26T22:04:20.148Z",
+        "lastGoodAt": "2026-07-26T23:01:24.341Z",
         "lastFailureAt": null
       },
       {
@@ -2840,11 +2839,11 @@
         "url": "https://news.google.com/rss/search?q=%28incendie+OR+feu+OR+%C3%A9vacuation%29+%28Gironde+OR+Landes+OR+Bordeaux+OR+L%C3%A8ge-Cap-Ferret+OR+Saumos+OR+Le+Porge+OR+Cestas+OR+Marcheprime+OR+A63+OR+Biscarrosse%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:20.149Z",
+        "checkedAt": "2026-07-26T23:01:24.342Z",
         "latencyMs": 538,
         "itemCount": 97,
         "error": null,
-        "lastGoodAt": "2026-07-26T22:04:20.149Z",
+        "lastGoodAt": "2026-07-26T23:01:24.342Z",
         "lastFailureAt": null
       },
       {
@@ -2854,11 +2853,11 @@
         "url": "https://news.google.com/rss/search?q=%28r%C3%A9ouverture+OR+retour+OR+acc%C3%A8s%29+%28Cap+Ferret+OR+L%C3%A8ge%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:20.150Z",
-        "latencyMs": 420,
+        "checkedAt": "2026-07-26T23:01:24.342Z",
+        "latencyMs": 552,
         "itemCount": 97,
         "error": null,
-        "lastGoodAt": "2026-07-26T22:04:20.150Z",
+        "lastGoodAt": "2026-07-26T23:01:24.342Z",
         "lastFailureAt": null
       },
       {
@@ -2868,11 +2867,11 @@
         "url": "https://news.google.com/rss/search?q=site%3Asudouest.fr+%28incendie+OR+feu+OR+%C3%A9vacuation%29+%28Gironde+OR+Saumos+OR+L%C3%A8ge-Cap-Ferret+OR+Bordeaux%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:20.150Z",
-        "latencyMs": 550,
+        "checkedAt": "2026-07-26T23:01:24.342Z",
+        "latencyMs": 612,
         "itemCount": 98,
         "error": null,
-        "lastGoodAt": "2026-07-26T22:04:20.150Z",
+        "lastGoodAt": "2026-07-26T23:01:24.342Z",
         "lastFailureAt": null
       },
       {
@@ -2882,11 +2881,11 @@
         "url": "https://news.google.com/rss/search?q=%28incendie+OR+fum%C3%A9es+OR+PM10%29+%28Bordeaux+OR+Gironde+OR+Arcachon%29+%28a%C3%A9roport+OR+cars+OR+transport+OR+qualit%C3%A9+de+l%27air%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:20.151Z",
-        "latencyMs": 492,
+        "checkedAt": "2026-07-26T23:01:24.343Z",
+        "latencyMs": 452,
         "itemCount": 53,
         "error": null,
-        "lastGoodAt": "2026-07-26T22:04:20.151Z",
+        "lastGoodAt": "2026-07-26T23:01:24.343Z",
         "lastFailureAt": null
       },
       {
@@ -2896,11 +2895,11 @@
         "url": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:20.701Z",
-        "latencyMs": 186,
+        "checkedAt": "2026-07-26T23:01:24.954Z",
+        "latencyMs": 296,
         "itemCount": 3,
         "error": null,
-        "lastGoodAt": "2026-07-26T22:04:20.701Z",
+        "lastGoodAt": "2026-07-26T23:01:24.954Z",
         "lastFailureAt": null
       },
       {
@@ -2910,12 +2909,12 @@
         "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-des-evacuations-par-bateau-en-gironde-la-situation-nest-pas-sous-controle-dans-les-landes-20260724_CUWC25TVWRFZ7JZIHU2QBJ66PI/",
         "critical": false,
         "status": "failed",
-        "checkedAt": "2026-07-26T22:04:20.702Z",
-        "latencyMs": 185,
+        "checkedAt": "2026-07-26T23:01:24.955Z",
+        "latencyMs": 236,
         "itemCount": null,
         "error": "403 ",
         "lastGoodAt": null,
-        "lastFailureAt": "2026-07-26T22:04:20.702Z"
+        "lastFailureAt": "2026-07-26T23:01:24.955Z"
       },
       {
         "id": "reference-cab7e13fe8",
@@ -2924,14 +2923,14 @@
         "url": "https://www.ville-lege-capferret.fr/top_slider/information-incendie-saumos/",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:18.794Z",
-        "latencyMs": 180,
+        "checkedAt": "2026-07-26T23:01:22.030Z",
+        "latencyMs": 244,
         "itemCount": 1614,
         "error": null,
         "contentHash": "ff3d7773465072ced758",
         "contentChanged": false,
         "changedAt": "2026-07-26T16:57:00.706Z",
-        "lastGoodAt": "2026-07-26T22:04:18.794Z",
+        "lastGoodAt": "2026-07-26T23:01:22.030Z",
         "lastFailureAt": null
       },
       {
@@ -2941,14 +2940,14 @@
         "url": "https://www.gironde.gouv.fr/",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:18.824Z",
-        "latencyMs": 995,
+        "checkedAt": "2026-07-26T23:01:22.061Z",
+        "latencyMs": 789,
         "itemCount": 725,
         "error": null,
         "contentHash": "34733ae04fc2a0da9b2e",
         "contentChanged": false,
         "changedAt": "2026-07-26T21:59:53.641Z",
-        "lastGoodAt": "2026-07-26T22:04:18.824Z",
+        "lastGoodAt": "2026-07-26T23:01:22.061Z",
         "lastFailureAt": null
       },
       {
@@ -2958,14 +2957,14 @@
         "url": "https://ville-marcheprime.fr/actualites/alerte-extreme-evacuation-imminente/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:18.825Z",
-        "latencyMs": 670,
+        "checkedAt": "2026-07-26T23:01:22.062Z",
+        "latencyMs": 748,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-26T22:04:18.825Z",
+        "lastGoodAt": "2026-07-26T23:01:22.062Z",
         "lastFailureAt": null
       },
       {
@@ -2975,14 +2974,14 @@
         "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:18.825Z",
-        "latencyMs": 365,
+        "checkedAt": "2026-07-26T23:01:22.062Z",
+        "latencyMs": 367,
         "itemCount": 752,
         "error": null,
         "contentHash": "4bd5f9139a073fcd7407",
         "contentChanged": false,
         "changedAt": "2026-07-26T10:16:21.033Z",
-        "lastGoodAt": "2026-07-26T22:04:18.825Z",
+        "lastGoodAt": "2026-07-26T23:01:22.062Z",
         "lastFailureAt": null
       },
       {
@@ -2992,14 +2991,14 @@
         "url": "https://www.gironde.fr/actualites/vigilance-rouge-pour-le-risque-feu-de-foret",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:18.825Z",
-        "latencyMs": 420,
+        "checkedAt": "2026-07-26T23:01:22.063Z",
+        "latencyMs": 952,
         "itemCount": 540,
         "error": null,
         "contentHash": "50446ff821abad36b5ce",
         "contentChanged": false,
         "changedAt": "2026-07-25T09:57:01.120Z",
-        "lastGoodAt": "2026-07-26T22:04:18.825Z",
+        "lastGoodAt": "2026-07-26T23:01:22.063Z",
         "lastFailureAt": null
       },
       {
@@ -3009,14 +3008,14 @@
         "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees-collecte-dons",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:18.826Z",
-        "latencyMs": 1011,
+        "checkedAt": "2026-07-26T23:01:22.063Z",
+        "latencyMs": 395,
         "itemCount": 3310,
         "error": null,
         "contentHash": "1729f40d00693e206131",
         "contentChanged": false,
         "changedAt": "2026-07-26T19:26:03.171Z",
-        "lastGoodAt": "2026-07-26T22:04:18.826Z",
+        "lastGoodAt": "2026-07-26T23:01:22.063Z",
         "lastFailureAt": null
       },
       {
@@ -3026,14 +3025,14 @@
         "url": "https://www.bordeaux-metropole.fr/actualites/vigilance-noire-feux-foret-pollution-atmospherique-alertes-renforcees",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:18.826Z",
-        "latencyMs": 354,
+        "checkedAt": "2026-07-26T23:01:22.063Z",
+        "latencyMs": 320,
         "itemCount": 1473,
         "error": null,
         "contentHash": "cb088cadd34e2564abba",
         "contentChanged": false,
         "changedAt": "2026-07-26T15:01:06.793Z",
-        "lastGoodAt": "2026-07-26T22:04:18.826Z",
+        "lastGoodAt": "2026-07-26T23:01:22.063Z",
         "lastFailureAt": null
       },
       {
@@ -3043,14 +3042,14 @@
         "url": "https://www.gironde.fr/deplacements/inforoutes",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:18.826Z",
-        "latencyMs": 255,
+        "checkedAt": "2026-07-26T23:01:22.064Z",
+        "latencyMs": 295,
         "itemCount": 2395,
         "error": null,
         "contentHash": "4a0419d2ab0fe55a76d5",
         "contentChanged": false,
         "changedAt": "2026-07-26T10:16:21.035Z",
-        "lastGoodAt": "2026-07-26T22:04:18.826Z",
+        "lastGoodAt": "2026-07-26T23:01:22.064Z",
         "lastFailureAt": null
       },
       {
@@ -3060,14 +3059,14 @@
         "url": "https://www.premar-atlantique.gouv.fr/communiques-presse/reouverture-partielle-du-bassin-d-arcachon-33-a-la-navigation",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:18.827Z",
-        "latencyMs": 691,
+        "checkedAt": "2026-07-26T23:01:22.064Z",
+        "latencyMs": 665,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-26T22:04:18.827Z",
+        "lastGoodAt": "2026-07-26T23:01:22.064Z",
         "lastFailureAt": null
       },
       {
@@ -3077,14 +3076,14 @@
         "url": "https://transports.nouvelle-aquitaine.fr/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:18.827Z",
-        "latencyMs": 1160,
+        "checkedAt": "2026-07-26T23:01:22.064Z",
+        "latencyMs": 1025,
         "itemCount": 1384,
         "error": null,
         "contentHash": "dc35e97bdf4b83fca8cb",
         "contentChanged": false,
         "changedAt": "2026-07-26T21:59:53.644Z",
-        "lastGoodAt": "2026-07-26T22:04:18.827Z",
+        "lastGoodAt": "2026-07-26T23:01:22.064Z",
         "lastFailureAt": "2026-07-25T10:02:19.224Z"
       },
       {
@@ -3094,14 +3093,14 @@
         "url": "https://feuxdeforet.fr/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:18.827Z",
-        "latencyMs": 270,
+        "checkedAt": "2026-07-26T23:01:22.064Z",
+        "latencyMs": 311,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-26T22:04:18.827Z",
+        "lastGoodAt": "2026-07-26T23:01:22.064Z",
         "lastFailureAt": null
       },
       {
@@ -3111,14 +3110,14 @@
         "url": "https://firms.modaps.eosdis.nasa.gov/map/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:18.828Z",
-        "latencyMs": 813,
+        "checkedAt": "2026-07-26T23:01:22.065Z",
+        "latencyMs": 825,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-26T22:04:18.828Z",
+        "lastGoodAt": "2026-07-26T23:01:22.065Z",
         "lastFailureAt": null
       },
       {
@@ -3128,14 +3127,14 @@
         "url": "https://meteofrance.com/meteo-des-forets",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:18.828Z",
-        "latencyMs": 327,
+        "checkedAt": "2026-07-26T23:01:22.065Z",
+        "latencyMs": 388,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-26T22:04:18.828Z",
+        "lastGoodAt": "2026-07-26T23:01:22.065Z",
         "lastFailureAt": null
       },
       {
@@ -3145,14 +3144,14 @@
         "url": "https://www.atmo-nouvelleaquitaine.org/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:18.828Z",
-        "latencyMs": 633,
+        "checkedAt": "2026-07-26T23:01:22.065Z",
+        "latencyMs": 782,
         "itemCount": 688,
         "error": null,
         "contentHash": "806ed6296f1f82ee4cae",
-        "contentChanged": true,
+        "contentChanged": false,
         "changedAt": "2026-07-26T22:04:18.828Z",
-        "lastGoodAt": "2026-07-26T22:04:18.828Z",
+        "lastGoodAt": "2026-07-26T23:01:22.065Z",
         "lastFailureAt": null
       },
       {
@@ -3162,14 +3161,14 @@
         "url": "https://www.francebleu.fr/gironde",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:18.828Z",
-        "latencyMs": 636,
+        "checkedAt": "2026-07-26T23:01:22.065Z",
+        "latencyMs": 657,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-26T22:04:18.828Z",
+        "lastGoodAt": "2026-07-26T23:01:22.065Z",
         "lastFailureAt": null
       },
       {
@@ -3179,14 +3178,14 @@
         "url": "https://tvcapferret.com/vigilance-orange-feux-foret-gironde-lege-cap-ferret/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:18.828Z",
-        "latencyMs": 356,
-        "itemCount": 4315,
+        "checkedAt": "2026-07-26T23:01:22.065Z",
+        "latencyMs": 440,
+        "itemCount": 4319,
         "error": null,
-        "contentHash": "76975bec21a59cc1aa16",
+        "contentHash": "c7f67ca80bfd232a75e1",
         "contentChanged": true,
-        "changedAt": "2026-07-26T22:04:18.828Z",
-        "lastGoodAt": "2026-07-26T22:04:18.828Z",
+        "changedAt": "2026-07-26T23:01:22.065Z",
+        "lastGoodAt": "2026-07-26T23:01:22.065Z",
         "lastFailureAt": null
       },
       {
@@ -3196,11 +3195,11 @@
         "url": "https://www.bordeaux.aeroport.fr/vols-destinations/arrivees-departs-du-jour",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:19.987Z",
-        "latencyMs": 161,
-        "itemCount": 6,
+        "checkedAt": "2026-07-26T23:01:23.089Z",
+        "latencyMs": 1252,
+        "itemCount": 141,
         "error": null,
-        "lastGoodAt": "2026-07-26T22:04:19.987Z",
+        "lastGoodAt": "2026-07-26T23:01:23.089Z",
         "lastFailureAt": null
       },
       {
@@ -3210,11 +3209,11 @@
         "url": "https://api.bsky.app/xrpc/app.bsky.feed.searchPosts",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:34.552Z",
+        "checkedAt": "2026-07-26T23:01:28.639Z",
         "latencyMs": null,
         "itemCount": 30,
         "error": null,
-        "lastGoodAt": "2026-07-26T22:04:34.552Z",
+        "lastGoodAt": "2026-07-26T23:01:28.639Z",
         "lastFailureAt": null
       },
       {
@@ -3224,12 +3223,12 @@
         "url": "https://www.reddit.com/search.rss",
         "critical": false,
         "status": "failed",
-        "checkedAt": "2026-07-26T22:04:34.552Z",
+        "checkedAt": "2026-07-26T23:01:28.639Z",
         "latencyMs": null,
         "itemCount": null,
         "error": "This operation was aborted",
         "lastGoodAt": "2026-07-26T19:05:06.976Z",
-        "lastFailureAt": "2026-07-26T22:04:34.552Z"
+        "lastFailureAt": "2026-07-26T23:01:28.639Z"
       },
       {
         "id": "mastodon-search",
@@ -3238,11 +3237,11 @@
         "url": "https://mastodon.social/api/v1/timelines/tag/gironde",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:34.552Z",
+        "checkedAt": "2026-07-26T23:01:28.639Z",
         "latencyMs": null,
         "itemCount": 20,
         "error": null,
-        "lastGoodAt": "2026-07-26T22:04:34.552Z",
+        "lastGoodAt": "2026-07-26T23:01:28.639Z",
         "lastFailureAt": "2026-07-25T04:21:46.521Z"
       },
       {
@@ -3252,11 +3251,11 @@
         "url": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:25.946Z",
+        "checkedAt": "2026-07-26T23:01:26.828Z",
         "latencyMs": null,
         "itemCount": 3,
         "error": null,
-        "lastGoodAt": "2026-07-26T22:04:25.946Z",
+        "lastGoodAt": "2026-07-26T23:01:26.828Z",
         "lastFailureAt": "2026-07-26T16:10:00.926Z"
       },
       {
@@ -3266,11 +3265,11 @@
         "url": "https://sig.gironde.fr/arcgis/services/ec_routes_ferm%C3%A9es/MapServer/WFSServer?service=WFS&version=2.0.0&request=GetFeature&typenames=ec_routes_ferm%C3%A9es%3ARoutes_d%C3%A9partementales_ferm%C3%A9es&outputFormat=GEOJSON",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:28.576Z",
+        "checkedAt": "2026-07-26T23:01:27.103Z",
         "latencyMs": null,
         "itemCount": 40,
         "error": null,
-        "lastGoodAt": "2026-07-26T22:04:28.576Z",
+        "lastGoodAt": "2026-07-26T23:01:27.103Z",
         "lastFailureAt": "2026-07-26T19:04:51.545Z"
       },
       {
@@ -3280,11 +3279,11 @@
         "url": "https://firms.modaps.eosdis.nasa.gov/mapserver/wms/fires/31abf073d7735a23db666ff6c75a4991/?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetCapabilities",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T22:04:28.578Z",
-        "latencyMs": 5973,
+        "checkedAt": "2026-07-26T23:01:27.105Z",
+        "latencyMs": 1534,
         "itemCount": 1,
         "error": null,
-        "lastGoodAt": "2026-07-26T22:04:28.578Z",
+        "lastGoodAt": "2026-07-26T23:01:27.105Z",
         "lastFailureAt": "2026-07-26T17:58:08.780Z"
       }
     ],
@@ -3297,7 +3296,7 @@
       "newestUrgentCandidateAt": "2026-07-26T10:41:49.000Z"
     },
     "social": {
-      "checkedAt": "2026-07-26T22:04:34.552Z",
+      "checkedAt": "2026-07-26T23:01:28.639Z",
       "newestCandidateAt": "2026-07-26T20:45:31.000Z",
       "newestDisplayedAt": "2026-07-26T20:10:15.000Z",
       "lagMinutes": 35,
@@ -3316,32 +3315,26 @@
       "reviewSuggested": true,
       "changedSources": [
         {
-          "id": "reference-9243009ff2",
-          "name": "Atmo Nouvelle-Aquitaine",
-          "checkedAt": "2026-07-26T22:04:18.828Z",
-          "changedAt": "2026-07-26T22:04:18.828Z"
-        },
-        {
           "id": "reference-033df89804",
           "name": "TVCapFerret · Bassin fire live",
-          "checkedAt": "2026-07-26T22:04:18.828Z",
-          "changedAt": "2026-07-26T22:04:18.828Z"
+          "checkedAt": "2026-07-26T23:01:22.065Z",
+          "changedAt": "2026-07-26T23:01:22.065Z"
         }
       ]
     },
     "aviation": {
       "status": "ok",
-      "checkedAt": "2026-07-26T22:04:19.987Z",
-      "boardUpdatedAt": "2026-07-27T00:01:00+02:00",
-      "listedFlightCount": 6,
+      "checkedAt": "2026-07-26T23:01:23.089Z",
+      "boardUpdatedAt": "2026-07-27T00:59:00+02:00",
+      "listedFlightCount": 141,
       "operatingSignal": true,
       "arrivals": {
-        "listedFlightCount": 5,
-        "delayedFlightCount": 2,
-        "cancelledFlightCount": 2
+        "listedFlightCount": 70,
+        "delayedFlightCount": 0,
+        "cancelledFlightCount": 0
       },
       "departures": {
-        "listedFlightCount": 1,
+        "listedFlightCount": 71,
         "delayedFlightCount": 0,
         "cancelledFlightCount": 0
       },
@@ -3368,13 +3361,13 @@
         {
           "id": "liberation-live",
           "lastGoodAt": null,
-          "lastFailureAt": "2026-07-26T22:04:20.702Z",
+          "lastFailureAt": "2026-07-26T23:01:24.955Z",
           "error": "403 "
         },
         {
           "id": "reddit-search",
           "lastGoodAt": "2026-07-26T19:05:06.976Z",
-          "lastFailureAt": "2026-07-26T22:04:34.552Z",
+          "lastFailureAt": "2026-07-26T23:01:28.639Z",
           "error": "This operation was aborted"
         }
       ]
@@ -3851,7 +3844,7 @@
     }
   ],
   "traffic": {
-    "checkedAt": "2026-07-26T22:04:28.576Z",
+    "checkedAt": "2026-07-26T23:01:27.103Z",
     "sourceName": "Inforoutes Gironde",
     "sourceUrl": "https://www.gironde.fr/deplacements/inforoutes",
     "officialClosures": {
@@ -9407,65 +9400,65 @@
     "location": "Saumos–Lège fire corridor reference point",
     "latitude": 44.91,
     "longitude": -1.0600004,
-    "observedAt": "2026-07-27T00:00:00+02:00",
-    "modelUpdatedAt": "2026-07-26T22:04:25.946Z",
+    "observedAt": "2026-07-27T01:00:00+02:00",
+    "modelUpdatedAt": "2026-07-26T23:01:26.828Z",
     "sourceName": "Open-Meteo",
     "sourceUrl": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
     "officialFireDangerName": "Météo-France · Météo des forêts",
     "officialFireDangerUrl": "https://meteofrance.com/meteo-des-forets",
     "current": {
-      "temperatureC": 21,
-      "humidityPct": 93,
-      "precipitationMm": 0.4,
-      "windSpeedKmh": 10.4,
-      "windDirectionDeg": 256,
-      "windDirection": "WSW",
-      "windGustKmh": 35.6
+      "temperatureC": 20.5,
+      "humidityPct": 88,
+      "precipitationMm": 0,
+      "windSpeedKmh": 9.2,
+      "windDirectionDeg": 301,
+      "windDirection": "WNW",
+      "windGustKmh": 23
     },
     "forecast24h": {
-      "endsAt": "2026-07-27T22:00:00.000Z",
+      "endsAt": "2026-07-27T23:00:00.000Z",
       "maxTemperatureC": 25,
       "minHumidityPct": 49,
       "maxWindSpeedKmh": 14,
-      "maxWindGustKmh": 35.6,
-      "peakGustAt": "2026-07-27T00:00:00+02:00",
-      "peakGustDirectionDeg": 256,
-      "peakGustDirection": "WSW",
-      "precipitationMm": 0.8,
+      "maxWindGustKmh": 34.6,
+      "peakGustAt": "2026-07-27T17:00:00+02:00",
+      "peakGustDirectionDeg": 316,
+      "peakGustDirection": "NW",
+      "precipitationMm": 0.2,
       "maxPrecipitationProbabilityPct": 38,
       "checkpoints": [
         {
-          "time": "2026-07-27T06:00:00+02:00",
-          "temperatureC": 18.8,
-          "humidityPct": 88,
+          "time": "2026-07-27T07:00:00+02:00",
+          "temperatureC": 18.7,
+          "humidityPct": 85,
           "precipitationProbabilityPct": 0,
           "precipitationMm": 0,
-          "windSpeedKmh": 3,
-          "windDirectionDeg": 284,
-          "windDirection": "WNW",
-          "windGustKmh": 12.2
+          "windSpeedKmh": 5.2,
+          "windDirectionDeg": 326,
+          "windDirection": "NW",
+          "windGustKmh": 12.6
         },
         {
-          "time": "2026-07-27T12:00:00+02:00",
-          "temperatureC": 23.2,
+          "time": "2026-07-27T13:00:00+02:00",
+          "temperatureC": 23.8,
           "humidityPct": 52,
           "precipitationProbabilityPct": 0,
           "precipitationMm": 0,
-          "windSpeedKmh": 10.2,
-          "windDirectionDeg": 315,
+          "windSpeedKmh": 10.5,
+          "windDirectionDeg": 322,
           "windDirection": "NW",
           "windGustKmh": 27.7
         },
         {
-          "time": "2026-07-28T00:00:00+02:00",
-          "temperatureC": 18.4,
-          "humidityPct": 80,
+          "time": "2026-07-28T01:00:00+02:00",
+          "temperatureC": 18,
+          "humidityPct": 81,
           "precipitationProbabilityPct": 0,
           "precipitationMm": 0,
-          "windSpeedKmh": 4,
-          "windDirectionDeg": 360,
-          "windDirection": "N",
-          "windGustKmh": 10.1
+          "windSpeedKmh": 5.8,
+          "windDirectionDeg": 30,
+          "windDirection": "NNE",
+          "windGustKmh": 11.5
         }
       ]
     }
@@ -10877,8 +10870,8 @@
     },
     "flipCondition": "Fire mastery/control, evacuation lift, public access by road or authorised transport, and basic local commerce must move from blocked/unknown to confirmed.",
     "scanSummary": {
-      "text": "Scanned 30 sources at 00:04; visible changes are published only when a gate, verdict or material fact changes.",
-      "scannedAt": "2026-07-26T22:04:34.552Z",
+      "text": "Scanned 30 sources at 01:01; visible changes are published only when a gate, verdict or material fact changes.",
+      "scannedAt": "2026-07-26T23:01:28.639Z",
       "sourcesChecked": 30,
       "sourcesHealthy": 28
     },
@@ -10911,7 +10904,7 @@
         "detail": "No. Outbound traffic is being organised and inbound access remains restricted.",
         "sourceName": "Gironde Inforoutes",
         "sourceUrl": "https://www.gironde.fr/deplacements/inforoutes",
-        "asOf": "2026-07-26T22:04:28.576Z"
+        "asOf": "2026-07-26T23:01:27.103Z"
       },
       {
         "id": "public-allowed-to-enter-the-peninsula",
