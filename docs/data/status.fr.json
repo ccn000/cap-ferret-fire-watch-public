@@ -18,6 +18,7 @@
       "Le travail défensif local continue : des pare-feu autour de Claouey, Lège et La Pignada ont été réalisés ou renforcés, tandis que les patrouilles et les vérifications d’habitations/animaux se poursuivent.",
       "Lège accueille 700 à 800 sapeurs-pompiers comme point logistique pour les secours.",
       "La base officielle générale reste sévère : la préfecture de la Gironde fait état de 42 000 hectares brûlés et d’environ 220 000 évacuations préventives dans 23 communes.",
+      "L’accès régional compte désormais directement : Cestas est sous ordre d’évacuation de toute la commune, les fermetures de l’A63 et des routes départementales restent matérielles, et les perturbations ferroviaires au sud de Bordeaux affectent l’approche générale du Bassin.",
       "Les fermetures de l’A63 et des routes départementales confirment que l’accès routier et les transports restent perturbés au-delà de la presqu’île évacuée.",
       "La décision pour le Cap Ferret reste négative : presqu’île évacuée, accès public entrant indisponible et aucune réouverture touristique normale annoncée."
     ]
@@ -41,6 +42,11 @@
     }
   },
   "materialUpdates": {
+    "material-2026-07-26-1900-regional-access": {
+      "title": "La situation régionale d’accès reste matériellement perturbée autour de Bordeaux, de la Gironde et des Landes",
+      "detail": "Le point essentiel du Monde à 19 h indique que les personnes évacuées en Gironde ne pourront pas revenir tant que le feu ne sera pas fixé et qu’il n’y aura pas de travail lundi dans les zones de collectivités évacuées. Il indique aussi que le feu se situe à environ 15 km de la métropole bordelaise, au niveau de Martignas-sur-Jalle, sans évacuation de Bordeaux prévue à ce stade. Dans le corridor d’accès, la mairie de Cestas confirme un ordre d’évacuation de toute la commune et l’A63 reste affectée ; le trafic ferroviaire au sud de Bordeaux est également signalé comme interrompu.",
+      "incrementalNews": "Cela élargit la lecture matérielle au-delà de la presqu’île elle-même : même si le statut local du Cap Ferret ne change pas, les routes, trains, consignes de travail et évacuations régionales déterminent directement si un trajet vers la presqu’île serait réaliste et durable. La conclusion pratique ne change pas : ne prévoyez pas encore d’aller au Cap Ferret."
+    },
     "material-2026-07-25-1638": {
       "title": "Les informations actuelles ajoutent des évacuations élargies, des moyens militaires et de graves dégâts matériels",
       "detail": "Après l’élément du Monde à 14 h 54 sur les scénarios d’évacuation, les informations actuelles ajoutent trois faits matériels : les dépêches AP/Reuters portent les évacuations en Gironde et dans les Landes à environ 197 000 ; le direct du Guardian indique que 1 500 soldats français appuient la lutte contre le feu et les évacuations ; et Le Monde ainsi que France 3 signalent de graves dégâts matériels, avec environ 100 maisons détruites et France 3 citant le maire du Porge sur 109 maisons complètement détruites dans sa commune.",
@@ -523,7 +529,19 @@
     "9e17c458a39a": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
     "2789d841eb9f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "d5fc2f5bba4d": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
-    "dd4edbaebf3f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
+    "dd4edbaebf3f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "5e5e9bc1acc6": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "01252e57fe21": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "4a44fab680d5": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "1cdbf48a36cf": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "7fd8b2289578": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "c4c8a62a14f9": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "c2d67286b38a": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "85d83dfb45f1": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "04f1da96230f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "3adeac4a7695": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "4a186ef7b848": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "24a3e28fe16b": "Thème du titre : moyens de lutte contre l’incendie et réponse opérationnelle."
   },
   "access": {
     "Road access to the peninsula": {
@@ -614,12 +632,12 @@
   "aviation": {
     "overall": {
       "status": "Vols exploités · fortes perturbations des arrivées",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 21:05 CEST ; avis préfectoraux d’évacuation"
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 21:23 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
         "status": "Risque élevé · vols exploités mais fortement perturbés",
-        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 19 arrivées retardées et 2 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
+        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 18 arrivées retardées et 2 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
       },
       "groundAccess": {
         "status": "Perturbé · zone hôtelière évacuée et arrêts de tram non desservis",
@@ -1504,7 +1522,19 @@
     "9e17c458a39a": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
     "2789d841eb9f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "d5fc2f5bba4d": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
-    "dd4edbaebf3f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
+    "dd4edbaebf3f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "5e5e9bc1acc6": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "01252e57fe21": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "4a44fab680d5": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "1cdbf48a36cf": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "7fd8b2289578": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "c4c8a62a14f9": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "c2d67286b38a": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "85d83dfb45f1": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "04f1da96230f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "3adeac4a7695": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "4a186ef7b848": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "24a3e28fe16b": "Thème du titre : moyens de lutte contre l’incendie et réponse opérationnelle."
   },
   "generatedAt": "2026-07-26T13:53:45.859Z",
   "officialCheckpoints": {
