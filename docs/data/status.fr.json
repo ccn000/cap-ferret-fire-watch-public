@@ -579,7 +579,11 @@
     "ef3c934c4459": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
     "3c0945e43ec3": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
     "09396692a15d": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
-    "7b4b5b092cc5": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression."
+    "7b4b5b092cc5": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "404c5c8a876f": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "584e73bb5902": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "58d1a1dca40a": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "9b7530bdad90": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes."
   },
   "access": {
     "Road access to the peninsula": {
@@ -669,13 +673,13 @@
   },
   "aviation": {
     "overall": {
-      "status": "Vols exploités · retards/annulations des arrivées",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 22:57 CEST ; avis préfectoraux d’évacuation"
+      "status": "Vols exploités · fortes perturbations des arrivées",
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 00:01 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
         "status": "Risque élevé · vols exploités mais fortement perturbés",
-        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 6 arrivées retardées et 2 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
+        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 2 arrivées retardées et 2 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
       },
       "groundAccess": {
         "status": "Perturbé · zone hôtelière évacuée et arrêts de tram non desservis",
@@ -1271,7 +1275,7 @@
     },
     "https://bsky.app/profile/did:plc:5ekaaudi6pc22b4axp54hqre/post/3mrkpqdfkmq23": {
       "title": "Incendie en Gironde : Les joueurs des Girondins de Bordeaux évacués, le site du Haillan fermé, la suite de la…",
-      "summary": "Il pointe des conséquences possibles pour l’aéroport, les transports ou la périphérie bordelaise à vérifier avec les tableaux officiels et les alertes préfectorales. Texte du message : Incendie en Gironde : Les joueurs des Girondins de Bordeaux évacués, le site du Haillan fermé, la suite de la préparation à l’étude Dans un é",
+      "summary": "Il pointe des conséquences possibles pour l’aéroport, les transports ou la périphérie bordelaise à vérifier avec les tableaux officiels et les alertes préfectorales. Texte du message : Incendie en Gironde : Les joueurs des Girondins de Bordeaux évacués, le site du Haillan fermé, la suite de la préparation à l’étude",
       "interesting": "Les implications pour l’aéroport et l’accès routier sont critiques pour décider, mais les réseaux sociaux restent un signal d’alerte à vérifier.",
       "credibility": "Message Bluesky public · faible",
       "incremental": "signal aéroport/accès"
@@ -1292,7 +1296,7 @@
     },
     "https://gayfr.social/@optimistique33/116987115794587697": {
       "title": "Attention il y a des salopards qui montent de fausses cagnottes ! Le seul vrai site de la spa de Mérignac pour…",
-      "summary": "Il pointe des conséquences possibles pour l’aéroport, les transports ou la périphérie bordelaise à vérifier avec les tableaux officiels et les alertes préfectorales. Texte du message : Attention il y a des salopards qui montent de fausses cagnottes ! Le seul vrai site de la spa de Mérignac pour faire un don c'est https:// spa33.fr/ Actuellement les animaux du refuges sont évacués. #spa #Gironde #incendies",
+      "summary": "Il pointe des conséquences possibles pour l’aéroport, les transports ou la périphérie bordelaise à vérifier avec les tableaux officiels et les alertes préfectorales. Texte du message : Attention il y a des salopards qui montent de fausses cagnottes ! Le seul vrai site de la spa de Mérignac pour faire un don c'est",
       "interesting": "Les implications pour l’aéroport et l’accès routier sont critiques pour décider, mais les réseaux sociaux restent un signal d’alerte à vérifier.",
       "credibility": "Message Mastodon public · faible",
       "incremental": "signal aéroport/accès"
@@ -1354,11 +1358,11 @@
       "incremental": "signal progression"
     },
     "https://gayfr.social/@optimistique33/116988091798900770": {
-      "title": "Les nouvelles ne sont pas bonnes ce soir. La nuit risque d'être difficile.",
-      "summary": "Il apporte une couleur publique actuelle: des observateurs locaux s’attendent à une nuit difficile, tout en renvoyant à un article de presse plutôt qu’à une consigne de sécurité.",
-      "interesting": "Signal d’ambiance utile mais de faible confiance sur la situation de dimanche soir; il ne modifie pas la consigne officielle de ne pas se déplacer.",
+      "title": "Les nouvelles ne sont pas bonnes ce soir. La nuit risque d'être difficile. #incendie #gironde…",
+      "summary": "Il apporte un détail contextuel issu des réseaux sociaux publics, sans modifier à lui seul la situation vérifiée. Texte du message : Les nouvelles ne sont pas bonnes ce soir. La nuit risque d'être difficile. #incendie #gironde…",
+      "interesting": "C’est utile comme contexte ou alerte précoce, mais pas comme source décisionnelle seule.",
       "credibility": "Message Mastodon public · faible",
-      "incremental": "ambiance locale"
+      "incremental": "contexte local"
     }
   },
   "mapStatuses": {
@@ -1617,7 +1621,11 @@
     "ef3c934c4459": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
     "3c0945e43ec3": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
     "09396692a15d": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
-    "7b4b5b092cc5": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression."
+    "7b4b5b092cc5": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "404c5c8a876f": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "584e73bb5902": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "58d1a1dca40a": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "9b7530bdad90": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes."
   },
   "generatedAt": "2026-07-26T13:53:45.859Z",
   "officialCheckpoints": {
@@ -1699,7 +1707,7 @@
     },
     "flipCondition": "La maîtrise du feu, la levée de l’évacuation, l’accès public par route ou transport autorisé et les commerces essentiels doivent passer de bloqués/incertains à confirmés.",
     "scanSummary": {
-      "text": "30 sources vérifiées à 23:00 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
+      "text": "30 sources vérifiées à 00:04 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
     },
     "checklist": {
       "fire-contained-or-controlled": {
