@@ -474,7 +474,15 @@
     "3d2b8d1db3f1": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
     "583f17193f62": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
     "ee232ebc6390": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
-    "83713364fc38": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
+    "83713364fc38": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "beb26b16e6d5": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "8040a8d0193d": "Thème du titre : implications pour l’aéroport, les transports ou l’accès autour de Bordeaux.",
+    "6bd972a9db8e": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "0b23fa9913aa": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "576d835948cf": "Thème du titre : implications pour l’aéroport, les transports ou l’accès autour de Bordeaux.",
+    "1dd361166389": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "64f07d669b97": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "90c1e49d0dab": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants."
   },
   "access": {
     "Road access to the peninsula": {
@@ -1121,6 +1129,20 @@
       "interesting": "Ce type de détail opérationnel peut apparaître sur les réseaux sociaux avant la presse, mais les chiffres et moyens engagés doivent rester vérifiés officiellement.",
       "credibility": "Message Mastodon public · faible",
       "incremental": "signal moyens engagés"
+    },
+    "https://gayfr.social/@optimistique33/116986841513865331": {
+      "title": "Mais putain !!! #incendie #Gironde",
+      "summary": "Il apporte un détail contextuel issu des réseaux sociaux publics, sans modifier à lui seul la situation vérifiée. Texte du message : Mais putain !!! #incendie #Gironde",
+      "interesting": "C’est utile comme contexte ou alerte précoce, mais pas comme source décisionnelle seule.",
+      "credibility": "Message Mastodon public · faible",
+      "incremental": "contexte local"
+    },
+    "https://bsky.app/profile/did:plc:sq57dfqutfzro5vzvaaic3uh/post/3mrjvl6rywi2l": {
+      "title": "Les incendies qui ravagent la Gironde et les Landes continuent de progresser. Retrouvez dans ce direct les…",
+      "summary": "Il donne un aperçu de terrain sur l’évacuation, la circulation ou l’accès qui peut précéder les synthèses officielles. Texte du message : Les incendies qui ravagent la Gironde et les Landes continuent de progresser. Retrouvez dans ce direct les dernières informations sur l'évolution des incendies, les évacuations, le",
+      "interesting": "Le contexte de terrain est utile, mais les fermetures officielles et FR-Alert restent prioritaires.",
+      "credibility": "Message Bluesky public · faible",
+      "incremental": "signal évacuation/accès"
     }
   },
   "mapStatuses": {
@@ -1285,7 +1307,77 @@
     "3d2b8d1db3f1": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
     "583f17193f62": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
     "ee232ebc6390": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
-    "83713364fc38": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
+    "83713364fc38": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "beb26b16e6d5": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "8040a8d0193d": "Thème du titre : implications pour l’aéroport, les transports ou l’accès autour de Bordeaux.",
+    "6bd972a9db8e": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "0b23fa9913aa": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "576d835948cf": "Thème du titre : implications pour l’aéroport, les transports ou l’accès autour de Bordeaux.",
+    "1dd361166389": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "64f07d669b97": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "90c1e49d0dab": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants."
   },
-  "generatedAt": "2026-07-26T13:53:45.859Z"
+  "generatedAt": "2026-07-26T13:53:45.859Z",
+  "officialCheckpoints": {
+    "checkpoint-2026-07-26-tvcap-nasa-1446": {
+      "status": "Détections thermiques mises à jour",
+      "title": "Détections thermiques NASA · 24 h",
+      "detail": "TVCapFerret ajoute une vue à 14 h 46 des détections NASA FIRMS sur les dernières 24 heures : elle signale une activité thermique récente sur un large périmètre, mais pas un front de feu en temps réel.",
+      "authorityLevel": "Signal cartographique opérationnel"
+    },
+    "checkpoint-2026-07-26-lege-1452": {
+      "status": "Point officiel local vu",
+      "title": "Point officiel de Lège-Cap-Ferret",
+      "detail": "Le point municipal indique quelques reprises de feu autour de Lège Bourg et Claouey sous surveillance, un élargissement du pare-feu de Claouey Sud presque terminé, et pas d’évolution du feu sur le reste de la presqu’île pour le moment.",
+      "authorityLevel": "Commune"
+    },
+    "checkpoint-2026-07-26-prefecture-1300": {
+      "status": "Point officiel de situation",
+      "title": "Point préfecture · 13 h",
+      "detail": "Le point préfectoral de 13 h fixe le socle officiel : 42 000 hectares brûlés, près de 220 000 personnes évacuées dans 23 communes, 240 habitations détruites, 75 pompiers pris en charge et des axes majeurs dont l’A63 encore affectés.",
+      "authorityLevel": "Préfecture"
+    },
+    "checkpoint-2026-07-26-ares-1030": {
+      "status": "Point du maire vu",
+      "title": "Point du maire d’Arès · 10 h 30",
+      "detail": "TVCapFerret relaie le point de 10 h 30 du maire d’Arès comme jalon opérationnel local pour la situation autour de la zone évacuée du nord Bassin.",
+      "authorityLevel": "Commune"
+    },
+    "checkpoint-2026-07-26-le-porge-0800": {
+      "status": "Point local dégâts/accès",
+      "title": "Point du Porge et carte d’impact · 08 h",
+      "detail": "Le point du Porge indique une nuit relativement calme localement, des équipes mobilisées toute la nuit, 152 habitations sinistrées listées par la mairie et un village qui reste fermé.",
+      "authorityLevel": "Commune"
+    },
+    "checkpoint-2026-07-26-trains": {
+      "status": "Interruption ferroviaire listée",
+      "title": "Trains interrompus",
+      "detail": "La circulation ferroviaire est indiquée comme interrompue entre Bordeaux et Arcachon ainsi qu’entre Bordeaux et Morcenx, avec des suppressions prévues pendant la journée du 26 juillet.",
+      "authorityLevel": "Opérateur de transport"
+    },
+    "checkpoint-2026-07-26-nasa-0653": {
+      "status": "Comparaison de carte thermique",
+      "title": "Carte thermique NASA · 06 h 53",
+      "detail": "La comparaison thermique du matin montrait des détections plus récentes vers le sud-est, avec une presqu’île toujours sous surveillance car les anciennes détections et les changements de vent peuvent rester pertinents.",
+      "authorityLevel": "Signal cartographique opérationnel"
+    },
+    "checkpoint-2026-07-26-routes-map": {
+      "status": "Carte des routes fermées référencée",
+      "title": "Routes fermées · carte",
+      "detail": "Le fil TVCapFerret renvoie vers la carte des fermetures routières, à vérifier avec Gironde Inforoutes avant de déduire qu’une route est ouverte.",
+      "authorityLevel": "Autorité routière"
+    },
+    "checkpoint-2026-07-26-centres-0400": {
+      "status": "Point centres d’accueil",
+      "title": "Centres d’accueil · 04 h",
+      "detail": "Un point de 04 h recense les capacités d’accueil et confirme l’ampleur des évacuations préventives hors de la zone de feu.",
+      "authorityLevel": "Sécurité publique"
+    },
+    "checkpoint-2026-07-26-prefecture-0200": {
+      "status": "Point officiel de nuit",
+      "title": "Point préfecture · 02 h",
+      "detail": "Le point préfectoral de nuit est conservé comme premier jalon officiel du 26 juillet, utile pour repérer ensuite les changements de bilans, d’accès et de consignes.",
+      "authorityLevel": "Préfecture"
+    }
+  }
 }
