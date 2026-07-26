@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-26T15:11:15.130Z",
+  "generatedAt": "2026-07-26T15:43:54.449Z",
   "sectionUpdates": {
     "assessment": "2026-07-26T14:52:00+02:00",
-    "map": "2026-07-26T15:11:15.130Z",
+    "map": "2026-07-26T15:43:54.449Z",
     "material": "2026-07-26T14:52:00+02:00",
     "access": "2026-07-26T13:00:00+02:00",
     "localCommerce": "2026-07-24T06:40:00+02:00",
@@ -10,11 +10,10 @@
     "ferries": "2026-07-24T18:26:50+02:00",
     "aviation": "2026-07-26T13:49:00+02:00",
     "reopening": "2026-07-26T14:52:00+02:00",
-    "articles": "2026-07-26T14:38:58.000Z",
-    "social": "2026-07-26T15:09:33.000Z",
-    "sources": "2026-07-26T15:11:15.130Z",
-    "weather": "2026-07-26T15:10:55.135Z",
-    "reopeningForecast": "2026-07-26T10:16:34.855Z",
+    "articles": "2026-07-26T15:37:28.000Z",
+    "social": "2026-07-26T15:40:22.000Z",
+    "sources": "2026-07-26T15:43:54.449Z",
+    "weather": "2026-07-26T15:43:31.202Z",
     "officialCheckpoints": "2026-07-26T14:52:00+02:00"
   },
   "incident": {
@@ -702,6 +701,82 @@
     }
   ],
   "updates": [
+    {
+      "id": "ddae747b5f0f",
+      "time": "17:37",
+      "title": "Ardèche : vigilance jaune pollution liée aux fumées des incendies de Gironde - INFO.FR",
+      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
+      "language": "fr",
+      "titleTheme": "Headline theme: smoke and air-quality effects from the Gironde/Landes fires.",
+      "candidateText": "Ardèche : vigilance jaune pollution liée aux fumées des incendies de Gironde - INFO.FR <a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUVNrRW5EYks1NGZpejNyZTZrVGlLb2xpMGFzaHpiYy1COTNRNlFmbmZVYlVRUFoybzUyNlA5OF9FbGVZWEpndXpwOTVFRTVYX2FVYjJ3Y2ZRZXRURGVaNFhpS1duUWthbC15TXFRN3hoWmxFX21neTM3dGVRcG9VVVJTMTBGR1FpMFpV?oc=5\" target=\"_blank\">Ardèche : vigilance jaune pollution liée aux fumées des incendies de Gironde</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">INFO.FR</font>",
+      "sourceId": "google-news-transport-air",
+      "source": "Google News · transport and smoke",
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUVNrRW5EYks1NGZpejNyZTZrVGlLb2xpMGFzaHpiYy1COTNRNlFmbmZVYlVRUFoybzUyNlA5OF9FbGVZWEpndXpwOTVFRTVYX2FVYjJ3Y2ZRZXRURGVaNFhpS1duUWthbC15TXFRN3hoWmxFX21neTM3dGVRcG9VVVJTMTBGR1FpMFpV?oc=5",
+      "importance": 2,
+      "publishedAt": "2026-07-26T15:37:28.000Z",
+      "classification": {
+        "score": 3,
+        "priority": "context",
+        "reasons": [
+          "air-quality"
+        ],
+        "authorityAttributed": false,
+        "changeLanguage": false,
+        "numbers": []
+      },
+      "liveIndex": false
+    },
+    {
+      "id": "3118504dc72a",
+      "time": "17:29",
+      "title": "Incendies en Gironde. « C’est un bouleversement de les voir partir » : la SPA évacue ses pensionnaires face au danger - Sud Ouest",
+      "detail": "Adds evacuation reporting but no independently confirmed material fact beyond the existing peninsula-wide order.",
+      "language": "fr",
+      "titleTheme": "Headline theme: evacuation orders, evacuation scale or resident movement.",
+      "candidateText": "Incendies en Gironde. « C’est un bouleversement de les voir partir » : la SPA évacue ses pensionnaires face au danger - Sud Ouest <a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxNVEg2ZlluZVVGeDhoR015cWZPd2NmNGg5dDhoTUlPZG9Lc09Xc3dZM0tOMTlVbU41NjZjZ2NnVGJ3cEo0aXRRNjlHMzVDb0xSeFBrUTNJMHB1MFFydVI1WFcwR0pOU2NpRUtLbTFxRWp4SEdIQmkweW5Ud0Qxbm5VZnRzb25iaWVDd19nRmdud3ZoNkNnRFZnMnBRd2RXdEVmeEhiaWpzYWdscjQ4YjV5MC1Ha0pVTEpJX2hFYms4RDNhdjJyamxsM0VnTWxSLVVkTjlyWVZiZkpXa292SHdJOTE5RklablVmYndfd2hCemVlZmU4T1c0MXVkMzg2SThrTThUWkFHaThvek9CVDhPUFJCNE1BeVBBY2Uw?oc=5\" target=\"_blank\">Incendies en Gironde. « C’est un bouleversement de les voir partir » : la SPA évacue ses pensionnaires face au danger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sud Ouest</font>",
+      "sourceId": "google-news-sudouest-local",
+      "source": "Google News · Sud Ouest local",
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVEg2ZlluZVVGeDhoR015cWZPd2NmNGg5dDhoTUlPZG9Lc09Xc3dZM0tOMTlVbU41NjZjZ2NnVGJ3cEo0aXRRNjlHMzVDb0xSeFBrUTNJMHB1MFFydVI1WFcwR0pOU2NpRUtLbTFxRWp4SEdIQmkweW5Ud0Qxbm5VZnRzb25iaWVDd19nRmdud3ZoNkNnRFZnMnBRd2RXdEVmeEhiaWpzYWdscjQ4YjV5MC1Ha0pVTEpJX2hFYms4RDNhdjJyamxsM0VnTWxSLVVkTjlyWVZiZkpXa292SHdJOTE5RklablVmYndfd2hCemVlZmU4T1c0MXVkMzg2SThrTThUWkFHaThvek9CVDhPUFJCNE1BeVBBY2Uw?oc=5",
+      "importance": 2,
+      "publishedAt": "2026-07-26T15:29:52.000Z",
+      "classification": {
+        "score": 5,
+        "priority": "context",
+        "reasons": [
+          "evacuation"
+        ],
+        "authorityAttributed": false,
+        "changeLanguage": false,
+        "numbers": []
+      },
+      "liveIndex": false
+    },
+    {
+      "id": "d58699f2e178",
+      "time": "17:06",
+      "title": "Incendie en Gironde. « Heureusement qu’on nous avait donné des masques » : des résidents d’Ehpad réfugiés dans un lycée créonnais - Sud Ouest",
+      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
+      "language": "fr",
+      "titleTheme": "Headline theme: continuing coverage of the Gironde wildfire and its local consequences.",
+      "candidateText": "Incendie en Gironde. « Heureusement qu’on nous avait donné des masques » : des résidents d’Ehpad réfugiés dans un lycée créonnais - Sud Ouest <a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS3I4Mlo2amxwQ1h1dkRHZDU2bVFZbzI0dmJ1R0c5aG1lWjViLUxJNWl4dDJ0QVZheDVrUXMzb3BmdkFYWXRPTUs0SF9jNi1wN01xWjFFNXBqUHNzeWFvY1h2bzlwOFVBcl95Ri0yaDRfdnRTR2NyN2hOaXBhUU5EWEpzaUFoSDk3UU40X2tybXNBQUVLc01TNGV4VEpHWFpJT0VmY1dId2JjMVZjRDVDZlFhMW5Da2lqODNBUmkyQUU5TXQtS2JpVFM1blllMEtvT2U0cFVvd1dDLUcwZjA3VA?oc=5\" target=\"_blank\">Incendie en Gironde. « Heureusement qu’on nous avait donné des masques » : des résidents d’Ehpad réfugiés dans un lycée créonnais</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sud Ouest</font>",
+      "sourceId": "google-news-sudouest-local",
+      "source": "Google News · Sud Ouest local",
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS3I4Mlo2amxwQ1h1dkRHZDU2bVFZbzI0dmJ1R0c5aG1lWjViLUxJNWl4dDJ0QVZheDVrUXMzb3BmdkFYWXRPTUs0SF9jNi1wN01xWjFFNXBqUHNzeWFvY1h2bzlwOFVBcl95Ri0yaDRfdnRTR2NyN2hOaXBhUU5EWEpzaUFoSDk3UU40X2tybXNBQUVLc01TNGV4VEpHWFpJT0VmY1dId2JjMVZjRDVDZlFhMW5Da2lqODNBUmkyQUU5TXQtS2JpVFM1blllMEtvT2U0cFVvd1dDLUcwZjA3VA?oc=5",
+      "importance": 2,
+      "publishedAt": "2026-07-26T15:06:00.000Z",
+      "classification": {
+        "score": 0,
+        "priority": "context",
+        "reasons": [],
+        "authorityAttributed": false,
+        "changeLanguage": false,
+        "numbers": []
+      },
+      "liveIndex": false
+    },
     {
       "id": "beb26b16e6d5",
       "time": "16:38",
@@ -1589,87 +1664,6 @@
       "liveIndex": false
     },
     {
-      "id": "96caf48447b9",
-      "time": "11:58",
-      "title": "Incendie en Gironde : pourquoi la préfète limite les vitesses autorisées sur l'ensemble du département - Actu.fr",
-      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
-      "language": "fr",
-      "titleTheme": "Headline theme: continuing coverage of the Gironde wildfire and its local consequences.",
-      "candidateText": "Incendie en Gironde : pourquoi la préfète limite les vitesses autorisées sur l'ensemble du département - Actu.fr <a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxQME9SbTNZT0JDY1Y5MXNCTVBHOEVZSzM1N2p4bnp4djAtSDB1c3dkN2xrdWZzNV9qQVZDamhUM09OOG5QMnRucW5iYW96QXpOMDIzUGI5dC0yNzZpOFdYc0JDSUFOaFJxYURJa1FXRU5JWl96d2NWMHRiMWQ2NnQ5dXVUbTBBZF9EQVRITDVOclF0Z3lmdlVWWHd1VVd3TjVNTFoxQU1yVkVWemhTRmRUaWpvemZvYjh2amQtVDJWcVJmSUZidm9peWJCOExiSDRiMHM3SGYxTmEySVEyV1ZfT1pNRUNYZXR4TzQ2SW1sQnAzU3FwU1B4enFudlRVQjA3bkwyMUdZdFVUXzRldE9jTWFyUDlfUWM?oc=5\" target=\"_blank\">Incendie en Gironde : pourquoi la préfète limite les vitesses autorisées sur l'ensemble du département</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Actu.fr</font>",
-      "sourceId": "google-news-transport-air",
-      "source": "Google News · transport and smoke",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQME9SbTNZT0JDY1Y5MXNCTVBHOEVZSzM1N2p4bnp4djAtSDB1c3dkN2xrdWZzNV9qQVZDamhUM09OOG5QMnRucW5iYW96QXpOMDIzUGI5dC0yNzZpOFdYc0JDSUFOaFJxYURJa1FXRU5JWl96d2NWMHRiMWQ2NnQ5dXVUbTBBZF9EQVRITDVOclF0Z3lmdlVWWHd1VVd3TjVNTFoxQU1yVkVWemhTRmRUaWpvemZvYjh2amQtVDJWcVJmSUZidm9peWJCOExiSDRiMHM3SGYxTmEySVEyV1ZfT1pNRUNYZXR4TzQ2SW1sQnAzU3FwU1B4enFudlRVQjA3bkwyMUdZdFVUXzRldE9jTWFyUDlfUWM?oc=5",
-      "importance": 2,
-      "publishedAt": "2026-07-26T09:58:18.000Z",
-      "classification": {
-        "score": 2,
-        "priority": "context",
-        "reasons": [],
-        "authorityAttributed": true,
-        "changeLanguage": false,
-        "numbers": []
-      },
-      "liveIndex": false
-    },
-    {
-      "id": "b4bdd3c12543",
-      "time": "11:54",
-      "title": "EN DIRECT, incendies : le feu en Gironde « est redevenu extrêmement virulent » dans la nuit, dit le ministre Laurent Nuñez, la situation « demeure très défavorable » dans toute la France",
-      "detail": "Adds a developing roundup; its individual claims require confirmation against the latest authority briefing.",
-      "language": "fr",
-      "titleTheme": "Headline theme: continuing coverage of the Gironde wildfire and its local consequences.",
-      "candidateText": "EN DIRECT, incendies : le feu en Gironde « est redevenu extrêmement virulent » dans la nuit, dit le ministre Laurent Nuñez, la situation « demeure très défavorable » dans toute la France La situation est particulièrement critique en Gironde, où le feu n’est pas maîtrisé, malgré la présence de 2 500 sapeurs-pompiers, 1 500 militaires, près de 1 200 forces de l’ordre et 450 bénévoles. Le trafic ferroviaire est interrompu au sud de Bordeaux. D’autres incendies sont très actifs dans les Landes et dans le Var.",
-      "sourceId": "lemonde-planete-live-index",
-      "source": "Le Monde · Planète live index",
-      "sourceType": "media",
-      "url": "https://www.lemonde.fr/planete/live/2026/07/26/en-direct-incendies-le-feu-en-gironde-est-redevenu-extremement-virulent-dit-le-ministre-laurent-nunez-la-situation-demeure-tres-defavorable-dans-toute-la-france_6730417_3244.html",
-      "importance": 2,
-      "publishedAt": "2026-07-26T09:54:40.000Z",
-      "classification": {
-        "score": 17,
-        "priority": "urgent-review",
-        "reasons": [
-          "control-status",
-          "access",
-          "response"
-        ],
-        "authorityAttributed": true,
-        "changeLanguage": false,
-        "numbers": [
-          "2 500",
-          "1 500",
-          "1 200",
-          "450"
-        ]
-      },
-      "liveIndex": true
-    },
-    {
-      "id": "127266f2f657",
-      "time": "11:30",
-      "title": "Incendie en Gironde. Un élan de générosité au-delà de toute attente à Saint-Magne-de-Castillon : « Nous pensions partir avec un camion de dons, nous sommes finalement partis avec trois » - Sud Ouest",
-      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
-      "language": "fr",
-      "titleTheme": "Headline theme: continuing coverage of the Gironde wildfire and its local consequences.",
-      "candidateText": "Incendie en Gironde. Un élan de générosité au-delà de toute attente à Saint-Magne-de-Castillon : « Nous pensions partir avec un camion de dons, nous sommes finalement partis avec trois » - Sud Ouest <a href=\"https://news.google.com/rss/articles/CBMi3AJBVV95cUxNNWNGSXVBM2FWYkh1WEd6REZPbjdFTG9DT2hYQ0dJYW91dEM0WUZsbzhhMmNEMndxdWtBeGp6bkY1cGtoX1dKcWRURDhqWmZsRm00UlZUTEt0TzIyVjIzdUM4OGxXQU82bm9mZG1pZndTVXdnSV9oMmVUYTR0NXNmT3J2aVhuenl4dElFbWdDLXpETXhZdXJKbHNhbTdnZG9CYk5kdVYySnN4WUg1eml6a2ZpdWp4S0Q2XzVsX0RpNW5WYjJBenVwNjRNQ1BwT24wN3dSdF9aMkt5TXBjOVdPLTBsUUhFUHFzN3NVSWc5bFZRdVNYTGxGeENhVjBFZDhBdFdXUW5hTXN6Vld6UDNtYVhya0ljWGZ3U1NxWWpoMGNnYjZ2OWRZTzNESzAzOUcwVXlNQTVFYkdCRGRidl9aS3lsLWFIRzJnX1RoWWN6Q0F1LUU5TDdSYmxEZC0?oc=5\" target=\"_blank\">Incendie en Gironde. Un élan de générosité au-delà de toute attente à Saint-Magne-de-Castillon : « Nous pensions partir avec un camion de dons, nous sommes finalement partis avec trois »</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sud Ouest</font>",
-      "sourceId": "google-news-sudouest-local",
-      "source": "Google News · Sud Ouest local",
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNNWNGSXVBM2FWYkh1WEd6REZPbjdFTG9DT2hYQ0dJYW91dEM0WUZsbzhhMmNEMndxdWtBeGp6bkY1cGtoX1dKcWRURDhqWmZsRm00UlZUTEt0TzIyVjIzdUM4OGxXQU82bm9mZG1pZndTVXdnSV9oMmVUYTR0NXNmT3J2aVhuenl4dElFbWdDLXpETXhZdXJKbHNhbTdnZG9CYk5kdVYySnN4WUg1eml6a2ZpdWp4S0Q2XzVsX0RpNW5WYjJBenVwNjRNQ1BwT24wN3dSdF9aMkt5TXBjOVdPLTBsUUhFUHFzN3NVSWc5bFZRdVNYTGxGeENhVjBFZDhBdFdXUW5hTXN6Vld6UDNtYVhya0ljWGZ3U1NxWWpoMGNnYjZ2OWRZTzNESzAzOUcwVXlNQTVFYkdCRGRidl9aS3lsLWFIRzJnX1RoWWN6Q0F1LUU5TDdSYmxEZC0?oc=5",
-      "importance": 2,
-      "publishedAt": "2026-07-26T09:30:32.000Z",
-      "classification": {
-        "score": 0,
-        "priority": "context",
-        "reasons": [],
-        "authorityAttributed": false,
-        "changeLanguage": false,
-        "numbers": []
-      },
-      "liveIndex": false
-    },
-    {
       "id": "reader-franceinfo-live-20260724",
       "time": "23:29",
       "title": "DIRECT. Incendie en Gironde : la préfecture ordonne l’évacuation sans délai des premiers villages de la presqu’île du Cap-Ferret - franceinfo",
@@ -1965,144 +1959,144 @@
       "name": "Lège-Cap-Ferret Town Hall",
       "type": "Official",
       "url": "https://www.ville-lege-capferret.fr/top_slider/information-incendie-saumos/",
-      "checkedAt": "2026-07-26T15:10:50.657Z",
+      "checkedAt": "2026-07-26T15:43:28.809Z",
       "status": "ok"
     },
     {
       "name": "Gironde Prefecture",
       "type": "Official",
       "url": "https://www.gironde.gouv.fr/",
-      "checkedAt": "2026-07-26T15:10:50.692Z",
+      "checkedAt": "2026-07-26T15:43:28.839Z",
       "status": "ok"
     },
     {
       "name": "Marcheprime Town Hall",
       "type": "Official local",
       "url": "https://ville-marcheprime.fr/actualites/alerte-extreme-evacuation-imminente/",
-      "checkedAt": "2026-07-26T15:10:50.692Z",
+      "checkedAt": "2026-07-26T15:43:28.839Z",
       "status": "ok"
     },
     {
       "name": "Gironde Prefecture · press releases",
       "type": "Official",
       "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026",
-      "checkedAt": "2026-07-26T15:10:50.693Z",
+      "checkedAt": "2026-07-26T15:43:28.840Z",
       "status": "ok"
     },
     {
       "name": "Gironde Department",
       "type": "Official",
       "url": "https://www.gironde.fr/actualites/vigilance-rouge-pour-le-risque-feu-de-foret",
-      "checkedAt": "2026-07-26T15:10:50.693Z",
+      "checkedAt": "2026-07-26T15:43:28.840Z",
       "status": "ok"
     },
     {
       "name": "Bordeaux Métropole",
       "type": "Official local",
       "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees-collecte-dons",
-      "checkedAt": "2026-07-26T15:10:50.693Z",
+      "checkedAt": "2026-07-26T15:43:28.840Z",
       "status": "ok"
     },
     {
       "name": "Bordeaux Métropole · wildfire and pollution restrictions",
       "type": "Official local",
       "url": "https://www.bordeaux-metropole.fr/actualites/vigilance-noire-feux-foret-pollution-atmospherique-alertes-renforcees",
-      "checkedAt": "2026-07-26T15:10:50.694Z",
+      "checkedAt": "2026-07-26T15:43:28.841Z",
       "status": "ok"
     },
     {
       "name": "Gironde Inforoutes",
       "type": "Official transport",
       "url": "https://www.gironde.fr/deplacements/inforoutes",
-      "checkedAt": "2026-07-26T15:10:50.694Z",
+      "checkedAt": "2026-07-26T15:43:28.841Z",
       "status": "ok"
     },
     {
       "name": "Atlantic maritime prefecture",
       "type": "Official maritime",
       "url": "https://www.premar-atlantique.gouv.fr/communiques-presse/reouverture-partielle-du-bassin-d-arcachon-33-a-la-navigation",
-      "checkedAt": "2026-07-26T15:10:50.694Z",
+      "checkedAt": "2026-07-26T15:43:28.841Z",
       "status": "ok"
     },
     {
       "name": "Nouvelle-Aquitaine transport",
       "type": "Official transport",
       "url": "https://transports.nouvelle-aquitaine.fr/",
-      "checkedAt": "2026-07-26T15:10:50.695Z",
+      "checkedAt": "2026-07-26T15:43:28.842Z",
       "status": "ok"
     },
     {
       "name": "Feux de Forêt",
       "type": "Specialist",
       "url": "https://feuxdeforet.fr/",
-      "checkedAt": "2026-07-26T15:10:50.695Z",
+      "checkedAt": "2026-07-26T15:43:28.842Z",
       "status": "ok"
     },
     {
       "name": "NASA FIRMS",
       "type": "Satellite",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/",
-      "checkedAt": "2026-07-26T15:10:50.695Z",
+      "checkedAt": "2026-07-26T15:43:28.842Z",
       "status": "ok"
     },
     {
       "name": "Météo-France · forêts",
       "type": "Official",
       "url": "https://meteofrance.com/meteo-des-forets",
-      "checkedAt": "2026-07-26T15:10:50.695Z",
+      "checkedAt": "2026-07-26T15:43:28.842Z",
       "status": "ok"
     },
     {
       "name": "Atmo Nouvelle-Aquitaine",
       "type": "Official air quality",
       "url": "https://www.atmo-nouvelleaquitaine.org/",
-      "checkedAt": "2026-07-26T15:10:50.696Z",
+      "checkedAt": "2026-07-26T15:43:28.843Z",
       "status": "ok"
     },
     {
       "name": "France Bleu / ici Gironde",
       "type": "Local media",
       "url": "https://www.francebleu.fr/gironde",
-      "checkedAt": "2026-07-26T15:10:50.696Z",
+      "checkedAt": "2026-07-26T15:43:28.843Z",
       "status": "ok"
     },
     {
       "name": "TVCapFerret · Bassin fire live",
       "type": "Local media",
       "url": "https://tvcapferret.com/vigilance-orange-feux-foret-gironde-lege-cap-ferret/",
-      "checkedAt": "2026-07-26T15:10:50.696Z",
+      "checkedAt": "2026-07-26T15:43:28.843Z",
       "status": "ok"
     },
     {
       "name": "Bordeaux Airport",
       "type": "Official transport",
       "url": "https://www.bordeaux.aeroport.fr/vols-destinations/arrivees-departs-du-jour",
-      "checkedAt": "2026-07-26T15:10:51.914Z",
+      "checkedAt": "2026-07-26T15:43:29.727Z",
       "status": "ok"
     },
     {
       "name": "Public social networks",
       "type": "Signal",
       "url": "https://bsky.app/search?q=incendie%20Cap%20Ferret",
-      "checkedAt": "2026-07-26T15:11:15.130Z",
+      "checkedAt": "2026-07-26T15:43:54.449Z",
       "status": "ok"
     }
   ],
   "socialSignals": [
     {
-      "title": "La préfète indique à l'instant qu'il est préférable pour les touristes qui devaient venir sur la Gironde sur ces…",
-      "summary": "It relays a map, direction or fire-behaviour observation that may help interpret the official situation.",
-      "interesting": "This can help spot emerging fire-progression concerns, but it should not be treated as an official perimeter.",
-      "source": "Mastodon · @optimistique33@gayfr.social",
-      "url": "https://gayfr.social/@optimistique33/116986909414723722",
-      "createdAt": "2026-07-26T15:09:33.000Z",
-      "credibility": "Public Mastodon post · low",
-      "incremental": "fire-progression colour",
+      "title": "Incendie en Gironde : Les joueurs des Girondins de Bordeaux évacués, le site du Haillan fermé, la suite de la…",
+      "summary": "It points to airport, transport or Bordeaux-periphery consequences that should be checked against official boards and prefecture alerts.",
+      "interesting": "Airport and ground-access implications are decision-critical, but social posts remain early-warning evidence until verified.",
+      "source": "Bluesky · @fr-france.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:5ekaaudi6pc22b4axp54hqre/post/3mrkpqdfkmq23",
+      "createdAt": "2026-07-26T15:40:22+00:00",
+      "credibility": "Public Bluesky post · low",
+      "incremental": "airport/access colour",
       "linkValidation": {
         "valid": true,
-        "network": "mastodon",
-        "reason": "Mastodon URLs must identify an account and numeric status.",
-        "checkedAt": "2026-07-26T15:10:54.900Z"
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-26T15:42:06.811Z"
       }
     },
     {
@@ -2128,22 +2122,6 @@
       "source": "Bluesky · @reheissergaspard.bsky.social",
       "url": "https://bsky.app/profile/did:plc:vfmtystszucn7zth6i7rgxcz/post/3mrjnvvb5qc2r",
       "createdAt": "2026-07-26T05:35:03.565Z",
-      "credibility": "Public Bluesky post · low",
-      "incremental": "evacuation/access colour",
-      "linkValidation": {
-        "valid": true,
-        "network": "bluesky",
-        "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-07-26T10:16:24.907Z"
-      }
-    },
-    {
-      "title": "Incendie en Gironde : 167 000 personnes évacuées, un feu dantesque www.mediapart.fr/studio/portf...",
-      "summary": "It gives ground-level context on evacuation, traffic or access that may not yet be captured in official summaries.",
-      "interesting": "Ground-level access colour is useful for situational awareness, but official road closures and FR-Alert remain authoritative.",
-      "source": "Bluesky · @jazzmanah.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:b3b5vf7s7llarq47ukvw5q7y/post/3mrj3r6npvc2q",
-      "createdAt": "2026-07-26T00:10:18.289Z",
       "credibility": "Public Bluesky post · low",
       "incremental": "evacuation/access colour",
       "linkValidation": {
@@ -2209,6 +2187,22 @@
       "createdAt": "2026-07-26T09:58:57.000Z",
       "credibility": "Public Mastodon post · low",
       "incremental": "smoke/air-quality colour",
+      "linkValidation": {
+        "valid": true,
+        "network": "mastodon",
+        "reason": "Mastodon URLs must identify an account and numeric status.",
+        "checkedAt": "2026-07-26T10:16:24.907Z"
+      }
+    },
+    {
+      "title": "Les #incendies en #gironde et dans les #landes couvrent des milliers d’hectares, on parle de 200.000 évacués. Les…",
+      "summary": "It relays a map, direction or fire-behaviour observation that may help interpret the official situation.",
+      "interesting": "This can help spot emerging fire-progression concerns, but it should not be treated as an official perimeter.",
+      "source": "Mastodon · @ploum@mamot.fr",
+      "url": "https://mamot.fr/@ploum/116985521177976644",
+      "createdAt": "2026-07-26T09:16:31.000Z",
+      "credibility": "Public Mastodon post · low",
+      "incremental": "fire-progression colour",
       "linkValidation": {
         "valid": true,
         "network": "mastodon",
@@ -2439,7 +2433,7 @@
   "collection": {
     "feedSuccesses": 5,
     "feedFailures": 0,
-    "newItemsSeen": 345,
+    "newItemsSeen": 347,
     "liveblogItemsSeen": 10,
     "sourceHealth": [
       {
@@ -2449,11 +2443,11 @@
         "url": "https://www.lemonde.fr/planete/rss_full.xml",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:52.078Z",
-        "latencyMs": 182,
+        "checkedAt": "2026-07-26T15:43:29.896Z",
+        "latencyMs": 169,
         "itemCount": 7,
         "error": null,
-        "lastGoodAt": "2026-07-26T15:10:52.078Z",
+        "lastGoodAt": "2026-07-26T15:43:29.896Z",
         "lastFailureAt": null
       },
       {
@@ -2463,11 +2457,11 @@
         "url": "https://news.google.com/rss/search?q=%28incendie+OR+feu%29+%28L%C3%A8ge-Cap-Ferret+OR+Saumos+OR+Le+Porge%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:52.080Z",
-        "latencyMs": 569,
+        "checkedAt": "2026-07-26T15:43:29.897Z",
+        "latencyMs": 150,
         "itemCount": 95,
         "error": null,
-        "lastGoodAt": "2026-07-26T15:10:52.080Z",
+        "lastGoodAt": "2026-07-26T15:43:29.897Z",
         "lastFailureAt": null
       },
       {
@@ -2477,11 +2471,11 @@
         "url": "https://news.google.com/rss/search?q=%28r%C3%A9ouverture+OR+retour+OR+acc%C3%A8s%29+%28Cap+Ferret+OR+L%C3%A8ge%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:52.080Z",
-        "latencyMs": 523,
+        "checkedAt": "2026-07-26T15:43:29.897Z",
+        "latencyMs": 156,
         "itemCount": 93,
         "error": null,
-        "lastGoodAt": "2026-07-26T15:10:52.080Z",
+        "lastGoodAt": "2026-07-26T15:43:29.897Z",
         "lastFailureAt": null
       },
       {
@@ -2491,11 +2485,11 @@
         "url": "https://news.google.com/rss/search?q=site%3Asudouest.fr+%28incendie+OR+feu+OR+%C3%A9vacuation%29+%28Gironde+OR+Saumos+OR+L%C3%A8ge-Cap-Ferret+OR+Bordeaux%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:52.081Z",
-        "latencyMs": 537,
-        "itemCount": 98,
+        "checkedAt": "2026-07-26T15:43:29.898Z",
+        "latencyMs": 164,
+        "itemCount": 99,
         "error": null,
-        "lastGoodAt": "2026-07-26T15:10:52.081Z",
+        "lastGoodAt": "2026-07-26T15:43:29.898Z",
         "lastFailureAt": null
       },
       {
@@ -2505,11 +2499,11 @@
         "url": "https://news.google.com/rss/search?q=%28incendie+OR+fum%C3%A9es+OR+PM10%29+%28Bordeaux+OR+Gironde+OR+Arcachon%29+%28a%C3%A9roport+OR+cars+OR+transport+OR+qualit%C3%A9+de+l%27air%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:52.082Z",
-        "latencyMs": 445,
-        "itemCount": 52,
+        "checkedAt": "2026-07-26T15:43:29.898Z",
+        "latencyMs": 139,
+        "itemCount": 53,
         "error": null,
-        "lastGoodAt": "2026-07-26T15:10:52.082Z",
+        "lastGoodAt": "2026-07-26T15:43:29.898Z",
         "lastFailureAt": null
       },
       {
@@ -2519,11 +2513,11 @@
         "url": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:52.648Z",
-        "latencyMs": 1500,
+        "checkedAt": "2026-07-26T15:43:30.065Z",
+        "latencyMs": 156,
         "itemCount": 3,
         "error": null,
-        "lastGoodAt": "2026-07-26T15:10:52.648Z",
+        "lastGoodAt": "2026-07-26T15:43:30.065Z",
         "lastFailureAt": null
       },
       {
@@ -2533,12 +2527,12 @@
         "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-des-evacuations-par-bateau-en-gironde-la-situation-nest-pas-sous-controle-dans-les-landes-20260724_CUWC25TVWRFZ7JZIHU2QBJ66PI/",
         "critical": false,
         "status": "failed",
-        "checkedAt": "2026-07-26T15:10:52.649Z",
-        "latencyMs": 165,
+        "checkedAt": "2026-07-26T15:43:30.065Z",
+        "latencyMs": 159,
         "itemCount": null,
         "error": "403 ",
         "lastGoodAt": null,
-        "lastFailureAt": "2026-07-26T15:10:52.649Z"
+        "lastFailureAt": "2026-07-26T15:43:30.065Z"
       },
       {
         "id": "reference-cab7e13fe8",
@@ -2547,14 +2541,14 @@
         "url": "https://www.ville-lege-capferret.fr/top_slider/information-incendie-saumos/",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:50.657Z",
-        "latencyMs": 257,
+        "checkedAt": "2026-07-26T15:43:28.809Z",
+        "latencyMs": 185,
         "itemCount": 1643,
         "error": null,
         "contentHash": "a8be6297fa9f722f87b7",
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-26T15:10:50.657Z",
+        "lastGoodAt": "2026-07-26T15:43:28.809Z",
         "lastFailureAt": null
       },
       {
@@ -2564,14 +2558,14 @@
         "url": "https://www.gironde.gouv.fr/",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:50.692Z",
-        "latencyMs": 1062,
+        "checkedAt": "2026-07-26T15:43:28.839Z",
+        "latencyMs": 857,
         "itemCount": 724,
         "error": null,
         "contentHash": "36a42120b4a58278c261",
         "contentChanged": false,
         "changedAt": "2026-07-26T15:01:06.791Z",
-        "lastGoodAt": "2026-07-26T15:10:50.692Z",
+        "lastGoodAt": "2026-07-26T15:43:28.839Z",
         "lastFailureAt": null
       },
       {
@@ -2581,14 +2575,14 @@
         "url": "https://ville-marcheprime.fr/actualites/alerte-extreme-evacuation-imminente/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:50.692Z",
-        "latencyMs": 628,
+        "checkedAt": "2026-07-26T15:43:28.839Z",
+        "latencyMs": 609,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-26T15:10:50.692Z",
+        "lastGoodAt": "2026-07-26T15:43:28.839Z",
         "lastFailureAt": null
       },
       {
@@ -2598,14 +2592,14 @@
         "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:50.693Z",
-        "latencyMs": 416,
+        "checkedAt": "2026-07-26T15:43:28.840Z",
+        "latencyMs": 463,
         "itemCount": 752,
         "error": null,
         "contentHash": "4bd5f9139a073fcd7407",
         "contentChanged": false,
         "changedAt": "2026-07-26T10:16:21.033Z",
-        "lastGoodAt": "2026-07-26T15:10:50.693Z",
+        "lastGoodAt": "2026-07-26T15:43:28.840Z",
         "lastFailureAt": null
       },
       {
@@ -2615,14 +2609,14 @@
         "url": "https://www.gironde.fr/actualites/vigilance-rouge-pour-le-risque-feu-de-foret",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:50.693Z",
-        "latencyMs": 382,
+        "checkedAt": "2026-07-26T15:43:28.840Z",
+        "latencyMs": 231,
         "itemCount": 540,
         "error": null,
         "contentHash": "50446ff821abad36b5ce",
         "contentChanged": false,
         "changedAt": "2026-07-25T09:57:01.120Z",
-        "lastGoodAt": "2026-07-26T15:10:50.693Z",
+        "lastGoodAt": "2026-07-26T15:43:28.840Z",
         "lastFailureAt": null
       },
       {
@@ -2632,14 +2626,14 @@
         "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees-collecte-dons",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:50.693Z",
-        "latencyMs": 486,
+        "checkedAt": "2026-07-26T15:43:28.840Z",
+        "latencyMs": 493,
         "itemCount": 2725,
         "error": null,
         "contentHash": "a1800defeda9e2ed7cc4",
         "contentChanged": false,
         "changedAt": "2026-07-26T15:01:06.793Z",
-        "lastGoodAt": "2026-07-26T15:10:50.693Z",
+        "lastGoodAt": "2026-07-26T15:43:28.840Z",
         "lastFailureAt": null
       },
       {
@@ -2649,14 +2643,14 @@
         "url": "https://www.bordeaux-metropole.fr/actualites/vigilance-noire-feux-foret-pollution-atmospherique-alertes-renforcees",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:50.694Z",
-        "latencyMs": 489,
+        "checkedAt": "2026-07-26T15:43:28.841Z",
+        "latencyMs": 417,
         "itemCount": 1473,
         "error": null,
         "contentHash": "cb088cadd34e2564abba",
         "contentChanged": false,
         "changedAt": "2026-07-26T15:01:06.793Z",
-        "lastGoodAt": "2026-07-26T15:10:50.694Z",
+        "lastGoodAt": "2026-07-26T15:43:28.841Z",
         "lastFailureAt": null
       },
       {
@@ -2666,14 +2660,14 @@
         "url": "https://www.gironde.fr/deplacements/inforoutes",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:50.694Z",
-        "latencyMs": 218,
+        "checkedAt": "2026-07-26T15:43:28.841Z",
+        "latencyMs": 151,
         "itemCount": 2395,
         "error": null,
         "contentHash": "4a0419d2ab0fe55a76d5",
         "contentChanged": false,
         "changedAt": "2026-07-26T10:16:21.035Z",
-        "lastGoodAt": "2026-07-26T15:10:50.694Z",
+        "lastGoodAt": "2026-07-26T15:43:28.841Z",
         "lastFailureAt": null
       },
       {
@@ -2683,14 +2677,14 @@
         "url": "https://www.premar-atlantique.gouv.fr/communiques-presse/reouverture-partielle-du-bassin-d-arcachon-33-a-la-navigation",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:50.694Z",
-        "latencyMs": 664,
+        "checkedAt": "2026-07-26T15:43:28.841Z",
+        "latencyMs": 575,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-26T15:10:50.694Z",
+        "lastGoodAt": "2026-07-26T15:43:28.841Z",
         "lastFailureAt": null
       },
       {
@@ -2700,14 +2694,14 @@
         "url": "https://transports.nouvelle-aquitaine.fr/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:50.695Z",
-        "latencyMs": 1219,
+        "checkedAt": "2026-07-26T15:43:28.842Z",
+        "latencyMs": 885,
         "itemCount": 1384,
         "error": null,
         "contentHash": "dc35e97bdf4b83fca8cb",
-        "contentChanged": false,
-        "changedAt": "2026-07-26T13:53:30.776Z",
-        "lastGoodAt": "2026-07-26T15:10:50.695Z",
+        "contentChanged": true,
+        "changedAt": "2026-07-26T15:43:28.842Z",
+        "lastGoodAt": "2026-07-26T15:43:28.842Z",
         "lastFailureAt": "2026-07-25T10:02:19.224Z"
       },
       {
@@ -2717,14 +2711,14 @@
         "url": "https://feuxdeforet.fr/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:50.695Z",
-        "latencyMs": 240,
+        "checkedAt": "2026-07-26T15:43:28.842Z",
+        "latencyMs": 195,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-26T15:10:50.695Z",
+        "lastGoodAt": "2026-07-26T15:43:28.842Z",
         "lastFailureAt": null
       },
       {
@@ -2734,14 +2728,14 @@
         "url": "https://firms.modaps.eosdis.nasa.gov/map/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:50.695Z",
-        "latencyMs": 690,
+        "checkedAt": "2026-07-26T15:43:28.842Z",
+        "latencyMs": 594,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-26T15:10:50.695Z",
+        "lastGoodAt": "2026-07-26T15:43:28.842Z",
         "lastFailureAt": null
       },
       {
@@ -2751,14 +2745,14 @@
         "url": "https://meteofrance.com/meteo-des-forets",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:50.695Z",
-        "latencyMs": 342,
+        "checkedAt": "2026-07-26T15:43:28.842Z",
+        "latencyMs": 188,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-26T15:10:50.695Z",
+        "lastGoodAt": "2026-07-26T15:43:28.842Z",
         "lastFailureAt": null
       },
       {
@@ -2768,14 +2762,14 @@
         "url": "https://www.atmo-nouvelleaquitaine.org/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:50.696Z",
-        "latencyMs": 628,
+        "checkedAt": "2026-07-26T15:43:28.843Z",
+        "latencyMs": 661,
         "itemCount": 688,
         "error": null,
         "contentHash": "728169ee829e1781f1e9",
         "contentChanged": false,
         "changedAt": "2026-07-26T15:08:05.205Z",
-        "lastGoodAt": "2026-07-26T15:10:50.696Z",
+        "lastGoodAt": "2026-07-26T15:43:28.843Z",
         "lastFailureAt": null
       },
       {
@@ -2785,14 +2779,14 @@
         "url": "https://www.francebleu.fr/gironde",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:50.696Z",
-        "latencyMs": 604,
+        "checkedAt": "2026-07-26T15:43:28.843Z",
+        "latencyMs": 425,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-07-26T15:10:50.696Z",
+        "lastGoodAt": "2026-07-26T15:43:28.843Z",
         "lastFailureAt": null
       },
       {
@@ -2802,14 +2796,14 @@
         "url": "https://tvcapferret.com/vigilance-orange-feux-foret-gironde-lege-cap-ferret/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:50.696Z",
-        "latencyMs": 367,
+        "checkedAt": "2026-07-26T15:43:28.843Z",
+        "latencyMs": 262,
         "itemCount": 3780,
         "error": null,
         "contentHash": "463d93693c4717d0716e",
         "contentChanged": false,
         "changedAt": "2026-07-26T13:53:30.778Z",
-        "lastGoodAt": "2026-07-26T15:10:50.696Z",
+        "lastGoodAt": "2026-07-26T15:43:28.843Z",
         "lastFailureAt": null
       },
       {
@@ -2819,11 +2813,11 @@
         "url": "https://www.bordeaux.aeroport.fr/vols-destinations/arrivees-departs-du-jour",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:51.914Z",
-        "latencyMs": 164,
+        "checkedAt": "2026-07-26T15:43:29.727Z",
+        "latencyMs": 169,
         "itemCount": 71,
         "error": null,
-        "lastGoodAt": "2026-07-26T15:10:51.914Z",
+        "lastGoodAt": "2026-07-26T15:43:29.727Z",
         "lastFailureAt": null
       },
       {
@@ -2833,11 +2827,11 @@
         "url": "https://api.bsky.app/xrpc/app.bsky.feed.searchPosts",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:11:15.130Z",
+        "checkedAt": "2026-07-26T15:43:54.449Z",
         "latencyMs": null,
         "itemCount": 30,
         "error": null,
-        "lastGoodAt": "2026-07-26T15:11:15.130Z",
+        "lastGoodAt": "2026-07-26T15:43:54.449Z",
         "lastFailureAt": null
       },
       {
@@ -2847,12 +2841,12 @@
         "url": "https://www.reddit.com/search.rss",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:11:15.130Z",
+        "checkedAt": "2026-07-26T15:43:54.449Z",
         "latencyMs": null,
-        "itemCount": 2,
+        "itemCount": 5,
         "error": null,
-        "lastGoodAt": "2026-07-26T15:11:15.130Z",
-        "lastFailureAt": "2026-07-26T15:08:59.101Z"
+        "lastGoodAt": "2026-07-26T15:43:54.449Z",
+        "lastFailureAt": "2026-07-26T15:43:12.954Z"
       },
       {
         "id": "mastodon-search",
@@ -2861,11 +2855,11 @@
         "url": "https://mastodon.social/api/v1/timelines/tag/gironde",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:11:15.130Z",
+        "checkedAt": "2026-07-26T15:43:54.449Z",
         "latencyMs": null,
         "itemCount": 20,
         "error": null,
-        "lastGoodAt": "2026-07-26T15:11:15.130Z",
+        "lastGoodAt": "2026-07-26T15:43:54.449Z",
         "lastFailureAt": "2026-07-25T04:21:46.521Z"
       },
       {
@@ -2875,11 +2869,11 @@
         "url": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:10:55.135Z",
+        "checkedAt": "2026-07-26T15:43:31.202Z",
         "latencyMs": null,
         "itemCount": 3,
         "error": null,
-        "lastGoodAt": "2026-07-26T15:10:55.135Z",
+        "lastGoodAt": "2026-07-26T15:43:31.202Z",
         "lastFailureAt": null
       },
       {
@@ -2889,12 +2883,12 @@
         "url": "https://sig.gironde.fr/arcgis/services/ec_routes_ferm%C3%A9es/MapServer/WFSServer?service=WFS&version=2.0.0&request=GetFeature&typenames=ec_routes_ferm%C3%A9es%3ARoutes_d%C3%A9partementales_ferm%C3%A9es&outputFormat=GEOJSON",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:11:00.665Z",
+        "checkedAt": "2026-07-26T15:43:41.598Z",
         "latencyMs": null,
         "itemCount": 40,
         "error": null,
-        "lastGoodAt": "2026-07-26T15:11:00.665Z",
-        "lastFailureAt": "2026-07-26T15:08:26.408Z"
+        "lastGoodAt": "2026-07-26T15:43:41.598Z",
+        "lastFailureAt": "2026-07-26T15:43:00.302Z"
       },
       {
         "id": "nasa-firms-viirs-noaa21-wms",
@@ -2903,12 +2897,12 @@
         "url": "https://firms.modaps.eosdis.nasa.gov/mapserver/wms/fires/31abf073d7735a23db666ff6c75a4991/?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetCapabilities",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-07-26T15:11:00.667Z",
-        "latencyMs": 14463,
+        "checkedAt": "2026-07-26T15:43:41.600Z",
+        "latencyMs": 12849,
         "itemCount": 1,
         "error": null,
-        "lastGoodAt": "2026-07-26T15:11:00.667Z",
-        "lastFailureAt": "2026-07-25T20:04:41.841Z"
+        "lastGoodAt": "2026-07-26T15:43:41.600Z",
+        "lastFailureAt": "2026-07-26T15:42:13.607Z"
       }
     ],
     "health": {
@@ -2920,9 +2914,9 @@
       "newestUrgentCandidateAt": "2026-07-25T00:48:51.000Z"
     },
     "social": {
-      "checkedAt": "2026-07-26T15:11:15.130Z",
-      "newestCandidateAt": "2026-07-26T15:09:33.000Z",
-      "newestDisplayedAt": "2026-07-26T15:09:33.000Z",
+      "checkedAt": "2026-07-26T15:43:54.449Z",
+      "newestCandidateAt": "2026-07-26T15:40:22.000Z",
+      "newestDisplayedAt": "2026-07-26T15:40:22.000Z",
       "lagMinutes": 0,
       "newerCandidateCount": 0,
       "reviewSuggested": false,
@@ -2936,13 +2930,20 @@
       "checked": 16,
       "healthy": 16,
       "failed": 0,
-      "reviewSuggested": false,
-      "changedSources": []
+      "reviewSuggested": true,
+      "changedSources": [
+        {
+          "id": "reference-e181171bba",
+          "name": "Nouvelle-Aquitaine transport",
+          "checkedAt": "2026-07-26T15:43:28.842Z",
+          "changedAt": "2026-07-26T15:43:28.842Z"
+        }
+      ]
     },
     "aviation": {
       "status": "ok",
-      "checkedAt": "2026-07-26T15:10:51.914Z",
-      "boardUpdatedAt": "2026-07-26T17:07:00+02:00",
+      "checkedAt": "2026-07-26T15:43:29.727Z",
+      "boardUpdatedAt": "2026-07-26T17:41:00+02:00",
       "listedFlightCount": 71,
       "operatingSignal": true,
       "arrivals": {
@@ -2977,13 +2978,52 @@
         {
           "id": "liberation-live",
           "lastGoodAt": null,
-          "lastFailureAt": "2026-07-26T15:10:52.649Z",
+          "lastFailureAt": "2026-07-26T15:43:30.065Z",
           "error": "403 "
         }
       ]
     }
   },
   "socialCandidates": [
+    {
+      "title": "Incendie en Gironde : Les joueurs des Girondins de Bordeaux évacués, le site du Haillan fermé, la suite de la préparation à l’étude https://www.europesays.com/fr/1089204/ Dans un é",
+      "source": "Bluesky · @fr-france.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:5ekaaudi6pc22b4axp54hqre/post/3mrkpqdfkmq23",
+      "createdAt": "2026-07-26T15:40:22+00:00",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-26T15:42:06.811Z"
+      }
+    },
+    {
+      "title": "www.lefigaro.fr/actualite-fr... Bittere Ironie des Schicksals. Egal welche Auslöser auch immer die Feuer entfachen, Ursache ist die menschengemachte Klimakatastrophe! Und immer noc",
+      "source": "Bluesky · @bewasa.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:3gtcezfax737pgsrrqai2rl5/post/3mrkpoadc7222",
+      "createdAt": "2026-07-26T15:39:13.956Z",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-26T15:42:06.811Z"
+      }
+    },
+    {
+      "title": "Incendie du Cap Ferret Vue des satellites FIRMS, la progression se stabilise mais le feu continue dans toutes les directions à la fois (y compris dans la presqu'île du Cap elle-mêm",
+      "source": "Bluesky · @cedricmas.eurosky.social",
+      "url": "https://bsky.app/profile/did:plc:x6iwiot43norkasv6mnxvfgs/post/3mrko4vs4d225",
+      "createdAt": "2026-07-26T15:11:38.702Z",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-07-26T15:42:06.811Z"
+      }
+    },
     {
       "title": "La préfète indique à l'instant qu'il est préférable pour les touristes qui devaient venir sur la Gironde sur ces prochaines semaines d'annuler leur voyage ou de choisir une autre destination. Merci de faire tourner # incendie # Gironde",
       "source": "Mastodon · @optimistique33@gayfr.social",
@@ -3386,49 +3426,10 @@
         "reason": "Bluesky URLs must identify a profile and post record.",
         "checkedAt": "2026-07-26T10:16:24.907Z"
       }
-    },
-    {
-      "title": "Toujours pas de dessin du dimanche dans La Dépêche du Midi dossier sur les feux de forêt mais un dessin du jour sur ce thème... # feux # gironde # landes # pompiers # capferret # vacances # DessinDePresse # dessin",
-      "source": "Mastodon · @pezdessinateur",
-      "url": "https://mastodon.social/@pezdessinateur/116985230631936615",
-      "createdAt": "2026-07-26T08:02:37.643Z",
-      "verification": "Unverified",
-      "linkValidation": {
-        "valid": true,
-        "network": "mastodon",
-        "reason": "Mastodon URLs must identify an account and numeric status.",
-        "checkedAt": "2026-07-26T10:16:24.907Z"
-      }
-    },
-    {
-      "title": "Les incendies qui ravagent la Gironde et les Landes continuent de progresser. Retrouvez dans ce direct les dernières informations sur l'évolution des incendies, les évacuations, le",
-      "source": "Bluesky · @lamontagne-montlu.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:sq57dfqutfzro5vzvaaic3uh/post/3mrjvl6rywi2l",
-      "createdAt": "2026-07-26T07:51:56.760Z",
-      "verification": "Unverified",
-      "linkValidation": {
-        "valid": true,
-        "network": "bluesky",
-        "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-07-26T10:16:24.907Z"
-      }
-    },
-    {
-      "title": "Image satellite des fumées d'#incendies en # Gironde et dans les # Landes qui doit dater de quelques jours...",
-      "source": "Mastodon · @jerome2064@pouet.chapril.org",
-      "url": "https://pouet.chapril.org/@jerome2064/116985093407840999",
-      "createdAt": "2026-07-26T07:27:43.000Z",
-      "verification": "Unverified",
-      "linkValidation": {
-        "valid": true,
-        "network": "mastodon",
-        "reason": "Mastodon URLs must identify an account and numeric status.",
-        "checkedAt": "2026-07-26T10:16:24.907Z"
-      }
     }
   ],
   "traffic": {
-    "checkedAt": "2026-07-26T15:11:00.665Z",
+    "checkedAt": "2026-07-26T15:43:41.598Z",
     "sourceName": "Inforoutes Gironde",
     "sourceUrl": "https://www.gironde.fr/deplacements/inforoutes",
     "officialClosures": {
@@ -8984,8 +8985,8 @@
     "location": "Saumos–Lège fire corridor reference point",
     "latitude": 44.91,
     "longitude": -1.0600004,
-    "observedAt": "2026-07-26T17:00:00+02:00",
-    "modelUpdatedAt": "2026-07-26T15:10:55.135Z",
+    "observedAt": "2026-07-26T17:30:00+02:00",
+    "modelUpdatedAt": "2026-07-26T15:43:31.202Z",
     "sourceName": "Open-Meteo",
     "sourceUrl": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
     "officialFireDangerName": "Météo-France · Météo des forêts",
@@ -8994,33 +8995,33 @@
       "temperatureC": 22.8,
       "humidityPct": 62,
       "precipitationMm": 0,
-      "windSpeedKmh": 15.9,
-      "windDirectionDeg": 267,
+      "windSpeedKmh": 16.1,
+      "windDirectionDeg": 260,
       "windDirection": "W",
-      "windGustKmh": 39.6
+      "windGustKmh": 38.5
     },
     "forecast24h": {
-      "endsAt": "2026-07-27T15:00:00.000Z",
+      "endsAt": "2026-07-27T15:30:00.000Z",
       "maxTemperatureC": 24.7,
       "minHumidityPct": 46,
-      "maxWindSpeedKmh": 15.9,
-      "maxWindGustKmh": 39.6,
-      "peakGustAt": "2026-07-26T17:00:00+02:00",
-      "peakGustDirectionDeg": 267,
+      "maxWindSpeedKmh": 15.3,
+      "maxWindGustKmh": 38.5,
+      "peakGustAt": "2026-07-26T18:00:00+02:00",
+      "peakGustDirectionDeg": 261,
       "peakGustDirection": "W",
-      "precipitationMm": 1.7,
-      "maxPrecipitationProbabilityPct": 33,
+      "precipitationMm": 0.9,
+      "maxPrecipitationProbabilityPct": 35,
       "checkpoints": [
         {
           "time": "2026-07-26T23:00:00+02:00",
           "temperatureC": 20.3,
           "humidityPct": 95,
-          "precipitationProbabilityPct": 5,
+          "precipitationProbabilityPct": 13,
           "precipitationMm": 0,
           "windSpeedKmh": 7.2,
           "windDirectionDeg": 243,
           "windDirection": "WSW",
-          "windGustKmh": 19.4
+          "windGustKmh": 19.2
         },
         {
           "time": "2026-07-27T05:00:00+02:00",
@@ -9054,7 +9055,7 @@
       "sourceId": "lemonde-planete-live-index",
       "sourceName": "Le Monde · Planète live index",
       "sourceUrl": "https://www.lemonde.fr/planete/live/2026/07/26/en-direct-incendies-la-situation-reste-tres-defavorable-sur-le-front-des-feux-en-france-l-espagne-demande-un-grand-pacte-d-etat-face-a-l-urgence-climatique_6730417_3244.html",
-      "publishedAt": "2026-07-26T15:01:53.000Z",
+      "publishedAt": "2026-07-26T15:24:02.000Z",
       "text": "EN DIRECT, incendies : les dernières informations sur la situation en Gironde, dans les Landes, dans le Var et sur les zones évacuées Alors que le gouvernement reconnaît que la situation était « très défavorable » sur le front des feux dans la région, l’incendie massif en Gironde, qui « combine à la fois le feu, l’orage et du vent », selon la préfecture, a provoqué l’évacuation de 220 000 personnes depuis mercredi.",
       "score": 10,
       "priority": "review",
@@ -10227,2082 +10228,6 @@
       ]
     }
   ],
-  "reopeningForecast": {
-    "generatedAt": "2026-07-26T15:11:15.130Z",
-    "updatedAt": "2026-07-26T15:11:15.130Z",
-    "definition": "First day a normal tourist could reasonably go to the peninsula: public access allowed, roads usable, essential commerce likely operating and visitor-facing activity restarting. It does not require every beach, forest path or restaurant to be open.",
-    "model": {
-      "name": "Discrete Bayesian reopening-date model",
-      "version": "2026-07-26.3",
-      "evacuationStart": "2026-07-24T06:45:00+02:00",
-      "prior": "Base-rate prior is built from a structured library of comparable affluent/tourist wildland-interface evacuations, weighted by similarity and date quality, then conditioned on the peninsula not yet being practically reopened.",
-      "update": "Likelihood adjustments reward containment, lifted evacuation/access/commercial signals and favourable weather; they penalise active/non-fixed fire, new evacuation extensions, closed roads, absent commerce, adverse weather and unresolved urgent evidence."
-    },
-    "caseLibrary": {
-      "caseCount": 24,
-      "usableCaseCount": 24,
-      "effectiveCaseCount": 21.1,
-      "weightTotal": 6.73,
-      "topSimilarityWeight": 0.59,
-      "medianPracticalReopeningDays": 22
-    },
-    "stages": [
-      {
-        "label": "Local threat materially reduced",
-        "note": "Proxy for when the local fire threat stops being the primary blocker.",
-        "p10Days": 4,
-        "medianDays": 9,
-        "p90Days": 25
-      },
-      {
-        "label": "Initial resident return",
-        "note": "Often earlier than full practical reopening for visitors.",
-        "p10Days": 4,
-        "medianDays": 9,
-        "p90Days": 25
-      },
-      {
-        "label": "Resident → tourist lag",
-        "note": "Typical extra time for roads, services and visitor-facing commerce.",
-        "p10Days": 5,
-        "medianDays": 13,
-        "p90Days": 25
-      }
-    ],
-    "diagnostics": {
-      "slug": "reopening-model-lab-4f7c9d2b",
-      "generatedAt": "2026-07-26T15:11:15.130Z",
-      "modelVersion": "2026-07-26.3",
-      "headline": "The long baseline comes from a cautious weighted case library plus current access/fire blockers, not from an official reopening estimate.",
-      "warning": "This is a small-data, hand-calibrated Bayesian decision-support model. The coefficients below are transparent model settings and sample diagnostics, not coefficients fitted by a large regression.",
-      "prior": {
-        "peakLabel": "Sat 8 Aug",
-        "peakDate": "2026-08-08",
-        "peakProbability": 0.028,
-        "p10Label": "Tue 4 Aug",
-        "medianLabel": "Thu 20 Aug",
-        "p90Label": "Fri 11 Sept",
-        "p10Day": 11,
-        "medianDay": 27,
-        "p90Day": 49
-      },
-      "posterior": {
-        "peakLabel": "Sat 8 Aug",
-        "peakDate": "2026-08-08",
-        "peakProbability": 0.0292,
-        "p10Label": "Thu 6 Aug",
-        "medianLabel": "Fri 21 Aug",
-        "p90Label": "Sat 12 Sept",
-        "p10Day": 13,
-        "medianDay": 28,
-        "p90Day": 50
-      },
-      "explanation": [
-        "The weighted historical median practical reopening in the current analogue set is 22 days after evacuation.",
-        "The smoothed prior median is day 27; the posterior median is day 28. In this snapshot, the live evidence shifts the median by about 1 days, so most of the pessimism is coming from the base-rate/tail design rather than the live likelihood update alone.",
-        "The current incident is coded as tourist/coastal/WUI/single-access, with ordinary public access still blocked, road access not confirmed and essential commerce not restarted.",
-        "The structure-loss input is 240 regional destroyed/damaged homes or structures, not the evacuation count. Direct major Cap Ferret infrastructure/utility damage is not currently coded as present unless a specific authority source says otherwise.",
-        "In the case-library table, practical reopening, fire control and resident return are separate elapsed-day observations from each incident. They are not independent draws and they are not added together; practical tourist reopening is the target variable, while the other two columns are stage diagnostics.",
-        "Those live blockers mainly suppress very early reopening dates. They matter most in the first 7–14 days; by the 3–4 week range their multipliers have mostly stopped penalising dates.",
-        "The most important caveat is that this is still a 24-case structured library, not a 500-case fitted survival model. It is designed to be legible and revisable rather than statistically elegant."
-      ],
-      "currentProfile": {
-        "areaHa": 42000,
-        "evacuees": 220000,
-        "peakPersonnel": 2500,
-        "structuresDestroyed": 240,
-        "directInfrastructureDamage": false,
-        "features": {
-          "touristArea": true,
-          "affluentOrHighResource": true,
-          "wildlandUrbanInterface": true,
-          "singleAccessCorridor": true,
-          "coastalOrPeninsula": true,
-          "severeUtilityDamage": false,
-          "majorRoadOrRailDisruption": true,
-          "majorStructureLoss": true,
-          "weatherBreakObserved": true
-        }
-      },
-      "evidence": {
-        "publicAccessBlocked": true,
-        "fireNotFixed": false,
-        "fireImproving": true,
-        "newEvacuations": false,
-        "roadClosed": true,
-        "noCommerce": true,
-        "noFerries": true,
-        "adverseWeather": false,
-        "helpfulWeather": true,
-        "largeFire": true,
-        "veryLargeEvacuation": true,
-        "hectares": 42000,
-        "evacuees": 220000,
-        "peakPersonnel": 2500,
-        "structuresDestroyed": 240,
-        "majorStructureLoss": true,
-        "directInfrastructureDamage": false,
-        "utilityConcern": false,
-        "synthesisPending": false,
-        "noSignals": 6,
-        "watchSignals": 2,
-        "yesSignals": 0,
-        "totalSignals": 8
-      },
-      "stages": [
-        {
-          "label": "Local threat materially reduced",
-          "note": "Proxy for when the local fire threat stops being the primary blocker.",
-          "p10Days": 4,
-          "medianDays": 9,
-          "p90Days": 25
-        },
-        {
-          "label": "Initial resident return",
-          "note": "Often earlier than full practical reopening for visitors.",
-          "p10Days": 4,
-          "medianDays": 9,
-          "p90Days": 25
-        },
-        {
-          "label": "Resident → tourist lag",
-          "note": "Typical extra time for roads, services and visitor-facing commerce.",
-          "p10Days": 5,
-          "medianDays": 13,
-          "p90Days": 25
-        }
-      ],
-      "variableEffects": {
-        "booleans": [
-          {
-            "key": "touristArea",
-            "label": "Tourist economy / visitor-sensitive reopening",
-            "currentValue": true,
-            "modelCoefficient": 0.48,
-            "countTrue": 18,
-            "countFalse": 6,
-            "weightedMedianIfTrue": 21,
-            "weightedMedianIfFalse": 26,
-            "observedDeltaDaysTrueMinusFalse": -5,
-            "interpretation": "Associated with faster reopening in this small case library."
-          },
-          {
-            "key": "affluentOrHighResource",
-            "label": "High-resource response environment",
-            "currentValue": true,
-            "modelCoefficient": 0.22,
-            "countTrue": 24,
-            "countFalse": 0,
-            "weightedMedianIfTrue": 22,
-            "weightedMedianIfFalse": null,
-            "observedDeltaDaysTrueMinusFalse": null,
-            "interpretation": "Insufficient split in the sample."
-          },
-          {
-            "key": "wildlandUrbanInterface",
-            "label": "Wildland–urban interface",
-            "currentValue": true,
-            "modelCoefficient": 0.22,
-            "countTrue": 24,
-            "countFalse": 0,
-            "weightedMedianIfTrue": 22,
-            "weightedMedianIfFalse": null,
-            "observedDeltaDaysTrueMinusFalse": null,
-            "interpretation": "Insufficient split in the sample."
-          },
-          {
-            "key": "singleAccessCorridor",
-            "label": "Single-corridor or constrained access",
-            "currentValue": true,
-            "modelCoefficient": 0.36,
-            "countTrue": 9,
-            "countFalse": 15,
-            "weightedMedianIfTrue": 37,
-            "weightedMedianIfFalse": 19,
-            "observedDeltaDaysTrueMinusFalse": 18,
-            "interpretation": "Associated with slower reopening in this small case library."
-          },
-          {
-            "key": "coastalOrPeninsula",
-            "label": "Coastal / peninsula-like geography",
-            "currentValue": true,
-            "modelCoefficient": 0.34,
-            "countTrue": 6,
-            "countFalse": 18,
-            "weightedMedianIfTrue": 16,
-            "weightedMedianIfFalse": 22,
-            "observedDeltaDaysTrueMinusFalse": -6,
-            "interpretation": "Associated with faster reopening in this small case library."
-          },
-          {
-            "key": "severeUtilityDamage",
-            "label": "Severe utility disruption",
-            "currentValue": false,
-            "modelCoefficient": 0.24,
-            "countTrue": 19,
-            "countFalse": 5,
-            "weightedMedianIfTrue": 25,
-            "weightedMedianIfFalse": 12,
-            "observedDeltaDaysTrueMinusFalse": 13,
-            "interpretation": "Associated with slower reopening in this small case library."
-          },
-          {
-            "key": "majorRoadOrRailDisruption",
-            "label": "Major road or rail disruption",
-            "currentValue": true,
-            "modelCoefficient": 0.24,
-            "countTrue": 24,
-            "countFalse": 0,
-            "weightedMedianIfTrue": 22,
-            "weightedMedianIfFalse": null,
-            "observedDeltaDaysTrueMinusFalse": null,
-            "interpretation": "Insufficient split in the sample."
-          },
-          {
-            "key": "majorStructureLoss",
-            "label": "Major regional structure loss",
-            "currentValue": true,
-            "modelCoefficient": 0.32,
-            "countTrue": 20,
-            "countFalse": 4,
-            "weightedMedianIfTrue": 22,
-            "weightedMedianIfFalse": 16,
-            "observedDeltaDaysTrueMinusFalse": 6,
-            "interpretation": "Associated with slower reopening in this small case library."
-          },
-          {
-            "key": "weatherBreakObserved",
-            "label": "Observed weather break",
-            "currentValue": true,
-            "modelCoefficient": 0.16,
-            "countTrue": 24,
-            "countFalse": 0,
-            "weightedMedianIfTrue": 22,
-            "weightedMedianIfFalse": null,
-            "observedDeltaDaysTrueMinusFalse": null,
-            "interpretation": "Insufficient split in the sample."
-          }
-        ],
-        "numeric": [
-          {
-            "key": "areaHa",
-            "label": "Burned area",
-            "modelCoefficient": 0.26,
-            "transform": "absolute log10 ratio to current fire size, capped at 2",
-            "correlationWithReopeningDays": 0.59,
-            "lowHalfMedianDays": 16,
-            "highHalfMedianDays": 28.5,
-            "highMinusLowMedianDays": 12.5
-          },
-          {
-            "key": "evacuees",
-            "label": "Evacuation scale",
-            "currentValue": 220000,
-            "modelCoefficient": 0.2,
-            "transform": "absolute log10 ratio to current evacuation scale, capped at 2",
-            "correlationWithReopeningDays": -0.18,
-            "lowHalfMedianDays": 25.5,
-            "highHalfMedianDays": 20.5,
-            "highMinusLowMedianDays": -5
-          },
-          {
-            "key": "peakPersonnel",
-            "label": "Peak firefighting resources",
-            "currentValue": 2500,
-            "modelCoefficient": 0.16,
-            "transform": "absolute log10 ratio to current firefighting-resource figure, capped at 2",
-            "correlationWithReopeningDays": 0.23,
-            "lowHalfMedianDays": 23,
-            "highHalfMedianDays": 22,
-            "highMinusLowMedianDays": -1
-          },
-          {
-            "key": "structuresDestroyed",
-            "label": "Regional structures destroyed / damaged",
-            "currentValue": 240,
-            "modelCoefficient": 0.14,
-            "transform": "absolute log10 ratio to current regional structure-loss signal, capped at 2",
-            "correlationWithReopeningDays": 0.33,
-            "lowHalfMedianDays": 19.5,
-            "highHalfMedianDays": 26.5,
-            "highMinusLowMedianDays": 7
-          }
-        ]
-      },
-      "similarityModel": {
-        "featurePenalties": [
-          {
-            "key": "touristArea",
-            "label": "Tourist economy / visitor-sensitive reopening",
-            "coefficient": 0.48,
-            "meaning": "Added to analogue distance when the historical case does not match the current case on this feature. Higher means more downweighting."
-          },
-          {
-            "key": "affluentOrHighResource",
-            "label": "High-resource response environment",
-            "coefficient": 0.22,
-            "meaning": "Added to analogue distance when the historical case does not match the current case on this feature. Higher means more downweighting."
-          },
-          {
-            "key": "wildlandUrbanInterface",
-            "label": "Wildland–urban interface",
-            "coefficient": 0.22,
-            "meaning": "Added to analogue distance when the historical case does not match the current case on this feature. Higher means more downweighting."
-          },
-          {
-            "key": "singleAccessCorridor",
-            "label": "Single-corridor or constrained access",
-            "coefficient": 0.36,
-            "meaning": "Added to analogue distance when the historical case does not match the current case on this feature. Higher means more downweighting."
-          },
-          {
-            "key": "coastalOrPeninsula",
-            "label": "Coastal / peninsula-like geography",
-            "coefficient": 0.34,
-            "meaning": "Added to analogue distance when the historical case does not match the current case on this feature. Higher means more downweighting."
-          },
-          {
-            "key": "severeUtilityDamage",
-            "label": "Severe utility disruption",
-            "coefficient": 0.24,
-            "meaning": "Added to analogue distance when the historical case does not match the current case on this feature. Higher means more downweighting."
-          },
-          {
-            "key": "majorRoadOrRailDisruption",
-            "label": "Major road or rail disruption",
-            "coefficient": 0.24,
-            "meaning": "Added to analogue distance when the historical case does not match the current case on this feature. Higher means more downweighting."
-          },
-          {
-            "key": "majorStructureLoss",
-            "label": "Major regional structure loss",
-            "coefficient": 0.32,
-            "meaning": "Added to analogue distance when the historical case does not match the current case on this feature. Higher means more downweighting."
-          },
-          {
-            "key": "weatherBreakObserved",
-            "label": "Observed weather break",
-            "coefficient": 0.16,
-            "meaning": "Added to analogue distance when the historical case does not match the current case on this feature. Higher means more downweighting."
-          }
-        ],
-        "numericTerms": [
-          {
-            "key": "areaHa",
-            "label": "Burned area",
-            "currentKey": "hectares",
-            "coefficient": 0.26,
-            "transform": "absolute log10 ratio to current fire size, capped at 2"
-          },
-          {
-            "key": "evacuees",
-            "label": "Evacuation scale",
-            "currentKey": "evacuees",
-            "coefficient": 0.2,
-            "transform": "absolute log10 ratio to current evacuation scale, capped at 2"
-          },
-          {
-            "key": "peakPersonnel",
-            "label": "Peak firefighting resources",
-            "currentKey": "peakPersonnel",
-            "coefficient": 0.16,
-            "transform": "absolute log10 ratio to current firefighting-resource figure, capped at 2"
-          },
-          {
-            "key": "structuresDestroyed",
-            "label": "Regional structures destroyed / damaged",
-            "currentKey": "structuresDestroyed",
-            "coefficient": 0.14,
-            "transform": "absolute log10 ratio to current regional structure-loss signal, capped at 2"
-          }
-        ],
-        "dateQualityWeights": {
-          "high": 1,
-          "medium": 0.78,
-          "low": 0.55
-        },
-        "bonuses": [
-          {
-            "label": "France locality bonus",
-            "multiplier": 1.12
-          },
-          {
-            "label": "Coastal tourist-case bonus",
-            "multiplier": 1.12
-          }
-        ],
-        "formula": "case weight = date-quality weight × locality/tourism bonuses × exp(− feature/numeric distance)"
-      },
-      "likelihoodModel": [
-        {
-          "key": "publicAccessBlocked",
-          "label": "Public access still blocked",
-          "formula": "logistic((day − 4.8) / 1.2)",
-          "activeNow": true
-        },
-        {
-          "key": "fireNotFixed",
-          "label": "Fire not fixed / not contained",
-          "formula": "logistic((day − 5.8) / 1.4)",
-          "activeNow": false
-        },
-        {
-          "key": "roadClosed",
-          "label": "Ordinary road access not confirmed",
-          "formula": "logistic((day − 5.2) / 1.1)",
-          "activeNow": true
-        },
-        {
-          "key": "noCommerce",
-          "label": "Essential commerce / visitor services not restarted",
-          "formula": "logistic((day − 5.5) / 1.4)",
-          "activeNow": true
-        },
-        {
-          "key": "noFerries",
-          "label": "Ordinary ferries unavailable",
-          "formula": "0.78 + 0.22 × logistic((day − 4.5) / 1.2)",
-          "activeNow": true
-        },
-        {
-          "key": "newEvacuations",
-          "label": "New evacuation extensions nearby",
-          "formula": "logistic((day − 7.5) / 1.7)",
-          "activeNow": false
-        },
-        {
-          "key": "largeFire",
-          "label": "Large fire scale",
-          "formula": "0.72 + 0.28 × logistic((day − 7.5) / 2.2)",
-          "activeNow": true
-        },
-        {
-          "key": "veryLargeEvacuation",
-          "label": "Very large evacuation scale",
-          "formula": "0.80 + 0.20 × logistic((day − 8.5) / 2.3)",
-          "activeNow": true
-        },
-        {
-          "key": "adverseWeather",
-          "label": "Adverse spread weather",
-          "formula": "0.72 + 0.28 × logistic((day − 8.5) / 2.0)",
-          "activeNow": false
-        },
-        {
-          "key": "helpfulWeather",
-          "label": "Helpful weather after day 4",
-          "formula": "1.12 when day ≥ 4",
-          "activeNow": true
-        },
-        {
-          "key": "fireImproving",
-          "label": "Fire described as improving after day 4",
-          "formula": "1.10 when day ≥ 4",
-          "activeNow": true
-        },
-        {
-          "key": "synthesisPending",
-          "label": "Urgent evidence still awaiting synthesis",
-          "formula": "0.92 + 0.08 × logistic((day − 8) / 2)",
-          "activeNow": false
-        },
-        {
-          "key": "blockersShare",
-          "label": "Majority of reopening checklist still blocked",
-          "formula": "if blockers ≥55%: logistic((day − 6.2) / 1.6)",
-          "activeNow": true
-        },
-        {
-          "key": "yesSignals",
-          "label": "Three or more positive reopening signals",
-          "formula": "1.15 + 0.08 × positive-signal count",
-          "activeNow": false
-        }
-      ],
-      "likelihoodAtSelectedDays": [
-        {
-          "daySinceEvacuation": 3,
-          "terms": [
-            {
-              "key": "publicAccessBlocked",
-              "label": "Public access still blocked",
-              "formula": "logistic((day − 4.8) / 1.2)",
-              "multiplier": 0.182
-            },
-            {
-              "key": "roadClosed",
-              "label": "Ordinary road access not confirmed",
-              "formula": "logistic((day − 5.2) / 1.1)",
-              "multiplier": 0.119
-            },
-            {
-              "key": "noCommerce",
-              "label": "Essential commerce / visitor services not restarted",
-              "formula": "logistic((day − 5.5) / 1.4)",
-              "multiplier": 0.144
-            },
-            {
-              "key": "noFerries",
-              "label": "Ordinary ferries unavailable",
-              "formula": "0.78 + 0.22 × logistic((day − 4.5) / 1.2)",
-              "multiplier": 0.829
-            },
-            {
-              "key": "largeFire",
-              "label": "Large fire scale",
-              "formula": "0.72 + 0.28 × logistic((day − 7.5) / 2.2)",
-              "multiplier": 0.752
-            },
-            {
-              "key": "veryLargeEvacuation",
-              "label": "Very large evacuation scale",
-              "formula": "0.80 + 0.20 × logistic((day − 8.5) / 2.3)",
-              "multiplier": 0.817
-            },
-            {
-              "key": "blockersShare",
-              "label": "Majority of reopening checklist still blocked",
-              "formula": "if blockers ≥55%: logistic((day − 6.2) / 1.6)",
-              "multiplier": 0.119
-            }
-          ],
-          "combinedMultiplier": 0.0002
-        },
-        {
-          "daySinceEvacuation": 7,
-          "terms": [
-            {
-              "key": "publicAccessBlocked",
-              "label": "Public access still blocked",
-              "formula": "logistic((day − 4.8) / 1.2)",
-              "multiplier": 0.862
-            },
-            {
-              "key": "roadClosed",
-              "label": "Ordinary road access not confirmed",
-              "formula": "logistic((day − 5.2) / 1.1)",
-              "multiplier": 0.837
-            },
-            {
-              "key": "noCommerce",
-              "label": "Essential commerce / visitor services not restarted",
-              "formula": "logistic((day − 5.5) / 1.4)",
-              "multiplier": 0.745
-            },
-            {
-              "key": "noFerries",
-              "label": "Ordinary ferries unavailable",
-              "formula": "0.78 + 0.22 × logistic((day − 4.5) / 1.2)",
-              "multiplier": 0.976
-            },
-            {
-              "key": "largeFire",
-              "label": "Large fire scale",
-              "formula": "0.72 + 0.28 × logistic((day − 7.5) / 2.2)",
-              "multiplier": 0.844
-            },
-            {
-              "key": "veryLargeEvacuation",
-              "label": "Very large evacuation scale",
-              "formula": "0.80 + 0.20 × logistic((day − 8.5) / 2.3)",
-              "multiplier": 0.868
-            },
-            {
-              "key": "helpfulWeather",
-              "label": "Helpful weather after day 4",
-              "formula": "1.12 when day ≥ 4",
-              "multiplier": 1.12
-            },
-            {
-              "key": "fireImproving",
-              "label": "Fire described as improving after day 4",
-              "formula": "1.10 when day ≥ 4",
-              "multiplier": 1.1
-            },
-            {
-              "key": "blockersShare",
-              "label": "Majority of reopening checklist still blocked",
-              "formula": "if blockers ≥55%: logistic((day − 6.2) / 1.6)",
-              "multiplier": 0.622
-            }
-          ],
-          "combinedMultiplier": 0.2949
-        },
-        {
-          "daySinceEvacuation": 14,
-          "terms": [
-            {
-              "key": "publicAccessBlocked",
-              "label": "Public access still blocked",
-              "formula": "logistic((day − 4.8) / 1.2)",
-              "multiplier": 1
-            },
-            {
-              "key": "roadClosed",
-              "label": "Ordinary road access not confirmed",
-              "formula": "logistic((day − 5.2) / 1.1)",
-              "multiplier": 1
-            },
-            {
-              "key": "noCommerce",
-              "label": "Essential commerce / visitor services not restarted",
-              "formula": "logistic((day − 5.5) / 1.4)",
-              "multiplier": 0.998
-            },
-            {
-              "key": "noFerries",
-              "label": "Ordinary ferries unavailable",
-              "formula": "0.78 + 0.22 × logistic((day − 4.5) / 1.2)",
-              "multiplier": 1
-            },
-            {
-              "key": "largeFire",
-              "label": "Large fire scale",
-              "formula": "0.72 + 0.28 × logistic((day − 7.5) / 2.2)",
-              "multiplier": 0.986
-            },
-            {
-              "key": "veryLargeEvacuation",
-              "label": "Very large evacuation scale",
-              "formula": "0.80 + 0.20 × logistic((day − 8.5) / 2.3)",
-              "multiplier": 0.983
-            },
-            {
-              "key": "helpfulWeather",
-              "label": "Helpful weather after day 4",
-              "formula": "1.12 when day ≥ 4",
-              "multiplier": 1.12
-            },
-            {
-              "key": "fireImproving",
-              "label": "Fire described as improving after day 4",
-              "formula": "1.10 when day ≥ 4",
-              "multiplier": 1.1
-            },
-            {
-              "key": "blockersShare",
-              "label": "Majority of reopening checklist still blocked",
-              "formula": "if blockers ≥55%: logistic((day − 6.2) / 1.6)",
-              "multiplier": 0.992
-            }
-          ],
-          "combinedMultiplier": 1.1817
-        },
-        {
-          "daySinceEvacuation": 23,
-          "terms": [
-            {
-              "key": "publicAccessBlocked",
-              "label": "Public access still blocked",
-              "formula": "logistic((day − 4.8) / 1.2)",
-              "multiplier": 1
-            },
-            {
-              "key": "roadClosed",
-              "label": "Ordinary road access not confirmed",
-              "formula": "logistic((day − 5.2) / 1.1)",
-              "multiplier": 1
-            },
-            {
-              "key": "noCommerce",
-              "label": "Essential commerce / visitor services not restarted",
-              "formula": "logistic((day − 5.5) / 1.4)",
-              "multiplier": 1
-            },
-            {
-              "key": "noFerries",
-              "label": "Ordinary ferries unavailable",
-              "formula": "0.78 + 0.22 × logistic((day − 4.5) / 1.2)",
-              "multiplier": 1
-            },
-            {
-              "key": "largeFire",
-              "label": "Large fire scale",
-              "formula": "0.72 + 0.28 × logistic((day − 7.5) / 2.2)",
-              "multiplier": 1
-            },
-            {
-              "key": "veryLargeEvacuation",
-              "label": "Very large evacuation scale",
-              "formula": "0.80 + 0.20 × logistic((day − 8.5) / 2.3)",
-              "multiplier": 1
-            },
-            {
-              "key": "helpfulWeather",
-              "label": "Helpful weather after day 4",
-              "formula": "1.12 when day ≥ 4",
-              "multiplier": 1.12
-            },
-            {
-              "key": "fireImproving",
-              "label": "Fire described as improving after day 4",
-              "formula": "1.10 when day ≥ 4",
-              "multiplier": 1.1
-            },
-            {
-              "key": "blockersShare",
-              "label": "Majority of reopening checklist still blocked",
-              "formula": "if blockers ≥55%: logistic((day − 6.2) / 1.6)",
-              "multiplier": 1
-            }
-          ],
-          "combinedMultiplier": 1.2312
-        },
-        {
-          "daySinceEvacuation": 35,
-          "terms": [
-            {
-              "key": "publicAccessBlocked",
-              "label": "Public access still blocked",
-              "formula": "logistic((day − 4.8) / 1.2)",
-              "multiplier": 1
-            },
-            {
-              "key": "roadClosed",
-              "label": "Ordinary road access not confirmed",
-              "formula": "logistic((day − 5.2) / 1.1)",
-              "multiplier": 1
-            },
-            {
-              "key": "noCommerce",
-              "label": "Essential commerce / visitor services not restarted",
-              "formula": "logistic((day − 5.5) / 1.4)",
-              "multiplier": 1
-            },
-            {
-              "key": "noFerries",
-              "label": "Ordinary ferries unavailable",
-              "formula": "0.78 + 0.22 × logistic((day − 4.5) / 1.2)",
-              "multiplier": 1
-            },
-            {
-              "key": "largeFire",
-              "label": "Large fire scale",
-              "formula": "0.72 + 0.28 × logistic((day − 7.5) / 2.2)",
-              "multiplier": 1
-            },
-            {
-              "key": "veryLargeEvacuation",
-              "label": "Very large evacuation scale",
-              "formula": "0.80 + 0.20 × logistic((day − 8.5) / 2.3)",
-              "multiplier": 1
-            },
-            {
-              "key": "helpfulWeather",
-              "label": "Helpful weather after day 4",
-              "formula": "1.12 when day ≥ 4",
-              "multiplier": 1.12
-            },
-            {
-              "key": "fireImproving",
-              "label": "Fire described as improving after day 4",
-              "formula": "1.10 when day ≥ 4",
-              "multiplier": 1.1
-            },
-            {
-              "key": "blockersShare",
-              "label": "Majority of reopening checklist still blocked",
-              "formula": "if blockers ≥55%: logistic((day − 6.2) / 1.6)",
-              "multiplier": 1
-            }
-          ],
-          "combinedMultiplier": 1.232
-        }
-      ],
-      "cases": [
-        {
-          "id": "woolsey-malibu-2018",
-          "name": "Woolsey 2018 · Malibu",
-          "country": "United States",
-          "region": "California",
-          "practicalTouristReopeningDays": 14,
-          "fireControlDays": 12,
-          "residentReturnDays": 4,
-          "threatAbatementDays": 4,
-          "touristLagAfterResident": 10,
-          "areaHa": 39234,
-          "evacuees": 295000,
-          "peakPersonnel": 3242,
-          "structuresDestroyed": 1643,
-          "dateQuality": "medium",
-          "qualityWeight": 0.78,
-          "similarityWeight": 0.585,
-          "notes": "Affluent coastal WUI analogue with severe structure loss and access/utility constraints.",
-          "featureMismatchPenalty": 0.24,
-          "numericDistancePenalty": 0.16,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": true,
-            "coastalOrPeninsula": true,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "mallacoota-2020",
-          "name": "Mallacoota 2020",
-          "country": "Australia",
-          "region": "Victoria",
-          "practicalTouristReopeningDays": 37,
-          "fireControlDays": 20,
-          "residentReturnDays": 12,
-          "threatAbatementDays": 12,
-          "touristLagAfterResident": 25,
-          "areaHa": 100000,
-          "evacuees": 4000,
-          "peakPersonnel": 700,
-          "structuresDestroyed": 185,
-          "dateQuality": "medium",
-          "qualityWeight": 0.78,
-          "similarityWeight": 0.437,
-          "notes": "Coastal tourist town with road isolation and evacuation by sea; highly relevant to access geometry but larger regional disaster context.",
-          "featureMismatchPenalty": 0.24,
-          "numericDistancePenalty": 0.452,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": true,
-            "coastalOrPeninsula": true,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "jasper-2024",
-          "name": "Jasper 2024",
-          "country": "Canada",
-          "region": "Alberta",
-          "practicalTouristReopeningDays": 46,
-          "fireControlDays": 26,
-          "residentReturnDays": 25,
-          "threatAbatementDays": 25,
-          "touristLagAfterResident": 21,
-          "areaHa": 39000,
-          "evacuees": 25000,
-          "peakPersonnel": 700,
-          "structuresDestroyed": 358,
-          "dateQuality": "high",
-          "qualityWeight": 1,
-          "similarityWeight": 0.414,
-          "notes": "Strong tourist-town analogue; resident re-entry preceded visitor reopening and occurred with limited services.",
-          "featureMismatchPenalty": 0.58,
-          "numericDistancePenalty": 0.301,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": true,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "caldor-south-lake-tahoe-2021",
-          "name": "Caldor 2021 · South Lake Tahoe",
-          "country": "United States",
-          "region": "California",
-          "practicalTouristReopeningDays": 11,
-          "fireControlDays": 6,
-          "residentReturnDays": 6,
-          "threatAbatementDays": 6,
-          "touristLagAfterResident": 5,
-          "areaHa": 89773,
-          "evacuees": 50000,
-          "peakPersonnel": 3500,
-          "structuresDestroyed": 1003,
-          "dateQuality": "high",
-          "qualityWeight": 1,
-          "similarityWeight": 0.391,
-          "notes": "Resident return began while the wider fire remained active; useful reminder that local threat abatement can precede 100% containment.",
-          "featureMismatchPenalty": 0.7,
-          "numericDistancePenalty": 0.239,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": false,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": false,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "czu-santa-cruz-2020",
-          "name": "CZU Lightning Complex 2020 · Santa Cruz/San Mateo",
-          "country": "United States",
-          "region": "California",
-          "practicalTouristReopeningDays": 31,
-          "fireControlDays": 35,
-          "residentReturnDays": 15,
-          "threatAbatementDays": 15,
-          "touristLagAfterResident": 16,
-          "areaHa": 35009,
-          "evacuees": 77000,
-          "peakPersonnel": 1800,
-          "structuresDestroyed": 1490,
-          "dateQuality": "medium",
-          "qualityWeight": 0.78,
-          "similarityWeight": 0.383,
-          "notes": "Coastal/tourist WUI with phased re-entry and substantial structure loss; later tourist access remained locally uneven.",
-          "featureMismatchPenalty": 0.6,
-          "numericDistancePenalty": 0.225,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": false,
-            "coastalOrPeninsula": true,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "gironde-la-teste-2022",
-          "name": "Gironde 2022 · La Teste-de-Buch",
-          "country": "France",
-          "region": "Nouvelle-Aquitaine",
-          "practicalTouristReopeningDays": 12,
-          "fireControlDays": 11,
-          "residentReturnDays": 9,
-          "threatAbatementDays": 9,
-          "touristLagAfterResident": 3,
-          "areaHa": 7000,
-          "evacuees": 20000,
-          "peakPersonnel": 2000,
-          "structuresDestroyed": 5,
-          "dateQuality": "medium",
-          "qualityWeight": 0.78,
-          "similarityWeight": 0.317,
-          "notes": "Closest local/tourist analogue. First reintegrations began before full fixed status; practical tourist access remained constrained by Dune/Pilat and forest closures.",
-          "featureMismatchPenalty": 0.68,
-          "numericDistancePenalty": 0.448,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": false,
-            "coastalOrPeninsula": true,
-            "severeUtilityDamage": false,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": false,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "glass-napa-sonoma-2020",
-          "name": "Glass 2020 · Napa/Sonoma wine country",
-          "country": "United States",
-          "region": "California",
-          "practicalTouristReopeningDays": 22,
-          "fireControlDays": 23,
-          "residentReturnDays": 7,
-          "threatAbatementDays": 7,
-          "touristLagAfterResident": 15,
-          "areaHa": 27310,
-          "evacuees": 70000,
-          "peakPersonnel": 2600,
-          "structuresDestroyed": 1555,
-          "dateQuality": "high",
-          "qualityWeight": 1,
-          "similarityWeight": 0.315,
-          "notes": "Phased re-entry began early, but all evacuation orders were not lifted until near full containment.",
-          "featureMismatchPenalty": 0.94,
-          "numericDistancePenalty": 0.215,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": false,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "kangaroo-island-2020",
-          "name": "Kangaroo Island 2020",
-          "country": "Australia",
-          "region": "South Australia",
-          "practicalTouristReopeningDays": 16,
-          "fireControlDays": 18,
-          "residentReturnDays": 7,
-          "threatAbatementDays": 7,
-          "touristLagAfterResident": 9,
-          "areaHa": 211000,
-          "evacuees": 4000,
-          "peakPersonnel": 800,
-          "structuresDestroyed": 89,
-          "dateQuality": "medium",
-          "qualityWeight": 0.78,
-          "similarityWeight": 0.307,
-          "notes": "Island/tourism analogue; tourism restarted while major park closures and recovery constraints remained.",
-          "featureMismatchPenalty": 0.56,
-          "numericDistancePenalty": 0.487,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": true,
-            "coastalOrPeninsula": true,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": false,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "lake-conjola-2020",
-          "name": "Lake Conjola 2020",
-          "country": "Australia",
-          "region": "New South Wales",
-          "practicalTouristReopeningDays": 40,
-          "fireControlDays": 13,
-          "residentReturnDays": 13,
-          "threatAbatementDays": 13,
-          "touristLagAfterResident": 27,
-          "areaHa": 310000,
-          "evacuees": 3000,
-          "peakPersonnel": 1000,
-          "structuresDestroyed": 89,
-          "dateQuality": "low",
-          "qualityWeight": 0.55,
-          "similarityWeight": 0.295,
-          "notes": "South Coast holiday-community fire; useful mainly for post-damage tourism lag.",
-          "featureMismatchPenalty": 0.24,
-          "numericDistancePenalty": 0.497,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": true,
-            "coastalOrPeninsula": true,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "cameron-peak-estes-park-2020",
-          "name": "Cameron Peak 2020 · Estes Park",
-          "country": "United States",
-          "region": "Colorado",
-          "practicalTouristReopeningDays": 21,
-          "fireControlDays": 47,
-          "residentReturnDays": 8,
-          "threatAbatementDays": 8,
-          "touristLagAfterResident": 13,
-          "areaHa": 84840,
-          "evacuees": 20000,
-          "peakPersonnel": 1500,
-          "structuresDestroyed": 469,
-          "dateQuality": "medium",
-          "qualityWeight": 0.78,
-          "similarityWeight": 0.291,
-          "notes": "Large high-altitude tourist-area fire; useful for containment/reopening decoupling after snow/weather changes.",
-          "featureMismatchPenalty": 0.7,
-          "numericDistancePenalty": 0.284,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": false,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": false,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "kincade-sonoma-2019",
-          "name": "Kincade 2019 · Sonoma",
-          "country": "United States",
-          "region": "California",
-          "practicalTouristReopeningDays": 13,
-          "fireControlDays": 11,
-          "residentReturnDays": 6,
-          "threatAbatementDays": 6,
-          "touristLagAfterResident": 7,
-          "areaHa": 31580,
-          "evacuees": 180000,
-          "peakPersonnel": 5200,
-          "structuresDestroyed": 374,
-          "dateQuality": "medium",
-          "qualityWeight": 0.78,
-          "similarityWeight": 0.277,
-          "notes": "High-resource wine-country case with large evacuation footprint and deliberate repopulation sequencing.",
-          "featureMismatchPenalty": 0.94,
-          "numericDistancePenalty": 0.095,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": false,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "fort-mcmurray-2016",
-          "name": "Fort McMurray / Horse River 2016",
-          "country": "Canada",
-          "region": "Alberta",
-          "practicalTouristReopeningDays": 43,
-          "fireControlDays": 63,
-          "residentReturnDays": 29,
-          "threatAbatementDays": 29,
-          "touristLagAfterResident": 14,
-          "areaHa": 579767,
-          "evacuees": 90000,
-          "peakPersonnel": 2000,
-          "structuresDestroyed": 2400,
-          "dateQuality": "high",
-          "qualityWeight": 1,
-          "similarityWeight": 0.274,
-          "notes": "Large high-resource WUI evacuation with explicit re-entry criteria: threat, local government, emergency services, transportation, utilities and essential businesses.",
-          "featureMismatchPenalty": 1.06,
-          "numericDistancePenalty": 0.233,
-          "features": {
-            "touristArea": false,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": true,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "lnu-lightning-wine-country-2020",
-          "name": "LNU Lightning Complex 2020 · Wine Country",
-          "country": "United States",
-          "region": "California",
-          "practicalTouristReopeningDays": 31,
-          "fireControlDays": 45,
-          "residentReturnDays": 14,
-          "threatAbatementDays": 14,
-          "touristLagAfterResident": 17,
-          "areaHa": 147126,
-          "evacuees": 120000,
-          "peakPersonnel": 2600,
-          "structuresDestroyed": 1491,
-          "dateQuality": "medium",
-          "qualityWeight": 0.78,
-          "similarityWeight": 0.258,
-          "notes": "Large multi-county wine-country incident with long containment tail and earlier phased re-entry.",
-          "featureMismatchPenalty": 0.94,
-          "numericDistancePenalty": 0.167,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": false,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "waldo-canyon-2012",
-          "name": "Waldo Canyon 2012 · Colorado Springs",
-          "country": "United States",
-          "region": "Colorado",
-          "practicalTouristReopeningDays": 12,
-          "fireControlDays": 14,
-          "residentReturnDays": 5,
-          "threatAbatementDays": 5,
-          "touristLagAfterResident": 7,
-          "areaHa": 7436,
-          "evacuees": 32000,
-          "peakPersonnel": 1500,
-          "structuresDestroyed": 347,
-          "dateQuality": "medium",
-          "qualityWeight": 0.78,
-          "similarityWeight": 0.243,
-          "notes": "Populated WUI with major structure loss and rapid phased re-entry; useful but older incident-management context.",
-          "featureMismatchPenalty": 0.94,
-          "numericDistancePenalty": 0.224,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": false,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "creek-shaver-lake-2020",
-          "name": "Creek 2020 · Shaver Lake / Sierra recreation",
-          "country": "United States",
-          "region": "California",
-          "practicalTouristReopeningDays": 40,
-          "fireControlDays": 110,
-          "residentReturnDays": 18,
-          "threatAbatementDays": 18,
-          "touristLagAfterResident": 22,
-          "areaHa": 153738,
-          "evacuees": 30000,
-          "peakPersonnel": 3100,
-          "structuresDestroyed": 856,
-          "dateQuality": "low",
-          "qualityWeight": 0.55,
-          "similarityWeight": 0.236,
-          "notes": "Large recreation-area fire with unusually long containment tail; practical access varied by community.",
-          "featureMismatchPenalty": 0.58,
-          "numericDistancePenalty": 0.265,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": true,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "east-troublesome-grand-lake-2020",
-          "name": "East Troublesome 2020 · Grand Lake/Estes Park",
-          "country": "United States",
-          "region": "Colorado",
-          "practicalTouristReopeningDays": 25,
-          "fireControlDays": 40,
-          "residentReturnDays": 10,
-          "threatAbatementDays": 10,
-          "touristLagAfterResident": 15,
-          "areaHa": 78249,
-          "evacuees": 35000,
-          "peakPersonnel": 1200,
-          "structuresDestroyed": 580,
-          "dateQuality": "medium",
-          "qualityWeight": 0.78,
-          "similarityWeight": 0.234,
-          "notes": "Mountain tourist WUI with heavy structure loss and access constraints.",
-          "featureMismatchPenalty": 0.94,
-          "numericDistancePenalty": 0.265,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": false,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "tubbs-santa-rosa-2017",
-          "name": "Tubbs 2017 · Santa Rosa/Napa",
-          "country": "United States",
-          "region": "California",
-          "practicalTouristReopeningDays": 19,
-          "fireControlDays": 22,
-          "residentReturnDays": 9,
-          "threatAbatementDays": 9,
-          "touristLagAfterResident": 10,
-          "areaHa": 14900,
-          "evacuees": 100000,
-          "peakPersonnel": 3000,
-          "structuresDestroyed": 5636,
-          "dateQuality": "medium",
-          "qualityWeight": 0.78,
-          "similarityWeight": 0.232,
-          "notes": "Wine-country WUI with major structure loss; helpful for separating resident re-entry from visitor economy recovery.",
-          "featureMismatchPenalty": 0.94,
-          "numericDistancePenalty": 0.273,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": false,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "yellowknife-2023",
-          "name": "Yellowknife 2023",
-          "country": "Canada",
-          "region": "Northwest Territories",
-          "practicalTouristReopeningDays": 26,
-          "fireControlDays": 19,
-          "residentReturnDays": 21,
-          "threatAbatementDays": 19,
-          "touristLagAfterResident": 5,
-          "areaHa": 167000,
-          "evacuees": 22000,
-          "peakPersonnel": 400,
-          "structuresDestroyed": 0,
-          "dateQuality": "high",
-          "qualityWeight": 1,
-          "similarityWeight": 0.231,
-          "notes": "Single-road evacuation analogue; not a tourist-peninsula case but useful for organised mass re-entry after fire threat receded.",
-          "featureMismatchPenalty": 1.14,
-          "numericDistancePenalty": 0.327,
-          "features": {
-            "touristArea": false,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": true,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": false,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": false,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "mcdougall-creek-2023",
-          "name": "McDougall Creek 2023 · West Kelowna",
-          "country": "Canada",
-          "region": "British Columbia",
-          "practicalTouristReopeningDays": 18,
-          "fireControlDays": 35,
-          "residentReturnDays": 8,
-          "threatAbatementDays": 8,
-          "touristLagAfterResident": 10,
-          "areaHa": 13970,
-          "evacuees": 35000,
-          "peakPersonnel": 500,
-          "structuresDestroyed": 303,
-          "dateQuality": "medium",
-          "qualityWeight": 0.78,
-          "similarityWeight": 0.229,
-          "notes": "Okanagan tourist-region case with travel restrictions and phased lifting of orders; useful for commerce/tourism lag.",
-          "featureMismatchPenalty": 0.94,
-          "numericDistancePenalty": 0.286,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": false,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "camp-paradise-2018",
-          "name": "Camp 2018 · Paradise",
-          "country": "United States",
-          "region": "California",
-          "practicalTouristReopeningDays": 68,
-          "fireControlDays": 17,
-          "residentReturnDays": 27,
-          "threatAbatementDays": 17,
-          "touristLagAfterResident": 41,
-          "areaHa": 62053,
-          "evacuees": 52000,
-          "peakPersonnel": 5600,
-          "structuresDestroyed": 18804,
-          "dateQuality": "medium",
-          "qualityWeight": 0.78,
-          "similarityWeight": 0.173,
-          "notes": "Extreme-damage tail case; deliberately down-weighted by similarity for Cap Ferret but important for utility/debris delay.",
-          "featureMismatchPenalty": 1.06,
-          "numericDistancePenalty": 0.446,
-          "features": {
-            "touristArea": false,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": true,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "marshall-boulder-2021",
-          "name": "Marshall 2021 · Boulder County",
-          "country": "United States",
-          "region": "Colorado",
-          "practicalTouristReopeningDays": 5,
-          "fireControlDays": 2,
-          "residentReturnDays": 4,
-          "threatAbatementDays": 2,
-          "touristLagAfterResident": 1,
-          "areaHa": 2500,
-          "evacuees": 37000,
-          "peakPersonnel": 500,
-          "structuresDestroyed": 1084,
-          "dateQuality": "high",
-          "qualityWeight": 1,
-          "similarityWeight": 0.169,
-          "notes": "Fast weather break / grass-WUI case; retained at lower similarity for rapid-reopening lower bound.",
-          "featureMismatchPenalty": 1.42,
-          "numericDistancePenalty": 0.358,
-          "features": {
-            "touristArea": false,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": false,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "gironde-landiras-2022",
-          "name": "Gironde 2022 · Landiras",
-          "country": "France",
-          "region": "Nouvelle-Aquitaine",
-          "practicalTouristReopeningDays": 14,
-          "fireControlDays": 13,
-          "residentReturnDays": 10,
-          "threatAbatementDays": 10,
-          "touristLagAfterResident": 4,
-          "areaHa": 13800,
-          "evacuees": 16000,
-          "peakPersonnel": 2000,
-          "structuresDestroyed": 0,
-          "dateQuality": "medium",
-          "qualityWeight": 0.78,
-          "similarityWeight": 0.153,
-          "notes": "Same regional command environment as La Teste; useful for fire-control timing, less useful for tourist reopening.",
-          "featureMismatchPenalty": 1.5,
-          "numericDistancePenalty": 0.243,
-          "features": {
-            "touristArea": false,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": false,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": false,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": false,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "dixie-greenville-2021",
-          "name": "Dixie 2021 · Greenville/Lake Almanor",
-          "country": "United States",
-          "region": "California",
-          "practicalTouristReopeningDays": 58,
-          "fireControlDays": 82,
-          "residentReturnDays": 35,
-          "threatAbatementDays": 35,
-          "touristLagAfterResident": 23,
-          "areaHa": 389837,
-          "evacuees": 14000,
-          "peakPersonnel": 6500,
-          "structuresDestroyed": 1329,
-          "dateQuality": "low",
-          "qualityWeight": 0.55,
-          "similarityWeight": 0.143,
-          "notes": "Megafire tail case; less similar to Cap Ferret because fire scale and duration were exceptional.",
-          "featureMismatchPenalty": 0.94,
-          "numericDistancePenalty": 0.409,
-          "features": {
-            "touristArea": true,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": false,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        },
-        {
-          "id": "carr-redding-2018",
-          "name": "Carr 2018 · Redding",
-          "country": "United States",
-          "region": "California",
-          "practicalTouristReopeningDays": 22,
-          "fireControlDays": 35,
-          "residentReturnDays": 9,
-          "threatAbatementDays": 9,
-          "touristLagAfterResident": 13,
-          "areaHa": 93170,
-          "evacuees": 38000,
-          "peakPersonnel": 4700,
-          "structuresDestroyed": 1614,
-          "dateQuality": "medium",
-          "qualityWeight": 0.78,
-          "similarityWeight": 0.138,
-          "notes": "Large urban-edge fire with destructive WUI effects and phased re-entry before full containment.",
-          "featureMismatchPenalty": 1.42,
-          "numericDistancePenalty": 0.313,
-          "features": {
-            "touristArea": false,
-            "affluentOrHighResource": true,
-            "wildlandUrbanInterface": true,
-            "singleAccessCorridor": false,
-            "coastalOrPeninsula": false,
-            "severeUtilityDamage": true,
-            "majorRoadOrRailDisruption": true,
-            "majorStructureLoss": true,
-            "weatherBreakObserved": true
-          }
-        }
-      ]
-    },
-    "summary": {
-      "peakDate": "2026-08-08",
-      "peakLabel": "Sat 8 Aug",
-      "peakProbability": 0.02918566728973331,
-      "medianDate": "2026-08-21",
-      "medianLabel": "Fri 21 Aug",
-      "p10Date": "2026-08-06",
-      "p10Label": "Thu 6 Aug",
-      "p90Date": "2026-09-12",
-      "p90Label": "Sat 12 Sept",
-      "next3DaysProbability": 0.00014969485909874236,
-      "next7DaysProbability": 0.02227765928058891,
-      "afterTwoWeeksProbability": 0.8001050628511733
-    },
-    "distribution": [
-      {
-        "date": "2026-07-26",
-        "label": "Sun 26 Jul",
-        "daySinceEvacuation": 2,
-        "probability": 0,
-        "cumulativeProbability": 0
-      },
-      {
-        "date": "2026-07-27",
-        "label": "Mon 27 Jul",
-        "daySinceEvacuation": 3,
-        "probability": 0,
-        "cumulativeProbability": 0
-      },
-      {
-        "date": "2026-07-28",
-        "label": "Tue 28 Jul",
-        "daySinceEvacuation": 4,
-        "probability": 0,
-        "cumulativeProbability": 0
-      },
-      {
-        "date": "2026-07-29",
-        "label": "Wed 29 Jul",
-        "daySinceEvacuation": 5,
-        "probability": 0.0001,
-        "cumulativeProbability": 0.0001
-      },
-      {
-        "date": "2026-07-30",
-        "label": "Thu 30 Jul",
-        "daySinceEvacuation": 6,
-        "probability": 0.0008,
-        "cumulativeProbability": 0.001
-      },
-      {
-        "date": "2026-07-31",
-        "label": "Fri 31 Jul",
-        "daySinceEvacuation": 7,
-        "probability": 0.0029,
-        "cumulativeProbability": 0.0039
-      },
-      {
-        "date": "2026-08-01",
-        "label": "Sat 1 Aug",
-        "daySinceEvacuation": 8,
-        "probability": 0.0067,
-        "cumulativeProbability": 0.0106
-      },
-      {
-        "date": "2026-08-02",
-        "label": "Sun 2 Aug",
-        "daySinceEvacuation": 9,
-        "probability": 0.0116,
-        "cumulativeProbability": 0.0223
-      },
-      {
-        "date": "2026-08-03",
-        "label": "Mon 3 Aug",
-        "daySinceEvacuation": 10,
-        "probability": 0.0168,
-        "cumulativeProbability": 0.0391
-      },
-      {
-        "date": "2026-08-04",
-        "label": "Tue 4 Aug",
-        "daySinceEvacuation": 11,
-        "probability": 0.0214,
-        "cumulativeProbability": 0.0605
-      },
-      {
-        "date": "2026-08-05",
-        "label": "Wed 5 Aug",
-        "daySinceEvacuation": 12,
-        "probability": 0.025,
-        "cumulativeProbability": 0.0855
-      },
-      {
-        "date": "2026-08-06",
-        "label": "Thu 6 Aug",
-        "daySinceEvacuation": 13,
-        "probability": 0.0274,
-        "cumulativeProbability": 0.1129
-      },
-      {
-        "date": "2026-08-07",
-        "label": "Fri 7 Aug",
-        "daySinceEvacuation": 14,
-        "probability": 0.0287,
-        "cumulativeProbability": 0.1416
-      },
-      {
-        "date": "2026-08-08",
-        "label": "Sat 8 Aug",
-        "daySinceEvacuation": 15,
-        "probability": 0.0292,
-        "cumulativeProbability": 0.1708
-      },
-      {
-        "date": "2026-08-09",
-        "label": "Sun 9 Aug",
-        "daySinceEvacuation": 16,
-        "probability": 0.0291,
-        "cumulativeProbability": 0.1999
-      },
-      {
-        "date": "2026-08-10",
-        "label": "Mon 10 Aug",
-        "daySinceEvacuation": 17,
-        "probability": 0.0287,
-        "cumulativeProbability": 0.2286
-      },
-      {
-        "date": "2026-08-11",
-        "label": "Tue 11 Aug",
-        "daySinceEvacuation": 18,
-        "probability": 0.0283,
-        "cumulativeProbability": 0.2569
-      },
-      {
-        "date": "2026-08-12",
-        "label": "Wed 12 Aug",
-        "daySinceEvacuation": 19,
-        "probability": 0.0278,
-        "cumulativeProbability": 0.2847
-      },
-      {
-        "date": "2026-08-13",
-        "label": "Thu 13 Aug",
-        "daySinceEvacuation": 20,
-        "probability": 0.0272,
-        "cumulativeProbability": 0.3119
-      },
-      {
-        "date": "2026-08-14",
-        "label": "Fri 14 Aug",
-        "daySinceEvacuation": 21,
-        "probability": 0.0267,
-        "cumulativeProbability": 0.3386
-      },
-      {
-        "date": "2026-08-15",
-        "label": "Sat 15 Aug",
-        "daySinceEvacuation": 22,
-        "probability": 0.026,
-        "cumulativeProbability": 0.3646
-      },
-      {
-        "date": "2026-08-16",
-        "label": "Sun 16 Aug",
-        "daySinceEvacuation": 23,
-        "probability": 0.0253,
-        "cumulativeProbability": 0.3898
-      },
-      {
-        "date": "2026-08-17",
-        "label": "Mon 17 Aug",
-        "daySinceEvacuation": 24,
-        "probability": 0.0245,
-        "cumulativeProbability": 0.4143
-      },
-      {
-        "date": "2026-08-18",
-        "label": "Tue 18 Aug",
-        "daySinceEvacuation": 25,
-        "probability": 0.0237,
-        "cumulativeProbability": 0.438
-      },
-      {
-        "date": "2026-08-19",
-        "label": "Wed 19 Aug",
-        "daySinceEvacuation": 26,
-        "probability": 0.0229,
-        "cumulativeProbability": 0.4608
-      },
-      {
-        "date": "2026-08-20",
-        "label": "Thu 20 Aug",
-        "daySinceEvacuation": 27,
-        "probability": 0.0221,
-        "cumulativeProbability": 0.483
-      },
-      {
-        "date": "2026-08-21",
-        "label": "Fri 21 Aug",
-        "daySinceEvacuation": 28,
-        "probability": 0.0215,
-        "cumulativeProbability": 0.5045
-      },
-      {
-        "date": "2026-08-22",
-        "label": "Sat 22 Aug",
-        "daySinceEvacuation": 29,
-        "probability": 0.0211,
-        "cumulativeProbability": 0.5256
-      },
-      {
-        "date": "2026-08-23",
-        "label": "Sun 23 Aug",
-        "daySinceEvacuation": 30,
-        "probability": 0.0208,
-        "cumulativeProbability": 0.5464
-      },
-      {
-        "date": "2026-08-24",
-        "label": "Mon 24 Aug",
-        "daySinceEvacuation": 31,
-        "probability": 0.0206,
-        "cumulativeProbability": 0.5669
-      },
-      {
-        "date": "2026-08-25",
-        "label": "Tue 25 Aug",
-        "daySinceEvacuation": 32,
-        "probability": 0.0205,
-        "cumulativeProbability": 0.5874
-      },
-      {
-        "date": "2026-08-26",
-        "label": "Wed 26 Aug",
-        "daySinceEvacuation": 33,
-        "probability": 0.0205,
-        "cumulativeProbability": 0.6079
-      },
-      {
-        "date": "2026-08-27",
-        "label": "Thu 27 Aug",
-        "daySinceEvacuation": 34,
-        "probability": 0.0205,
-        "cumulativeProbability": 0.6284
-      },
-      {
-        "date": "2026-08-28",
-        "label": "Fri 28 Aug",
-        "daySinceEvacuation": 35,
-        "probability": 0.0205,
-        "cumulativeProbability": 0.6489
-      },
-      {
-        "date": "2026-08-29",
-        "label": "Sat 29 Aug",
-        "daySinceEvacuation": 36,
-        "probability": 0.0205,
-        "cumulativeProbability": 0.6695
-      },
-      {
-        "date": "2026-08-30",
-        "label": "Sun 30 Aug",
-        "daySinceEvacuation": 37,
-        "probability": 0.0205,
-        "cumulativeProbability": 0.69
-      },
-      {
-        "date": "2026-08-31",
-        "label": "Mon 31 Aug",
-        "daySinceEvacuation": 38,
-        "probability": 0.0204,
-        "cumulativeProbability": 0.7104
-      },
-      {
-        "date": "2026-09-01",
-        "label": "Tue 1 Sept",
-        "daySinceEvacuation": 39,
-        "probability": 0.0202,
-        "cumulativeProbability": 0.7305
-      },
-      {
-        "date": "2026-09-02",
-        "label": "Wed 2 Sept",
-        "daySinceEvacuation": 40,
-        "probability": 0.0199,
-        "cumulativeProbability": 0.7504
-      },
-      {
-        "date": "2026-09-03",
-        "label": "Thu 3 Sept",
-        "daySinceEvacuation": 41,
-        "probability": 0.0194,
-        "cumulativeProbability": 0.7698
-      },
-      {
-        "date": "2026-09-04",
-        "label": "Fri 4 Sept",
-        "daySinceEvacuation": 42,
-        "probability": 0.0188,
-        "cumulativeProbability": 0.7886
-      },
-      {
-        "date": "2026-09-05",
-        "label": "Sat 5 Sept",
-        "daySinceEvacuation": 43,
-        "probability": 0.0181,
-        "cumulativeProbability": 0.8067
-      },
-      {
-        "date": "2026-09-06",
-        "label": "Sun 6 Sept",
-        "daySinceEvacuation": 44,
-        "probability": 0.0172,
-        "cumulativeProbability": 0.8239
-      },
-      {
-        "date": "2026-09-07",
-        "label": "Mon 7 Sept",
-        "daySinceEvacuation": 45,
-        "probability": 0.0162,
-        "cumulativeProbability": 0.8401
-      },
-      {
-        "date": "2026-09-08",
-        "label": "Tue 8 Sept",
-        "daySinceEvacuation": 46,
-        "probability": 0.0151,
-        "cumulativeProbability": 0.8553
-      },
-      {
-        "date": "2026-09-09",
-        "label": "Wed 9 Sept",
-        "daySinceEvacuation": 47,
-        "probability": 0.0139,
-        "cumulativeProbability": 0.8692
-      },
-      {
-        "date": "2026-09-10",
-        "label": "Thu 10 Sept",
-        "daySinceEvacuation": 48,
-        "probability": 0.0127,
-        "cumulativeProbability": 0.8819
-      },
-      {
-        "date": "2026-09-11",
-        "label": "Fri 11 Sept",
-        "daySinceEvacuation": 49,
-        "probability": 0.0114,
-        "cumulativeProbability": 0.8933
-      },
-      {
-        "date": "2026-09-12",
-        "label": "Sat 12 Sept",
-        "daySinceEvacuation": 50,
-        "probability": 0.0102,
-        "cumulativeProbability": 0.9035
-      },
-      {
-        "date": "2026-09-13",
-        "label": "Sun 13 Sept",
-        "daySinceEvacuation": 51,
-        "probability": 0.009,
-        "cumulativeProbability": 0.9126
-      },
-      {
-        "date": "2026-09-14",
-        "label": "Mon 14 Sept",
-        "daySinceEvacuation": 52,
-        "probability": 0.0079,
-        "cumulativeProbability": 0.9205
-      },
-      {
-        "date": "2026-09-15",
-        "label": "Tue 15 Sept",
-        "daySinceEvacuation": 53,
-        "probability": 0.0069,
-        "cumulativeProbability": 0.9274
-      },
-      {
-        "date": "2026-09-16",
-        "label": "Wed 16 Sept",
-        "daySinceEvacuation": 54,
-        "probability": 0.0061,
-        "cumulativeProbability": 0.9335
-      },
-      {
-        "date": "2026-09-17",
-        "label": "Thu 17 Sept",
-        "daySinceEvacuation": 55,
-        "probability": 0.0053,
-        "cumulativeProbability": 0.9388
-      },
-      {
-        "date": "2026-09-18",
-        "label": "Fri 18 Sept",
-        "daySinceEvacuation": 56,
-        "probability": 0.0047,
-        "cumulativeProbability": 0.9435
-      },
-      {
-        "date": "2026-09-19",
-        "label": "Sat 19 Sept",
-        "daySinceEvacuation": 57,
-        "probability": 0.0042,
-        "cumulativeProbability": 0.9477
-      },
-      {
-        "date": "2026-09-20",
-        "label": "Sun 20 Sept",
-        "daySinceEvacuation": 58,
-        "probability": 0.0038,
-        "cumulativeProbability": 0.9515
-      },
-      {
-        "date": "later",
-        "label": "Later",
-        "daySinceEvacuation": 59,
-        "probability": 0.0485,
-        "cumulativeProbability": 1
-      }
-    ],
-    "scenarioWindows": [
-      {
-        "label": "Next 3 days",
-        "probability": 0.0001
-      },
-      {
-        "label": "4–9 days",
-        "probability": 0.0603
-      },
-      {
-        "label": "10–21 days",
-        "probability": 0.3294
-      }
-    ],
-    "drivers": [
-      "The evacuation order and lack of public access strongly suppress near-term reopening.",
-      "Ordinary road access to the peninsula is not confirmed.",
-      "Essential shops and visitor services have not announced a normal restart.",
-      "The next-24-hour weather signal is less adverse than peak spread conditions.",
-      "The fire scale and evacuation scale keep a meaningful late tail."
-    ],
-    "evidence": {
-      "publicAccessBlocked": true,
-      "fireNotFixed": false,
-      "fireImproving": true,
-      "newEvacuations": false,
-      "roadClosed": true,
-      "noCommerce": true,
-      "noFerries": true,
-      "adverseWeather": false,
-      "helpfulWeather": true,
-      "largeFire": true,
-      "veryLargeEvacuation": true,
-      "hectares": 42000,
-      "evacuees": 220000,
-      "peakPersonnel": 2500,
-      "structuresDestroyed": 240,
-      "majorStructureLoss": true,
-      "directInfrastructureDamage": false,
-      "utilityConcern": false,
-      "synthesisPending": false,
-      "noSignals": 6,
-      "watchSignals": 2,
-      "yesSignals": 0,
-      "totalSignals": 8
-    },
-    "caveat": "This is a decision-support forecast, not an official reopening estimate. The historical case library is small and deliberately hidden from the public UI to avoid over-claiming comparability. The forecast should move sharply if authorities announce the fire is fixed, evacuation orders are lifted, RD106/access routes reopen or businesses confirm normal public service.",
-    "french": {
-      "definition": "Premier jour où un touriste ordinaire pourrait raisonnablement aller sur la presqu’île : accès public autorisé, routes utilisables, commerces essentiels probablement ouverts et activité touristique en reprise. Cela n’exige pas que chaque plage, piste forestière ou restaurant soit ouvert.",
-      "model": {
-        "name": "Modèle bayésien discret de date de réouverture",
-        "prior": "Le prior de base vient d’une bibliothèque structurée d’évacuations comparables en zones aisées/touristiques d’interface forêt-habitat, pondérées par similarité et qualité des dates, puis conditionnée au fait que la presqu’île n’est pas encore rouverte en pratique.",
-        "update": "Les vraisemblances favorisent la maîtrise du feu, la levée des évacuations et accès, la reprise commerciale et une météo favorable ; elles pénalisent un feu actif/non fixé, de nouvelles évacuations, les routes fermées, l’absence de commerce, une météo défavorable et les éléments urgents non synthétisés."
-      },
-      "stages": [
-        {
-          "label": "Signal de menace locale fortement réduite",
-          "note": "Approximation du moment où le risque local cesse d’être le frein principal.",
-          "p10Days": 4,
-          "medianDays": 9,
-          "p90Days": 25
-        },
-        {
-          "label": "Retour initial des résidents",
-          "note": "Souvent plus tôt que la réouverture touristique complète.",
-          "p10Days": 4,
-          "medianDays": 9,
-          "p90Days": 25
-        },
-        {
-          "label": "Délai résidents → tourisme",
-          "note": "Temps supplémentaire typique pour routes, services et commerces visiteurs.",
-          "p10Days": 5,
-          "medianDays": 13,
-          "p90Days": 25
-        }
-      ],
-      "scenarioWindows": [
-        {
-          "label": "Dans les 3 prochains jours",
-          "probability": 0.0001
-        },
-        {
-          "label": "Dans 4 à 9 jours",
-          "probability": 0.0603
-        },
-        {
-          "label": "Dans 10 à 21 jours",
-          "probability": 0.3294
-        }
-      ],
-      "drivers": [
-        "L’évacuation et l’absence d’accès public repoussent fortement une réouverture rapide.",
-        "L’accès routier ordinaire à la presqu’île n’est pas confirmé.",
-        "Les commerces essentiels et services touristiques n’ont pas annoncé de reprise normale.",
-        "La météo prévue est moins défavorable que lors des pics de propagation.",
-        "La taille de l’incendie et l’ampleur des évacuations tirent la queue de distribution vers plus tard."
-      ],
-      "caveat": "C’est une prévision d’aide à la décision, pas une estimation officielle de réouverture. La bibliothèque historique reste petite et n’est pas détaillée dans l’interface publique pour éviter de sur-vendre la comparabilité. Elle devrait bouger fortement si les autorités annoncent que le feu est fixé, que les évacuations sont levées, que la RD106/les accès rouvrent ou que les commerces confirment un service public normal."
-    }
-  },
   "officialCheckpoints": [
     {
       "id": "checkpoint-2026-07-26-lege-1452",
