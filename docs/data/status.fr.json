@@ -487,7 +487,9 @@
     "3118504dc72a": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
     "5ff4db1a3b38": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "794e409a9635": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
-    "07754f053290": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
+    "07754f053290": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "5b2e58c34ffc": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "63c0dcda7a5f": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes."
   },
   "access": {
     "Road access to the peninsula": {
@@ -577,13 +579,13 @@
   },
   "aviation": {
     "overall": {
-      "status": "Vols exploités · accès au sol de l’aéroport perturbé",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 13 h 49 ; avis préfectoraux d’évacuation"
+      "status": "Vols exploités · fortes perturbations des arrivées",
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 18:09 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
-        "status": "Risque élevé · vols listés et activité maintenue",
-        "detail": "Le tableau officiel de l’aéroport affiche toujours des arrivées et des départs et indique que l’activité aéroportuaire est en cours. Les ordres et alertes d’évacuation dans le couloir plus large vers Bordeaux maintiennent un risque élevé, mais aucun avis direct de l’aéroport ne confirme une fermeture du terminal."
+        "status": "Risque élevé · vols exploités mais fortement perturbés",
+        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 31 arrivées retardées et 2 annulées, ainsi que 0 départs retardés et 0 annulés. Les ordres et alertes d’évacuation dans le couloir plus large vers Bordeaux maintiennent un risque élevé, mais aucun avis direct de l’aéroport ne confirme une fermeture du terminal."
       },
       "groundAccess": {
         "status": "Perturbé · arrêts de tram vers l’aéroport non desservis",
@@ -1190,6 +1192,34 @@
       "interesting": "Ce type de détail opérationnel peut apparaître sur les réseaux sociaux avant la presse, mais les chiffres et moyens engagés doivent rester vérifiés officiellement.",
       "credibility": "Message Mastodon public · faible",
       "incremental": "signal moyens engagés"
+    },
+    "https://bsky.app/profile/did:plc:i7hoagrl2onqpg3xfpnhnu24/post/3mrkqpxi4ae2a": {
+      "title": "Incendie : Colère et dégoût après les propos du député La France Insoumise Jean-François Coulomme qui ironise sur…",
+      "summary": "Il donne un aperçu de terrain sur l’évacuation, la circulation ou l’accès qui peut précéder les synthèses officielles. Texte du message : Incendie : Colère et dégoût après les propos du député La France Insoumise Jean-François Coulomme qui ironise sur \"les bourgeois de Cap-Ferret\" obligés d'évacuer #incendie #insoumi",
+      "interesting": "Le contexte de terrain est utile, mais les fermetures officielles et FR-Alert restent prioritaires.",
+      "credibility": "Message Bluesky public · faible",
+      "incremental": "signal évacuation/accès"
+    },
+    "https://gayfr.social/@optimistique33/116987115794587697": {
+      "title": "Attention il y a des salopards qui montent de fausses cagnottes ! Le seul vrai site de la spa de Mérignac pour…",
+      "summary": "Il pointe des conséquences possibles pour l’aéroport, les transports ou la périphérie bordelaise à vérifier avec les tableaux officiels et les alertes préfectorales. Texte du message : Attention il y a des salopards qui montent de fausses cagnottes ! Le seul vrai site de la spa de Mérignac pour faire un don c'est https:// spa33.fr/ Actuellement les animaux du refuges sont évacués. #spa #Gironde #incendies",
+      "interesting": "Les implications pour l’aéroport et l’accès routier sont critiques pour décider, mais les réseaux sociaux restent un signal d’alerte à vérifier.",
+      "credibility": "Message Mastodon public · faible",
+      "incremental": "signal aéroport/accès"
+    },
+    "https://bsky.app/profile/did:plc:x6iwiot43norkasv6mnxvfgs/post/3mrko4vs4d225": {
+      "title": "Incendie du Cap Ferret Vue des satellites FIRMS, la progression se stabilise mais le feu continue dans toutes les…",
+      "summary": "Il relaie une carte, une direction ou une observation sur le comportement du feu utile pour interpréter les sources officielles. Texte du message : Incendie du Cap Ferret Vue des satellites FIRMS, la progression se stabilise mais le feu continue dans toutes les directions à la fois (y compris dans la presqu'île du Cap elle-mêm",
+      "interesting": "Ce signal peut aider à repérer une inquiétude émergente sur la progression, sans valoir périmètre officiel.",
+      "credibility": "Message Bluesky public · faible",
+      "incremental": "signal progression"
+    },
+    "https://www.reddit.com/r/bordeaux/comments/1v755ml/projet_perso_entraide_face_aux_incendies_en/": {
+      "title": "[Projet perso / Entraide] Face aux incendies en Gironde, j'ai créé un outil simple et gratuit pour coordonner…",
+      "summary": "Il relaie une carte, une direction ou une observation sur le comportement du feu utile pour interpréter les sources officielles. Texte du message : [Projet perso / Entraide] Face aux incendies en Gironde, j'ai créé un outil simple et gratuit pour coordonner l'aide (carte interactive en temps réel)",
+      "interesting": "Ce signal peut aider à repérer une inquiétude émergente sur la progression, sans valoir périmètre officiel.",
+      "credibility": "Signal forum public · faible",
+      "incremental": "signal progression"
     }
   },
   "mapStatuses": {
@@ -1367,7 +1397,9 @@
     "3118504dc72a": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
     "5ff4db1a3b38": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "794e409a9635": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
-    "07754f053290": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
+    "07754f053290": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "5b2e58c34ffc": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "63c0dcda7a5f": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes."
   },
   "generatedAt": "2026-07-26T13:53:45.859Z",
   "officialCheckpoints": {
