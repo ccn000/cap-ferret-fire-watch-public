@@ -576,7 +576,10 @@
     "ed24809becd9": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
     "2f0f836ba7d8": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
     "754976ed52a1": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
-    "ef3c934c4459": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants."
+    "ef3c934c4459": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "3c0945e43ec3": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "09396692a15d": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "7b4b5b092cc5": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression."
   },
   "access": {
     "Road access to the peninsula": {
@@ -666,13 +669,13 @@
   },
   "aviation": {
     "overall": {
-      "status": "Vols exploités · fortes perturbations des arrivées",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 21:53 CEST ; avis préfectoraux d’évacuation"
+      "status": "Vols exploités · retards/annulations des arrivées",
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 22:57 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
         "status": "Risque élevé · vols exploités mais fortement perturbés",
-        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 17 arrivées retardées et 2 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
+        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 6 arrivées retardées et 2 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
       },
       "groundAccess": {
         "status": "Perturbé · zone hôtelière évacuée et arrêts de tram non desservis",
@@ -1349,6 +1352,13 @@
       "interesting": "Ce signal peut aider à repérer une inquiétude émergente sur la progression, sans valoir périmètre officiel.",
       "credibility": "Message Mastodon public · faible",
       "incremental": "signal progression"
+    },
+    "https://gayfr.social/@optimistique33/116988091798900770": {
+      "title": "Les nouvelles ne sont pas bonnes ce soir. La nuit risque d'être difficile.",
+      "summary": "Il apporte une couleur publique actuelle: des observateurs locaux s’attendent à une nuit difficile, tout en renvoyant à un article de presse plutôt qu’à une consigne de sécurité.",
+      "interesting": "Signal d’ambiance utile mais de faible confiance sur la situation de dimanche soir; il ne modifie pas la consigne officielle de ne pas se déplacer.",
+      "credibility": "Message Mastodon public · faible",
+      "incremental": "ambiance locale"
     }
   },
   "mapStatuses": {
@@ -1604,7 +1614,10 @@
     "ed24809becd9": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
     "2f0f836ba7d8": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
     "754976ed52a1": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
-    "ef3c934c4459": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants."
+    "ef3c934c4459": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "3c0945e43ec3": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "09396692a15d": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "7b4b5b092cc5": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression."
   },
   "generatedAt": "2026-07-26T13:53:45.859Z",
   "officialCheckpoints": {
@@ -1686,7 +1699,7 @@
     },
     "flipCondition": "La maîtrise du feu, la levée de l’évacuation, l’accès public par route ou transport autorisé et les commerces essentiels doivent passer de bloqués/incertains à confirmés.",
     "scanSummary": {
-      "text": "30 sources vérifiées à 21:57 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
+      "text": "30 sources vérifiées à 23:00 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
     },
     "checklist": {
       "fire-contained-or-controlled": {
