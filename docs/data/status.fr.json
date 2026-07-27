@@ -634,7 +634,10 @@
     "cc981ab40b44": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
     "d56762d8e388": "Thème du titre : implications pour l’aéroport, les transports ou l’accès autour de Bordeaux.",
     "9fb48ef849bb": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
-    "99d43ce726a1": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression."
+    "99d43ce726a1": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "bf79e488d165": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "3e3ae2858f78": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "4aa9e5762389": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
   },
   "access": {
     "Road access to the peninsula": {
@@ -725,7 +728,7 @@
   "aviation": {
     "overall": {
       "status": "Vols exploités · retards/annulations des arrivées",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 08:03 CEST ; avis préfectoraux d’évacuation"
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 09:03 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
@@ -1435,6 +1438,27 @@
       "interesting": "C’est utile comme contexte ou alerte précoce, mais pas comme source décisionnelle seule.",
       "credibility": "Relais média · moyen",
       "incremental": "contexte local"
+    },
+    "https://bsky.app/profile/did:plc:x6iwiot43norkasv6mnxvfgs/post/3mrmczvdrx225": {
+      "title": "Incendie du Cap Ferret Petite progression près du camp militaire de Souges. Le foyer reste actif vers l'Est.",
+      "summary": "Il relaie une carte, une direction ou une observation sur le comportement du feu utile pour interpréter les sources officielles. Texte du message : Incendie du Cap Ferret Petite progression près du camp militaire de Souges. Le foyer reste actif vers l'Est.",
+      "interesting": "Ce signal peut aider à repérer une inquiétude émergente sur la progression, sans valoir périmètre officiel.",
+      "credibility": "Message Bluesky public · faible",
+      "incremental": "signal progression"
+    },
+    "https://bsky.app/profile/did:plc:3f7vo3othc6w6oaclxhxheim/post/3mrmbbryhks2x": {
+      "title": "Incendies en Gironde : 42 000 hectares brûlés et 220 000 évacuations 2 500 pompiers et 1 500 militaires…",
+      "summary": "Il décrit une activité visible des secours, comme des avions, des pompiers ou des renforts autour du feu. Texte du message : Incendies en Gironde : 42 000 hectares brûlés et 220 000 évacuations 2 500 pompiers et 1 500 militaires mobilisés. L'A63 fermée, ferries interrompus. « Tant que le feu n'est pas fi",
+      "interesting": "Ce type de détail opérationnel peut apparaître sur les réseaux sociaux avant la presse, mais les chiffres et moyens engagés doivent rester vérifiés officiellement.",
+      "credibility": "Relais d’expert ou d’autorité · moyen",
+      "incremental": "signal moyens engagés"
+    },
+    "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrm7zpnlh22z": {
+      "title": "Incendie en Gironde: \"Ce qu'on espère, c'est pouvoir retourner chez nous\", confie cette femme évacuée qui a…",
+      "summary": "Il donne un aperçu de terrain sur l’évacuation, la circulation ou l’accès qui peut précéder les synthèses officielles. Texte du message : Incendie en Gironde: \"Ce qu'on espère, c'est pouvoir retourner chez nous\", confie cette femme évacuée qui a trouvé refuge au Parc des Expositions de Bordeaux Les incendies continue",
+      "interesting": "Le contexte de terrain est utile, mais les fermetures officielles et FR-Alert restent prioritaires.",
+      "credibility": "Relais média · moyen",
+      "incremental": "signal évacuation/accès"
     }
   },
   "mapStatuses": {
@@ -1732,7 +1756,10 @@
     "cc981ab40b44": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
     "d56762d8e388": "Thème du titre : implications pour l’aéroport, les transports ou l’accès autour de Bordeaux.",
     "9fb48ef849bb": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
-    "99d43ce726a1": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression."
+    "99d43ce726a1": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "bf79e488d165": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "3e3ae2858f78": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "4aa9e5762389": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
   },
   "generatedAt": "2026-07-26T13:53:45.859Z",
   "officialCheckpoints": {
@@ -1814,7 +1841,7 @@
     },
     "flipCondition": "La maîtrise du feu, la levée de l’évacuation, l’accès public par route ou transport autorisé et les commerces essentiels doivent passer de bloqués/incertains à confirmés.",
     "scanSummary": {
-      "text": "30 sources vérifiées à 08:05 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
+      "text": "30 sources vérifiées à 09:05 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
     },
     "checklist": {
       "fire-contained-or-controlled": {
