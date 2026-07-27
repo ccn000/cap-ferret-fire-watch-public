@@ -1,9 +1,9 @@
 {
   "incident": {
     "level": "ÉVACUATION TOTALE",
-    "headline": "La pollution par les fumées reste sévère ; le feu girondin est stabilisé mais pas fixé",
-    "summary": "Le dernier signal matériel examiné concerne les fumées et le contexte de réponse après la mise à jour du direct-index du Monde à 19 h et la carte actuelle d’Atmo Nouvelle-Aquitaine. Le socle de maîtrise ne change pas : le feu girondin de 42 000 hectares est stabilisé mais pas fixé, sans signal de retour au Cap Ferret. Atmo prévoit des indices mauvais à extrêmement mauvais sur une grande partie de la Gironde, des Landes et du Lot-et-Garonne à cause des fumées PM10 et PM2,5, tandis que Le Monde reprend l’impact économique déjà examiné sur 13 000 entreprises et mentionne des chiffres nationaux d’interpellations liées aux départs de feu. Le Cap Ferret reste évacué et l’accès public entrant est indisponible.",
-    "fireStatus": "Stabilisé · toujours pas fixé ni maîtrisé",
+    "headline": "Le feu girondin est contenu mais pas fixé ; la pollution par les fumées reste sévère",
+    "summary": "Le dernier signal matériel examiné est la mise à jour du direct-index du Monde à 19 h 47, citant le directeur du SDIS de Gironde : des reprises de feu ont eu lieu dans la journée, la chaleur de mardi pourrait réactiver l’incendie, et le feu girondin de 42 000 hectares est contenu mais toujours pas fixé. Atmo signale encore des indices mauvais à extrêmement mauvais liés aux fumées des feux de Gironde et des Landes. Le Cap Ferret reste évacué, l’accès public entrant est indisponible et aucun signal de retour touristique n’est publié.",
+    "fireStatus": "Contenu · toujours pas fixé ni maîtrisé",
     "affectedHectares": "42 000 hectares dans le point préfectoral de 13 h",
     "evacuatedPeople": "Environ 220 000 évacuations préventives dans 23 communes dans le point préfectoral de 13 h",
     "firefighters": "2 500 pompiers · 18 moyens aériens · 1 500 militaires · 1 200 policiers et gendarmes · A400M réengagé"
@@ -712,7 +712,11 @@
     "04867181f6b9": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
     "fcfcc8ffc716": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
     "cf1cc6b8f2ed": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
-    "c4fa7ba17241": "Thème du titre : routes, bateaux ou conditions pratiques d’accès."
+    "c4fa7ba17241": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "cbbe3040938a": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "8b53a9539e4d": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "8012e71c2615": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "63983065a90a": "Thème du titre : niveau de maîtrise du feu et risque de progression."
   },
   "access": {
     "Road access to the peninsula": {
@@ -802,13 +806,13 @@
   },
   "aviation": {
     "overall": {
-      "status": "Vols exploités · retards/annulations des arrivées",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 20:07 CEST ; avis préfectoraux d’évacuation"
+      "status": "Vols exploités · fortes perturbations des arrivées",
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 21:07 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
         "status": "Risque élevé · vols exploités mais fortement perturbés",
-        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 7 arrivées retardées et 1 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
+        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 6 arrivées retardées et 2 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
       },
       "groundAccess": {
         "status": "Perturbé · zone hôtelière évacuée et arrêts de tram non desservis",
@@ -861,7 +865,7 @@
   "reopeningSignals": {
     "Fire contained or controlled": {
       "name": "Incendie fixé ou maîtrisé",
-      "detail": "Pas encore. Le Monde rapporte que le ministre de l’intérieur décrit le feu girondin plus large comme stabilisé mais pas fixé ; c’est une amélioration, mais pas une maîtrise ni une permission de retour."
+      "detail": "Pas encore. Le direct-index du Monde cite le directeur du SDIS de Gironde décrivant le feu comme contenu mais toujours pas fixé, avec un risque de réactivation mardi lié à la chaleur ; c’est une amélioration, mais pas une maîtrise ni une permission de retour."
     },
     "Evacuation order lifted": {
       "name": "Ordre d’évacuation levé",
@@ -1646,6 +1650,20 @@
       "interesting": "Les implications pour l’aéroport et l’accès routier sont critiques pour décider, mais les réseaux sociaux restent un signal d’alerte à vérifier.",
       "credibility": "Message Mastodon public · faible",
       "incremental": "signal aéroport/accès"
+    },
+    "https://mastodon.social/@rod2ik/116993456309875208": {
+      "title": "Ouest-France: #Incendies : l’ #UE déploie neuf avions et deux #hélicoptères de plus en #Gironde Merci l' #Europe :)",
+      "summary": "Il décrit une activité visible des secours, comme des avions, des pompiers ou des renforts autour du feu. Texte du message : Ouest-France: #Incendies : l’ #UE déploie neuf avions et deux #hélicoptères de plus en #Gironde Merci l' #Europe :)",
+      "interesting": "Ce type de détail opérationnel peut apparaître sur les réseaux sociaux avant la presse, mais les chiffres et moyens engagés doivent rester vérifiés officiellement.",
+      "credibility": "Message Mastodon public · faible",
+      "incremental": "signal moyens engagés"
+    },
+    "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrnku4zeyt2d": {
+      "title": "Incendie dans le Var: un camion-citerne se renverse, quatre pompiers blessés Les incendies continuent de…",
+      "summary": "Il décrit une activité visible des secours, comme des avions, des pompiers ou des renforts autour du feu. Texte du message : Incendie dans le Var: un camion-citerne se renverse, quatre pompiers blessés Les incendies continuent de progresser en France ce lundi 27 juillet, notamment en Gironde. Ce feu, par",
+      "interesting": "Ce type de détail opérationnel peut apparaître sur les réseaux sociaux avant la presse, mais les chiffres et moyens engagés doivent rester vérifiés officiellement.",
+      "credibility": "Relais média · moyen",
+      "incremental": "signal moyens engagés"
     }
   },
   "mapStatuses": {
@@ -1986,9 +2004,13 @@
     "04867181f6b9": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
     "fcfcc8ffc716": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
     "cf1cc6b8f2ed": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
-    "c4fa7ba17241": "Thème du titre : routes, bateaux ou conditions pratiques d’accès."
+    "c4fa7ba17241": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "cbbe3040938a": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "8b53a9539e4d": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "8012e71c2615": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "63983065a90a": "Thème du titre : niveau de maîtrise du feu et risque de progression."
   },
-  "generatedAt": "2026-07-27T18:10:24.334Z",
+  "generatedAt": "2026-07-27T19:11:30.765Z",
   "officialCheckpoints": {
     "checkpoint-2026-07-26-tvcap-nasa-1446": {
       "status": "Détections thermiques mises à jour",
@@ -2069,18 +2091,18 @@
     "confidence": "Élevée",
     "driver": {
       "fact": "Le SDIS indique que le feu girondin est contenu mais toujours pas fixé avant un nouveau risque lié à la chaleur",
-      "detail": "C’est une précision matérielle de maîtrise du feu après la synthèse de 19 h sur les fumées et la réponse nationale : le dernier signal en direct est un peu meilleur qu’une propagation incontrôlée, mais il ne déclenche pas de retour puisque le SDIS dit toujours que le feu n’est pas fixé et signale un risque de réactivation mardi. Cela ne change ni l’accès au Cap Ferret, ni les consignes de non-retour, ni les fermetures routières, ni l’exploitation de l’aéroport, ni les ferries, ni les commerces, ni les signaux de réouverture.",
+      "detail": "C’est une précision matérielle de maîtrise du feu après la synthèse de 19 h sur les fumées et la réponse nationale : le dernier signal en direct est un peu meilleur qu’une propagation incontrôlée, mais il ne déclenche…",
       "sourceName": "Le Monde live index, 19:47 CEST on 27 July 2026, citing the Gironde SDIS director on contained-but-not-fixed status and Tuesday reactivation risk"
     },
     "flipCondition": "La maîtrise du feu, la levée de l’évacuation, l’accès public par route ou transport autorisé et les commerces essentiels doivent passer de bloqués/incertains à confirmés.",
     "scanSummary": {
-      "text": "30 sources vérifiées à 20:10 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
+      "text": "30 sources vérifiées à 21:11 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
     },
     "checklist": {
       "fire-contained-or-controlled": {
         "label": "Incendie fixé ou maîtrisé",
         "status": "Non rempli",
-        "detail": "Pas encore. Le Monde rapporte que le ministre de l’intérieur décrit le feu girondin plus large comme stabilisé mais pas fixé ; c’est une amélioration, mais pas une maîtrise ni une permission de retour.",
+        "detail": "Pas encore. Le direct-index du Monde cite le directeur du SDIS de Gironde décrivant le feu comme contenu mais toujours pas fixé, avec un risque de réactivation mardi lié à la chaleur ; c’est une amélioration, mais pas une maîtrise ni une permission de retour.",
         "sourceName": "Gironde Prefecture"
       },
       "evacuation-order-lifted": {
