@@ -586,7 +586,9 @@
     "9b7530bdad90": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
     "87a3cf2acd0c": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
     "2f481fad03d4": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
-    "577c787c2802": "Thème du titre : implications pour l’aéroport, les transports ou l’accès autour de Bordeaux."
+    "577c787c2802": "Thème du titre : implications pour l’aéroport, les transports ou l’accès autour de Bordeaux.",
+    "79c5406cb3b8": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "9b5574fedb9e": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants."
   },
   "access": {
     "Road access to the peninsula": {
@@ -677,7 +679,7 @@
   "aviation": {
     "overall": {
       "status": "Vols exploités · aucune perturbation majeure signalée",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 01:59 CEST ; avis préfectoraux d’évacuation"
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 02:59 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
@@ -1366,6 +1368,13 @@
       "interesting": "C’est utile comme contexte ou alerte précoce, mais pas comme source décisionnelle seule.",
       "credibility": "Message Mastodon public · faible",
       "incremental": "contexte local"
+    },
+    "https://mamot.fr/@technofeliz/116989082752619172": {
+      "title": "Incendies en Gironde : visualisation des trajets des avions et du mouvement des incendies et des vents à partir…",
+      "summary": "Il décrit une activité visible des secours, comme des avions, des pompiers ou des renforts autour du feu. Texte du message : Incendies en Gironde : visualisation des trajets des avions et du mouvement des incendies et des vents à partir de plusieurs sources => #Incendies #Gironde",
+      "interesting": "Ce type de détail opérationnel peut apparaître sur les réseaux sociaux avant la presse, mais les chiffres et moyens engagés doivent rester vérifiés officiellement.",
+      "credibility": "Message Mastodon public · faible",
+      "incremental": "signal moyens engagés"
     }
   },
   "mapStatuses": {
@@ -1631,7 +1640,9 @@
     "9b7530bdad90": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
     "87a3cf2acd0c": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
     "2f481fad03d4": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
-    "577c787c2802": "Thème du titre : implications pour l’aéroport, les transports ou l’accès autour de Bordeaux."
+    "577c787c2802": "Thème du titre : implications pour l’aéroport, les transports ou l’accès autour de Bordeaux.",
+    "79c5406cb3b8": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "9b5574fedb9e": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants."
   },
   "generatedAt": "2026-07-26T13:53:45.859Z",
   "officialCheckpoints": {
@@ -1713,7 +1724,7 @@
     },
     "flipCondition": "La maîtrise du feu, la levée de l’évacuation, l’accès public par route ou transport autorisé et les commerces essentiels doivent passer de bloqués/incertains à confirmés.",
     "scanSummary": {
-      "text": "30 sources vérifiées à 02:01 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
+      "text": "30 sources vérifiées à 03:03 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
     },
     "checklist": {
       "fire-contained-or-controlled": {
