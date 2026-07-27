@@ -716,7 +716,10 @@
     "cbbe3040938a": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "8b53a9539e4d": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
     "8012e71c2615": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
-    "63983065a90a": "Thème du titre : niveau de maîtrise du feu et risque de progression."
+    "63983065a90a": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "5bfaf16de138": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "2719a88a7a62": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "6a57c1e09d58": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
   },
   "access": {
     "Road access to the peninsula": {
@@ -807,7 +810,7 @@
   "aviation": {
     "overall": {
       "status": "Vols exploités · fortes perturbations des arrivées",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 21:07 CEST ; avis préfectoraux d’évacuation"
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 22:13 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
@@ -1597,7 +1600,7 @@
     },
     "https://mastodon.fibre74.fr/@Meteovilles/116992121805829154": {
       "title": "🔥Impressionnante image satellite montrant l'ampleur de la surface de forêt brûlée par les #incendies en #Gironde…",
-      "summary": "Il relaie une carte, une direction ou une observation sur le comportement du feu utile pour interpréter les sources officielles. Texte du message : 🔥Impressionnante image satellite montrant l'ampleur de la surface de forêt brûlée par les #incendies en #Gironde en seulement 5 jours. Image via Météo-France",
+      "summary": "Il relaie une carte, une direction ou une observation sur le comportement du feu utile pour interpréter les sources officielles. Texte du message : 🔥Impressionnante image satellite montrant l'ampleur de la surface de forêt brûlée par les #incendies en #Gironde…",
       "interesting": "Ce signal peut aider à repérer une inquiétude émergente sur la progression, sans valoir périmètre officiel.",
       "credibility": "Message Mastodon public · faible",
       "incremental": "signal progression"
@@ -1664,6 +1667,20 @@
       "interesting": "Ce type de détail opérationnel peut apparaître sur les réseaux sociaux avant la presse, mais les chiffres et moyens engagés doivent rester vérifiés officiellement.",
       "credibility": "Relais média · moyen",
       "incremental": "signal moyens engagés"
+    },
+    "https://bsky.app/profile/did:plc:vyttkyftqfwlnijvlfxafwjg/post/3mrnoptrlg52z": {
+      "title": "Incendie en Gironde. Claouey ceinturé contre le feu au sol : sur la presqu’île du Cap Ferret, des chantiers…",
+      "summary": "Il apporte un détail contextuel issu des réseaux sociaux publics, sans modifier à lui seul la situation vérifiée. Texte du message : Incendie en Gironde. Claouey ceinturé contre le feu au sol : sur la presqu’île du Cap Ferret, des chantiers express en forêt 🔗",
+      "interesting": "C’est utile comme contexte ou alerte précoce, mais pas comme source décisionnelle seule.",
+      "credibility": "Relais média · moyen",
+      "incremental": "contexte local"
+    },
+    "https://kolektiva.social/@kergorieu/116993642856286658": {
+      "title": "Incendie en Gironde. Des chevreuils coincés entre la forêt qui brûle et une clôture qu'ils ne peuvent franchir.…",
+      "summary": "Il apporte un détail contextuel issu des réseaux sociaux publics, sans modifier à lui seul la situation vérifiée. Texte du message : Incendie en Gironde. Des chevreuils coincés entre la forêt qui brûle et une clôture qu'ils ne peuvent franchir. Eh, Les capitalos fascistes ! ça aussi il faudra le payer un jour.",
+      "interesting": "C’est utile comme contexte ou alerte précoce, mais pas comme source décisionnelle seule.",
+      "credibility": "Message Mastodon public · faible",
+      "incremental": "contexte local"
     }
   },
   "mapStatuses": {
@@ -2008,9 +2025,12 @@
     "cbbe3040938a": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "8b53a9539e4d": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
     "8012e71c2615": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
-    "63983065a90a": "Thème du titre : niveau de maîtrise du feu et risque de progression."
+    "63983065a90a": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "5bfaf16de138": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "2719a88a7a62": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "6a57c1e09d58": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
   },
-  "generatedAt": "2026-07-27T19:11:30.765Z",
+  "generatedAt": "2026-07-27T20:15:36.056Z",
   "officialCheckpoints": {
     "checkpoint-2026-07-26-tvcap-nasa-1446": {
       "status": "Détections thermiques mises à jour",
@@ -2082,6 +2102,12 @@
       "title": "Point de Lège-Cap-Ferret · 12 h",
       "detail": "La mairie indique une situation locale stable mais toujours préoccupante, des reprises de feu traitées par les pompiers, une forêt sous surveillance, des conditions attendues en dégradation à partir du soir, aucun retour possible sur la presqu’île jusqu’à nouvel ordre, et des travaux de défense en forêt comprenant un nouveau pare-feu près de L’Herbe.",
       "authorityLevel": "Commune"
+    },
+    "checkpoint-2026-07-27-transport-2211": {
+      "status": "Perturbations régionales listées",
+      "title": "Cars et TER toujours perturbés",
+      "detail": "La page régionale des transports indique que les cars en Gironde et dans les Landes sont interrompus ou fortement perturbés par les incendies, et que les TER sont interrompus entre Bordeaux et Arcachon ainsi qu’entre Bordeaux et Morcenx.",
+      "authorityLevel": "Autorité de transport"
     }
   },
   "decision": {
@@ -2096,7 +2122,7 @@
     },
     "flipCondition": "La maîtrise du feu, la levée de l’évacuation, l’accès public par route ou transport autorisé et les commerces essentiels doivent passer de bloqués/incertains à confirmés.",
     "scanSummary": {
-      "text": "30 sources vérifiées à 21:11 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
+      "text": "30 sources vérifiées à 22:15 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
     },
     "checklist": {
       "fire-contained-or-controlled": {
