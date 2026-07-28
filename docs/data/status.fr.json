@@ -756,7 +756,35 @@
     "142b01ae8749": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "6defca731af5": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "fba3877dfd7f": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
-    "2d675c09209b": "Thème du titre : niveau de maîtrise du feu et risque de progression."
+    "2d675c09209b": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "33b87def2b9e": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "0b2104f5074d": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "692533e08086": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "69a7e4075cd7": "Thème du titre : tourisme, commerces ou activités locales perturbés.",
+    "47fe982d3e82": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "6b2577c79097": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "320ee03c2b2b": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "f8e5920f4e73": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "d98e39324c8f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "3d064c8cddc6": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "0f21eabdc292": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "8e8d46d250f0": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "a558e5fdc5b2": "Thème du titre : moyens de lutte contre l’incendie et réponse opérationnelle.",
+    "a49326a1fe47": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "f2feebcce0ea": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "a841c69028c0": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "f07a2ff972f2": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "112d8c824659": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "73d7745d0743": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "331142ce3b45": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "eaf2a0578287": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "25ca7b15a17e": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "83550f756825": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "2ac75f95077a": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "fbdf9d9b37a4": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "1b67f545682f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "57e73cf0af41": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "9690a0b73af0": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
   },
   "access": {
     "Road access to the peninsula": {
@@ -847,7 +875,7 @@
   "aviation": {
     "overall": {
       "status": "Vols exploités · retards/annulations des arrivées",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 16:33 CEST ; avis préfectoraux d’évacuation"
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 16:51 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
@@ -1830,6 +1858,20 @@
       "interesting": "Le contexte de terrain est utile, mais les fermetures officielles et FR-Alert restent prioritaires.",
       "credibility": "Relais média · moyen",
       "incremental": "signal évacuation/accès"
+    },
+    "https://mamot.fr/@Steve12L/116998153129536080": {
+      "title": "⋅ Incendies en Gironde : la logistique au cœur de l’évacuation massive d’une population −",
+      "summary": "Il donne un aperçu de terrain sur l’évacuation, la circulation ou l’accès qui peut précéder les synthèses officielles. Texte du message : ⋅ Incendies en Gironde : la logistique au cœur de l’évacuation massive d’une population −",
+      "interesting": "Le contexte de terrain est utile, mais les fermetures officielles et FR-Alert restent prioritaires.",
+      "credibility": "Message Mastodon public · faible",
+      "incremental": "signal évacuation/accès"
+    },
+    "https://mastodon.social/@silentexception/116998120271079601": {
+      "title": "Des images récentes de la NASA (MODIS).",
+      "summary": "Il relaie une carte, une direction ou une observation sur le comportement du feu utile pour interpréter les sources officielles. Texte du message : Des images récentes de la NASA (MODIS).",
+      "interesting": "Ce signal peut aider à repérer une inquiétude émergente sur la progression, sans valoir périmètre officiel.",
+      "credibility": "Message Mastodon public · faible",
+      "incremental": "signal progression"
     }
   },
   "mapStatuses": {
@@ -2209,9 +2251,37 @@
     "142b01ae8749": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "6defca731af5": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "fba3877dfd7f": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
-    "2d675c09209b": "Thème du titre : niveau de maîtrise du feu et risque de progression."
+    "2d675c09209b": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "33b87def2b9e": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "0b2104f5074d": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "692533e08086": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "69a7e4075cd7": "Thème du titre : tourisme, commerces ou activités locales perturbés.",
+    "47fe982d3e82": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "6b2577c79097": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "320ee03c2b2b": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "f8e5920f4e73": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "d98e39324c8f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "3d064c8cddc6": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "0f21eabdc292": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "8e8d46d250f0": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "a558e5fdc5b2": "Thème du titre : moyens de lutte contre l’incendie et réponse opérationnelle.",
+    "a49326a1fe47": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "f2feebcce0ea": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "a841c69028c0": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "f07a2ff972f2": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "112d8c824659": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "73d7745d0743": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "331142ce3b45": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "eaf2a0578287": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "25ca7b15a17e": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "83550f756825": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "2ac75f95077a": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "fbdf9d9b37a4": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "1b67f545682f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "57e73cf0af41": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "9690a0b73af0": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
   },
-  "generatedAt": "2026-07-28T14:37:19.911Z",
+  "generatedAt": "2026-07-28T14:54:15.021Z",
   "officialCheckpoints": {
     "checkpoint-2026-07-26-tvcap-nasa-1446": {
       "status": "Détections thermiques mises à jour",
@@ -2303,7 +2373,7 @@
     },
     "flipCondition": "La maîtrise du feu, la levée de l’évacuation, l’accès public par route ou transport autorisé et les commerces essentiels doivent passer de bloqués/incertains à confirmés.",
     "scanSummary": {
-      "text": "34 sources vérifiées à 16:37 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
+      "text": "37 sources vérifiées à 16:54 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
     },
     "checklist": {
       "fire-contained-or-controlled": {
