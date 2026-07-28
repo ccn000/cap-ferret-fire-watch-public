@@ -824,13 +824,13 @@
   },
   "aviation": {
     "overall": {
-      "status": "Vols exploités · aucune perturbation majeure signalée",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 10:21 CEST ; avis préfectoraux d’évacuation"
+      "status": "Vols exploités · retards/annulations des arrivées",
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 10:31 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
-        "status": "Risque élevé · vols listés et activité maintenue",
-        "detail": "Le tableau officiel affiche des arrivées et des départs sans signal majeur de retard ou d’annulation au moment de la vérification. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
+        "status": "Risque élevé · vols exploités mais fortement perturbés",
+        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 2 arrivées retardées et 0 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
       },
       "groundAccess": {
         "status": "Perturbé · zone hôtelière évacuée et arrêts de tram non desservis",
@@ -2095,7 +2095,7 @@
     "d0ead420af1f": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
     "20bf5645b230": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants."
   },
-  "generatedAt": "2026-07-28T08:24:44.360Z",
+  "generatedAt": "2026-07-28T08:33:49.358Z",
   "officialCheckpoints": {
     "checkpoint-2026-07-26-tvcap-nasa-1446": {
       "status": "Détections thermiques mises à jour",
@@ -2187,7 +2187,7 @@
     },
     "flipCondition": "La maîtrise du feu, la levée de l’évacuation, l’accès public par route ou transport autorisé et les commerces essentiels doivent passer de bloqués/incertains à confirmés.",
     "scanSummary": {
-      "text": "30 sources vérifiées à 10:24 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
+      "text": "30 sources vérifiées à 10:33 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
     },
     "checklist": {
       "fire-contained-or-controlled": {
