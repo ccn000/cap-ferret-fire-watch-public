@@ -749,7 +749,8 @@
     "bb4b052f1983": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
     "293d44ecf6f7": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
     "8807b6b091bf": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
-    "da1eaa175a68": "Thème du titre : routes, bateaux ou conditions pratiques d’accès."
+    "da1eaa175a68": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "76a29e8dcb7e": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants."
   },
   "access": {
     "Road access to the peninsula": {
@@ -840,7 +841,7 @@
   "aviation": {
     "overall": {
       "status": "Vols exploités · retards/annulations des arrivées",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 15:39 CEST ; avis préfectoraux d’évacuation"
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 16:25 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
@@ -1802,6 +1803,20 @@
       "interesting": "Le contexte de terrain est utile, mais les fermetures officielles et FR-Alert restent prioritaires.",
       "credibility": "Relais média · moyen",
       "incremental": "signal évacuation/accès"
+    },
+    "https://bsky.app/profile/did:plc:i7hoagrl2onqpg3xfpnhnu24/post/3mrpfhyx4vj22": {
+      "title": "EN DIRECT - Incendie en Gironde: \"2.750 pompiers mobilisés, 18 moyens aériens, 1.500 militaires, dont les forces…",
+      "summary": "Il décrit une activité visible des secours, comme des avions, des pompiers ou des renforts autour du feu. Texte du message : EN DIRECT - Incendie en Gironde: \"2.750 pompiers mobilisés, 18 moyens aériens, 1.500 militaires, dont les forces sentinelles\" (sous-préfet de Lesparre-Médoc) #pompiers #incendies",
+      "interesting": "Ce type de détail opérationnel peut apparaître sur les réseaux sociaux avant la presse, mais les chiffres et moyens engagés doivent rester vérifiés officiellement.",
+      "credibility": "Relais d’expert ou d’autorité · moyen",
+      "incremental": "signal moyens engagés"
+    },
+    "https://bsky.app/profile/did:plc:i7hoagrl2onqpg3xfpnhnu24/post/3mrpfefdgou2z": {
+      "title": "EN DIRECT - Incendie en Gironde: \"42.000 hectares brûlés, 222.000 évacuations sur 22 communes\" (sous-préfet de…",
+      "summary": "Il décrit une activité visible des secours, comme des avions, des pompiers ou des renforts autour du feu. Texte du message : EN DIRECT - Incendie en Gironde: \"42.000 hectares brûlés, 222.000 évacuations sur 22 communes\" (sous-préfet de Lesparre-Médoc) #pompiers #incendies",
+      "interesting": "Ce type de détail opérationnel peut apparaître sur les réseaux sociaux avant la presse, mais les chiffres et moyens engagés doivent rester vérifiés officiellement.",
+      "credibility": "Relais d’expert ou d’autorité · moyen",
+      "incremental": "signal moyens engagés"
     }
   },
   "mapStatuses": {
@@ -2174,9 +2189,10 @@
     "bb4b052f1983": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
     "293d44ecf6f7": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
     "8807b6b091bf": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
-    "da1eaa175a68": "Thème du titre : routes, bateaux ou conditions pratiques d’accès."
+    "da1eaa175a68": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "76a29e8dcb7e": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants."
   },
-  "generatedAt": "2026-07-28T13:41:46.870Z",
+  "generatedAt": "2026-07-28T14:27:12.004Z",
   "officialCheckpoints": {
     "checkpoint-2026-07-26-tvcap-nasa-1446": {
       "status": "Détections thermiques mises à jour",
@@ -2263,14 +2279,12 @@
     "confidence": "Élevée",
     "driver": {
       "fact": "Les hébergements touristiques de Lacanau sont évacués alors que le risque de reprise augmente",
-      "detail": "Le dernier fait matériel est une extension régionale de l’évacuation touristique, pas un signal de réouverture du Cap Ferret.",
-      "sourceName": "Ville de Lacanau, point updated 28 July 2026 at 10:30 CEST, reporting prefectural preventive evacuation of campsites and collective tourist accommodation",
-      "sourceUrl": "https://www.lacanau.fr/actualite/incendie-en-cours-saumos/",
-      "asOf": "2026-07-28T15:25:56+02:00"
+      "detail": "C’est une information régionale matérielle après la synthèse d’hier soir sur le feu contenu mais pas fixé : le périmètre d’évacuation ne se détend pas, il s’étend préventivement aux hébergements touristiques de Lacana…",
+      "sourceName": "Ville de Lacanau, point updated 28 July 2026 at 10:30 CEST, reporting prefectural preventive evacuation of campsites and collective tourist accommodation"
     },
     "flipCondition": "La maîtrise du feu, la levée de l’évacuation, l’accès public par route ou transport autorisé et les commerces essentiels doivent passer de bloqués/incertains à confirmés.",
     "scanSummary": {
-      "text": "30 sources vérifiées à 15:41 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
+      "text": "30 sources vérifiées à 16:27 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
     },
     "checklist": {
       "fire-contained-or-controlled": {
