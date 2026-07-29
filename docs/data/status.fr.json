@@ -815,7 +815,8 @@
     "5e88a4702748": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "f808ebdf8441": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "3b75a7718279": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
-    "e98a8ff8db2d": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
+    "e98a8ff8db2d": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "aa221705340e": "Thème du titre : implications pour l’aéroport, les transports ou l’accès autour de Bordeaux."
   },
   "access": {
     "Road access to the peninsula": {
@@ -906,12 +907,12 @@
   "aviation": {
     "overall": {
       "status": "Vols exploités · retards/annulations des arrivées",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 09:09 CEST ; avis préfectoraux d’évacuation"
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 09:13 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
         "status": "Risque élevé · vols exploités mais fortement perturbés",
-        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 0 arrivées retardées et 1 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
+        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 1 arrivées retardées et 1 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
       },
       "groundAccess": {
         "status": "Perturbé · zone hôtelière évacuée et arrêts de tram non desservis",
@@ -2386,9 +2387,10 @@
     "5e88a4702748": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "f808ebdf8441": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "3b75a7718279": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
-    "e98a8ff8db2d": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
+    "e98a8ff8db2d": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "aa221705340e": "Thème du titre : implications pour l’aéroport, les transports ou l’accès autour de Bordeaux."
   },
-  "generatedAt": "2026-07-29T07:12:05.166Z",
+  "generatedAt": "2026-07-29T07:15:33.899Z",
   "officialCheckpoints": {
     "checkpoint-2026-07-26-tvcap-nasa-1446": {
       "status": "Détections thermiques mises à jour",
@@ -2475,14 +2477,12 @@
     "confidence": "Élevée",
     "driver": {
       "fact": "Nuit plus calme signalée, mais le mégafeu girondin reste seulement stabilisé",
-      "detail": "Le fait déterminant est désormais le signal matinal de maîtrise du feu : nuit plus calme, mais feu seulement stabilisé et pas fixé avec le risque de canicule.",
-      "sourceName": "Le Monde live index, 29 July 2026 at 09:04 CEST, citing the Gironde prefecture’s report of another calm night and a megafire still stabilised",
-      "sourceUrl": "https://www.lemonde.fr/planete/live/2026/07/29/en-direct-incendies-la-prefecture-de-la-gironde-fait-etat-d-une-nouvelle-nuit-calme-le-megafeu-toujours-stabilise_6730417_3244.html",
-      "asOf": "2026-07-29T09:04:42+02:00"
+      "detail": "Cette mise à jour remplace l’évacuation de Lacanau d’hier après-midi comme dernier point matériel. La trajectoire est prudemment meilleure pendant la nuit — nuit calme, feu toujours tenu/stabilisé — mais la qualificat…",
+      "sourceName": "Le Monde live index, 29 July 2026 at 09:04 CEST, citing the Gironde prefecture’s report of another calm night and a megafire still stabilised"
     },
     "flipCondition": "La maîtrise du feu, la levée de l’évacuation, l’accès public par route ou transport autorisé et les commerces essentiels doivent passer de bloqués/incertains à confirmés.",
     "scanSummary": {
-      "text": "37 sources vérifiées à 09:12 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
+      "text": "37 sources vérifiées à 09:15 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
     },
     "checklist": {
       "fire-contained-or-controlled": {
