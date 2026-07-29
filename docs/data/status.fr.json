@@ -816,7 +816,9 @@
     "f808ebdf8441": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "3b75a7718279": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
     "e98a8ff8db2d": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
-    "aa221705340e": "Thème du titre : implications pour l’aéroport, les transports ou l’accès autour de Bordeaux."
+    "aa221705340e": "Thème du titre : implications pour l’aéroport, les transports ou l’accès autour de Bordeaux.",
+    "dd0f876e6403": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "a7820c5a3123": "Thème du titre : niveau de maîtrise du feu et risque de progression."
   },
   "access": {
     "Road access to the peninsula": {
@@ -907,7 +909,7 @@
   "aviation": {
     "overall": {
       "status": "Vols exploités · retards/annulations des arrivées",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 09:13 CEST ; avis préfectoraux d’évacuation"
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 09:45 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
@@ -915,8 +917,8 @@
         "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 1 arrivées retardées et 1 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
       },
       "groundAccess": {
-        "status": "Perturbé · zone hôtelière évacuée et arrêts de tram non desservis",
-        "detail": "L’aéroport de Bordeaux indique que l’activité continue et que les services de bus et de tram restent assurés, mais que le tram ne s’arrête pas entre Mérignac Soleil et l’aéroport. Un autre flash info indique que la zone hôtelière autour de l’aéroport est évacuée par décision préfectorale jusqu’à nouvel ordre ; les halls A, B et billi étant fermés durant la nuit, aucun hébergement ne peut être assuré sur le site. Les voyageurs sont orientés vers des hôtels hors zones évacuées ou vers le Parc des Expositions."
+        "status": "Accès route/taxi possible mais perturbé · vérifier l’itinéraire en direct",
+        "detail": "L’aéroport de Bordeaux indique que l’activité continue et que les services de bus et de tram restent assurés, mais que le tram ne s’arrête pas entre Mérignac Soleil et l’aéroport. Le flux officiel Inforoutes Gironde ne détecte pas de fermeture routière spécifique d’accès à l’aéroport dans cet instantané ; toutefois, les trajets en taxi ou en voiture particulière doivent rester considérés comme susceptibles d’être perturbés, car la zone hôtelière autour de l’aéroport est évacuée par décision préfectorale jusqu’à nouvel ordre, les fumées et le trafic d’évacuation peuvent modifier les itinéraires, et aucun hébergement nocturne ne peut être assuré sur le site. Vérifiez la navigation en direct et la disponibilité des taxis avant le départ."
       }
     }
   },
@@ -1953,6 +1955,13 @@
       "interesting": "Les fumées peuvent affecter le confort, les déplacements et le risque opérationnel même sans ordre d’évacuation local.",
       "credibility": "Message Mastodon public · faible",
       "incremental": "signal fumées/air"
+    },
+    "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3mrrgg4j7jx2z": {
+      "title": "Incendie en Gironde : le feu reste \"stabilisé\" après une nouvelle \"nuit calme\", selon la préfecture \"Le feu est…",
+      "summary": "Il relaie une information d’autorité ou de secours utile à vérifier sur les pages et alertes officielles. Texte du message : Incendie en Gironde : le feu reste \"stabilisé\" après une nouvelle \"nuit calme\", selon la préfecture \"Le feu est toujours stabilisé avec plusieurs reprises (...) traitées rapidement",
+      "interesting": "Les relais de canaux officiels sont utiles comme alerte, mais le tableau de bord s’appuie toujours sur les pages officielles directes pour les consignes.",
+      "credibility": "Relais média · moyen",
+      "incremental": "signal information officielle"
     }
   },
   "mapStatuses": {
@@ -2388,9 +2397,11 @@
     "f808ebdf8441": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "3b75a7718279": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
     "e98a8ff8db2d": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
-    "aa221705340e": "Thème du titre : implications pour l’aéroport, les transports ou l’accès autour de Bordeaux."
+    "aa221705340e": "Thème du titre : implications pour l’aéroport, les transports ou l’accès autour de Bordeaux.",
+    "dd0f876e6403": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "a7820c5a3123": "Thème du titre : niveau de maîtrise du feu et risque de progression."
   },
-  "generatedAt": "2026-07-29T07:15:33.899Z",
+  "generatedAt": "2026-07-29T07:47:27.643Z",
   "officialCheckpoints": {
     "checkpoint-2026-07-26-tvcap-nasa-1446": {
       "status": "Détections thermiques mises à jour",
@@ -2482,7 +2493,7 @@
     },
     "flipCondition": "La maîtrise du feu, la levée de l’évacuation, l’accès public par route ou transport autorisé et les commerces essentiels doivent passer de bloqués/incertains à confirmés.",
     "scanSummary": {
-      "text": "37 sources vérifiées à 09:15 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
+      "text": "37 sources vérifiées à 09:47 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
     },
     "checklist": {
       "fire-contained-or-controlled": {
