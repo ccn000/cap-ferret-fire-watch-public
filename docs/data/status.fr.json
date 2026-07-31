@@ -932,7 +932,20 @@
     "864096dfc084": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
     "7f4bba3ca1b6": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
     "c5112f936405": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
-    "9e48ee1b12c3": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression."
+    "9e48ee1b12c3": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "036fee5bc1b5": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "2d40c0741e3f": "Thème du titre : tourisme, commerces ou activités locales perturbés.",
+    "643045455c07": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "84343f06d96a": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "6fe4f51155d4": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "790e72782687": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "eaa694ca554f": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "c308824c2fab": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "4b942fbb339b": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "dcf6e2d4d085": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "8ea8c6e7e39d": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "795a2ce97622": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "24fdde0e64b0": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
   },
   "access": {
     "Road access to the peninsula": {
@@ -1023,12 +1036,12 @@
   "aviation": {
     "overall": {
       "status": "Vols exploités · retards/annulations des arrivées",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 16:37 CEST ; avis préfectoraux d’évacuation"
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 20:41 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
         "status": "Risque élevé · vols exploités mais fortement perturbés",
-        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 1 arrivées retardées et 1 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
+        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 11 arrivées retardées et 0 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
       },
       "groundAccess": {
         "status": "Accès route/taxi possible mais perturbé · vérifier l’itinéraire en direct",
@@ -2223,6 +2236,20 @@
       "interesting": "Le contexte de terrain est utile, mais les fermetures officielles et FR-Alert restent prioritaires.",
       "credibility": "Message Mastodon public · faible",
       "incremental": "signal évacuation/accès"
+    },
+    "https://bsky.app/profile/did:plc:5ekaaudi6pc22b4axp54hqre/post/3mrxcmeyfig2l": {
+      "title": "Incendie en Gironde : la carte des feux de forêt en cours près du bassin d’Arcachon",
+      "summary": "Il relaie une carte, une direction ou une observation sur le comportement du feu utile pour interpréter les sources officielles. Texte du message : Incendie en Gironde : la carte des feux de forêt en cours près du bassin d’Arcachon",
+      "interesting": "Ce signal peut aider à repérer une inquiétude émergente sur la progression, sans valoir périmètre officiel.",
+      "credibility": "Message Bluesky public · faible",
+      "incremental": "signal progression"
+    },
+    "https://mastodon.social/@pezdessinateur/117015163629214143": {
+      "title": "#feux #gironde #pompiers #habitants #gironde #capferret #leporge #Retour #landes #biscarosse #jardin #climat…",
+      "summary": "Il décrit une activité visible des secours, comme des avions, des pompiers ou des renforts autour du feu. Texte du message : #feux #gironde #pompiers #habitants #gironde #capferret #leporge #Retour #landes #biscarosse #jardin #climat #Incendies #DessinDePresse #dessin",
+      "interesting": "Ce type de détail opérationnel peut apparaître sur les réseaux sociaux avant la presse, mais les chiffres et moyens engagés doivent rester vérifiés officiellement.",
+      "credibility": "Relais média · moyen",
+      "incremental": "signal moyens engagés"
     }
   },
   "mapStatuses": {
@@ -2765,9 +2792,22 @@
     "864096dfc084": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
     "7f4bba3ca1b6": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
     "c5112f936405": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
-    "9e48ee1b12c3": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression."
+    "9e48ee1b12c3": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "036fee5bc1b5": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "2d40c0741e3f": "Thème du titre : tourisme, commerces ou activités locales perturbés.",
+    "643045455c07": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes.",
+    "84343f06d96a": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "6fe4f51155d4": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "790e72782687": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "eaa694ca554f": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "c308824c2fab": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
+    "4b942fbb339b": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "dcf6e2d4d085": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "8ea8c6e7e39d": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "795a2ce97622": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "24fdde0e64b0": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
   },
-  "generatedAt": "2026-07-31T14:41:01.718Z",
+  "generatedAt": "2026-07-31T18:44:38.508Z",
   "officialCheckpoints": {
     "checkpoint-2026-07-26-tvcap-nasa-1446": {
       "status": "Détections thermiques mises à jour",
@@ -2889,7 +2929,7 @@
     },
     "flipCondition": "La maîtrise du feu, la levée de l’évacuation, l’accès public par route ou transport autorisé et les commerces essentiels doivent passer de bloqués/incertains à confirmés.",
     "scanSummary": {
-      "text": "37 sources vérifiées à 16:41 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
+      "text": "37 sources vérifiées à 20:44 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
     },
     "checklist": {
       "fire-contained-or-controlled": {
