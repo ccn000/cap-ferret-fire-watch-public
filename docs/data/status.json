@@ -1,25 +1,30 @@
 {
-  "generatedAt": "2026-08-02T18:18:22.563Z",
+  "generatedAt": "2026-08-02T19:04:23.000Z",
   "reopeningBrief": {
     "announcedAt": "2026-08-02T19:31:34+02:00",
-    "residentReturnAt": "2026-08-03T14:00:00+02:00",
-    "generalAccessAt": "2026-08-03T19:00:00+02:00",
-    "status": "Scheduled reopening",
-    "headline": "Cap Ferret reopens Monday at 19:00",
-    "summary": "Residents may return from 14:00; general access to the entire peninsula begins at 19:00. The fire remains active and some restrictions continue.",
+    "firstReintegrationAt": "2026-08-03T14:00:00+02:00",
+    "peninsulaReintegrationAt": "2026-08-03T19:00:00+02:00",
+    "status": "Reintegration scheduled",
+    "headline": "Peninsula reintegration begins Monday at 19:00",
+    "summary": "Lège village and most of Le Porge may reintegrate from 14:00; the Lège-Cap-Ferret peninsula may reintegrate from 19:00. This is not an announcement of unrestricted tourist access.",
     "sourceName": "Gironde Prefect Sophie Brocas, announced on France 3 Nouvelle-Aquitaine",
     "sourceUrl": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/incendie-en-gironde-la-presqu-ile-du-cap-ferret-et-le-porge-seront-de-nouveau-accessibles-ce-lundi-apres-plus-d-une-semaine-d-evacuation-3395890.html",
-    "sourceNote": "The Prefect's announcement is newer than the written prefectural and municipal incident pages, which had not yet published the timetable at the last check.",
+    "sourceNote": "The three geographic stages above preserve the Prefect's wording. They must not be interpreted as a resident-versus-tourist sequence.",
     "milestones": [
       {
         "time": "14:00",
-        "label": "Residents",
-        "detail": "Residents of Lège-Cap-Ferret and Le Porge may return home."
+        "label": "Le Porge village",
+        "detail": "Reintegration authorised, except Le Ferron and Plein Soleil."
+      },
+      {
+        "time": "14:00",
+        "label": "Lège village",
+        "detail": "Reintegration authorised for Lège bourg."
       },
       {
         "time": "19:00",
-        "label": "General access",
-        "detail": "The entire Cap Ferret peninsula becomes generally accessible."
+        "label": "Lège-Cap-Ferret peninsula",
+        "detail": "Reintegration authorised for the peninsula."
       }
     ],
     "restrictions": [
@@ -57,23 +62,25 @@
     "officialCheckpoints": "2026-08-02T19:31:34+02:00"
   },
   "incident": {
-    "level": "REOPENING SCHEDULED",
-    "headline": "Cap Ferret reopens Monday at 19:00",
-    "summary": "The Prefect has announced a two-stage return on Monday 3 August: residents from 14:00, then general access to the whole peninsula from 19:00. Cap Ferret campsites remain closed and further detail is still needed on beaches, forest paths, ferries and visitor services.",
+    "level": "REINTEGRATION SCHEDULED",
+    "headline": "Peninsula reintegration begins Monday at 19:00",
+    "summary": "The Prefect has announced three geographically distinct reintegration milestones on Monday 3 August: Le Porge village except Le Ferron and Plein Soleil at 14:00, Lège village at 14:00, and the Lège-Cap-Ferret peninsula at 19:00. This does not establish unrestricted tourist access.",
     "fireStatus": "Fixed and contained within its perimeter · active sectors persist in Lège and Le Porge",
     "affectedHectares": "42,000 hectares remain the main Gironde fire scale reported in current coverage",
-    "evacuatedPeople": "Lège-Cap-Ferret and Le Porge residents may return Monday from 14:00; general peninsula access begins at 19:00",
+    "evacuatedPeople": "Reintegration: Le Porge village except Le Ferron and Plein Soleil at 14:00; Lège village at 14:00; Lège-Cap-Ferret peninsula at 19:00",
     "firefighters": "2,500 firefighters · 18 aircraft · 1,500 military personnel · 1,200 police/gendarmes · A400M re-engaged"
   },
   "currentAssessment": {
-    "verdict": "A concrete reopening timetable is now confirmed: residents may return Monday from 14:00 and the entire Cap Ferret peninsula becomes generally accessible at 19:00. This is a scheduled transition, not an immediate all-clear; the fire remains active and campsites are still closed.",
-    "trajectory": "Reopening scheduled; active fire surveillance and local restrictions continue",
+    "verdict": "A concrete reintegration timetable is confirmed, but it is geographic rather than a resident-versus-public sequence: Le Porge village except Le Ferron and Plein Soleil at 14:00, Lège village at 14:00, and the Lège-Cap-Ferret peninsula at 19:00. The announcement does not confirm unrestricted tourist access or a complete reopening of activities.",
+    "trajectory": "Staged reintegration scheduled; tourist access and activity restrictions remain distinct questions",
     "trajectoryTone": "caution",
-    "narrative": "Gironde Prefect Sophie Brocas announced on France 3 Nouvelle-Aquitaine that residents of Lège-Cap-Ferret and Le Porge may return from 14:00 on Monday and that the entire Cap Ferret peninsula will become generally accessible at 19:00. The distinction matters: the evacuation does not end immediately, and ordinary visitor access begins later than resident re-entry. Cap Ferret campsites are not yet authorised to reopen. The fire remains fixed but active, so forest, beach, maritime and business restrictions must still be checked individually.",
-    "confidence": "High confidence in the timetable because it was announced directly by the Gironde Prefect. The detailed written prefectural and municipal notices were still lagging at the last check, so confidence is lower on the exact scope of continuing activity and business restrictions beyond the campsite exception.",
+    "narrative": "Gironde Prefect Sophie Brocas authorised reintegration from 14:00 Monday for Le Porge village, excluding Le Ferron and Plein Soleil, and for Lège village. Reintegration of the Lège-Cap-Ferret peninsula is authorised from 19:00. These are place-based stages of reintegration; they must not be rewritten as all residents returning at 14:00 followed by general public access at 19:00. Cap Ferret campsites are not yet authorised to reopen, and forest, beach, maritime, business and tourist-access conditions must still be checked separately.",
+    "confidence": "High confidence in the three stated reintegration milestones because they come from the Gironde Prefect. No unrestricted tourist-access conclusion is drawn from them; confidence remains lower on activity, business and visitor conditions until explicit instructions appear.",
     "priorities": [
-      "Residents of Lège-Cap-Ferret and Le Porge may return Monday from 14:00.",
-      "General access to the entire Cap Ferret peninsula begins Monday at 19:00.",
+      "Le Porge village may reintegrate Monday at 14:00, except Le Ferron and Plein Soleil.",
+      "Lège village may reintegrate Monday at 14:00.",
+      "The Lège-Cap-Ferret peninsula may reintegrate Monday at 19:00.",
+      "The announcement does not confirm unrestricted tourist access.",
       "Cap Ferret campsites are not yet authorised to reopen.",
       "Plein Soleil and Ferron at Le Porge remain closed during demining.",
       "The fire remains fixed but active; local forest, beach and maritime restrictions may continue.",
@@ -83,12 +90,12 @@
   "alerts": [
     {
       "label": "Peninsula",
-      "value": "General access Monday from 19:00",
+      "value": "Reintegration Monday from 19:00",
       "tone": "warning"
     },
     {
       "label": "RD106",
-      "value": "Inbound access scheduled from Monday 19:00",
+      "value": "Tourist road access not yet confirmed",
       "tone": "warning"
     },
     {
@@ -106,9 +113,9 @@
     {
       "id": "material-2026-08-02-1931-peninsula-reopening",
       "time": "19:31",
-      "title": "Cap Ferret peninsula will reopen to general access Monday at 19:00",
-      "detail": "Gironde Prefect Sophie Brocas announced that residents of Lège-Cap-Ferret and Le Porge may return from 14:00 on Monday 3 August. General access to the entire Cap Ferret peninsula begins at 19:00. Cap Ferret campsites are not yet authorised to reopen, and Plein Soleil and Ferron at Le Porge remain closed during demining.",
-      "incrementalNews": "This is the first explicit timetable for ending the peninsula evacuation: a resident re-entry phase at 14:00 followed by general access at 19:00. It materially changes the situation from indefinite closure to scheduled reopening, while leaving activity-specific restrictions to be confirmed.",
+      "title": "Prefect sets three place-specific reintegration times for Monday",
+      "detail": "Gironde Prefect Sophie Brocas authorised reintegration at 14:00 for Le Porge village except Le Ferron and Plein Soleil, at 14:00 for Lège village, and at 19:00 for the Lège-Cap-Ferret peninsula. Cap Ferret campsites are not yet authorised to reopen.",
+      "incrementalNews": "This is the first explicit reintegration timetable. It replaces indefinite evacuation with three geographically distinct stages; it does not establish a 14:00 return for all residents or unrestricted tourist access at 19:00.",
       "sources": [
         {
           "name": "France 3 Nouvelle-Aquitaine, 2 August 2026 at 19:31 CEST, reporting Gironde Prefect Sophie Brocas’s announcement",
@@ -2683,49 +2690,49 @@
   "access": [
     {
       "name": "Travel to the peninsula",
-      "status": "Scheduled from Monday 19:00",
-      "detail": "The Prefect says general access to the entire Cap Ferret peninsula begins Monday 3 August at 19:00, after residents are allowed back from 14:00. Do not treat the announcement as immediate access before then.",
+      "status": "Reintegration Monday 19:00",
+      "detail": "The Prefect authorises reintegration of the Lège-Cap-Ferret peninsula from Monday at 19:00. The announcement does not itself confirm unrestricted tourist access.",
       "tone": "warning"
     },
     {
       "name": "Road access to the peninsula",
-      "status": "Scheduled from Monday 19:00",
-      "detail": "General peninsula access is scheduled from 19:00 Monday. Open for destination detail; live road-authority confirmation remains important.",
+      "status": "Tourist access unconfirmed",
+      "detail": "Peninsula reintegration is authorised from 19:00 Monday, but unrestricted tourist road access has not been stated. Open for destination detail; live road-authority confirmation remains important.",
       "tone": "warning",
       "kind": "road-summary"
     },
     {
       "name": "Road access · Claouey",
-      "status": "Scheduled Monday 19:00",
-      "detail": "Claouey is included in the announced general reopening from 19:00 Monday, subject to any road-specific restriction then in force.",
+      "status": "Reintegration Monday 19:00",
+      "detail": "Claouey is within the peninsula reintegration authorised from 19:00 Monday. Unrestricted tourist access and road-specific conditions remain to be confirmed.",
       "tone": "warning",
       "kind": "road-destination"
     },
     {
       "name": "Road access · Petit Piquey & Piraillan",
-      "status": "Scheduled Monday 19:00",
-      "detail": "Petit Piquey and Piraillan are included in the announced general reopening from 19:00 Monday, subject to any road-specific restriction then in force.",
+      "status": "Reintegration Monday 19:00",
+      "detail": "Petit Piquey and Piraillan are within the peninsula reintegration authorised from 19:00 Monday. Unrestricted tourist access and road-specific conditions remain to be confirmed.",
       "tone": "warning",
       "kind": "road-destination"
     },
     {
       "name": "Road access · Grand Piquey",
-      "status": "Scheduled Monday 19:00",
-      "detail": "Grand Piquey is included in the announced general reopening from 19:00 Monday, subject to any road-specific restriction then in force.",
+      "status": "Reintegration Monday 19:00",
+      "detail": "Grand Piquey is within the peninsula reintegration authorised from 19:00 Monday. Unrestricted tourist access and road-specific conditions remain to be confirmed.",
       "tone": "warning",
       "kind": "road-destination"
     },
     {
       "name": "Road access · Le Canon & L’Herbe",
-      "status": "Scheduled Monday 19:00",
-      "detail": "Le Canon and L’Herbe are included in the announced general reopening from 19:00 Monday, subject to any road-specific restriction then in force.",
+      "status": "Reintegration Monday 19:00",
+      "detail": "Le Canon and L’Herbe are within the peninsula reintegration authorised from 19:00 Monday. Unrestricted tourist access and road-specific conditions remain to be confirmed.",
       "tone": "warning",
       "kind": "road-destination"
     },
     {
       "name": "Road access · Cap Ferret",
-      "status": "Scheduled Monday 19:00",
-      "detail": "Cap Ferret village and Bélisaire are included in the announced general reopening from 19:00 Monday, subject to any road-specific restriction then in force.",
+      "status": "Reintegration Monday 19:00",
+      "detail": "Cap Ferret village and Bélisaire are within the peninsula reintegration authorised from 19:00 Monday. Unrestricted tourist access and road-specific conditions remain to be confirmed.",
       "tone": "warning",
       "kind": "road-destination"
     },
@@ -2907,17 +2914,17 @@
     {
       "name": "Evacuation order lifted",
       "state": "watch",
-      "detail": "Confirmed for Monday in two stages: resident re-entry from 14:00, followed by general peninsula access from 19:00. The order remains in force until those times."
+      "detail": "Reintegration is authorised by zone: Le Porge village except Le Ferron and Plein Soleil at 14:00, Lège village at 14:00, and the peninsula at 19:00. The order remains in force for each zone until its stated time."
     },
     {
       "name": "RD106 reopened in both directions",
       "state": "watch",
-      "detail": "General peninsula access is scheduled from Monday 19:00, but a matching live Inforoutes confirmation for every affected road segment is still awaited."
+      "detail": "Peninsula reintegration is authorised from Monday 19:00, but a matching live Inforoutes confirmation for every affected road segment is still awaited."
     },
     {
       "name": "Public allowed to enter the peninsula",
       "state": "watch",
-      "detail": "Confirmed from Monday 3 August at 19:00; not yet in effect."
+      "detail": "The Prefect confirmed peninsula reintegration from Monday 3 August at 19:00, not unrestricted tourist entry. Public-access conditions still require explicit confirmation."
     },
     {
       "name": "Services and businesses restarting",
@@ -11883,9 +11890,9 @@
       "category": "official",
       "source": "Gironde Prefecture via France 3 Nouvelle-Aquitaine",
       "authorityLevel": "Prefecture",
-      "status": "Re-entry and reopening timetable announced",
-      "title": "Cap Ferret reopening · residents 14:00, general access 19:00",
-      "detail": "Gironde Prefect Sophie Brocas announced that residents of Lège-Cap-Ferret and Le Porge may return from 14:00 on Monday 3 August and that the entire Cap Ferret peninsula becomes generally accessible from 19:00. Cap Ferret campsites are not yet authorised to reopen; Plein Soleil and Ferron at Le Porge remain closed during demining.",
+      "status": "Place-specific reintegration timetable announced",
+      "title": "Reintegration · Le Porge and Lège 14:00, peninsula 19:00",
+      "detail": "Gironde Prefect Sophie Brocas authorised reintegration at 14:00 for Le Porge village except Le Ferron and Plein Soleil, at 14:00 for Lège village, and at 19:00 for the Lège-Cap-Ferret peninsula. The announcement does not establish unrestricted tourist access; Cap Ferret campsites are not yet authorised to reopen.",
       "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/incendie-en-gironde-la-presqu-ile-du-cap-ferret-et-le-porge-seront-de-nouveau-accessibles-ce-lundi-apres-plus-d-une-semaine-d-evacuation-3395890.html",
       "tone": "ok"
     },
@@ -12133,17 +12140,17 @@
   "decision": {
     "verdictLabel": "NOT YET",
     "tone": "warning",
-    "summary": "Cap Ferret is scheduled to reopen to general access at 19:00 on Monday 3 August.",
-    "window": "Monday 3 August at 19:00",
+    "summary": "Peninsula reintegration is authorised from 19:00 Monday; unrestricted tourist access is not yet confirmed.",
+    "window": "Tourist-access timing not yet confirmed",
     "confidence": "High",
     "driver": {
-      "fact": "Cap Ferret peninsula will reopen to general access Monday at 19:00",
+      "fact": "Lège-Cap-Ferret peninsula reintegration is authorised Monday at 19:00",
       "detail": "The controlling fact remains the evacuation/access order, not the volume of new articles.",
       "sourceName": "France 3 Nouvelle-Aquitaine, 2 August 2026 at 19:31 CEST, reporting Gironde Prefect Sophie Brocas’s announcement",
       "sourceUrl": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/incendie-en-gironde-la-presqu-ile-du-cap-ferret-et-le-porge-seront-de-nouveau-accessibles-ce-lundi-apres-plus-d-une-semaine-d-evacuation-3395890.html",
       "asOf": "2026-08-02T19:31:34+02:00"
     },
-    "flipCondition": "The announced timetable must take effect without a later authority reversal; continuing campsite, forest, beach and maritime restrictions still need separate confirmation.",
+    "flipCondition": "An authority must explicitly confirm unrestricted tourist entry and practical road access; campsite, forest, beach and maritime restrictions still need separate confirmation.",
     "scanSummary": {
       "text": "Scanned 37 sources at 20:18; visible changes are published only when a gate, verdict or material fact changes.",
       "scannedAt": "2026-08-02T18:18:22.563Z",
@@ -12166,7 +12173,7 @@
         "label": "Evacuation order lifted",
         "status": "Awaiting confirmation",
         "state": "watch",
-        "detail": "Confirmed for Monday in two stages: resident re-entry from 14:00, followed by general peninsula access from 19:00. The order remains in force until those times.",
+        "detail": "Reintegration is authorised by zone: Le Porge village except Le Ferron and Plein Soleil at 14:00, Lège village at 14:00, and the peninsula at 19:00. The order remains in force for each zone until its stated time.",
         "sourceName": "Gironde Prefecture",
         "sourceUrl": "https://www.gironde.gouv.fr/",
         "asOf": "2026-08-02T19:31:34+02:00"
@@ -12176,7 +12183,7 @@
         "label": "RD106 reopened in both directions",
         "status": "Awaiting confirmation",
         "state": "watch",
-        "detail": "General peninsula access is scheduled from Monday 19:00, but a matching live Inforoutes confirmation for every affected road segment is still awaited.",
+        "detail": "Peninsula reintegration is authorised from Monday 19:00, but a matching live Inforoutes confirmation for every affected road segment is still awaited.",
         "sourceName": "Gironde Inforoutes",
         "sourceUrl": "https://www.gironde.fr/deplacements/inforoutes",
         "asOf": "2026-08-02T18:18:22.049Z"
@@ -12186,7 +12193,7 @@
         "label": "Public allowed to enter the peninsula",
         "status": "Awaiting confirmation",
         "state": "watch",
-        "detail": "Confirmed from Monday 3 August at 19:00; not yet in effect.",
+        "detail": "Peninsula reintegration is confirmed from Monday 3 August at 19:00; unrestricted tourist entry is not yet confirmed.",
         "sourceName": "Gironde Inforoutes",
         "sourceUrl": "https://www.gironde.fr/deplacements/inforoutes",
         "asOf": "2026-08-02T19:31:34+02:00"
