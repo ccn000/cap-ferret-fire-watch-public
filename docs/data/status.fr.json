@@ -1,35 +1,71 @@
 {
+  "reopeningBrief": {
+    "status": "Réouverture programmée",
+    "headline": "Le Cap Ferret rouvre lundi à 19 h",
+    "summary": "Les habitants pourront rentrer à partir de 14 h ; l’accès général à toute la presqu’île commencera à 19 h. Le feu reste actif et certaines restrictions continuent.",
+    "sourceName": "Préfète de la Gironde Sophie Brocas, annonce sur France 3 Nouvelle-Aquitaine",
+    "sourceNote": "L’annonce de la préfète est plus récente que les pages écrites de la préfecture et de la mairie, qui n’avaient pas encore publié ce calendrier lors de la dernière vérification.",
+    "milestones": [
+      {
+        "time": "14 h",
+        "label": "Habitants",
+        "detail": "Les habitants de Lège-Cap-Ferret et du Porge peuvent rentrer chez eux."
+      },
+      {
+        "time": "19 h",
+        "label": "Accès général",
+        "detail": "Toute la presqu’île du Cap Ferret redevient généralement accessible."
+      }
+    ],
+    "restrictions": [
+      {
+        "label": "Campings du Cap Ferret",
+        "status": "Toujours fermés",
+        "detail": "Ils ne sont pas encore autorisés à rouvrir."
+      },
+      {
+        "label": "Plages, pistes forestières et services touristiques",
+        "status": "Précisions attendues",
+        "detail": "Aucune consigne globale de réouverture n’a encore été trouvée ; des restrictions locales peuvent continuer."
+      },
+      {
+        "label": "Exceptions au Porge",
+        "status": "Accès restreint",
+        "detail": "Plein Soleil et Ferron restent fermés pendant les opérations de déminage lundi et mardi."
+      }
+    ]
+  },
   "incident": {
-    "level": "ÉVACUATION TOTALE",
-    "headline": "Fixé, toujours sous surveillance active",
-    "summary": "L’incendie girondin est fixé et contenu dans son périmètre, mais des secteurs actifs persistent à Lège et au Porge. Le point officiel de Lège-Cap-Ferret à 12 h aujourd’hui signale de nouvelles reprises pendant la nuit, 147 largages par hélicoptère depuis hier et des travaux forestiers de protection le long de la D106 entre Lège et Claouey. Aucun retour n’a été annoncé et un nouveau point municipal est prévu ce soir.",
+    "level": "RÉOUVERTURE PROGRAMMÉE",
+    "headline": "Le Cap Ferret rouvre lundi à 19 h",
+    "summary": "La préfète annonce un retour en deux temps lundi 3 août : les habitants à partir de 14 h, puis l’accès général à toute la presqu’île à 19 h. Les campings du Cap Ferret restent fermés et des précisions sont encore attendues pour les plages, la forêt, les liaisons maritimes et les services touristiques.",
     "fireStatus": "Fixé et contenu dans son périmètre · secteurs actifs persistants à Lège et au Porge",
     "affectedHectares": "42 000 hectares restent l’ordre de grandeur principal du feu girondin dans les informations actuelles",
-    "evacuatedPeople": "Près de 200 000 des 220 000 personnes déplacées étaient rentrées au 1er août ; Lège-Cap-Ferret restait exclue de la réouverture plus large de la COBAN",
+    "evacuatedPeople": "Les habitants de Lège-Cap-Ferret et du Porge pourront rentrer lundi dès 14 h ; l’accès général commencera à 19 h",
     "firefighters": "2 500 pompiers · 18 moyens aériens · 1 500 militaires · 1 200 policiers et gendarmes · A400M réengagé"
   },
   "currentAssessment": {
-    "verdict": "L’incendie girondin est fixé et contenu dans son périmètre, mais il n’est pas éteint. Lège-Cap-Ferret signale aujourd’hui de nouvelles reprises nocturnes, une réponse aérienne soutenue et des travaux de protection le long de la D106 ; aucun retour n’a été annoncé.",
-    "trajectory": "Feu fixé ; activité locale persistante sous surveillance prolongée",
-    "narrative": "L’incendie girondin est passé du statut contenu/stabilisé à celui de feu fixé. Le direct actuel du Monde, citant la préfecture, indique qu’il reste contenu dans son périmètre malgré des secteurs actifs persistants à Lège et au Porge. Le point officiel de Lège-Cap-Ferret à 12 h aujourd’hui ajoute un détail opérationnel local : de nouvelles reprises ont eu lieu pendant la nuit, les hélicoptères ont effectué 147 largages depuis hier et des travaux forestiers de protection sont menés à proximité immédiate de la D106 entre Lège et Claouey. La mairie n’a pas annoncé de retour et indique que les équipes travaillent toujours à le rendre possible en sécurité ; elle promet un nouveau point ce soir. L’urgence régionale recule, mais la lutte locale et la protection des accès restent intensives.",
-    "confidence": "Confiance élevée dans le statut de feu fixé mais toujours actif, car Le Monde l’attribue à la préfecture de Gironde. Confiance élevée dans les reprises locales, l’activité des hélicoptères et les travaux de protection de la D106, car ils figurent dans le point officiel municipal de 12 h. Ce point ne fournit aucun calendrier de retour.",
+    "verdict": "Un calendrier précis est désormais confirmé : les habitants pourront rentrer lundi à partir de 14 h et toute la presqu’île du Cap Ferret redeviendra généralement accessible à 19 h. Il s’agit d’une transition programmée, pas d’un feu éteint ni d’une levée immédiate de toutes les restrictions.",
+    "trajectory": "Réouverture programmée ; surveillance active du feu et restrictions locales maintenues",
+    "narrative": "La préfète de la Gironde, Sophie Brocas, a annoncé sur France 3 Nouvelle-Aquitaine que les habitants de Lège-Cap-Ferret et du Porge pourront rentrer lundi à partir de 14 h et que toute la presqu’île du Cap Ferret redeviendra généralement accessible à 19 h. La distinction est importante : l’évacuation ne prend pas fin immédiatement et l’accès ordinaire des visiteurs commence après la réintégration des habitants. Les campings du Cap Ferret ne sont pas encore autorisés à rouvrir. Le feu reste fixé mais actif ; les restrictions concernant la forêt, les plages, la navigation et les commerces doivent encore être vérifiées séparément.",
+    "confidence": "Confiance élevée dans le calendrier, annoncé directement par la préfète de la Gironde. Les avis écrits détaillés de la préfecture et de la mairie étaient encore en retard lors de la dernière vérification ; la portée exacte des restrictions d’activités et de commerces reste donc moins certaine, en dehors de l’exception confirmée des campings.",
     "priorities": [
-      "Amélioration majeure : l’incendie girondin est désormais fixé et contenu dans son périmètre.",
-      "Éléments locaux du jour : nouvelles reprises nocturnes et 147 largages par hélicoptère depuis hier.",
-      "Surveillance longue : elle pourrait se poursuivre jusqu’aux pluies d’hiver.",
-      "Exception locale : Lège-Cap-Ferret restait la seule commune de la COBAN exclue de la réouverture du 1er août.",
-      "Protection de la D106 : des travaux forestiers sont menés à proximité immédiate de la route entre Lège et Claouey.",
-      "Prochain signal : le nouveau point municipal annoncé pour ce soir."
+      "Les habitants de Lège-Cap-Ferret et du Porge pourront rentrer lundi dès 14 h.",
+      "L’accès général à toute la presqu’île du Cap Ferret commencera lundi à 19 h.",
+      "Les campings du Cap Ferret ne sont pas encore autorisés à rouvrir.",
+      "Plein Soleil et Ferron au Porge restent fermés pendant le déminage.",
+      "Le feu reste fixé mais actif ; des restrictions locales sur la forêt, les plages et la navigation peuvent continuer.",
+      "Prochain détail attendu : les consignes écrites de la préfecture et de la mairie."
     ]
   },
   "alerts": {
     "Peninsula": {
       "label": "Presqu’île",
-      "value": "Évacuation totale"
+      "value": "Accès général lundi à partir de 19 h"
     },
     "RD106": {
       "label": "RD106",
-      "value": "Sortie vers Bordeaux · accès entrant fermé"
+      "value": "Accès entrant programmé lundi à 19 h"
     },
     "Forest & paths": {
       "label": "Forêt et pistes",
@@ -41,6 +77,11 @@
     }
   },
   "materialUpdates": {
+    "material-2026-08-02-1931-peninsula-reopening": {
+      "title": "La presqu’île du Cap Ferret rouvrira à l’accès général lundi à 19 h",
+      "detail": "La préfète de la Gironde, Sophie Brocas, annonce que les habitants de Lège-Cap-Ferret et du Porge pourront rentrer lundi 3 août à partir de 14 h. L’accès général à toute la presqu’île du Cap Ferret commencera à 19 h. Les campings du Cap Ferret ne sont pas encore autorisés à rouvrir, et Plein Soleil ainsi que Ferron au Porge restent fermés pendant le déminage.",
+      "incrementalNews": "C’est le premier calendrier explicite de fin de l’évacuation de la presqu’île : réintégration des habitants à 14 h, puis accès général à 19 h. La situation passe matériellement d’une fermeture sans échéance à une réouverture programmée, tandis que les restrictions propres aux activités restent à confirmer."
+    },
     "material-2026-08-02-1252-fixed-active-lege-le-porge": {
       "title": "L’incendie girondin reste fixé, mais des secteurs actifs persistent à Lège et au Porge",
       "detail": "Le direct actuel du Monde indique que la préfecture continue de décrire l’incendie girondin comme fixé et contenu dans son périmètre malgré des secteurs actifs persistants à Lège et au Porge. Le point officiel de Lège-Cap-Ferret à 12 h ajoute que de nouvelles reprises ont eu lieu pendant la nuit, que les hélicoptères ont effectué 147 largages depuis hier et que des travaux forestiers de protection sont menés le long de la D106 entre Lège et Claouey. Aucun retour n’a été annoncé.",
@@ -1001,43 +1042,47 @@
     "ae12e31a0f19": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
     "52e689fdd9b0": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
     "7aa4097bae8d": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
-    "f54786155bd9": "Thème du titre : niveau de maîtrise du feu et risque de progression."
+    "f54786155bd9": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "d4eeccdeacda": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "69ee073fa229": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "d56a0761756f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "fd7114fd12ff": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants."
   },
   "access": {
     "Road access to the peninsula": {
       "name": "Accès routier à la presqu’île",
-      "status": "Pas d’accès public",
-      "detail": "L’accès routier ordinaire à la presqu’île n’a pas rouvert. Ouvrez le détail pour consulter la situation destination par destination."
+      "status": "Programmé lundi à 19 h",
+      "detail": "L’accès général à la presqu’île est programmé lundi à 19 h. Ouvrez le détail par destination ; la confirmation en direct de l’autorité routière reste importante."
     },
     "Travel to the peninsula": {
       "name": "Déplacement vers la presqu’île",
-      "status": "Impossible",
-      "detail": "Toute la presqu’île reste soumise à un ordre d’évacuation. L’accès ordinaire du public est interdit ; la mairie de Lège-Cap-Ferret demande toujours de ne pas revenir, l’accès routier reste fermé et la réouverture partielle du bassin d’Arcachon ne crée pas de voie maritime publique vers le Cap Ferret."
+      "status": "Programmé lundi à 19 h",
+      "detail": "La préfète annonce l’accès général à toute la presqu’île lundi 3 août à 19 h, après la réintégration des habitants dès 14 h. Cette annonce ne vaut pas accès immédiat avant cette heure."
     },
     "Road access · Claouey": {
       "name": "Accès routier · Claouey",
-      "status": "Pas d’accès public",
-      "detail": "Aucune autorité n’a annoncé la réouverture de l’accès routier ordinaire vers Claouey. L’ordre d’évacuation et les restrictions d’accès à la presqu’île restent en vigueur."
+      "status": "Programmé lundi à 19 h",
+      "detail": "Claouey est inclus dans la réouverture générale annoncée lundi à 19 h, sous réserve de toute restriction routière particulière alors en vigueur."
     },
     "Road access · Petit Piquey & Piraillan": {
       "name": "Accès routier · Petit Piquey et Piraillan",
-      "status": "Pas d’accès public",
-      "detail": "Aucune autorité n’a annoncé la réouverture de l’accès routier ordinaire vers Petit Piquey ou Piraillan. L’ordre d’évacuation et les restrictions d’accès à la presqu’île restent en vigueur."
+      "status": "Programmé lundi à 19 h",
+      "detail": "Petit Piquey et Piraillan sont inclus dans la réouverture générale annoncée lundi à 19 h, sous réserve de toute restriction routière particulière alors en vigueur."
     },
     "Road access · Grand Piquey": {
       "name": "Accès routier · Grand Piquey",
-      "status": "Pas d’accès public",
-      "detail": "Aucune autorité n’a annoncé la réouverture de l’accès routier ordinaire vers Grand Piquey. L’ordre d’évacuation et les restrictions d’accès à la presqu’île restent en vigueur."
+      "status": "Programmé lundi à 19 h",
+      "detail": "Grand Piquey est inclus dans la réouverture générale annoncée lundi à 19 h, sous réserve de toute restriction routière particulière alors en vigueur."
     },
     "Road access · Le Canon & L’Herbe": {
       "name": "Accès routier · Le Canon et L’Herbe",
-      "status": "Pas d’accès public",
-      "detail": "Aucune autorité n’a annoncé la réouverture de l’accès routier ordinaire vers Le Canon ou L’Herbe. L’ordre d’évacuation et les restrictions d’accès à la presqu’île restent en vigueur."
+      "status": "Programmé lundi à 19 h",
+      "detail": "Le Canon et L’Herbe sont inclus dans la réouverture générale annoncée lundi à 19 h, sous réserve de toute restriction routière particulière alors en vigueur."
     },
     "Road access · Cap Ferret": {
       "name": "Accès routier · Cap Ferret",
-      "status": "Pas d’accès public",
-      "detail": "Aucune autorité n’a annoncé la réouverture de l’accès routier ordinaire vers le village du Cap Ferret ou Bélisaire. L’ordre d’évacuation et les restrictions d’accès à la presqu’île restent en vigueur."
+      "status": "Programmé lundi à 19 h",
+      "detail": "Le village du Cap Ferret et Bélisaire sont inclus dans la réouverture générale annoncée lundi à 19 h, sous réserve de toute restriction routière particulière alors en vigueur."
     },
     "Maritime leisure activities": {
       "name": "Loisirs nautiques",
@@ -1092,12 +1137,12 @@
   "aviation": {
     "overall": {
       "status": "Vols exploités · retards/annulations des arrivées",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 20:07 CEST ; avis préfectoraux d’évacuation"
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 20:15 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
         "status": "Risque élevé · vols exploités mais fortement perturbés",
-        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 8 arrivées retardées et 0 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
+        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 7 arrivées retardées et 0 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
       },
       "groundAccess": {
         "status": "Accès route/taxi possible mais perturbé · vérifier l’itinéraire en direct",
@@ -1154,15 +1199,15 @@
     },
     "Evacuation order lifted": {
       "name": "Ordre d’évacuation levé",
-      "detail": "Non. La troisième phase d’évacuation couvre toute la presqu’île."
+      "detail": "Confirmé pour lundi en deux temps : réintégration des habitants dès 14 h, puis accès général à la presqu’île à 19 h. L’ordre reste en vigueur jusque-là."
     },
     "RD106 reopened in both directions": {
       "name": "RD106 rouverte dans les deux sens",
-      "detail": "Non. La circulation sortante est organisée et l’accès entrant reste restreint."
+      "detail": "L’accès général à la presqu’île est programmé lundi à 19 h, mais la confirmation correspondante en direct d’Inforoutes pour chaque tronçon concerné reste attendue."
     },
     "Public allowed to enter the peninsula": {
       "name": "Public autorisé à entrer sur la presqu’île",
-      "detail": "Non. Aucun calendrier officiel n’a été communiqué."
+      "detail": "Confirmé lundi 3 août à partir de 19 h ; pas encore en vigueur."
     },
     "Services and businesses restarting": {
       "name": "Reprise des services et des commerces",
@@ -2977,9 +3022,13 @@
     "ae12e31a0f19": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
     "52e689fdd9b0": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
     "7aa4097bae8d": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
-    "f54786155bd9": "Thème du titre : niveau de maîtrise du feu et risque de progression."
+    "f54786155bd9": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "d4eeccdeacda": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "69ee073fa229": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "d56a0761756f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "fd7114fd12ff": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants."
   },
-  "generatedAt": "2026-08-02T18:10:35.808Z",
+  "generatedAt": "2026-08-02T18:18:22.563Z",
   "officialCheckpoints": {
     "checkpoint-2026-07-26-tvcap-nasa-1446": {
       "status": "Détections thermiques mises à jour",
@@ -3097,21 +3146,26 @@
       "status": "Reprises nocturnes · réponse aérienne soutenue",
       "title": "Point de Lège-Cap-Ferret · 12 h",
       "detail": "La mairie signale de nouvelles reprises pendant la nuit, 147 largages par hélicoptère depuis la veille et des travaux forestiers de protection à proximité immédiate de la D106 entre Lège et Claouey. Elle indique que les équipes travaillent toujours à permettre un retour en sécurité et annonce un nouveau point dans la soirée."
+    },
+    "checkpoint-2026-08-02-prefecture-reopening-1931": {
+      "status": "Calendrier de réintégration et de réouverture annoncé",
+      "title": "Réouverture du Cap Ferret · habitants 14 h, accès général 19 h",
+      "detail": "La préfète de la Gironde, Sophie Brocas, annonce que les habitants de Lège-Cap-Ferret et du Porge pourront rentrer lundi 3 août à partir de 14 h et que toute la presqu’île du Cap Ferret redeviendra généralement accessible à 19 h. Les campings du Cap Ferret ne sont pas encore autorisés à rouvrir ; Plein Soleil et Ferron au Porge restent fermés pendant le déminage."
     }
   },
   "decision": {
     "verdictLabel": "PAS ENCORE",
-    "summary": "Ne prévoyez pas encore d’aller au Cap Ferret.",
-    "window": "Aucune fenêtre de réouverture touristique annoncée",
+    "summary": "Le Cap Ferret doit rouvrir à l’accès général lundi 3 août à 19 h.",
+    "window": "Lundi 3 août à 19 h",
     "confidence": "Élevée",
     "driver": {
-      "fact": "L’incendie girondin reste fixé, mais des secteurs actifs persistent à Lège et au Porge",
-      "detail": "Le statut de maîtrise s’est amélioré jusqu’au feu fixé, mais les éléments officiels locaux du jour montrent que la lutte reste intensive autour de la presqu’île : nouvelles reprises nocturnes, réponse aérienne soutenu…",
-      "sourceName": "Le Monde live index, 2 August 2026 at 12:52 CEST, citing the Gironde prefecture on the fixed fire, persistent active sectors in Lège and Le Porge and long surveillance"
+      "fact": "La presqu’île du Cap Ferret rouvrira à l’accès général lundi à 19 h",
+      "detail": "C’est le premier calendrier explicite de fin de l’évacuation de la presqu’île : réintégration des habitants à 14 h, puis accès général à 19 h. La situation passe matériellement d’une fermeture sans échéance à une réou…",
+      "sourceName": "France 3 Nouvelle-Aquitaine, 2 August 2026 at 19:31 CEST, reporting Gironde Prefect Sophie Brocas’s announcement"
     },
-    "flipCondition": "La maîtrise du feu, la levée de l’évacuation, l’accès public par route ou transport autorisé et les commerces essentiels doivent passer de bloqués/incertains à confirmés.",
+    "flipCondition": "Le calendrier annoncé doit entrer en vigueur sans décision contraire ultérieure ; les restrictions concernant les campings, la forêt, les plages et la navigation doivent encore être confirmées séparément.",
     "scanSummary": {
-      "text": "37 sources vérifiées à 20:10 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
+      "text": "37 sources vérifiées à 20:18 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
     },
     "checklist": {
       "fire-contained-or-controlled": {
@@ -3122,20 +3176,20 @@
       },
       "evacuation-order-lifted": {
         "label": "Ordre d’évacuation levé",
-        "status": "Non rempli",
-        "detail": "Non. La troisième phase d’évacuation couvre toute la presqu’île.",
+        "status": "À confirmer",
+        "detail": "Confirmé pour lundi en deux temps : réintégration des habitants dès 14 h, puis accès général à la presqu’île à 19 h. L’ordre reste en vigueur jusque-là.",
         "sourceName": "Gironde Prefecture"
       },
       "rd106-reopened-in-both-directions": {
         "label": "RD106 rouverte dans les deux sens",
-        "status": "Non rempli",
-        "detail": "Non. La circulation sortante est organisée et l’accès entrant reste restreint.",
+        "status": "À confirmer",
+        "detail": "L’accès général à la presqu’île est programmé lundi à 19 h, mais la confirmation correspondante en direct d’Inforoutes pour chaque tronçon concerné reste attendue.",
         "sourceName": "Gironde Inforoutes"
       },
       "public-allowed-to-enter-the-peninsula": {
         "label": "Public autorisé à entrer sur la presqu’île",
-        "status": "Non rempli",
-        "detail": "Non. Aucun calendrier officiel n’a été communiqué.",
+        "status": "À confirmer",
+        "detail": "Confirmé lundi 3 août à partir de 19 h ; pas encore en vigueur.",
         "sourceName": "Gironde Inforoutes"
       },
       "services-and-businesses-restarting": {
