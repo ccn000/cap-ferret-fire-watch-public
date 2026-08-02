@@ -1053,7 +1053,11 @@
     "d4eeccdeacda": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
     "69ee073fa229": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "d56a0761756f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
-    "fd7114fd12ff": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants."
+    "fd7114fd12ff": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "d165007bd71f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "96e81458abf9": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "7be5f88708d4": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "14d43d245cea": "Thème du titre : niveau de maîtrise du feu et risque de progression."
   },
   "access": {
     "Road access to the peninsula": {
@@ -1144,12 +1148,12 @@
   "aviation": {
     "overall": {
       "status": "Vols exploités · retards/annulations des arrivées",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 20:15 CEST ; avis préfectoraux d’évacuation"
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 21:29 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
         "status": "Risque élevé · vols exploités mais fortement perturbés",
-        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 7 arrivées retardées et 0 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
+        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 6 arrivées retardées et 0 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
       },
       "groundAccess": {
         "status": "Accès route/taxi possible mais perturbé · vérifier l’itinéraire en direct",
@@ -3033,9 +3037,13 @@
     "d4eeccdeacda": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
     "69ee073fa229": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "d56a0761756f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
-    "fd7114fd12ff": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants."
+    "fd7114fd12ff": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "d165007bd71f": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "96e81458abf9": "Thème du titre : niveau de maîtrise du feu et risque de progression.",
+    "7be5f88708d4": "Thème du titre : ordres d’évacuation, ampleur des évacuations ou mouvements d’habitants.",
+    "14d43d245cea": "Thème du titre : niveau de maîtrise du feu et risque de progression."
   },
-  "generatedAt": "2026-08-02T19:06:48.000Z",
+  "generatedAt": "2026-08-02T19:32:49.909Z",
   "officialCheckpoints": {
     "checkpoint-2026-07-26-tvcap-nasa-1446": {
       "status": "Détections thermiques mises à jour",
@@ -3166,13 +3174,13 @@
     "window": "Horaire d’accès touristique sans restriction non confirmé",
     "confidence": "Élevée",
     "driver": {
-      "fact": "Réintégration de la presqu’île de Lège-Cap-Ferret autorisée lundi à 19 h",
-      "detail": "Trois étapes géographiques sont annoncées : Le Porge village hors Le Ferron et Plein Soleil à 14 h, Lège bourg à 14 h et la presqu’île à 19 h.",
+      "fact": "La préfète fixe trois horaires de réintégration par zone pour lundi",
+      "detail": "C’est le premier calendrier explicite de réintégration. Il remplace une évacuation sans échéance par trois étapes géographiques ; il ne signifie ni retour de tous les habitants à 14 h ni accès touristique sans restric…",
       "sourceName": "France 3 Nouvelle-Aquitaine, 2 August 2026 at 19:31 CEST, reporting Gironde Prefect Sophie Brocas’s announcement"
     },
     "flipCondition": "Une autorité doit confirmer explicitement l’entrée touristique sans restriction et l’accès routier pratique ; les restrictions concernant les campings, la forêt, les plages et la navigation doivent encore être confirmées séparément.",
     "scanSummary": {
-      "text": "37 sources vérifiées à 20:18 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
+      "text": "37 sources vérifiées à 21:32 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
     },
     "checklist": {
       "fire-contained-or-controlled": {
