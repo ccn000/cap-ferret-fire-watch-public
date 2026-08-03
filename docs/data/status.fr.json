@@ -1090,7 +1090,8 @@
     "3645d04329f6": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "68e057bdddb4": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
     "593c4487a3e6": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
-    "e31f8e9a83d5": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression."
+    "e31f8e9a83d5": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "bf1a525bbbb8": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
   },
   "access": {
     "Road access to the peninsula": {
@@ -1181,12 +1182,12 @@
   "aviation": {
     "overall": {
       "status": "Vols exploités · retards/annulations des arrivées",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 15:11 CEST ; avis préfectoraux d’évacuation"
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 16:13 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
         "status": "Risque élevé · vols exploités mais fortement perturbés",
-        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 1 arrivées retardées et 0 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
+        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 2 arrivées retardées et 0 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
       },
       "groundAccess": {
         "status": "Accès route/taxi possible mais perturbé · vérifier l’itinéraire en direct",
@@ -2500,6 +2501,13 @@
       "interesting": "Les relais de canaux officiels sont utiles comme alerte, mais le tableau de bord s’appuie toujours sur les pages officielles directes pour les consignes.",
       "credibility": "Relais média · moyen",
       "incremental": "signal information officielle"
+    },
+    "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3ms6ml2kdy22w": {
+      "title": "Incendie en Gironde: les commerces commencent à rouvrir à Lège-Cap-Ferret Les incendies en Gironde et dans l'Aude…",
+      "summary": "Il relaie une information d’autorité ou de secours utile à vérifier sur les pages et alertes officielles. Texte du message : Incendie en Gironde: les commerces commencent à rouvrir à Lège-Cap-Ferret Les incendies en Gironde et dans l'Aude sont fixés, mais les préfectures appellent à la vigilance alors qu",
+      "interesting": "Les relais de canaux officiels sont utiles comme alerte, mais le tableau de bord s’appuie toujours sur les pages officielles directes pour les consignes.",
+      "credibility": "Relais média · moyen",
+      "incremental": "signal information officielle"
     }
   },
   "mapStatuses": {
@@ -3142,9 +3150,10 @@
     "3645d04329f6": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "68e057bdddb4": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
     "593c4487a3e6": "Thème du titre : routes, bateaux ou conditions pratiques d’accès.",
-    "e31f8e9a83d5": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression."
+    "e31f8e9a83d5": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "bf1a525bbbb8": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
   },
-  "generatedAt": "2026-08-03T13:14:52.970Z",
+  "generatedAt": "2026-08-03T14:15:46.709Z",
   "officialCheckpoints": {
     "checkpoint-2026-07-26-tvcap-nasa-1446": {
       "status": "Détections thermiques mises à jour",
@@ -3281,7 +3290,7 @@
     },
     "flipCondition": "Une autorité doit confirmer explicitement l’entrée touristique sans restriction et l’accès routier pratique ; les restrictions concernant les campings, la forêt, les plages et la navigation doivent encore être confirmées séparément.",
     "scanSummary": {
-      "text": "37 sources vérifiées à 15:14 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
+      "text": "37 sources vérifiées à 16:15 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
     },
     "checklist": {
       "fire-contained-or-controlled": {
