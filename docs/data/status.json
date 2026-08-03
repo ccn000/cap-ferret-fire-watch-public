@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T12:14:02.104Z",
+  "generatedAt": "2026-08-03T13:14:52.970Z",
   "reopeningBrief": {
     "announcedAt": "2026-08-02T19:31:34+02:00",
     "firstReintegrationAt": "2026-08-03T14:00:00+02:00",
@@ -47,18 +47,18 @@
   },
   "sectionUpdates": {
     "assessment": "2026-08-02T19:31:34+02:00",
-    "map": "2026-08-03T12:14:02.104Z",
+    "map": "2026-08-03T13:14:52.970Z",
     "material": "2026-08-02T19:31:34+02:00",
     "access": "2026-08-02T19:31:34+02:00",
     "localCommerce": "2026-07-24T06:40:00+02:00",
     "restaurants": "2026-07-24T06:40:00+02:00",
     "ferries": "2026-07-24T18:26:50+02:00",
-    "aviation": "2026-08-03T14:11:00+02:00",
+    "aviation": "2026-08-03T15:11:00+02:00",
     "reopening": "2026-08-02T19:31:34+02:00",
-    "articles": "2026-08-03T12:09:19.000Z",
-    "social": "2026-08-03T10:56:46.705Z",
-    "sources": "2026-08-03T12:14:02.104Z",
-    "weather": "2026-08-03T12:14:00.474Z",
+    "articles": "2026-08-03T12:34:36.000Z",
+    "social": "2026-08-03T12:34:28.000Z",
+    "sources": "2026-08-03T13:14:52.970Z",
+    "weather": "2026-08-03T13:14:51.442Z",
     "officialCheckpoints": "2026-08-02T19:31:34+02:00"
   },
   "incident": {
@@ -1175,6 +1175,74 @@
     }
   ],
   "updates": [
+    {
+      "id": "6ad52add2589",
+      "time": "14:34",
+      "title": "« Les mégafeux, comme celui en Gironde, ouvrent une dimension inconnue de l’histoire humaine de la vie sur Terre »",
+      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
+      "language": "fr",
+      "titleTheme": "Headline theme: continuing coverage of the Gironde wildfire and its local consequences.",
+      "candidateText": "« Les mégafeux, comme celui en Gironde, ouvrent une dimension inconnue de l’histoire humaine de la vie sur Terre » Apparus ces dernières années, des incendies incontrôlables frappent désormais la France. Un sursaut est nécessaire pour éviter qu’ils ne nous entraînent vers des périls plus graves encore, avertissent trois spécialistes du climat dans une tribune au « Monde ».",
+      "sourceId": "lemonde-planete-live-index",
+      "source": "Le Monde · Planète live index",
+      "sourceTier": "major-media",
+      "sourceKind": "rss",
+      "critical": true,
+      "sourceType": "media",
+      "url": "https://www.lemonde.fr/idees/article/2026/08/02/les-megafeux-comme-celui-en-gironde-ouvrent-une-dimension-inconnue-de-l-histoire-humaine-de-la-vie-sur-terre_6737252_3232.html",
+      "importance": 2,
+      "publishedAt": "2026-08-03T12:34:36.000Z",
+      "classification": {
+        "score": 4,
+        "priority": "context",
+        "reasons": [],
+        "authorityAttributed": false,
+        "changeLanguage": true,
+        "numbers": []
+      },
+      "liveIndex": true,
+      "confirmedBy": {
+        "count": 1,
+        "sources": [
+          "Le Monde · Planète live index"
+        ]
+      }
+    },
+    {
+      "id": "e31f8e9a83d5",
+      "time": "14:19",
+      "title": "Arès : les services municipaux et les activités reprennent progressivement après l’incendie - Sud Ouest",
+      "detail": "Adds a reported fire-size or progression figure, which must be read with its stated time and source.",
+      "language": "fr",
+      "titleTheme": "Headline theme: fire size, burned area or direction of progression.",
+      "candidateText": "Arès : les services municipaux et les activités reprennent progressivement après l’incendie - Sud Ouest <a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY0ZNYlROdWktczIxUHFLXzJha0s1MzFIYVI1NnRhemtrdnVWRnY1TGFua1JUMDFmcXkxZy1XTUxUR1I2UjRkTjlzUW54dXdNVkVBTl9kYnk3b2hQeTFfMjkwMlpONFR4TXBwVnJlQ0d3eDdQaG5OU0lnV2htNTJJcFZDT3lSMG1xQ2tpWWl0R0U2c202QTJuVklwRkdibThDeUxDQ1R3d2tRYk1DQ283cnhENTQ5bGdmenZOZ1ZBY0p5aWZIQVFITHExRVRsazhSOWVGZWt3?oc=5\" target=\"_blank\">Arès : les services municipaux et les activités reprennent progressivement après l’incendie</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sud Ouest</font>",
+      "sourceId": "google-news-sudouest-local",
+      "source": "Google News · Sud Ouest local",
+      "sourceTier": "regional-media",
+      "sourceKind": "rss",
+      "critical": false,
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY0ZNYlROdWktczIxUHFLXzJha0s1MzFIYVI1NnRhemtrdnVWRnY1TGFua1JUMDFmcXkxZy1XTUxUR1I2UjRkTjlzUW54dXdNVkVBTl9kYnk3b2hQeTFfMjkwMlpONFR4TXBwVnJlQ0d3eDdQaG5OU0lnV2htNTJJcFZDT3lSMG1xQ2tpWWl0R0U2c202QTJuVklwRkdibThDeUxDQ1R3d2tRYk1DQ283cnhENTQ5bGdmenZOZ1ZBY0p5aWZIQVFITHExRVRsazhSOWVGZWt3?oc=5",
+      "importance": 2,
+      "publishedAt": "2026-08-03T12:19:46.000Z",
+      "classification": {
+        "score": 6,
+        "priority": "context",
+        "reasons": [
+          "fire-behaviour"
+        ],
+        "authorityAttributed": false,
+        "changeLanguage": true,
+        "numbers": []
+      },
+      "liveIndex": false,
+      "confirmedBy": {
+        "count": 1,
+        "sources": [
+          "Google News · Sud Ouest local"
+        ]
+      }
+    },
     {
       "id": "c098b0a8149b",
       "time": "14:09",
@@ -2500,39 +2568,6 @@
       }
     },
     {
-      "id": "6ad52add2589",
-      "time": "05:30",
-      "title": "« Les mégafeux, comme celui en Gironde, ouvrent une dimension inconnue de l’histoire humaine de la vie sur Terre »",
-      "detail": "Adds no new material fact beyond confirmation of the ongoing Cap Ferret fire incident.",
-      "language": "fr",
-      "titleTheme": "Headline theme: continuing coverage of the Gironde wildfire and its local consequences.",
-      "candidateText": "« Les mégafeux, comme celui en Gironde, ouvrent une dimension inconnue de l’histoire humaine de la vie sur Terre » Apparus ces dernières années, des incendies incontrôlables frappent désormais la France. Un sursaut est nécessaire pour éviter qu’ils ne nous entraînent vers des périls plus graves encore, avertissent trois spécialistes du climat dans une tribune au « Monde ».",
-      "sourceId": "lemonde-planete-live-index",
-      "source": "Le Monde · Planète live index",
-      "sourceTier": "major-media",
-      "sourceKind": "rss",
-      "critical": true,
-      "sourceType": "media",
-      "url": "https://www.lemonde.fr/idees/article/2026/08/02/les-megafeux-comme-celui-en-gironde-ouvrent-une-dimension-inconnue-de-l-histoire-humaine-de-la-vie-sur-terre_6737252_3232.html",
-      "importance": 2,
-      "publishedAt": "2026-08-02T03:30:08.000Z",
-      "classification": {
-        "score": 4,
-        "priority": "context",
-        "reasons": [],
-        "authorityAttributed": false,
-        "changeLanguage": true,
-        "numbers": []
-      },
-      "liveIndex": true,
-      "confirmedBy": {
-        "count": 1,
-        "sources": [
-          "Le Monde · Planète live index"
-        ]
-      }
-    },
-    {
       "id": "fb9fd8392f5c",
       "time": "21:36",
       "title": "Incendie dans le Var : le feu du Gros Bessillon est stabilisé mais la vigilance reste de mise - Sud Ouest",
@@ -2555,39 +2590,6 @@
         "reasons": [
           "control-status"
         ],
-        "authorityAttributed": false,
-        "changeLanguage": true,
-        "numbers": []
-      },
-      "liveIndex": false,
-      "confirmedBy": {
-        "count": 1,
-        "sources": [
-          "Google News · Sud Ouest local"
-        ]
-      }
-    },
-    {
-      "id": "41fcefe888ed",
-      "time": "17:15",
-      "title": "Incendie en Gironde : « Macron qui dit ‘‘Qui aurait pu prédire ?’’ c’est presque provocateur », journée d’action pour Extinction Rébellion - Sud Ouest",
-      "detail": "Adds government-response context; useful for understanding escalation but not a standalone change to travel access.",
-      "language": "fr",
-      "titleTheme": "Headline theme: continuing coverage of the Gironde wildfire and its local consequences.",
-      "candidateText": "Incendie en Gironde : « Macron qui dit ‘‘Qui aurait pu prédire ?’’ c’est presque provocateur », journée d’action pour Extinction Rébellion - Sud Ouest <a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxPYkhKU0JSWWtMbFBOQkVZU1hZNWhKM1dmdEd6bmR6RWdrTXo5XzJWdE5FSGx0QW4weW1MX0tMNWdHcHViTW51TGFvOGwtUzNqU3hxbm1SN1M2SDNFcGQ4d3I2Y3IyTTFZNVpxZjdHd3UwanBPUW5LLWx5T2o3akJXUmdpOXpjVkNrUEdHWVBBc0I0MGxvVVdjRmpfUU5zNVpZMDJicFE3R2Fhb0xZSVlmWHRWWk1laFhETzBZcGc1OWZIalVueFRHVGVkTFFaOExUVnRENlowUTQxWjhfdDVpNS1RQ04xanQyeW96ekttZEJlSUp0Y2J2OUY0UUlOVEhwNEU3b0hqak8zc1dvWDhxSEpXZHlxX3NjY2JlRjBPUmhjcUhfWk1VNjdqYUIwdFU?oc=5\" target=\"_blank\">Incendie en Gironde : « Macron qui dit ‘‘Qui aurait pu prédire ?’’ c’est presque provocateur », journée d’action pour Extinction Rébellion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sud Ouest</font>",
-      "sourceId": "google-news-sudouest-local",
-      "source": "Google News · Sud Ouest local",
-      "sourceTier": "regional-media",
-      "sourceKind": "rss",
-      "critical": false,
-      "sourceType": "media",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPYkhKU0JSWWtMbFBOQkVZU1hZNWhKM1dmdEd6bmR6RWdrTXo5XzJWdE5FSGx0QW4weW1MX0tMNWdHcHViTW51TGFvOGwtUzNqU3hxbm1SN1M2SDNFcGQ4d3I2Y3IyTTFZNVpxZjdHd3UwanBPUW5LLWx5T2o3akJXUmdpOXpjVkNrUEdHWVBBc0I0MGxvVVdjRmpfUU5zNVpZMDJicFE3R2Fhb0xZSVlmWHRWWk1laFhETzBZcGc1OWZIalVueFRHVGVkTFFaOExUVnRENlowUTQxWjhfdDVpNS1RQ04xanQyeW96ekttZEJlSUp0Y2J2OUY0UUlOVEhwNEU3b0hqak8zc1dvWDhxSEpXZHlxX3NjY2JlRjBPUmhjcUhfWk1VNjdqYUIwdFU?oc=5",
-      "importance": 2,
-      "publishedAt": "2026-08-01T15:15:00.000Z",
-      "classification": {
-        "score": 2,
-        "priority": "context",
-        "reasons": [],
         "authorityAttributed": false,
         "changeLanguage": true,
         "numbers": []
@@ -2747,16 +2749,16 @@
   ],
   "aviation": {
     "overall": {
-      "level": "green",
-      "status": "Operating flights · no major disruption flagged",
-      "sourceName": "Bordeaux Airport board updated at 14:11 CEST; prefectural evacuation notices",
+      "level": "amber",
+      "status": "Operating flights · arrival delays/cancellations",
+      "sourceName": "Bordeaux Airport board updated at 15:11 CEST; prefectural evacuation notices",
       "sourceUrl": "https://www.bordeaux.aeroport.fr/vols-destinations/arrivees-departs-du-jour"
     },
     "operationalRisk": {
       "closure": {
         "level": "amber",
-        "status": "Elevated risk · flights listed and activity continues",
-        "detail": "The official board lists arrivals and departures without major delay or cancellation flags at the time checked. The airport's own flash notice says activity continues, while the hotel zone around the airport is evacuated until further notice and the halls close overnight, so the site cannot provide accommodation. Treat flight operation, terminal overnight access and ground access as separate signals."
+        "status": "Elevated risk · flights operating but heavily disrupted",
+        "detail": "The official board still lists arrivals and departures, but it flags 1 delayed and 0 cancelled arrivals, plus 0 delayed and 0 cancelled departures. The airport's own flash notice says activity continues, while the hotel zone around the airport is evacuated until further notice and the halls close overnight, so the site cannot provide accommodation. Treat flight operation, terminal overnight access and ground access as separate signals."
       },
       "groundAccess": {
         "level": "amber",
@@ -2896,130 +2898,146 @@
       "name": "Lège-Cap-Ferret Town Hall",
       "type": "Official",
       "url": "https://www.ville-lege-capferret.fr/actualites/information-importante-incendie-saumos/",
-      "checkedAt": "2026-08-03T12:13:54.919Z",
+      "checkedAt": "2026-08-03T13:14:36.498Z",
       "status": "ok"
     },
     {
       "name": "Gironde Prefecture",
       "type": "Official",
       "url": "https://www.gironde.gouv.fr/",
-      "checkedAt": "2026-08-03T12:13:54.955Z",
+      "checkedAt": "2026-08-03T13:14:36.532Z",
       "status": "ok"
     },
     {
       "name": "Marcheprime Town Hall",
       "type": "Official local",
       "url": "https://ville-marcheprime.fr/actualites/alerte-extreme-evacuation-imminente/",
-      "checkedAt": "2026-08-03T12:13:54.956Z",
+      "checkedAt": "2026-08-03T13:14:36.532Z",
       "status": "ok"
     },
     {
       "name": "Gironde Prefecture · press releases",
       "type": "Official",
       "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026",
-      "checkedAt": "2026-08-03T12:13:54.956Z",
+      "checkedAt": "2026-08-03T13:14:36.533Z",
       "status": "ok"
     },
     {
       "name": "Gironde Department",
       "type": "Official",
       "url": "https://www.gironde.fr/actualites/vigilance-rouge-pour-le-risque-feu-de-foret",
-      "checkedAt": "2026-08-03T12:13:54.957Z",
+      "checkedAt": "2026-08-03T13:14:36.534Z",
       "status": "ok"
     },
     {
       "name": "Bordeaux Métropole",
       "type": "Official local",
       "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees-collecte-dons",
-      "checkedAt": "2026-08-03T12:13:54.957Z",
+      "checkedAt": "2026-08-03T13:14:36.534Z",
       "status": "ok"
     },
     {
       "name": "Bordeaux Métropole · wildfire and pollution restrictions",
       "type": "Official local",
       "url": "https://www.bordeaux-metropole.fr/actualites/vigilance-noire-feux-foret-pollution-atmospherique-alertes-renforcees",
-      "checkedAt": "2026-08-03T12:13:54.958Z",
+      "checkedAt": "2026-08-03T13:14:36.534Z",
       "status": "ok"
     },
     {
       "name": "Gironde Inforoutes",
       "type": "Official transport",
       "url": "https://www.gironde.fr/deplacements/inforoutes",
-      "checkedAt": "2026-08-03T12:13:54.958Z",
+      "checkedAt": "2026-08-03T13:14:36.535Z",
       "status": "ok"
     },
     {
       "name": "Atlantic maritime prefecture",
       "type": "Official maritime",
       "url": "https://www.premar-atlantique.gouv.fr/communiques-presse/reouverture-partielle-du-bassin-d-arcachon-33-a-la-navigation",
-      "checkedAt": "2026-08-03T12:13:54.959Z",
+      "checkedAt": "2026-08-03T13:14:36.535Z",
       "status": "ok"
     },
     {
       "name": "Nouvelle-Aquitaine transport",
       "type": "Official transport",
       "url": "https://transports.nouvelle-aquitaine.fr/",
-      "checkedAt": "2026-08-03T12:13:54.959Z",
+      "checkedAt": "2026-08-03T13:14:36.535Z",
       "status": "ok"
     },
     {
       "name": "Feux de Forêt",
       "type": "Specialist",
       "url": "https://feuxdeforet.fr/",
-      "checkedAt": "2026-08-03T12:13:54.959Z",
+      "checkedAt": "2026-08-03T13:14:36.536Z",
       "status": "failed"
     },
     {
       "name": "NASA FIRMS",
       "type": "Satellite",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/",
-      "checkedAt": "2026-08-03T12:13:54.960Z",
+      "checkedAt": "2026-08-03T13:14:36.536Z",
       "status": "ok"
     },
     {
       "name": "Météo-France · forêts",
       "type": "Official",
       "url": "https://meteofrance.com/meteo-des-forets",
-      "checkedAt": "2026-08-03T12:13:54.960Z",
+      "checkedAt": "2026-08-03T13:14:36.537Z",
       "status": "ok"
     },
     {
       "name": "Atmo Nouvelle-Aquitaine",
       "type": "Official air quality",
       "url": "https://www.atmo-nouvelleaquitaine.org/",
-      "checkedAt": "2026-08-03T12:13:54.960Z",
+      "checkedAt": "2026-08-03T13:14:36.537Z",
       "status": "ok"
     },
     {
       "name": "France Bleu / ici Gironde",
       "type": "Local media",
       "url": "https://www.francebleu.fr/gironde",
-      "checkedAt": "2026-08-03T12:13:54.960Z",
+      "checkedAt": "2026-08-03T13:14:36.537Z",
       "status": "ok"
     },
     {
       "name": "TVCapFerret · Bassin fire live",
       "type": "Local media",
       "url": "https://tvcapferret.com/vigilance-orange-feux-foret-gironde-lege-cap-ferret/",
-      "checkedAt": "2026-08-03T12:13:54.960Z",
+      "checkedAt": "2026-08-03T13:14:36.537Z",
       "status": "ok"
     },
     {
       "name": "Bordeaux Airport",
       "type": "Official transport",
       "url": "https://www.bordeaux.aeroport.fr/vols-destinations/arrivees-departs-du-jour",
-      "checkedAt": "2026-08-03T12:13:56.467Z",
+      "checkedAt": "2026-08-03T13:14:47.223Z",
       "status": "ok"
     },
     {
       "name": "Public social networks",
       "type": "Signal",
       "url": "https://bsky.app/search?q=incendie%20Cap%20Ferret",
-      "checkedAt": "2026-08-03T12:14:02.104Z",
+      "checkedAt": "2026-08-03T13:14:52.970Z",
       "status": "ok"
     }
   ],
   "socialSignals": [
+    {
+      "title": "Incendie en Gironde: les habitants du Porge et de Lège-Cap-Ferret autorisés à rentrer chez eux Les incendies en…",
+      "summary": "It relays authority or emergency-service information that is useful to verify against official pages and alerts.",
+      "interesting": "Official-channel relays are useful as leads, but the dashboard still relies on direct official pages for safety instructions.",
+      "source": "Bluesky · @news-flows-fr.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3ms6k5pvxll2h",
+      "createdAt": "2026-08-03T12:34:28.000000Z",
+      "credibility": "Media relay · medium",
+      "incremental": "authority information colour",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-08-03T13:14:51.078Z"
+      }
+    },
     {
       "title": "«Après la mort, le 21 juillet, de deux pompiers du département, brûlés vifs dans leur camion à Mérignac, est-ce…",
       "summary": "It points to airport, transport or Bordeaux-periphery consequences that should be checked against official boards and prefecture alerts.",
@@ -3034,22 +3052,6 @@
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
         "checkedAt": "2026-08-03T11:13:10.885Z"
-      }
-    },
-    {
-      "title": "EN IMAGES. Incendie en Gironde : sur la route de la désolation, plus de 180 maisons brûlées entre Le Porge et…",
-      "summary": "It gives ground-level context on evacuation, traffic or access that may not yet be captured in official summaries.",
-      "interesting": "Ground-level access colour is useful for situational awareness, but official road closures and FR-Alert remain authoritative.",
-      "source": "Bluesky · @sudouest.fr",
-      "url": "https://bsky.app/profile/did:plc:qtupmmogj72y37n7pl4u736w/post/3ms2jkfy7bn2o",
-      "createdAt": "2026-08-01T22:32:14.000Z",
-      "credibility": "Media relay · medium",
-      "incremental": "evacuation/access colour",
-      "linkValidation": {
-        "valid": true,
-        "network": "bluesky",
-        "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-02T12:03:00.770Z"
       }
     },
     {
@@ -3310,7 +3312,7 @@
   "collection": {
     "feedSuccesses": 12,
     "feedFailures": 0,
-    "newItemsSeen": 656,
+    "newItemsSeen": 658,
     "liveblogItemsSeen": 8,
     "sourceHealth": [
       {
@@ -3320,11 +3322,11 @@
         "url": "https://www.lemonde.fr/planete/rss_full.xml",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:57.849Z",
-        "latencyMs": 275,
+        "checkedAt": "2026-08-03T13:14:48.628Z",
+        "latencyMs": 415,
         "itemCount": 5,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:13:57.849Z",
+        "lastGoodAt": "2026-08-03T13:14:48.628Z",
         "lastFailureAt": "2026-07-31T14:29:06.827Z"
       },
       {
@@ -3334,11 +3336,11 @@
         "url": "https://news.google.com/rss/search?q=(wildfire%20OR%20wildfires%20OR%20%22forest%20fire%22%20OR%20fires%20OR%20evacuation%20OR%20smoke)%20(Gironde%20OR%20Landes%20OR%20Bordeaux%20OR%20%22Cap%20Ferret%22%20OR%20Lacanau%20OR%20Arcachon%20OR%20Saumos%20OR%20%22Le%20Porge%22)&hl=en-GB&gl=GB&ceid=GB%3Aen",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:57.850Z",
-        "latencyMs": 655,
-        "itemCount": 52,
+        "checkedAt": "2026-08-03T13:14:48.629Z",
+        "latencyMs": 681,
+        "itemCount": 53,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:13:57.850Z",
+        "lastGoodAt": "2026-08-03T13:14:48.629Z",
         "lastFailureAt": "2026-07-31T14:40:29.441Z"
       },
       {
@@ -3348,11 +3350,11 @@
         "url": "https://news.google.com/rss/search?q=(wildfire%20OR%20%22forest%20fire%22%20OR%20evacuation%20OR%20smoke)%20(Bordeaux%20OR%20%22Cap%20Ferret%22%20OR%20Lacanau%20OR%20Arcachon)%20(tourists%20OR%20tourism%20OR%20travel%20OR%20airport%20OR%20flights%20OR%20holiday%20OR%20insurance%20OR%20business)&hl=en-US&gl=US&ceid=US%3Aen",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:57.850Z",
-        "latencyMs": 602,
-        "itemCount": 67,
+        "checkedAt": "2026-08-03T13:14:48.630Z",
+        "latencyMs": 639,
+        "itemCount": 68,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:13:57.850Z",
+        "lastGoodAt": "2026-08-03T13:14:48.630Z",
         "lastFailureAt": "2026-07-31T14:40:29.442Z"
       },
       {
@@ -3362,11 +3364,11 @@
         "url": "https://news.google.com/rss/search?q=(site%3Areuters.com%20OR%20site%3Aapnews.com)%20(wildfire%20OR%20wildfires%20OR%20%22forest%20fire%22%20OR%20fires%20OR%20evacuation%20OR%20smoke)%20(France%20OR%20Gironde%20OR%20Landes%20OR%20Bordeaux%20OR%20%22Cap%20Ferret%22%20OR%20Lacanau%20OR%20Arcachon%20OR%20Saumos)&hl=en-GB&gl=GB&ceid=GB%3Aen",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:57.851Z",
-        "latencyMs": 760,
+        "checkedAt": "2026-08-03T13:14:48.630Z",
+        "latencyMs": 672,
         "itemCount": 16,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:13:57.851Z",
+        "lastGoodAt": "2026-08-03T13:14:48.630Z",
         "lastFailureAt": "2026-07-31T14:40:29.443Z"
       },
       {
@@ -3376,11 +3378,11 @@
         "url": "https://news.google.com/rss/search?q=(site%3Anytimes.com%20OR%20site%3Aft.com%20OR%20site%3Aeconomist.com)%20(wildfire%20OR%20wildfires%20OR%20%22forest%20fire%22%20OR%20fires%20OR%20evacuation%20OR%20smoke%20OR%20tourism%20OR%20airport)%20(France%20OR%20Gironde%20OR%20Landes%20OR%20Bordeaux%20OR%20%22Cap%20Ferret%22%20OR%20Lacanau%20OR%20Arcachon)&hl=en-GB&gl=GB&ceid=GB%3Aen",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:57.855Z",
-        "latencyMs": 698,
+        "checkedAt": "2026-08-03T13:14:48.631Z",
+        "latencyMs": 569,
         "itemCount": 11,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:13:57.855Z",
+        "lastGoodAt": "2026-08-03T13:14:48.631Z",
         "lastFailureAt": "2026-07-31T14:40:29.443Z"
       },
       {
@@ -3390,11 +3392,11 @@
         "url": "https://news.google.com/rss/search?q=(site%3Abloomberg.com%20OR%20site%3Abbc.com%20OR%20site%3Atheguardian.com)%20(wildfire%20OR%20wildfires%20OR%20%22forest%20fire%22%20OR%20fires%20OR%20evacuation%20OR%20smoke%20OR%20tourism%20OR%20airport)%20(France%20OR%20Gironde%20OR%20Landes%20OR%20Bordeaux%20OR%20%22Cap%20Ferret%22%20OR%20Lacanau%20OR%20Arcachon)&hl=en-GB&gl=GB&ceid=GB%3Aen",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:57.856Z",
-        "latencyMs": 991,
+        "checkedAt": "2026-08-03T13:14:48.631Z",
+        "latencyMs": 917,
         "itemCount": 16,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:13:57.856Z",
+        "lastGoodAt": "2026-08-03T13:14:48.631Z",
         "lastFailureAt": "2026-07-31T14:40:29.444Z"
       },
       {
@@ -3404,11 +3406,11 @@
         "url": "https://news.google.com/rss/search?q=(bosbrand%20OR%20bosbranden%20OR%20natuurbrand%20OR%20brand%20OR%20evacuatie%20OR%20rook)%20(Gironde%20OR%20Landes%20OR%20Bordeaux%20OR%20%22Cap%20Ferret%22%20OR%20Lacanau%20OR%20Arcachon)&hl=nl&gl=NL&ceid=NL%3Anl",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:57.856Z",
-        "latencyMs": 689,
-        "itemCount": 50,
+        "checkedAt": "2026-08-03T13:14:48.632Z",
+        "latencyMs": 663,
+        "itemCount": 51,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:13:57.856Z",
+        "lastGoodAt": "2026-08-03T13:14:48.632Z",
         "lastFailureAt": "2026-07-31T14:40:29.444Z"
       },
       {
@@ -3418,11 +3420,11 @@
         "url": "https://news.google.com/rss/search?q=(bosbrand%20OR%20bosbranden%20OR%20natuurbrand%20OR%20brand%20OR%20evacuatie%20OR%20rook%20OR%20vakantiegangers)%20(Gironde%20OR%20Landes%20OR%20Bordeaux%20OR%20%22Cap%20Ferret%22%20OR%20Lacanau%20OR%20Arcachon)&hl=nl-BE&gl=BE&ceid=BE%3Anl",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:57.857Z",
-        "latencyMs": 725,
-        "itemCount": 57,
+        "checkedAt": "2026-08-03T13:14:48.633Z",
+        "latencyMs": 895,
+        "itemCount": 58,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:13:57.857Z",
+        "lastGoodAt": "2026-08-03T13:14:48.633Z",
         "lastFailureAt": "2026-07-31T14:40:29.445Z"
       },
       {
@@ -3432,11 +3434,11 @@
         "url": "https://news.google.com/rss/search?q=%28incendie+OR+feu+OR+%C3%A9vacuation%29+%28Gironde+OR+Landes+OR+Bordeaux+OR+L%C3%A8ge-Cap-Ferret+OR+Saumos+OR+Le+Porge+OR+Cestas+OR+Marcheprime+OR+A63+OR+Biscarrosse%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:57.857Z",
-        "latencyMs": 744,
+        "checkedAt": "2026-08-03T13:14:48.633Z",
+        "latencyMs": 879,
         "itemCount": 99,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:13:57.857Z",
+        "lastGoodAt": "2026-08-03T13:14:48.633Z",
         "lastFailureAt": "2026-07-31T14:40:29.445Z"
       },
       {
@@ -3446,11 +3448,11 @@
         "url": "https://news.google.com/rss/search?q=%28r%C3%A9ouverture+OR+retour+OR+acc%C3%A8s%29+%28Cap+Ferret+OR+L%C3%A8ge%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:57.858Z",
-        "latencyMs": 576,
+        "checkedAt": "2026-08-03T13:14:48.634Z",
+        "latencyMs": 627,
         "itemCount": 98,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:13:57.858Z",
+        "lastGoodAt": "2026-08-03T13:14:48.634Z",
         "lastFailureAt": "2026-07-31T14:40:29.446Z"
       },
       {
@@ -3460,11 +3462,11 @@
         "url": "https://news.google.com/rss/search?q=site%3Asudouest.fr+%28incendie+OR+feu+OR+%C3%A9vacuation%29+%28Gironde+OR+Saumos+OR+L%C3%A8ge-Cap-Ferret+OR+Bordeaux%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:57.858Z",
-        "latencyMs": 716,
+        "checkedAt": "2026-08-03T13:14:48.634Z",
+        "latencyMs": 902,
         "itemCount": 99,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:13:57.858Z",
+        "lastGoodAt": "2026-08-03T13:14:48.634Z",
         "lastFailureAt": "2026-07-31T14:40:29.446Z"
       },
       {
@@ -3474,11 +3476,11 @@
         "url": "https://news.google.com/rss/search?q=%28incendie+OR+fum%C3%A9es+OR+PM10%29+%28Bordeaux+OR+Gironde+OR+Arcachon%29+%28a%C3%A9roport+OR+cars+OR+transport+OR+qualit%C3%A9+de+l%27air%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:57.858Z",
-        "latencyMs": 707,
-        "itemCount": 86,
+        "checkedAt": "2026-08-03T13:14:48.634Z",
+        "latencyMs": 885,
+        "itemCount": 84,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:13:57.858Z",
+        "lastGoodAt": "2026-08-03T13:14:48.634Z",
         "lastFailureAt": "2026-07-31T14:40:29.447Z"
       },
       {
@@ -3488,11 +3490,11 @@
         "url": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:58.846Z",
-        "latencyMs": 270,
+        "checkedAt": "2026-08-03T13:14:49.549Z",
+        "latencyMs": 236,
         "itemCount": 3,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:13:58.846Z",
+        "lastGoodAt": "2026-08-03T13:14:49.549Z",
         "lastFailureAt": "2026-07-31T14:29:06.830Z"
       },
       {
@@ -3502,12 +3504,12 @@
         "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-des-evacuations-par-bateau-en-gironde-la-situation-nest-pas-sous-controle-dans-les-landes-20260724_CUWC25TVWRFZ7JZIHU2QBJ66PI/",
         "critical": false,
         "status": "failed",
-        "checkedAt": "2026-08-03T12:13:58.847Z",
-        "latencyMs": 223,
+        "checkedAt": "2026-08-03T13:14:49.549Z",
+        "latencyMs": 192,
         "itemCount": null,
         "error": "403 ",
         "lastGoodAt": null,
-        "lastFailureAt": "2026-08-03T12:13:58.847Z"
+        "lastFailureAt": "2026-08-03T13:14:49.549Z"
       },
       {
         "id": "reference-bae11fbd31",
@@ -3516,14 +3518,14 @@
         "url": "https://www.ville-lege-capferret.fr/actualites/information-importante-incendie-saumos/",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:54.919Z",
-        "latencyMs": 429,
+        "checkedAt": "2026-08-03T13:14:36.498Z",
+        "latencyMs": 462,
         "itemCount": 5917,
         "error": null,
         "contentHash": "b0f62555ab991e3f5d17",
         "contentChanged": false,
         "changedAt": "2026-08-02T15:50:48.799Z",
-        "lastGoodAt": "2026-08-03T12:13:54.919Z",
+        "lastGoodAt": "2026-08-03T13:14:36.498Z",
         "lastFailureAt": "2026-07-31T14:29:06.785Z",
         "latestOfficialPointAt": "2026-08-02T12:00:00+02:00"
       },
@@ -3534,14 +3536,14 @@
         "url": "https://www.gironde.gouv.fr/",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:54.955Z",
-        "latencyMs": 1049,
+        "checkedAt": "2026-08-03T13:14:36.532Z",
+        "latencyMs": 944,
         "itemCount": 728,
         "error": null,
-        "contentHash": "e476e5254d2f91201404",
+        "contentHash": "8a33c53487b3beabc6a3",
         "contentChanged": true,
-        "changedAt": "2026-08-03T12:13:54.955Z",
-        "lastGoodAt": "2026-08-03T12:13:54.955Z",
+        "changedAt": "2026-08-03T13:14:36.532Z",
+        "lastGoodAt": "2026-08-03T13:14:36.532Z",
         "lastFailureAt": "2026-07-31T20:35:58.194Z",
         "latestOfficialPointAt": null
       },
@@ -3552,14 +3554,14 @@
         "url": "https://ville-marcheprime.fr/actualites/alerte-extreme-evacuation-imminente/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:54.956Z",
-        "latencyMs": 914,
+        "checkedAt": "2026-08-03T13:14:36.532Z",
+        "latencyMs": 937,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-08-03T12:13:54.956Z",
+        "lastGoodAt": "2026-08-03T13:14:36.532Z",
         "lastFailureAt": "2026-08-03T07:39:46.036Z",
         "latestOfficialPointAt": null
       },
@@ -3570,14 +3572,14 @@
         "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:54.956Z",
-        "latencyMs": 567,
+        "checkedAt": "2026-08-03T13:14:36.533Z",
+        "latencyMs": 419,
         "itemCount": 760,
         "error": null,
         "contentHash": "3b67140c511d9e7dc870",
         "contentChanged": false,
         "changedAt": "2026-08-02T15:18:01.554Z",
-        "lastGoodAt": "2026-08-03T12:13:54.956Z",
+        "lastGoodAt": "2026-08-03T13:14:36.533Z",
         "lastFailureAt": "2026-07-31T20:35:58.197Z",
         "latestOfficialPointAt": null
       },
@@ -3588,14 +3590,14 @@
         "url": "https://www.gironde.fr/actualites/vigilance-rouge-pour-le-risque-feu-de-foret",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:54.957Z",
-        "latencyMs": 834,
+        "checkedAt": "2026-08-03T13:14:36.534Z",
+        "latencyMs": 669,
         "itemCount": 863,
         "error": null,
         "contentHash": "ecc00fc9da7e5a577fd9",
         "contentChanged": false,
         "changedAt": "2026-08-02T15:50:48.837Z",
-        "lastGoodAt": "2026-08-03T12:13:54.957Z",
+        "lastGoodAt": "2026-08-03T13:14:36.534Z",
         "lastFailureAt": "2026-08-03T07:39:46.038Z",
         "latestOfficialPointAt": null
       },
@@ -3606,14 +3608,14 @@
         "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees-collecte-dons",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:54.957Z",
-        "latencyMs": 892,
-        "itemCount": 2562,
+        "checkedAt": "2026-08-03T13:14:36.534Z",
+        "latencyMs": 10689,
+        "itemCount": 2535,
         "error": null,
-        "contentHash": "d56724a84d70c1ca6d2f",
-        "contentChanged": false,
-        "changedAt": "2026-08-03T10:12:17.626Z",
-        "lastGoodAt": "2026-08-03T12:13:54.957Z",
+        "contentHash": "188a49750f3c40ec9d60",
+        "contentChanged": true,
+        "changedAt": "2026-08-03T13:14:36.534Z",
+        "lastGoodAt": "2026-08-03T13:14:36.534Z",
         "lastFailureAt": "2026-08-03T07:39:46.039Z",
         "latestOfficialPointAt": null
       },
@@ -3624,14 +3626,14 @@
         "url": "https://www.bordeaux-metropole.fr/actualites/vigilance-noire-feux-foret-pollution-atmospherique-alertes-renforcees",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:54.958Z",
-        "latencyMs": 890,
+        "checkedAt": "2026-08-03T13:14:36.534Z",
+        "latencyMs": 10597,
         "itemCount": 1631,
         "error": null,
         "contentHash": "680c320f86dd60dcb2f6",
         "contentChanged": false,
         "changedAt": "2026-08-03T10:12:17.626Z",
-        "lastGoodAt": "2026-08-03T12:13:54.958Z",
+        "lastGoodAt": "2026-08-03T13:14:36.534Z",
         "lastFailureAt": "2026-08-03T07:39:46.040Z",
         "latestOfficialPointAt": null
       },
@@ -3642,14 +3644,14 @@
         "url": "https://www.gironde.fr/deplacements/inforoutes",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:54.958Z",
-        "latencyMs": 563,
+        "checkedAt": "2026-08-03T13:14:36.535Z",
+        "latencyMs": 520,
         "itemCount": 2553,
         "error": null,
         "contentHash": "977c8361e98044fcf48b",
         "contentChanged": false,
         "changedAt": "2026-08-03T08:48:20.082Z",
-        "lastGoodAt": "2026-08-03T12:13:54.958Z",
+        "lastGoodAt": "2026-08-03T13:14:36.535Z",
         "lastFailureAt": "2026-08-03T07:39:46.041Z",
         "latestOfficialPointAt": null
       },
@@ -3660,14 +3662,14 @@
         "url": "https://www.premar-atlantique.gouv.fr/communiques-presse/reouverture-partielle-du-bassin-d-arcachon-33-a-la-navigation",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:54.959Z",
-        "latencyMs": 953,
+        "checkedAt": "2026-08-03T13:14:36.535Z",
+        "latencyMs": 1005,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-08-03T12:13:54.959Z",
+        "lastGoodAt": "2026-08-03T13:14:36.535Z",
         "lastFailureAt": "2026-07-31T14:29:06.818Z",
         "latestOfficialPointAt": null
       },
@@ -3678,14 +3680,14 @@
         "url": "https://transports.nouvelle-aquitaine.fr/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:54.959Z",
-        "latencyMs": 1508,
+        "checkedAt": "2026-08-03T13:14:36.535Z",
+        "latencyMs": 1169,
         "itemCount": 1388,
         "error": null,
         "contentHash": "e08df2431e625ee9ed8d",
-        "contentChanged": true,
+        "contentChanged": false,
         "changedAt": "2026-08-03T12:13:54.959Z",
-        "lastGoodAt": "2026-08-03T12:13:54.959Z",
+        "lastGoodAt": "2026-08-03T13:14:36.535Z",
         "lastFailureAt": "2026-07-31T14:29:06.819Z",
         "latestOfficialPointAt": null
       },
@@ -3696,15 +3698,15 @@
         "url": "https://feuxdeforet.fr/",
         "critical": false,
         "status": "failed",
-        "checkedAt": "2026-08-03T12:13:54.959Z",
-        "latencyMs": 518,
+        "checkedAt": "2026-08-03T13:14:36.536Z",
+        "latencyMs": 562,
         "itemCount": null,
         "error": "403 ",
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
         "lastGoodAt": "2026-07-29T13:54:16.907Z",
-        "lastFailureAt": "2026-08-03T12:13:54.959Z",
+        "lastFailureAt": "2026-08-03T13:14:36.536Z",
         "latestOfficialPointAt": null
       },
       {
@@ -3714,14 +3716,14 @@
         "url": "https://firms.modaps.eosdis.nasa.gov/map/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:54.960Z",
-        "latencyMs": 1253,
+        "checkedAt": "2026-08-03T13:14:36.536Z",
+        "latencyMs": 1214,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-08-03T12:13:54.960Z",
+        "lastGoodAt": "2026-08-03T13:14:36.536Z",
         "lastFailureAt": "2026-08-03T07:39:46.045Z",
         "latestOfficialPointAt": null
       },
@@ -3732,14 +3734,14 @@
         "url": "https://meteofrance.com/meteo-des-forets",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:54.960Z",
-        "latencyMs": 832,
+        "checkedAt": "2026-08-03T13:14:36.537Z",
+        "latencyMs": 956,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-08-03T12:13:54.960Z",
+        "lastGoodAt": "2026-08-03T13:14:36.537Z",
         "lastFailureAt": "2026-07-31T14:29:06.820Z",
         "latestOfficialPointAt": null
       },
@@ -3750,14 +3752,14 @@
         "url": "https://www.atmo-nouvelleaquitaine.org/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:54.960Z",
-        "latencyMs": 1284,
+        "checkedAt": "2026-08-03T13:14:36.537Z",
+        "latencyMs": 1109,
         "itemCount": 707,
         "error": null,
         "contentHash": "0650cf5d7f73ffa33077",
         "contentChanged": false,
         "changedAt": "2026-08-03T08:48:20.084Z",
-        "lastGoodAt": "2026-08-03T12:13:54.960Z",
+        "lastGoodAt": "2026-08-03T13:14:36.537Z",
         "lastFailureAt": "2026-08-03T07:39:46.047Z",
         "latestOfficialPointAt": null
       },
@@ -3768,14 +3770,14 @@
         "url": "https://www.francebleu.fr/gironde",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:54.960Z",
-        "latencyMs": 1088,
+        "checkedAt": "2026-08-03T13:14:36.537Z",
+        "latencyMs": 1219,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-08-03T12:13:54.960Z",
+        "lastGoodAt": "2026-08-03T13:14:36.537Z",
         "lastFailureAt": "2026-07-31T14:29:06.820Z",
         "latestOfficialPointAt": null
       },
@@ -3786,14 +3788,14 @@
         "url": "https://tvcapferret.com/vigilance-orange-feux-foret-gironde-lege-cap-ferret/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:54.960Z",
-        "latencyMs": 886,
+        "checkedAt": "2026-08-03T13:14:36.537Z",
+        "latencyMs": 1000,
         "itemCount": 13901,
         "error": null,
         "contentHash": "48752605d621f223830d",
         "contentChanged": false,
         "changedAt": "2026-08-03T11:13:05.379Z",
-        "lastGoodAt": "2026-08-03T12:13:54.960Z",
+        "lastGoodAt": "2026-08-03T13:14:36.537Z",
         "lastFailureAt": "2026-07-31T14:29:06.820Z",
         "latestOfficialPointAt": null
       },
@@ -3804,11 +3806,11 @@
         "url": "https://www.bordeaux.aeroport.fr/vols-destinations/arrivees-departs-du-jour",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:13:56.467Z",
-        "latencyMs": 1381,
-        "itemCount": 85,
+        "checkedAt": "2026-08-03T13:14:47.223Z",
+        "latencyMs": 1405,
+        "itemCount": 73,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:13:56.467Z",
+        "lastGoodAt": "2026-08-03T13:14:47.223Z",
         "lastFailureAt": "2026-07-31T14:29:06.825Z"
       },
       {
@@ -3818,11 +3820,11 @@
         "url": "https://api.bsky.app/xrpc/app.bsky.feed.searchPosts",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:14:02.104Z",
+        "checkedAt": "2026-08-03T13:14:52.970Z",
         "latencyMs": null,
         "itemCount": 30,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:14:02.104Z",
+        "lastGoodAt": "2026-08-03T13:14:52.970Z",
         "lastFailureAt": "2026-07-31T14:29:06.852Z"
       },
       {
@@ -3832,12 +3834,12 @@
         "url": "https://www.reddit.com/search.rss",
         "critical": false,
         "status": "failed",
-        "checkedAt": "2026-08-03T12:14:02.104Z",
+        "checkedAt": "2026-08-03T13:14:52.970Z",
         "latencyMs": null,
         "itemCount": null,
         "error": "This operation was aborted",
         "lastGoodAt": "2026-07-26T19:05:06.976Z",
-        "lastFailureAt": "2026-08-03T12:14:02.104Z"
+        "lastFailureAt": "2026-08-03T13:14:52.970Z"
       },
       {
         "id": "mastodon-search",
@@ -3846,11 +3848,11 @@
         "url": "https://mastodon.social/api/v1/timelines/tag/gironde",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:14:02.104Z",
+        "checkedAt": "2026-08-03T13:14:52.970Z",
         "latencyMs": null,
         "itemCount": 20,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:14:02.104Z",
+        "lastGoodAt": "2026-08-03T13:14:52.970Z",
         "lastFailureAt": "2026-07-31T14:29:06.852Z"
       },
       {
@@ -3860,11 +3862,11 @@
         "url": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:14:00.474Z",
+        "checkedAt": "2026-08-03T13:14:51.442Z",
         "latencyMs": null,
         "itemCount": 3,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:14:00.474Z",
+        "lastGoodAt": "2026-08-03T13:14:51.442Z",
         "lastFailureAt": "2026-07-31T14:29:06.849Z"
       },
       {
@@ -3874,11 +3876,11 @@
         "url": "https://sig.gironde.fr/arcgis/services/ec_routes_ferm%C3%A9es/MapServer/WFSServer?service=WFS&version=2.0.0&request=GetFeature&typenames=ec_routes_ferm%C3%A9es%3ARoutes_d%C3%A9partementales_ferm%C3%A9es&outputFormat=GEOJSON",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:14:01.021Z",
+        "checkedAt": "2026-08-03T13:14:51.945Z",
         "latencyMs": null,
-        "itemCount": 45,
+        "itemCount": 36,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:14:01.021Z",
+        "lastGoodAt": "2026-08-03T13:14:51.945Z",
         "lastFailureAt": "2026-08-03T07:40:20.040Z"
       },
       {
@@ -3888,11 +3890,11 @@
         "url": "https://firms.modaps.eosdis.nasa.gov/mapserver/wms/fires/31abf073d7735a23db666ff6c75a4991/?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetCapabilities",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-03T12:14:01.022Z",
-        "latencyMs": 1081,
+        "checkedAt": "2026-08-03T13:14:51.946Z",
+        "latencyMs": 1025,
         "itemCount": 1,
         "error": null,
-        "lastGoodAt": "2026-08-03T12:14:01.022Z",
+        "lastGoodAt": "2026-08-03T13:14:51.946Z",
         "lastFailureAt": "2026-08-03T07:40:20.040Z"
       }
     ],
@@ -3902,13 +3904,13 @@
       "failed": 3,
       "criticalFailures": 0,
       "transientCriticalFailures": 0,
-      "synthesisReviewRequired": false,
-      "newestUrgentCandidateAt": "2026-07-31T12:40:11.000Z"
+      "synthesisReviewRequired": true,
+      "newestUrgentCandidateAt": "2026-08-03T13:07:49.000Z"
     },
     "social": {
-      "checkedAt": "2026-08-03T12:14:02.104Z",
-      "newestCandidateAt": "2026-08-03T10:56:46.705Z",
-      "newestDisplayedAt": "2026-08-03T10:56:46.705Z",
+      "checkedAt": "2026-08-03T13:14:52.970Z",
+      "newestCandidateAt": "2026-08-03T12:34:28.000Z",
+      "newestDisplayedAt": "2026-08-03T12:34:28.000Z",
       "lagMinutes": 0,
       "newerCandidateCount": 0,
       "reviewSuggested": false,
@@ -3927,30 +3929,30 @@
         {
           "id": "reference-ff9937ffc1",
           "name": "Gironde Prefecture",
-          "checkedAt": "2026-08-03T12:13:54.955Z",
-          "changedAt": "2026-08-03T12:13:54.955Z"
+          "checkedAt": "2026-08-03T13:14:36.532Z",
+          "changedAt": "2026-08-03T13:14:36.532Z"
         },
         {
-          "id": "reference-e181171bba",
-          "name": "Nouvelle-Aquitaine transport",
-          "checkedAt": "2026-08-03T12:13:54.959Z",
-          "changedAt": "2026-08-03T12:13:54.959Z"
+          "id": "reference-13e79eff1b",
+          "name": "Bordeaux Métropole",
+          "checkedAt": "2026-08-03T13:14:36.534Z",
+          "changedAt": "2026-08-03T13:14:36.534Z"
         }
       ]
     },
     "aviation": {
       "status": "ok",
-      "checkedAt": "2026-08-03T12:13:56.467Z",
-      "boardUpdatedAt": "2026-08-03T14:11:00+02:00",
-      "listedFlightCount": 85,
+      "checkedAt": "2026-08-03T13:14:47.223Z",
+      "boardUpdatedAt": "2026-08-03T15:11:00+02:00",
+      "listedFlightCount": 73,
       "operatingSignal": true,
       "arrivals": {
-        "listedFlightCount": 44,
-        "delayedFlightCount": 0,
+        "listedFlightCount": 38,
+        "delayedFlightCount": 1,
         "cancelledFlightCount": 0
       },
       "departures": {
-        "listedFlightCount": 41,
+        "listedFlightCount": 35,
         "delayedFlightCount": 0,
         "cancelledFlightCount": 0
       },
@@ -3959,13 +3961,25 @@
     "audit": {
       "synthesisMaterialId": "material-2026-08-02-1931-peninsula-reopening",
       "synthesisUpdatedAt": "2026-08-02T19:31:34+02:00",
-      "urgentCandidatesAfterSynthesis": [],
+      "urgentCandidatesAfterSynthesis": [
+        {
+          "id": "rss-787a06a87f2a",
+          "publishedAt": "2026-08-03T13:07:49.000Z",
+          "score": 19,
+          "reasons": [
+            "control-status",
+            "access",
+            "response"
+          ],
+          "sourceName": "Le Monde · Planète live index"
+        }
+      ],
       "classificationReasonCounts": {
         "control-status": 35,
-        "fire-scale": 26,
+        "access": 15,
+        "response": 20,
+        "fire-scale": 25,
         "evacuation": 17,
-        "access": 14,
-        "response": 19,
         "regional-access-logistics": 17,
         "fire-behaviour": 28,
         "holiday-impact": 17,
@@ -3976,25 +3990,38 @@
         {
           "id": "liberation-live",
           "lastGoodAt": null,
-          "lastFailureAt": "2026-08-03T12:13:58.847Z",
+          "lastFailureAt": "2026-08-03T13:14:49.549Z",
           "error": "403 "
         },
         {
           "id": "reference-f19745349c",
           "lastGoodAt": "2026-07-29T13:54:16.907Z",
-          "lastFailureAt": "2026-08-03T12:13:54.959Z",
+          "lastFailureAt": "2026-08-03T13:14:36.536Z",
           "error": "403 "
         },
         {
           "id": "reddit-search",
           "lastGoodAt": "2026-07-26T19:05:06.976Z",
-          "lastFailureAt": "2026-08-03T12:14:02.104Z",
+          "lastFailureAt": "2026-08-03T13:14:52.970Z",
           "error": "This operation was aborted"
         }
       ]
     }
   },
   "socialCandidates": [
+    {
+      "title": "Incendie en Gironde: les habitants du Porge et de Lège-Cap-Ferret autorisés à rentrer chez eux Les incendies en Gironde et dans l'Aude sont fixés, mais les préfectures appellent à ",
+      "source": "Bluesky · @news-flows-fr.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:kzmukwaf72iwepygposicgt3/post/3ms6k5pvxll2h",
+      "createdAt": "2026-08-03T12:34:28.000000Z",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-08-03T13:14:51.078Z"
+      }
+    },
     {
       "title": "DIRECT. Incendie en Gironde : le mégafeu est “fixé”, des orages annoncés ce lundi, retour des habitants du Porge et du Cap Ferret dans la journée et la soirée… Suivez l’évolution h",
       "source": "Bluesky · @fr-france.bsky.social",
@@ -4423,23 +4450,10 @@
         "reason": "Bluesky URLs must identify a profile and post record.",
         "checkedAt": "2026-08-02T12:03:00.770Z"
       }
-    },
-    {
-      "title": "Gironde — Incendie en Gironde : le feu sous contrôle après dix jours #Gironde #DIRECT #Saumos #Arès #News #Breaking",
-      "source": "Bluesky · @netasgardfrance.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:z6afjekzgr5whh5ypxdom2vb/post/3ms3d5usf6f2w",
-      "createdAt": "2026-08-02T06:10:34Z",
-      "verification": "Unverified",
-      "linkValidation": {
-        "valid": true,
-        "network": "bluesky",
-        "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-02T12:03:00.770Z"
-      }
     }
   ],
   "traffic": {
-    "checkedAt": "2026-08-03T12:14:01.021Z",
+    "checkedAt": "2026-08-03T13:14:51.945Z",
     "sourceName": "Inforoutes Gironde",
     "sourceUrl": "https://www.gironde.fr/deplacements/inforoutes",
     "officialClosures": {
@@ -4559,166 +4573,6 @@
                 [
                   -1.1131933,
                   44.8761184
-                ]
-              ]
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "road": "D3E4",
-            "closure": "Fermeture totale",
-            "incident": "Incendie de Saumos"
-          },
-          "geometry": {
-            "type": "MultiLineString",
-            "coordinates": [
-              [
-                [
-                  -1.1353836,
-                  44.8015919
-                ],
-                [
-                  -1.1353454,
-                  44.800557
-                ],
-                [
-                  -1.1354221,
-                  44.8001106
-                ],
-                [
-                  -1.1367415,
-                  44.7965208
-                ],
-                [
-                  -1.1375791,
-                  44.7943026
-                ],
-                [
-                  -1.1386459,
-                  44.7915778
-                ],
-                [
-                  -1.1394231,
-                  44.7899827
-                ],
-                [
-                  -1.1398845,
-                  44.7894035
-                ],
-                [
-                  -1.1404401,
-                  44.7889757
-                ],
-                [
-                  -1.1417035,
-                  44.7883799
-                ],
-                [
-                  -1.1426349,
-                  44.7879116
-                ],
-                [
-                  -1.1429775,
-                  44.7876118
-                ],
-                [
-                  -1.1433696,
-                  44.7870584
-                ],
-                [
-                  -1.1435997,
-                  44.7866584
-                ]
-              ]
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "road": "D3E9",
-            "closure": "Fermeture totale",
-            "incident": "Incendie de Saumos"
-          },
-          "geometry": {
-            "type": "MultiLineString",
-            "coordinates": [
-              [
-                [
-                  -1.036277,
-                  44.7338989
-                ],
-                [
-                  -1.0338213,
-                  44.7358294
-                ],
-                [
-                  -1.0330669,
-                  44.7364466
-                ],
-                [
-                  -1.03288,
-                  44.736621
-                ]
-              ],
-              [
-                [
-                  -1.0326384,
-                  44.7367792
-                ],
-                [
-                  -1.0324865,
-                  44.736918
-                ],
-                [
-                  -1.0295181,
-                  44.7392059
-                ],
-                [
-                  -1.0241381,
-                  44.7434082
-                ],
-                [
-                  -1.0236192,
-                  44.7438725
-                ],
-                [
-                  -1.0232516,
-                  44.7443905
-                ],
-                [
-                  -1.0230641,
-                  44.7449691
-                ],
-                [
-                  -1.0226,
-                  44.748294
-                ],
-                [
-                  -1.0222903,
-                  44.7506031
-                ],
-                [
-                  -1.0213677,
-                  44.7572512
-                ],
-                [
-                  -1.0195902,
-                  44.7701913
-                ],
-                [
-                  -1.0188873,
-                  44.7752005
-                ],
-                [
-                  -1.0185018,
-                  44.7778998
-                ],
-                [
-                  -1.0184897,
-                  44.7780132
                 ]
               ]
             ]
@@ -6370,336 +6224,6 @@
         {
           "type": "Feature",
           "properties": {
-            "road": "D1250",
-            "closure": "Fermeture totale",
-            "incident": "Incendie de Saumos"
-          },
-          "geometry": {
-            "type": "MultiLineString",
-            "coordinates": [
-              [
-                [
-                  -0.7653521,
-                  44.7410468
-                ],
-                [
-                  -0.7656991,
-                  44.7408385
-                ],
-                [
-                  -0.7663889,
-                  44.7403904
-                ],
-                [
-                  -0.7698534,
-                  44.7384034
-                ],
-                [
-                  -0.7797704,
-                  44.7327622
-                ],
-                [
-                  -0.7857525,
-                  44.7293495
-                ],
-                [
-                  -0.793656,
-                  44.7246109
-                ],
-                [
-                  -0.7959494,
-                  44.7232648
-                ],
-                [
-                  -0.799557,
-                  44.721329
-                ],
-                [
-                  -0.8080941,
-                  44.7167935
-                ],
-                [
-                  -0.8195572,
-                  44.7107401
-                ],
-                [
-                  -0.8263457,
-                  44.707199
-                ],
-                [
-                  -0.8398405,
-                  44.7001837
-                ],
-                [
-                  -0.8447848,
-                  44.6976125
-                ]
-              ],
-              [
-                [
-                  -0.8450491,
-                  44.6974464
-                ],
-                [
-                  -0.8451133,
-                  44.6974312
-                ],
-                [
-                  -0.8453124,
-                  44.697339
-                ],
-                [
-                  -0.8477673,
-                  44.6960635
-                ],
-                [
-                  -0.8494932,
-                  44.6951734
-                ],
-                [
-                  -0.8500102,
-                  44.6949117
-                ],
-                [
-                  -0.8503904,
-                  44.6947192
-                ]
-              ],
-              [
-                [
-                  -0.8505411,
-                  44.6946375
-                ],
-                [
-                  -0.8507602,
-                  44.6945208
-                ]
-              ],
-              [
-                [
-                  -0.8509412,
-                  44.6944374
-                ],
-                [
-                  -0.8539579,
-                  44.6928623
-                ],
-                [
-                  -0.8541552,
-                  44.6927508
-                ],
-                [
-                  -0.8547633,
-                  44.6924425
-                ]
-              ],
-              [
-                [
-                  -0.8550017,
-                  44.6923177
-                ],
-                [
-                  -0.855245,
-                  44.6921997
-                ],
-                [
-                  -0.8566724,
-                  44.6914542
-                ],
-                [
-                  -0.8571866,
-                  44.6911937
-                ],
-                [
-                  -0.8579358,
-                  44.6908012
-                ],
-                [
-                  -0.8581505,
-                  44.6906778
-                ],
-                [
-                  -0.8587066,
-                  44.6903957
-                ]
-              ],
-              [
-                [
-                  -0.8588422,
-                  44.6903288
-                ],
-                [
-                  -0.860219,
-                  44.6896204
-                ],
-                [
-                  -0.8604091,
-                  44.6895226
-                ],
-                [
-                  -0.8651989,
-                  44.6870282
-                ],
-                [
-                  -0.868202,
-                  44.6854311
-                ],
-                [
-                  -0.8692273,
-                  44.6848702
-                ]
-              ],
-              [
-                [
-                  -0.8694306,
-                  44.6847605
-                ],
-                [
-                  -0.8698491,
-                  44.6845456
-                ],
-                [
-                  -0.8702476,
-                  44.6843321
-                ],
-                [
-                  -0.8714412,
-                  44.6836928
-                ],
-                [
-                  -0.8723969,
-                  44.6831936
-                ],
-                [
-                  -0.8733499,
-                  44.6827071
-                ],
-                [
-                  -0.8804569,
-                  44.6791298
-                ],
-                [
-                  -0.8815963,
-                  44.6785562
-                ],
-                [
-                  -0.8868964,
-                  44.6758443
-                ],
-                [
-                  -0.8885452,
-                  44.6750138
-                ],
-                [
-                  -0.8906873,
-                  44.6739642
-                ],
-                [
-                  -0.8935871,
-                  44.6725434
-                ],
-                [
-                  -0.8978823,
-                  44.6704595
-                ],
-                [
-                  -0.8995191,
-                  44.6696752
-                ]
-              ]
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "road": "D3E10",
-            "closure": "Fermeture totale",
-            "incident": "Incendie de Saumos"
-          },
-          "geometry": {
-            "type": "MultiLineString",
-            "coordinates": [
-              [
-                [
-                  -1.027017,
-                  44.7117491
-                ],
-                [
-                  -1.0257878,
-                  44.7139802
-                ],
-                [
-                  -1.0240852,
-                  44.7170458
-                ],
-                [
-                  -1.0214771,
-                  44.7217738
-                ],
-                [
-                  -1.0211121,
-                  44.7222358
-                ],
-                [
-                  -1.0205167,
-                  44.7227234
-                ],
-                [
-                  -1.019603,
-                  44.7232182
-                ],
-                [
-                  -1.0152103,
-                  44.7254446
-                ],
-                [
-                  -1.0092489,
-                  44.7284826
-                ],
-                [
-                  -0.9965512,
-                  44.7349272
-                ],
-                [
-                  -0.9914995,
-                  44.7374759
-                ],
-                [
-                  -0.9846392,
-                  44.7409619
-                ],
-                [
-                  -0.9645059,
-                  44.7511901
-                ],
-                [
-                  -0.9623346,
-                  44.7522924
-                ],
-                [
-                  -0.9532026,
-                  44.7571628
-                ],
-                [
-                  -0.9444159,
-                  44.76181
-                ],
-                [
-                  -0.9343109,
-                  44.7671676
-                ],
-                [
-                  -0.926751,
-                  44.7711734
-                ]
-              ]
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
             "road": "D3E17",
             "closure": "Fermeture totale",
             "incident": "Incendie de Saumos"
@@ -6895,499 +6419,6 @@
                   -1.0927526,
                   44.8730108
                 ]
-              ],
-              [
-                [
-                  -1.084609,
-                  44.8755247
-                ],
-                [
-                  -1.0839654,
-                  44.8754197
-                ],
-                [
-                  -1.0818029,
-                  44.875457
-                ],
-                [
-                  -1.0757876,
-                  44.875484
-                ],
-                [
-                  -1.062424,
-                  44.8755659
-                ],
-                [
-                  -1.0585758,
-                  44.8755857
-                ],
-                [
-                  -1.0543434,
-                  44.8756138
-                ],
-                [
-                  -1.0482783,
-                  44.8756418
-                ],
-                [
-                  -1.0403685,
-                  44.8759778
-                ],
-                [
-                  -1.0312939,
-                  44.8763682
-                ],
-                [
-                  -1.0250572,
-                  44.8766498
-                ],
-                [
-                  -1.0155376,
-                  44.8770444
-                ],
-                [
-                  -1.0149513,
-                  44.8769772
-                ],
-                [
-                  -1.0105607,
-                  44.8760411
-                ],
-                [
-                  -1.0098039,
-                  44.8759344
-                ],
-                [
-                  -1.0077934,
-                  44.8757611
-                ],
-                [
-                  -1.0068824,
-                  44.8757492
-                ],
-                [
-                  -1.0062923,
-                  44.8758035
-                ],
-                [
-                  -1.0054003,
-                  44.8759734
-                ],
-                [
-                  -1.0028886,
-                  44.8766118
-                ],
-                [
-                  -1.0002594,
-                  44.8770602
-                ],
-                [
-                  -0.9963061,
-                  44.8776846
-                ],
-                [
-                  -0.9939915,
-                  44.8782106
-                ],
-                [
-                  -0.9913647,
-                  44.8788674
-                ],
-                [
-                  -0.9909743,
-                  44.8790103
-                ]
-              ],
-              [
-                [
-                  -0.9908593,
-                  44.8790514
-                ],
-                [
-                  -0.9907948,
-                  44.8790943
-                ],
-                [
-                  -0.9907314,
-                  44.8791612
-                ],
-                [
-                  -0.9901025,
-                  44.8801234
-                ],
-                [
-                  -0.9899459,
-                  44.8802898
-                ],
-                [
-                  -0.989814,
-                  44.8804012
-                ],
-                [
-                  -0.9897045,
-                  44.8804641
-                ]
-              ],
-              [
-                [
-                  -0.989378,
-                  44.8805624
-                ],
-                [
-                  -0.9877014,
-                  44.880673
-                ],
-                [
-                  -0.9841854,
-                  44.8807403
-                ],
-                [
-                  -0.9798829,
-                  44.8812238
-                ],
-                [
-                  -0.9771122,
-                  44.8812978
-                ],
-                [
-                  -0.972284,
-                  44.8812696
-                ],
-                [
-                  -0.9670142,
-                  44.8811004
-                ],
-                [
-                  -0.962031,
-                  44.8809531
-                ],
-                [
-                  -0.9558888,
-                  44.8805504
-                ],
-                [
-                  -0.9515689,
-                  44.8801995
-                ],
-                [
-                  -0.946854,
-                  44.8794069
-                ],
-                [
-                  -0.9375346,
-                  44.8777934
-                ],
-                [
-                  -0.9349654,
-                  44.8772994
-                ],
-                [
-                  -0.9279427,
-                  44.8759933
-                ],
-                [
-                  -0.9269116,
-                  44.8759322
-                ],
-                [
-                  -0.9184369,
-                  44.8759643
-                ],
-                [
-                  -0.9143036,
-                  44.8759847
-                ],
-                [
-                  -0.9121067,
-                  44.8759856
-                ],
-                [
-                  -0.9056665,
-                  44.8760211
-                ],
-                [
-                  -0.8973572,
-                  44.8760464
-                ],
-                [
-                  -0.8875765,
-                  44.8760714
-                ],
-                [
-                  -0.8836265,
-                  44.8760522
-                ]
-              ]
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "road": "D106",
-            "closure": "Fermeture partielle",
-            "incident": "Incendie de Saumos"
-          },
-          "geometry": {
-            "type": "MultiLineString",
-            "coordinates": [
-              [
-                [
-                  -0.8751669,
-                  44.7930526
-                ],
-                [
-                  -0.8772553,
-                  44.7927009
-                ],
-                [
-                  -0.8864066,
-                  44.7911057
-                ],
-                [
-                  -0.8887907,
-                  44.7906724
-                ],
-                [
-                  -0.9133038,
-                  44.7862552
-                ],
-                [
-                  -0.9230229,
-                  44.7844842
-                ],
-                [
-                  -0.9255575,
-                  44.7840762
-                ],
-                [
-                  -0.9328382,
-                  44.7831812
-                ],
-                [
-                  -0.93601,
-                  44.7826773
-                ],
-                [
-                  -0.939968,
-                  44.7821742
-                ],
-                [
-                  -0.9530148,
-                  44.7805817
-                ],
-                [
-                  -0.9570866,
-                  44.7801662
-                ],
-                [
-                  -0.9620855,
-                  44.7798931
-                ],
-                [
-                  -0.9748034,
-                  44.7794023
-                ],
-                [
-                  -0.9771559,
-                  44.7793865
-                ],
-                [
-                  -0.9802268,
-                  44.7793897
-                ],
-                [
-                  -0.9975311,
-                  44.7789071
-                ],
-                [
-                  -1.0075713,
-                  44.7786048
-                ],
-                [
-                  -1.0133479,
-                  44.7784425
-                ],
-                [
-                  -1.0171076,
-                  44.7783234
-                ],
-                [
-                  -1.0181282,
-                  44.778335
-                ],
-                [
-                  -1.0182582,
-                  44.7783735
-                ]
-              ],
-              [
-                [
-                  -1.018729,
-                  44.7783375
-                ],
-                [
-                  -1.0190261,
-                  44.7782937
-                ],
-                [
-                  -1.0191891,
-                  44.778279
-                ],
-                [
-                  -1.0196185,
-                  44.7782656
-                ],
-                [
-                  -1.0204776,
-                  44.7782435
-                ],
-                [
-                  -1.0265696,
-                  44.7781421
-                ],
-                [
-                  -1.0271748,
-                  44.7781248
-                ],
-                [
-                  -1.0302706,
-                  44.7780363
-                ],
-                [
-                  -1.03944,
-                  44.7777961
-                ],
-                [
-                  -1.0397675,
-                  44.7777857
-                ],
-                [
-                  -1.0410813,
-                  44.7777442
-                ],
-                [
-                  -1.0425315,
-                  44.7776751
-                ],
-                [
-                  -1.0431866,
-                  44.7776375
-                ],
-                [
-                  -1.043904,
-                  44.7775864
-                ],
-                [
-                  -1.0460034,
-                  44.7774094
-                ],
-                [
-                  -1.0474138,
-                  44.7773066
-                ],
-                [
-                  -1.048419,
-                  44.7772231
-                ],
-                [
-                  -1.0504325,
-                  44.7770096
-                ],
-                [
-                  -1.0506212,
-                  44.7769984
-                ],
-                [
-                  -1.0507322,
-                  44.7770158
-                ],
-                [
-                  -1.0508621,
-                  44.7770508
-                ]
-              ],
-              [
-                [
-                  -1.0516946,
-                  44.7770293
-                ],
-                [
-                  -1.0518866,
-                  44.7769012
-                ],
-                [
-                  -1.0526847,
-                  44.7767822
-                ],
-                [
-                  -1.0542611,
-                  44.7765996
-                ],
-                [
-                  -1.059032,
-                  44.7761337
-                ],
-                [
-                  -1.0757928,
-                  44.7744985
-                ],
-                [
-                  -1.0774129,
-                  44.7743894
-                ],
-                [
-                  -1.0782741,
-                  44.7743672
-                ],
-                [
-                  -1.0795772,
-                  44.7744125
-                ],
-                [
-                  -1.0823908,
-                  44.7746404
-                ],
-                [
-                  -1.0917388,
-                  44.7754468
-                ],
-                [
-                  -1.0933122,
-                  44.7755199
-                ],
-                [
-                  -1.0939894,
-                  44.7755029
-                ],
-                [
-                  -1.0950067,
-                  44.7754257
-                ],
-                [
-                  -1.0964516,
-                  44.7752065
-                ],
-                [
-                  -1.1089619,
-                  44.7727885
-                ],
-                [
-                  -1.1113247,
-                  44.7723992
-                ],
-                [
-                  -1.1130614,
-                  44.7722955
-                ],
-                [
-                  -1.1137699,
-                  44.7723069
-                ],
-                [
-                  -1.1139722,
-                  44.7723581
-                ]
               ]
             ]
           }
@@ -7467,1693 +6498,72 @@
                   44.9667432
                 ],
                 [
-                  -1.0696405,
-                  44.9570471
+                  -1.071312,
+                  44.9608076
+                ],
+                [
+                  -1.0687245,
+                  44.9549658
                 ],
                 [
                   -1.06751,
                   44.9522415
                 ],
                 [
-                  -1.0651601,
-                  44.9469095
+                  -1.0652992,
+                  44.9472651
+                ],
+                [
+                  -1.0650976,
+                  44.9466523
                 ],
                 [
                   -1.0649932,
                   44.9448294
                 ],
                 [
-                  -1.0649677,
-                  44.9424575
+                  -1.0649231,
+                  44.942897
+                ],
+                [
+                  -1.0650391,
+                  44.9421561
                 ],
                 [
                   -1.0653338,
                   44.9414403
                 ],
                 [
-                  -1.0729137,
-                  44.9258591
+                  -1.072644,
+                  44.9264136
+                ],
+                [
+                  -1.0743175,
+                  44.9229448
                 ],
                 [
                   -1.0767761,
                   44.9178937
                 ],
                 [
-                  -1.0794328,
-                  44.9123635
+                  -1.0792757,
+                  44.912718
+                ],
+                [
+                  -1.0800044,
+                  44.9112114
                 ],
                 [
                   -1.0808686,
                   44.9094008
                 ],
                 [
-                  -1.0866269,
-                  44.8973786
+                  -1.0849525,
+                  44.9008812
                 ],
                 [
-                  -1.0896465,
-                  44.8910901
-                ],
-                [
-                  -1.089806,
-                  44.8903978
-                ],
-                [
-                  -1.0895931,
-                  44.8896527
-                ],
-                [
-                  -1.087922,
-                  44.8873728
-                ],
-                [
-                  -1.0861837,
-                  44.8840058
-                ],
-                [
-                  -1.0858897,
-                  44.8833088
-                ],
-                [
-                  -1.0852095,
-                  44.8811789
-                ],
-                [
-                  -1.0845307,
-                  44.8762203
-                ],
-                [
-                  -1.0847365,
-                  44.875683
-                ]
-              ],
-              [
-                [
-                  -1.084921,
-                  44.8755095
-                ],
-                [
-                  -1.085097,
-                  44.8754405
-                ],
-                [
-                  -1.0852615,
-                  44.8753975
-                ],
-                [
-                  -1.085333,
-                  44.8753815
-                ],
-                [
-                  -1.0855793,
-                  44.8753526
-                ],
-                [
-                  -1.0857801,
-                  44.8753449
-                ],
-                [
-                  -1.0866902,
-                  44.8753099
-                ],
-                [
-                  -1.0879343,
-                  44.8752228
-                ],
-                [
-                  -1.0885115,
-                  44.8751664
-                ],
-                [
-                  -1.0891212,
-                  44.8750835
-                ],
-                [
-                  -1.089416,
-                  44.8750341
-                ],
-                [
-                  -1.0896699,
-                  44.8749804
-                ],
-                [
-                  -1.0899049,
-                  44.8749129
-                ],
-                [
-                  -1.0900036,
-                  44.8748702
-                ],
-                [
-                  -1.0901217,
-                  44.8747997
-                ],
-                [
-                  -1.0904229,
-                  44.8745894
-                ],
-                [
-                  -1.0906118,
-                  44.8744854
-                ],
-                [
-                  -1.0908413,
-                  44.8743925
-                ],
-                [
-                  -1.0913962,
-                  44.8742448
-                ],
-                [
-                  -1.0916247,
-                  44.8741637
-                ],
-                [
-                  -1.0917245,
-                  44.874107
-                ],
-                [
-                  -1.0918733,
-                  44.8739379
-                ],
-                [
-                  -1.0921395,
-                  44.8735891
-                ],
-                [
-                  -1.0924815,
-                  44.8731671
-                ],
-                [
-                  -1.0925588,
-                  44.8730577
-                ]
-              ],
-              [
-                [
-                  -1.0925509,
-                  44.8729179
-                ],
-                [
-                  -1.0915273,
-                  44.8718342
-                ],
-                [
-                  -1.0900316,
-                  44.8695794
-                ],
-                [
-                  -1.0898057,
-                  44.8674513
-                ],
-                [
-                  -1.0899636,
-                  44.8669736
-                ],
-                [
-                  -1.0943781,
-                  44.8621775
-                ],
-                [
-                  -1.1031778,
-                  44.8530623
-                ],
-                [
-                  -1.1060326,
-                  44.8509134
-                ],
-                [
-                  -1.109945,
-                  44.8481623
-                ],
-                [
-                  -1.1183432,
-                  44.8421489
-                ],
-                [
-                  -1.1214296,
-                  44.8399383
-                ],
-                [
-                  -1.1236621,
-                  44.838329
-                ],
-                [
-                  -1.1259326,
-                  44.8366836
-                ],
-                [
-                  -1.1266045,
-                  44.8359365
-                ],
-                [
-                  -1.1268544,
-                  44.8350452
-                ],
-                [
-                  -1.1285391,
-                  44.8257676
-                ],
-                [
-                  -1.1294052,
-                  44.8209487
-                ],
-                [
-                  -1.1301208,
-                  44.8168485
-                ],
-                [
-                  -1.1312447,
-                  44.8082559
-                ],
-                [
-                  -1.1316948,
-                  44.8048115
-                ],
-                [
-                  -1.1322827,
-                  44.8036422
-                ],
-                [
-                  -1.1332242,
-                  44.8028586
-                ],
-                [
-                  -1.1349882,
-                  44.8017964
-                ],
-                [
-                  -1.144002,
-                  44.7979524
-                ],
-                [
-                  -1.144769,
-                  44.7973927
-                ],
-                [
-                  -1.1463681,
-                  44.7958661
-                ]
-              ],
-              [
-                [
-                  -1.1464426,
-                  44.7957948
-                ],
-                [
-                  -1.1465308,
-                  44.7957072
-                ],
-                [
-                  -1.1465528,
-                  44.7956852
-                ],
-                [
-                  -1.1466945,
-                  44.7955258
-                ],
-                [
-                  -1.1469408,
-                  44.7952082
-                ],
-                [
-                  -1.1474227,
-                  44.7946418
-                ],
-                [
-                  -1.1475025,
-                  44.7945606
-                ],
-                [
-                  -1.1473742,
-                  44.7944749
-                ],
-                [
-                  -1.1473207,
-                  44.7942999
-                ],
-                [
-                  -1.1472517,
-                  44.7941181
-                ],
-                [
-                  -1.1454258,
-                  44.7906291
-                ]
-              ],
-              [
-                [
-                  -1.1453729,
-                  44.7905301
-                ],
-                [
-                  -1.1447115,
-                  44.7892393
-                ],
-                [
-                  -1.1439728,
-                  44.7877105
-                ],
-                [
-                  -1.1438031,
-                  44.7873594
-                ],
-                [
-                  -1.1437282,
-                  44.7871696
-                ],
-                [
-                  -1.1436565,
-                  44.7869514
-                ],
-                [
-                  -1.1435997,
-                  44.7866584
-                ],
-                [
-                  -1.1435541,
-                  44.7863172
-                ]
-              ],
-              [
-                [
-                  -1.1435364,
-                  44.786175
-                ],
-                [
-                  -1.1435371,
-                  44.7860615
-                ],
-                [
-                  -1.143431,
-                  44.7849199
-                ],
-                [
-                  -1.1433805,
-                  44.784148
-                ],
-                [
-                  -1.143373,
-                  44.7838968
-                ],
-                [
-                  -1.1434026,
-                  44.7826413
-                ],
-                [
-                  -1.1434141,
-                  44.7825337
-                ],
-                [
-                  -1.1434359,
-                  44.7818846
-                ]
-              ],
-              [
-                [
-                  -1.1434455,
-                  44.7816879
-                ],
-                [
-                  -1.143455,
-                  44.7812798
-                ]
-              ],
-              [
-                [
-                  -1.14347,
-                  44.7810633
-                ],
-                [
-                  -1.1434852,
-                  44.7798523
-                ],
-                [
-                  -1.1434687,
-                  44.7793039
-                ],
-                [
-                  -1.1434082,
-                  44.7789963
-                ],
-                [
-                  -1.1433304,
-                  44.7787595
-                ],
-                [
-                  -1.1432175,
-                  44.7785024
-                ],
-                [
-                  -1.1430418,
-                  44.7781797
-                ],
-                [
-                  -1.1419009,
-                  44.7760845
-                ],
-                [
-                  -1.1417317,
-                  44.7758017
-                ],
-                [
-                  -1.1416327,
-                  44.7756858
-                ],
-                [
-                  -1.1415406,
-                  44.7756112
-                ]
-              ],
-              [
-                [
-                  -1.1414396,
-                  44.775428
-                ],
-                [
-                  -1.1412532,
-                  44.7746818
-                ],
-                [
-                  -1.1411578,
-                  44.7740535
-                ],
-                [
-                  -1.1412999,
-                  44.7729996
-                ],
-                [
-                  -1.1413298,
-                  44.7721618
-                ],
-                [
-                  -1.1412811,
-                  44.7715147
-                ],
-                [
-                  -1.1407989,
-                  44.7702827
-                ],
-                [
-                  -1.1405613,
-                  44.7694482
-                ],
-                [
-                  -1.1403798,
-                  44.7686486
-                ],
-                [
-                  -1.1401709,
-                  44.7678234
-                ],
-                [
-                  -1.1402069,
-                  44.7676088
-                ],
-                [
-                  -1.1403073,
-                  44.7674211
-                ],
-                [
-                  -1.1403287,
-                  44.7672876
-                ],
-                [
-                  -1.1402573,
-                  44.7671697
-                ],
-                [
-                  -1.1398169,
-                  44.7670718
-                ],
-                [
-                  -1.139526,
-                  44.7670226
-                ],
-                [
-                  -1.1392817,
-                  44.7668839
-                ],
-                [
-                  -1.1385405,
-                  44.7658627
-                ],
-                [
-                  -1.1383232,
-                  44.7657021
-                ],
-                [
-                  -1.1379788,
-                  44.7655545
-                ],
-                [
-                  -1.1361806,
-                  44.7650458
-                ],
-                [
-                  -1.13573,
-                  44.7648319
-                ],
-                [
-                  -1.1337132,
-                  44.763417
-                ],
-                [
-                  -1.1332794,
-                  44.7631619
-                ],
-                [
-                  -1.1324771,
-                  44.7628584
-                ]
-              ],
-              [
-                [
-                  -1.1323406,
-                  44.7628085
-                ],
-                [
-                  -1.1298823,
-                  44.7619203
-                ],
-                [
-                  -1.1294267,
-                  44.7617496
-                ]
-              ],
-              [
-                [
-                  -1.1290164,
-                  44.76158
-                ],
-                [
-                  -1.1286821,
-                  44.7614775
-                ],
-                [
-                  -1.1281459,
-                  44.7612962
-                ],
-                [
-                  -1.1267756,
-                  44.7607946
-                ],
-                [
-                  -1.1222332,
-                  44.7591579
-                ],
-                [
-                  -1.1220459,
-                  44.7590894
-                ],
-                [
-                  -1.1201521,
-                  44.7583962
-                ],
-                [
-                  -1.1197221,
-                  44.7582461
-                ],
-                [
-                  -1.1184704,
-                  44.7577723
-                ]
-              ],
-              [
-                [
-                  -1.1182447,
-                  44.7576822
-                ],
-                [
-                  -1.1180388,
-                  44.7576305
-                ],
-                [
-                  -1.1176701,
-                  44.7575144
-                ],
-                [
-                  -1.116957,
-                  44.7572651
-                ],
-                [
-                  -1.116773,
-                  44.7571885
-                ],
-                [
-                  -1.1156641,
-                  44.7567844
-                ],
-                [
-                  -1.1144296,
-                  44.7563236
-                ],
-                [
-                  -1.1141328,
-                  44.7561703
-                ],
-                [
-                  -1.1138762,
-                  44.7559966
-                ],
-                [
-                  -1.1137328,
-                  44.7558708
-                ],
-                [
-                  -1.113293,
-                  44.7554305
-                ],
-                [
-                  -1.1119475,
-                  44.7540447
-                ],
-                [
-                  -1.1108477,
-                  44.752912
-                ],
-                [
-                  -1.1075412,
-                  44.7495426
-                ],
-                [
-                  -1.1068331,
-                  44.7488093
-                ]
-              ],
-              [
-                [
-                  -1.1065765,
-                  44.7485528
-                ],
-                [
-                  -1.1047165,
-                  44.7466672
-                ],
-                [
-                  -1.1045682,
-                  44.7465168
-                ],
-                [
-                  -1.1038287,
-                  44.7457438
-                ],
-                [
-                  -1.1033705,
-                  44.7452919
-                ],
-                [
-                  -1.103133,
-                  44.7450482
-                ],
-                [
-                  -1.1027772,
-                  44.7446637
-                ],
-                [
-                  -1.1027461,
-                  44.7446389
-                ]
-              ],
-              [
-                [
-                  -1.1026624,
-                  44.7445663
-                ],
-                [
-                  -1.1025954,
-                  44.7444911
-                ],
-                [
-                  -1.1024526,
-                  44.7443448
-                ],
-                [
-                  -1.1023094,
-                  44.7442023
-                ],
-                [
-                  -1.1022365,
-                  44.7441316
-                ],
-                [
-                  -1.1022212,
-                  44.7441177
-                ],
-                [
-                  -1.1019885,
-                  44.7439354
-                ],
-                [
-                  -1.1015572,
-                  44.7436183
-                ],
-                [
-                  -1.100202,
-                  44.7429197
-                ],
-                [
-                  -1.0987562,
-                  44.7421929
-                ],
-                [
-                  -1.0984955,
-                  44.7420504
-                ]
-              ],
-              [
-                [
-                  -1.0983823,
-                  44.7419887
-                ],
-                [
-                  -1.0972985,
-                  44.7414181
-                ],
-                [
-                  -1.0957558,
-                  44.7406381
-                ],
-                [
-                  -1.0952326,
-                  44.7403735
-                ],
-                [
-                  -1.094259,
-                  44.7398615
-                ],
-                [
-                  -1.093874,
-                  44.7396505
-                ],
-                [
-                  -1.0924599,
-                  44.7389272
-                ],
-                [
-                  -1.0920268,
-                  44.738698
-                ],
-                [
-                  -1.0904609,
-                  44.7378977
-                ],
-                [
-                  -1.0897391,
-                  44.7375376
-                ],
-                [
-                  -1.0888946,
-                  44.7371014
-                ],
-                [
-                  -1.0871939,
-                  44.73621
-                ],
-                [
-                  -1.085725,
-                  44.7354727
-                ],
-                [
-                  -1.085431,
-                  44.7353205
-                ],
-                [
-                  -1.0837128,
-                  44.734431
-                ],
-                [
-                  -1.0830911,
-                  44.7341229
-                ],
-                [
-                  -1.0812925,
-                  44.7331879
-                ],
-                [
-                  -1.0796473,
-                  44.7323482
-                ],
-                [
-                  -1.0791845,
-                  44.7320972
-                ],
-                [
-                  -1.0781197,
-                  44.731563
-                ],
-                [
-                  -1.0775132,
-                  44.7312433
-                ],
-                [
-                  -1.0757617,
-                  44.7303499
-                ]
-              ],
-              [
-                [
-                  -1.0755687,
-                  44.7302524
-                ],
-                [
-                  -1.0752007,
-                  44.7300608
-                ],
-                [
-                  -1.0745786,
-                  44.7297369
-                ],
-                [
-                  -1.0713034,
-                  44.7280618
-                ],
-                [
-                  -1.071019,
-                  44.7279016
-                ],
-                [
-                  -1.0707564,
-                  44.7277351
-                ],
-                [
-                  -1.0705372,
-                  44.7275613
-                ],
-                [
-                  -1.0703912,
-                  44.7274133
-                ],
-                [
-                  -1.0702854,
-                  44.7272906
-                ],
-                [
-                  -1.0701307,
-                  44.7270749
-                ],
-                [
-                  -1.0696395,
-                  44.7263173
-                ],
-                [
-                  -1.0694733,
-                  44.7260774
-                ]
-              ],
-              [
-                [
-                  -1.0693414,
-                  44.7258452
-                ],
-                [
-                  -1.067841,
-                  44.7234506
-                ],
-                [
-                  -1.06463,
-                  44.7183253
-                ],
-                [
-                  -1.0635022,
-                  44.7164954
-                ],
-                [
-                  -1.063284,
-                  44.7161705
-                ],
-                [
-                  -1.0631629,
-                  44.7160327
-                ],
-                [
-                  -1.063068,
-                  44.715948
-                ],
-                [
-                  -1.0628776,
-                  44.7158164
-                ],
-                [
-                  -1.0620285,
-                  44.7153306
-                ],
-                [
-                  -1.0616947,
-                  44.7151395
-                ],
-                [
-                  -1.055784,
-                  44.7118162
-                ],
-                [
-                  -1.0552977,
-                  44.7115316
-                ],
-                [
-                  -1.0537695,
-                  44.7106697
-                ],
-                [
-                  -1.0534049,
-                  44.7104722
-                ],
-                [
-                  -1.0524295,
-                  44.7099173
-                ],
-                [
-                  -1.0486333,
-                  44.7077577
-                ],
-                [
-                  -1.0482971,
-                  44.707582
-                ],
-                [
-                  -1.0480154,
-                  44.7074463
-                ],
-                [
-                  -1.0467179,
-                  44.7068932
-                ],
-                [
-                  -1.0452129,
-                  44.7062656
-                ],
-                [
-                  -1.0442821,
-                  44.7058634
-                ],
-                [
-                  -1.0440163,
-                  44.7057613
-                ],
-                [
-                  -1.043792,
-                  44.7056618
-                ],
-                [
-                  -1.0436637,
-                  44.7056187
-                ]
-              ],
-              [
-                [
-                  -1.0434061,
-                  44.7054902
-                ],
-                [
-                  -1.0422387,
-                  44.7050076
-                ],
-                [
-                  -1.0422043,
-                  44.7049934
-                ],
-                [
-                  -1.0404613,
-                  44.7042533
-                ],
-                [
-                  -1.0401601,
-                  44.704145
-                ],
-                [
-                  -1.0388444,
-                  44.7037658
-                ]
-              ],
-              [
-                [
-                  -1.0386089,
-                  44.7037081
-                ],
-                [
-                  -1.0383748,
-                  44.703656
-                ],
-                [
-                  -1.0376699,
-                  44.7034795
-                ],
-                [
-                  -1.0373597,
-                  44.7034105
-                ],
-                [
-                  -1.0369215,
-                  44.7032804
-                ],
-                [
-                  -1.0366881,
-                  44.7031801
-                ],
-                [
-                  -1.0362814,
-                  44.7029871
-                ],
-                [
-                  -1.03587,
-                  44.7027682
-                ],
-                [
-                  -1.035575,
-                  44.7025858
-                ],
-                [
-                  -1.0350118,
-                  44.7022142
-                ],
-                [
-                  -1.034796,
-                  44.702081
-                ],
-                [
-                  -1.0346215,
-                  44.7019949
-                ],
-                [
-                  -1.0344738,
-                  44.7019286
-                ],
-                [
-                  -1.0341402,
-                  44.7018073
-                ],
-                [
-                  -1.033787,
-                  44.7017155
-                ],
-                [
-                  -1.0333558,
-                  44.7016397
-                ],
-                [
-                  -1.0333256,
-                  44.7016286
-                ]
-              ],
-              [
-                [
-                  -1.0330403,
-                  44.7015889
-                ],
-                [
-                  -1.0317542,
-                  44.7014382
-                ],
-                [
-                  -1.0301912,
-                  44.7012362
-                ],
-                [
-                  -1.0276099,
-                  44.7009063
-                ],
-                [
-                  -1.0254501,
-                  44.7005859
-                ],
-                [
-                  -1.0240397,
-                  44.7001796
-                ],
-                [
-                  -1.0235759,
-                  44.6999973
-                ],
-                [
-                  -1.0233738,
-                  44.6998619
-                ],
-                [
-                  -1.0232251,
-                  44.6997057
-                ],
-                [
-                  -1.0230956,
-                  44.6994716
-                ],
-                [
-                  -1.0227476,
-                  44.6981648
-                ],
-                [
-                  -1.0225294,
-                  44.6972486
-                ],
-                [
-                  -1.0217517,
-                  44.6939893
-                ],
-                [
-                  -1.0215726,
-                  44.6932889
-                ],
-                [
-                  -1.0214075,
-                  44.6926504
-                ]
-              ],
-              [
-                [
-                  -1.0213509,
-                  44.6924144
-                ],
-                [
-                  -1.0209763,
-                  44.690866
-                ],
-                [
-                  -1.0209211,
-                  44.6902703
-                ],
-                [
-                  -1.02091,
-                  44.689744
-                ],
-                [
-                  -1.020862,
-                  44.6895224
-                ],
-                [
-                  -1.0206665,
-                  44.6891645
-                ],
-                [
-                  -1.0198343,
-                  44.6883513
-                ],
-                [
-                  -1.0192562,
-                  44.6878091
-                ],
-                [
-                  -1.0191313,
-                  44.6875937
-                ],
-                [
-                  -1.0190742,
-                  44.6872536
-                ],
-                [
-                  -1.0189764,
-                  44.6868569
-                ],
-                [
-                  -1.0187734,
-                  44.6865562
-                ],
-                [
-                  -1.017482,
-                  44.6851763
-                ],
-                [
-                  -1.0167365,
-                  44.6845136
-                ],
-                [
-                  -1.0153133,
-                  44.6833176
-                ],
-                [
-                  -1.0141598,
-                  44.6823434
-                ],
-                [
-                  -1.0134712,
-                  44.681777
-                ]
-              ]
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "road": "D5",
-            "closure": "Fermeture totale",
-            "incident": "Incendie de Saumos"
-          },
-          "geometry": {
-            "type": "MultiLineString",
-            "coordinates": [
-              [
-                [
-                  -0.8917117,
-                  44.9572648
-                ],
-                [
-                  -0.9043523,
-                  44.9494512
-                ],
-                [
-                  -0.9141842,
-                  44.9438422
-                ],
-                [
-                  -0.9164799,
-                  44.9428045
-                ],
-                [
-                  -0.9270828,
-                  44.9392323
-                ],
-                [
-                  -0.9369228,
-                  44.9359687
-                ],
-                [
-                  -0.941802,
-                  44.9344752
-                ],
-                [
-                  -0.9530888,
-                  44.9337228
-                ],
-                [
-                  -0.9556206,
-                  44.9327445
-                ],
-                [
-                  -0.9693998,
-                  44.9256171
-                ],
-                [
-                  -0.9742437,
-                  44.9235985
-                ],
-                [
-                  -0.9814742,
-                  44.9206542
-                ],
-                [
-                  -0.9863502,
-                  44.9211527
-                ],
-                [
-                  -0.9882315,
-                  44.9213247
-                ],
-                [
-                  -0.9909842,
-                  44.9177371
-                ],
-                [
-                  -0.9949826,
-                  44.9126127
-                ],
-                [
-                  -0.9952639,
-                  44.9114905
-                ],
-                [
-                  -0.9943386,
-                  44.9057377
-                ],
-                [
-                  -0.9931829,
-                  44.8986309
-                ],
-                [
-                  -0.9920543,
-                  44.8917238
-                ],
-                [
-                  -0.9906012,
-                  44.8827848
-                ],
-                [
-                  -0.9897666,
-                  44.8809607
-                ],
-                [
-                  -0.9896059,
-                  44.8806461
-                ]
-              ],
-              [
-                [
-                  -0.9894754,
-                  44.8804164
-                ],
-                [
-                  -0.9863051,
-                  44.8748791
-                ],
-                [
-                  -0.9811931,
-                  44.8659661
-                ],
-                [
-                  -0.9769267,
-                  44.8585121
-                ],
-                [
-                  -0.975963,
-                  44.8568724
-                ],
-                [
-                  -0.9685763,
-                  44.8440514
-                ],
-                [
-                  -0.9620322,
-                  44.8326653
-                ],
-                [
-                  -0.9572499,
-                  44.8243316
-                ],
-                [
-                  -0.9477017,
-                  44.8076751
-                ],
-                [
-                  -0.9378356,
-                  44.7905037
-                ],
-                [
-                  -0.9349604,
-                  44.7854645
-                ],
-                [
-                  -0.9340439,
-                  44.7845602
-                ],
-                [
-                  -0.9329704,
-                  44.7838852
-                ],
-                [
-                  -0.9322472,
-                  44.7829094
-                ],
-                [
-                  -0.9318629,
-                  44.7820528
-                ],
-                [
-                  -0.9317026,
-                  44.7798834
-                ],
-                [
-                  -0.9254488,
-                  44.7689168
-                ],
-                [
-                  -0.9193262,
-                  44.7582307
-                ],
-                [
-                  -0.9156749,
-                  44.7519784
-                ],
-                [
-                  -0.9107018,
-                  44.7470924
-                ],
-                [
-                  -0.8918944,
-                  44.728717
-                ],
-                [
-                  -0.8833297,
-                  44.7203455
-                ],
-                [
-                  -0.8814678,
-                  44.7185347
-                ]
-              ],
-              [
-                [
-                  -0.8813222,
-                  44.7183594
-                ],
-                [
-                  -0.8812038,
-                  44.7182662
-                ],
-                [
-                  -0.880681,
-                  44.7177472
-                ],
-                [
-                  -0.8785036,
-                  44.7156314
-                ],
-                [
-                  -0.8760623,
-                  44.713236
-                ],
-                [
-                  -0.8752466,
-                  44.7124356
-                ],
-                [
-                  -0.8702589,
-                  44.7075731
-                ],
-                [
-                  -0.8687191,
-                  44.7060634
-                ],
-                [
-                  -0.8664261,
-                  44.703815
-                ],
-                [
-                  -0.8643307,
-                  44.7017764
-                ],
-                [
-                  -0.8612792,
-                  44.6987723
-                ],
-                [
-                  -0.860511,
-                  44.698016
-                ],
-                [
-                  -0.8597509,
-                  44.6972776
-                ],
-                [
-                  -0.85946,
-                  44.697031
-                ],
-                [
-                  -0.8591694,
-                  44.6968175
-                ]
-              ],
-              [
-                [
-                  -0.859034,
-                  44.6966457
-                ],
-                [
-                  -0.8589632,
-                  44.6965315
-                ],
-                [
-                  -0.8588084,
-                  44.696349
-                ],
-                [
-                  -0.85815,
-                  44.6957144
-                ],
-                [
-                  -0.8575179,
-                  44.6951211
-                ],
-                [
-                  -0.8571126,
-                  44.6946985
-                ],
-                [
-                  -0.8550899,
-                  44.6927086
-                ],
-                [
-                  -0.8550317,
-                  44.6926232
-                ],
-                [
-                  -0.8549833,
-                  44.6925148
-                ],
-                [
-                  -0.8549551,
-                  44.6924749
-                ]
-              ],
-              [
-                [
-                  -0.8547714,
-                  44.692316
-                ],
-                [
-                  -0.8545708,
-                  44.692184
-                ],
-                [
-                  -0.8545128,
-                  44.6921369
-                ],
-                [
-                  -0.8542599,
-                  44.691858
-                ],
-                [
-                  -0.8538247,
-                  44.6914397
-                ],
-                [
-                  -0.8536537,
-                  44.6912753
-                ],
-                [
-                  -0.8510537,
-                  44.6886451
-                ],
-                [
-                  -0.850877,
-                  44.6884796
-                ],
-                [
-                  -0.8508441,
-                  44.6884521
-                ],
-                [
-                  -0.8508112,
-                  44.6884384
-                ]
-              ],
-              [
-                [
-                  -0.8506869,
-                  44.6883021
-                ],
-                [
-                  -0.8506584,
-                  44.6882426
-                ],
-                [
-                  -0.8489913,
-                  44.6865506
-                ],
-                [
-                  -0.8474774,
-                  44.6850455
-                ],
-                [
-                  -0.8465165,
-                  44.6840566
-                ],
-                [
-                  -0.8461863,
-                  44.6837167
-                ],
-                [
-                  -0.8451505,
-                  44.682684
-                ],
-                [
-                  -0.843318,
-                  44.6808293
-                ],
-                [
-                  -0.8428339,
-                  44.6803244
-                ],
-                [
-                  -0.8420434,
-                  44.6795333
-                ],
-                [
-                  -0.8392534,
-                  44.6767045
-                ],
-                [
-                  -0.8388108,
-                  44.6762557
-                ]
-              ],
-              [
-                [
-                  -0.838629,
-                  44.6760907
-                ],
-                [
-                  -0.8383946,
-                  44.6758376
-                ],
-                [
-                  -0.8370858,
-                  44.6745274
-                ],
-                [
-                  -0.834837,
-                  44.6722417
-                ],
-                [
-                  -0.8319869,
-                  44.6693746
-                ],
-                [
-                  -0.8315359,
-                  44.6689209
-                ],
-                [
-                  -0.8284436,
-                  44.6657848
-                ],
-                [
-                  -0.827697,
-                  44.6650482
-                ],
-                [
-                  -0.8275224,
-                  44.6648941
-                ]
-              ],
-              [
-                [
-                  -0.8272413,
-                  44.6646331
-                ],
-                [
-                  -0.827127,
-                  44.664518
-                ],
-                [
-                  -0.8267539,
-                  44.6641002
-                ],
-                [
-                  -0.8260965,
-                  44.6634203
-                ],
-                [
-                  -0.8251238,
-                  44.6624499
-                ],
-                [
-                  -0.8251045,
-                  44.6624306
-                ],
-                [
-                  -0.8247862,
-                  44.662135
-                ],
-                [
-                  -0.824724,
-                  44.6621151
+                  -1.0876911,
+                  44.8951693
                 ]
               ]
             ]
@@ -9368,242 +6778,6 @@
         {
           "type": "Feature",
           "properties": {
-            "road": "D5E5",
-            "closure": "Fermeture totale",
-            "incident": "Incendie de Saumos"
-          },
-          "geometry": {
-            "type": "MultiLineString",
-            "coordinates": [
-              [
-                [
-                  -0.8815228,
-                  44.7184013
-                ],
-                [
-                  -0.8817788,
-                  44.7183813
-                ],
-                [
-                  -0.8847689,
-                  44.718392
-                ],
-                [
-                  -0.886811,
-                  44.7183281
-                ],
-                [
-                  -0.8940656,
-                  44.71804
-                ],
-                [
-                  -0.8957099,
-                  44.7179746
-                ],
-                [
-                  -0.9032807,
-                  44.7176871
-                ],
-                [
-                  -0.9054772,
-                  44.7175953
-                ],
-                [
-                  -0.9062201,
-                  44.7175716
-                ],
-                [
-                  -0.906677,
-                  44.7175335
-                ],
-                [
-                  -0.9067459,
-                  44.7175278
-                ],
-                [
-                  -0.9170438,
-                  44.7160489
-                ],
-                [
-                  -0.9173291,
-                  44.7159762
-                ],
-                [
-                  -0.9189463,
-                  44.715482
-                ],
-                [
-                  -0.9211119,
-                  44.7148202
-                ]
-              ],
-              [
-                [
-                  -0.921357,
-                  44.7147441
-                ],
-                [
-                  -0.9242056,
-                  44.7138741
-                ],
-                [
-                  -0.9289917,
-                  44.7124258
-                ],
-                [
-                  -0.9305513,
-                  44.7119468
-                ],
-                [
-                  -0.9326537,
-                  44.711301
-                ],
-                [
-                  -0.9358895,
-                  44.7103213
-                ],
-                [
-                  -0.9421568,
-                  44.7084091
-                ],
-                [
-                  -0.949712,
-                  44.7061032
-                ],
-                [
-                  -0.9509696,
-                  44.7057123
-                ],
-                [
-                  -0.9537533,
-                  44.7048629
-                ]
-              ]
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "road": "D5E4",
-            "closure": "Fermeture totale",
-            "incident": "Incendie de Saumos"
-          },
-          "geometry": {
-            "type": "MultiLineString",
-            "coordinates": [
-              [
-                [
-                  -0.9952022,
-                  44.9121989
-                ],
-                [
-                  -0.99558,
-                  44.9120456
-                ],
-                [
-                  -0.9982651,
-                  44.9109647
-                ],
-                [
-                  -1.0028594,
-                  44.909112
-                ],
-                [
-                  -1.0063867,
-                  44.9077086
-                ],
-                [
-                  -1.0085119,
-                  44.9068489
-                ],
-                [
-                  -1.0103373,
-                  44.9061271
-                ],
-                [
-                  -1.0150062,
-                  44.9042527
-                ],
-                [
-                  -1.0176729,
-                  44.9031846
-                ],
-                [
-                  -1.0214026,
-                  44.9017109
-                ],
-                [
-                  -1.0284694,
-                  44.8988737
-                ],
-                [
-                  -1.0307961,
-                  44.8979399
-                ],
-                [
-                  -1.038056,
-                  44.8950333
-                ],
-                [
-                  -1.0398958,
-                  44.8942981
-                ],
-                [
-                  -1.0424281,
-                  44.8932777
-                ],
-                [
-                  -1.049592,
-                  44.89042
-                ],
-                [
-                  -1.0505211,
-                  44.8900482
-                ],
-                [
-                  -1.057246,
-                  44.8873519
-                ],
-                [
-                  -1.0622105,
-                  44.8853594
-                ],
-                [
-                  -1.0675597,
-                  44.8832199
-                ],
-                [
-                  -1.0715216,
-                  44.881627
-                ],
-                [
-                  -1.0749071,
-                  44.8802682
-                ],
-                [
-                  -1.078317,
-                  44.8789272
-                ],
-                [
-                  -1.0827308,
-                  44.8771576
-                ],
-                [
-                  -1.0842043,
-                  44.8765636
-                ],
-                [
-                  -1.0845058,
-                  44.8764308
-                ]
-              ]
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
             "road": "D106E5",
             "closure": "Fermeture totale",
             "incident": "Incendie de Saumos"
@@ -9798,117 +6972,6 @@
                 [
                   -1.2265188,
                   44.7980139
-                ]
-              ]
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "road": "D213",
-            "closure": "Fermeture totale",
-            "incident": "Incendie de Saumos"
-          },
-          "geometry": {
-            "type": "MultiLineString",
-            "coordinates": [
-              [
-                [
-                  -0.836326,
-                  44.8311883
-                ],
-                [
-                  -0.8364194,
-                  44.8311422
-                ],
-                [
-                  -0.8373984,
-                  44.8305443
-                ],
-                [
-                  -0.838795,
-                  44.8295782
-                ],
-                [
-                  -0.8434414,
-                  44.826389
-                ],
-                [
-                  -0.8477098,
-                  44.8234588
-                ],
-                [
-                  -0.8483887,
-                  44.8229606
-                ],
-                [
-                  -0.8487912,
-                  44.8226363
-                ],
-                [
-                  -0.8490623,
-                  44.8223987
-                ],
-                [
-                  -0.8494224,
-                  44.822051
-                ],
-                [
-                  -0.8515155,
-                  44.8197077
-                ],
-                [
-                  -0.8516044,
-                  44.819607
-                ],
-                [
-                  -0.8532157,
-                  44.8177805
-                ],
-                [
-                  -0.8583018,
-                  44.8119685
-                ],
-                [
-                  -0.8621657,
-                  44.8075523
-                ],
-                [
-                  -0.8644457,
-                  44.8049672
-                ],
-                [
-                  -0.8650096,
-                  44.8043231
-                ],
-                [
-                  -0.8686187,
-                  44.8002014
-                ],
-                [
-                  -0.8716961,
-                  44.7966991
-                ],
-                [
-                  -0.8736407,
-                  44.7944858
-                ],
-                [
-                  -0.8740097,
-                  44.7940503
-                ],
-                [
-                  -0.8743583,
-                  44.793593
-                ],
-                [
-                  -0.874453,
-                  44.7934456
-                ],
-                [
-                  -0.8746038,
-                  44.793268
                 ]
               ]
             ]
@@ -10192,70 +7255,108 @@
     "location": "Saumos–Lège fire corridor reference point",
     "latitude": 44.91,
     "longitude": -1.0600004,
-    "observedAt": "2026-08-03T14:00:00+02:00",
-    "modelUpdatedAt": "2026-08-03T12:14:00.474Z",
+    "observedAt": "2026-08-03T15:00:00+02:00",
+    "modelUpdatedAt": "2026-08-03T13:14:51.442Z",
     "sourceName": "Open-Meteo",
     "sourceUrl": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
     "officialFireDangerName": "Météo-France · Météo des forêts",
     "officialFireDangerUrl": "https://meteofrance.com/meteo-des-forets",
     "current": {
-      "temperatureC": 29,
-      "humidityPct": 46,
+      "temperatureC": 27.6,
+      "humidityPct": 56,
       "precipitationMm": 0,
-      "windSpeedKmh": 9.1,
+      "windSpeedKmh": 13.8,
       "windDirectionDeg": 263,
       "windDirection": "W",
-      "windGustKmh": 26.3
+      "windGustKmh": 34.9
     },
     "forecast24h": {
-      "endsAt": "2026-08-04T12:00:00.000Z",
-      "maxTemperatureC": 29,
-      "minHumidityPct": 46,
-      "maxWindSpeedKmh": 13.6,
-      "maxWindGustKmh": 33.5,
+      "endsAt": "2026-08-04T13:00:00.000Z",
+      "maxTemperatureC": 27.6,
+      "minHumidityPct": 53,
+      "maxWindSpeedKmh": 13.8,
+      "maxWindGustKmh": 34.9,
       "peakGustAt": "2026-08-03T15:00:00+02:00",
-      "peakGustDirectionDeg": 270,
+      "peakGustDirectionDeg": 263,
       "peakGustDirection": "W",
       "precipitationMm": 0,
-      "maxPrecipitationProbabilityPct": 13,
+      "maxPrecipitationProbabilityPct": 8,
       "checkpoints": [
         {
-          "time": "2026-08-03T20:00:00+02:00",
-          "temperatureC": 23,
-          "humidityPct": 72,
-          "precipitationProbabilityPct": 0,
+          "time": "2026-08-03T21:00:00+02:00",
+          "temperatureC": 21.9,
+          "humidityPct": 79,
+          "precipitationProbabilityPct": 8,
           "precipitationMm": 0,
-          "windSpeedKmh": 11.2,
-          "windDirectionDeg": 285,
+          "windSpeedKmh": 7.9,
+          "windDirectionDeg": 294,
           "windDirection": "WNW",
-          "windGustKmh": 28.1
+          "windGustKmh": 28.8
         },
         {
-          "time": "2026-08-04T02:00:00+02:00",
-          "temperatureC": 19.7,
-          "humidityPct": 92,
+          "time": "2026-08-04T03:00:00+02:00",
+          "temperatureC": 19.3,
+          "humidityPct": 94,
           "precipitationProbabilityPct": 0,
           "precipitationMm": 0,
-          "windSpeedKmh": 4.7,
-          "windDirectionDeg": 266,
-          "windDirection": "W",
-          "windGustKmh": 9.4
+          "windSpeedKmh": 5,
+          "windDirectionDeg": 240,
+          "windDirection": "WSW",
+          "windGustKmh": 9.7
         },
         {
-          "time": "2026-08-04T14:00:00+02:00",
-          "temperatureC": 26.5,
+          "time": "2026-08-04T15:00:00+02:00",
+          "temperatureC": 26.8,
           "humidityPct": 54,
           "precipitationProbabilityPct": 0,
           "precipitationMm": 0,
-          "windSpeedKmh": 10.9,
-          "windDirectionDeg": 314,
+          "windSpeedKmh": 11.7,
+          "windDirectionDeg": 315,
           "windDirection": "NW",
-          "windGustKmh": 31
+          "windGustKmh": 30.2
         }
       ]
     }
   },
   "intelligenceCandidates": [
+    {
+      "id": "rss-787a06a87f2a",
+      "kind": "live-index-entry",
+      "sourceId": "lemonde-planete-live-index",
+      "sourceName": "Le Monde · Planète live index",
+      "sourceUrl": "https://www.lemonde.fr/planete/live/2026/08/03/en-direct-incendies-dans-le-var-le-feu-n-a-pas-progresse-pendant-la-nuit-1-500-sapeurs-pompiers-mobilises-pour-tenter-de-le-stabiliser-definitivement_6737310_3244.html",
+      "publishedAt": "2026-08-03T13:07:49.000Z",
+      "text": "EN DIRECT, incendies : en Gironde, les habitants du Porge et de Lège-Cap-Ferret autorisés à réintégrer leur commune Dans le Var, 1 500 sapeurs-pompiers ont été mobilisés pour tenter de stabiliser l’incendie près du massif du Gros Bessillon. Le ministère de l’intérieur a fait savoir que 375 personnes, dont 142 mineurs, avaient été interpellées en lien avec les incendies dans le pays.",
+      "score": 19,
+      "priority": "urgent-review",
+      "reasons": [
+        "control-status",
+        "access",
+        "response"
+      ],
+      "authorityAttributed": true,
+      "changeLanguage": true,
+      "numbers": [
+        "1 500",
+        "375 personnes",
+        "142"
+      ]
+    },
+    {
+      "id": "rss-6ad52add2589",
+      "kind": "live-index-entry",
+      "sourceId": "lemonde-planete-live-index",
+      "sourceName": "Le Monde · Planète live index",
+      "sourceUrl": "https://www.lemonde.fr/idees/article/2026/08/02/les-megafeux-comme-celui-en-gironde-ouvrent-une-dimension-inconnue-de-l-histoire-humaine-de-la-vie-sur-terre_6737252_3232.html",
+      "publishedAt": "2026-08-03T12:34:36.000Z",
+      "text": "« Les mégafeux, comme celui en Gironde, ouvrent une dimension inconnue de l’histoire humaine de la vie sur Terre » Apparus ces dernières années, des incendies incontrôlables frappent désormais la France. Un sursaut est nécessaire pour éviter qu’ils ne nous entraînent vers des périls plus graves encore, avertissent trois spécialistes du climat dans une tribune au « Monde ».",
+      "score": 4,
+      "priority": "context",
+      "reasons": [],
+      "authorityAttributed": false,
+      "changeLanguage": true,
+      "numbers": []
+    },
     {
       "id": "rss-c098b0a8149b",
       "kind": "live-index-entry",
@@ -10497,21 +7598,6 @@
         "holiday-impact"
       ],
       "authorityAttributed": true,
-      "changeLanguage": true,
-      "numbers": []
-    },
-    {
-      "id": "rss-6ad52add2589",
-      "kind": "live-index-entry",
-      "sourceId": "lemonde-planete-live-index",
-      "sourceName": "Le Monde · Planète live index",
-      "sourceUrl": "https://www.lemonde.fr/idees/article/2026/08/02/les-megafeux-comme-celui-en-gironde-ouvrent-une-dimension-inconnue-de-l-histoire-humaine-de-la-vie-sur-terre_6737252_3232.html",
-      "publishedAt": "2026-08-02T03:30:08.000Z",
-      "text": "« Les mégafeux, comme celui en Gironde, ouvrent une dimension inconnue de l’histoire humaine de la vie sur Terre » Apparus ces dernières années, des incendies incontrôlables frappent désormais la France. Un sursaut est nécessaire pour éviter qu’ils ne nous entraînent vers des périls plus graves encore, avertissent trois spécialistes du climat dans une tribune au « Monde ».",
-      "score": 4,
-      "priority": "context",
-      "reasons": [],
-      "authorityAttributed": false,
       "changeLanguage": true,
       "numbers": []
     },
@@ -11819,26 +8905,6 @@
       "authorityAttributed": true,
       "changeLanguage": false,
       "numbers": []
-    },
-    {
-      "id": "rss-e34ad3d324ca",
-      "kind": "live-index-entry",
-      "sourceId": "lemonde-planete-live-index",
-      "sourceName": "Le Monde · Planète live index",
-      "sourceUrl": "https://www.lemonde.fr/planete/live/2026/07/27/en-direct-incendies-emmanuel-macron-attendu-en-gironde-pour-rencontrer-des-elus-et-les-forces-mobilisees-contre-le-feu_6730417_3244.html",
-      "publishedAt": "2026-07-27T12:28:02.000Z",
-      "text": "EN DIRECT, incendies : Emmanuel Macron attendu en Gironde pour rencontrer des élus et les « forces mobilisées » contre le feu Le ministre de l’intérieur, Laurent Nuñez, a déclaré lors d’une conférence de presse, à l’issue du conseil des ministres, que l’incendie massif dans le département qui a ravagé quelque 42 000 hectares depuis mercredi est « stabilisé » mais n’est « pas fixé ».",
-      "score": 15,
-      "priority": "urgent-review",
-      "reasons": [
-        "control-status",
-        "fire-scale"
-      ],
-      "authorityAttributed": true,
-      "changeLanguage": false,
-      "numbers": [
-        "42 000 hectares"
-      ]
     }
   ],
   "officialCheckpoints": [
@@ -12110,8 +9176,8 @@
     },
     "flipCondition": "An authority must explicitly confirm unrestricted tourist entry and practical road access; campsite, forest, beach and maritime restrictions still need separate confirmation.",
     "scanSummary": {
-      "text": "Scanned 37 sources at 14:14; visible changes are published only when a gate, verdict or material fact changes.",
-      "scannedAt": "2026-08-03T12:14:02.104Z",
+      "text": "Scanned 37 sources at 15:14; visible changes are published only when a gate, verdict or material fact changes.",
+      "scannedAt": "2026-08-03T13:14:52.970Z",
       "sourcesChecked": 37,
       "sourcesHealthy": 34
     },
@@ -12144,7 +9210,7 @@
         "detail": "Peninsula reintegration is authorised from Monday 19:00, but a matching live Inforoutes confirmation for every affected road segment is still awaited.",
         "sourceName": "Gironde Inforoutes",
         "sourceUrl": "https://www.gironde.fr/deplacements/inforoutes",
-        "asOf": "2026-08-03T12:14:01.021Z"
+        "asOf": "2026-08-03T13:14:51.945Z"
       },
       {
         "id": "public-allowed-to-enter-the-peninsula",
