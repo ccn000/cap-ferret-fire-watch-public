@@ -1103,7 +1103,9 @@
     "9cce8e729ab8": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "45c4cb459a2b": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
     "a7010ddef720": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
-    "37715392d08a": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
+    "37715392d08a": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "ce9a47f79622": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "6025467ced72": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
   },
   "access": {
     "Road access to the peninsula": {
@@ -1193,13 +1195,13 @@
   },
   "aviation": {
     "overall": {
-      "status": "Vols exploités · aucune perturbation majeure signalée",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 12:49 CEST ; avis préfectoraux d’évacuation"
+      "status": "Vols exploités · retards/annulations des arrivées",
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 13:51 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
-        "status": "Risque élevé · vols listés et activité maintenue",
-        "detail": "Le tableau officiel affiche des arrivées et des départs sans signal majeur de retard ou d’annulation au moment de la vérification. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
+        "status": "Risque élevé · vols exploités mais fortement perturbés",
+        "detail": "Le tableau officiel affiche toujours des arrivées et des départs, mais il signale 1 arrivées retardées et 0 annulées, ainsi que 0 départs retardés et 0 annulés. Le flash info de l’aéroport indique que l’activité continue, tandis que la zone hôtelière autour de l’aéroport est évacuée jusqu’à nouvel ordre et que les halls ferment la nuit, donc aucun hébergement ne peut être assuré sur le site. Il faut garder séparés l’exploitation des vols, l’accès nocturne au terminal et l’accès terrestre."
       },
       "groundAccess": {
         "status": "Accès route/taxi possible mais perturbé · vérifier l’itinéraire en direct",
@@ -2555,6 +2557,13 @@
       "interesting": "C’est utile comme contexte ou alerte précoce, mais pas comme source décisionnelle seule.",
       "credibility": "Relais média · moyen",
       "incremental": "contexte local"
+    },
+    "https://bsky.app/profile/did:plc:5ekaaudi6pc22b4axp54hqre/post/3msax2ycx3z2q": {
+      "title": "Incendie en Gironde : des arnaqueurs profitent de l’élan de solidarité, les pompiers portent plainte",
+      "summary": "Il décrit une activité visible des secours, comme des avions, des pompiers ou des renforts autour du feu. Texte du message : Incendie en Gironde : des arnaqueurs profitent de l’élan de solidarité, les pompiers portent plainte",
+      "interesting": "Ce type de détail opérationnel peut apparaître sur les réseaux sociaux avant la presse, mais les chiffres et moyens engagés doivent rester vérifiés officiellement.",
+      "credibility": "Relais d’expert ou d’autorité · moyen",
+      "incremental": "signal moyens engagés"
     }
   },
   "mapStatuses": {
@@ -3210,9 +3219,11 @@
     "9cce8e729ab8": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "45c4cb459a2b": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
     "a7010ddef720": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
-    "37715392d08a": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
+    "37715392d08a": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "ce9a47f79622": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
+    "6025467ced72": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales."
   },
-  "generatedAt": "2026-08-04T10:53:00.337Z",
+  "generatedAt": "2026-08-04T11:53:57.774Z",
   "officialCheckpoints": {
     "checkpoint-2026-07-26-tvcap-nasa-1446": {
       "status": "Détections thermiques mises à jour",
@@ -3349,7 +3360,7 @@
     },
     "flipCondition": "Une autorité doit confirmer explicitement l’entrée touristique sans restriction et l’accès routier pratique ; les restrictions concernant les campings, la forêt, les plages et la navigation doivent encore être confirmées séparément.",
     "scanSummary": {
-      "text": "37 sources vérifiées à 12:53 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
+      "text": "37 sources vérifiées à 13:53 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
     },
     "checklist": {
       "fire-contained-or-controlled": {
