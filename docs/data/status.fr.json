@@ -1,74 +1,33 @@
 {
-  "reopeningBrief": {
-    "status": "Réintégration programmée",
-    "headline": "Presqu’île de Lège-Cap-Ferret : réintégration lundi à 19 h",
-    "summary": "Le Porge village, hors Le Ferron et Plein Soleil, et Lège bourg pourront être réintégrés à 14 h ; la presqu’île de Lège-Cap-Ferret à 19 h. Cette annonce ne vaut pas ouverture touristique sans restriction.",
-    "sourceName": "Préfète de la Gironde Sophie Brocas, annonce sur France 3 Nouvelle-Aquitaine",
-    "sourceNote": "Les trois étapes géographiques ci-dessus reprennent la portée de l’annonce préfectorale. Elles ne doivent pas être interprétées comme une séquence habitants-touristes.",
-    "milestones": [
-      {
-        "time": "14 h",
-        "label": "Le Porge village",
-        "detail": "Réintégration autorisée, hors Le Ferron et Plein Soleil."
-      },
-      {
-        "time": "14 h",
-        "label": "Lège bourg",
-        "detail": "Réintégration autorisée pour Lège bourg."
-      },
-      {
-        "time": "19 h",
-        "label": "Presqu’île de Lège-Cap-Ferret",
-        "detail": "Réintégration autorisée pour la presqu’île."
-      }
-    ],
-    "restrictions": [
-      {
-        "label": "Campings du Cap Ferret",
-        "status": "Toujours fermés",
-        "detail": "Ils ne sont pas encore autorisés à rouvrir."
-      },
-      {
-        "label": "Plages, pistes forestières et services touristiques",
-        "status": "Précisions attendues",
-        "detail": "Aucune consigne globale de réouverture n’a encore été trouvée ; des restrictions locales peuvent continuer."
-      },
-      {
-        "label": "Exceptions au Porge",
-        "status": "Accès restreint",
-        "detail": "Plein Soleil et Ferron restent fermés pendant les opérations de déminage lundi et mardi."
-      }
-    ]
-  },
   "incident": {
-    "level": "RÉINTÉGRATION PROGRAMMÉE",
-    "headline": "Presqu’île de Lège-Cap-Ferret : réintégration lundi à 19 h",
-    "summary": "La préfète annonce trois étapes géographiques lundi 3 août : Le Porge village hors Le Ferron et Plein Soleil à 14 h, Lège bourg à 14 h, puis la presqu’île de Lège-Cap-Ferret à 19 h. Cette décision ne confirme pas un accès touristique sans restriction.",
-    "fireStatus": "Fixé et contenu dans son périmètre · secteurs actifs persistants à Lège et au Porge",
+    "level": "REPRISE · VIGILANCE ORANGE",
+    "headline": "La reprise s’élargit avec le passage de la Gironde en vigilance orange",
+    "summary": "Le feu reste fixé mais actif sur la frange littorale. Huit campings non touchés de Lège-Cap-Ferret peuvent rouvrir, les derniers quartiers fermés du Porge peuvent être réintégrés et la vigilance feux de forêt passe du rouge à l’orange. Les zones incendiées et la fréquentation libre de la forêt restent interdites.",
+    "fireStatus": "Fixé · toujours actif sur la frange littorale",
     "affectedHectares": "42 000 hectares restent l’ordre de grandeur principal du feu girondin dans les informations actuelles",
-    "evacuatedPeople": "Réintégration : Le Porge village hors Le Ferron et Plein Soleil à 14 h ; Lège bourg à 14 h ; presqu’île de Lège-Cap-Ferret à 19 h",
+    "evacuatedPeople": "Presqu’île réintégrée · huit campings rouvrent · derniers quartiers du Porge accessibles",
     "firefighters": "2 500 pompiers · 18 moyens aériens · 1 500 militaires · 1 200 policiers et gendarmes · A400M réengagé"
   },
   "currentAssessment": {
-    "verdict": "Un calendrier précis de réintégration est confirmé, mais il est géographique : Le Porge village hors Le Ferron et Plein Soleil à 14 h, Lège bourg à 14 h, puis la presqu’île de Lège-Cap-Ferret à 19 h. L’annonce ne confirme ni un accès touristique sans restriction ni la reprise complète des activités.",
-    "trajectory": "Réintégration par zones programmée ; accès touristique et restrictions d’activités restent à distinguer",
-    "narrative": "La préfète de la Gironde, Sophie Brocas, autorise lundi à 14 h la réintégration du Porge village, hors Le Ferron et Plein Soleil, ainsi que de Lège bourg. La réintégration de la presqu’île de Lège-Cap-Ferret est autorisée à partir de 19 h. Il s’agit d’étapes géographiques : elles ne doivent pas être reformulées comme un retour de tous les habitants à 14 h suivi d’un accès général à 19 h. Les campings du Cap Ferret ne sont pas encore autorisés à rouvrir et les conditions concernant la forêt, les plages, la navigation, les commerces et l’accès touristique doivent être vérifiées séparément.",
-    "confidence": "Confiance élevée dans les trois étapes de réintégration annoncées par la préfète. Aucune conclusion d’accès touristique sans restriction n’en est déduite ; les conditions d’activités, de commerces et de visiteurs restent à confirmer explicitement.",
+    "verdict": "L’incident entre dans une phase de reprise plus large : la presqu’île a été réintégrée, huit campings non touchés sont autorisés à rouvrir, les derniers quartiers fermés du Porge peuvent être réintégrés et la vigilance feux de forêt passe du rouge à l’orange. Le feu reste néanmoins actif sur la frange littorale, les zones incendiées demeurent interdites et la fréquentation libre des espaces forestiers reste restreinte.",
+    "trajectory": "Reprise élargie · vigilance abaissée, mais feu littoral actif et restrictions forestières persistantes",
+    "narrative": "La préfecture de la Gironde indique que le feu reste fixé et actif sur la frange littorale tandis que les équipes éteignent les fumerolles. Elle autorise la réouverture de La Pinède, La Prairie, Les Pastourelles, VVF, Domaine du Ferret, Les Embruns, Les Viviers et Le Truc Vert, non touchés par l’incendie. Plein Soleil et Le Ferron au Porge peuvent aussi être réintégrés après une opération de déminage ayant récupéré plus de 400 obus et munitions. Depuis le 4 août, la vigilance orange autorise certaines activités professionnelles, les sites de loisirs aménagés, les accès aux plages et la Vélodyssée hors zones incendiées ; les zones brûlées et la fréquentation libre des espaces forestiers restent interdites.",
+    "confidence": "Confiance élevée dans les changements concernant les campings, Le Porge et la vigilance, tous annoncés directement par la préfecture de la Gironde. La confiance reste plus faible sur chaque commerce, restaurant et sur l’accès routier touristique sans restriction, faute de liste officielle couvrant toute la presqu’île.",
     "priorities": [
-      "Le Porge village pourra être réintégré lundi à 14 h, hors Le Ferron et Plein Soleil.",
-      "Lège bourg pourra être réintégré lundi à 14 h.",
-      "La presqu’île de Lège-Cap-Ferret pourra être réintégrée lundi à 19 h.",
-      "L’annonce ne confirme pas un accès touristique sans restriction.",
-      "Les campings du Cap Ferret ne sont pas encore autorisés à rouvrir.",
-      "Plein Soleil et Ferron au Porge restent fermés pendant le déminage.",
-      "Le feu reste fixé mais actif ; des restrictions locales sur la forêt, les plages et la navigation peuvent continuer.",
-      "Prochain détail attendu : les consignes écrites de la préfecture et de la mairie."
+      "Le feu reste fixé mais actif sur la frange littorale ; les équipes éteignent encore les fumerolles.",
+      "Huit campings non touchés de Lège-Cap-Ferret sont autorisés à rouvrir.",
+      "Plein Soleil et Le Ferron au Porge peuvent être réintégrés après la récupération de plus de 400 obus et munitions.",
+      "La Gironde passe du rouge à l’orange pour le risque de feux de forêt à compter du 4 août.",
+      "Les sites de loisirs aménagés, les pistes d’accès aux plages et la Vélodyssée peuvent rouvrir hors zones incendiées.",
+      "La fréquentation libre des espaces forestiers et tout accès aux zones incendiées restent interdits.",
+      "Aucune confirmation officielle couvrant toute la presqu’île n’a été trouvée pour les supermarchés, pharmacies et autres commerces du quotidien.",
+      "Prochain détail attendu : confirmation municipale des commerces, plages, ferries et du réseau interne de pistes cyclables forestières."
     ]
   },
   "alerts": {
     "Peninsula": {
       "label": "Presqu’île",
-      "value": "Réintégration lundi à partir de 19 h"
+      "value": "Réintégrée · certains campings rouvrent"
     },
     "RD106": {
       "label": "RD106",
@@ -76,14 +35,19 @@
     },
     "Forest & paths": {
       "label": "Forêt et pistes",
-      "value": "Fermées"
+      "value": "Zones incendiées et fréquentation libre interdites"
     },
     "Fire": {
       "label": "Incendie",
-      "value": "Fixé · secteurs actifs persistants"
+      "value": "Fixé · frange littorale active · vigilance orange"
     }
   },
   "materialUpdates": {
+    "material-2026-08-04-1051-recovery-orange-campsites": {
+      "title": "La reprise s’élargit : huit campings rouvrent et la vigilance passe à l’orange",
+      "detail": "La préfecture de la Gironde indique que le feu reste fixé mais actif sur la frange littorale. Elle autorise la réouverture de huit campings non touchés de Lège-Cap-Ferret, permet la réintégration des derniers quartiers fermés du Porge après la récupération de plus de 400 obus et munitions, et abaisse du rouge à l’orange la vigilance feux de forêt à compter du 4 août.",
+      "incrementalNews": "Cette évolution remplace une situation de retour programmé par une phase de reprise plus large mais incomplète. Les hébergements de plein air et plusieurs activités encadrées peuvent reprendre hors zones incendiées ; la contrainte principale reste l’interdiction des zones brûlées et de la fréquentation libre des espaces forestiers, notamment les pistes non expressément autorisées."
+    },
     "material-2026-08-02-1931-peninsula-reopening": {
       "title": "La préfète fixe trois horaires de réintégration par zone pour lundi",
       "detail": "La préfète de la Gironde, Sophie Brocas, autorise la réintégration à 14 h du Porge village hors Le Ferron et Plein Soleil, à 14 h de Lège bourg, puis à 19 h de la presqu’île de Lège-Cap-Ferret. Les campings du Cap Ferret ne sont pas encore autorisés à rouvrir.",
@@ -1106,75 +1070,76 @@
     "37715392d08a": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "ce9a47f79622": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "6025467ced72": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
-    "2580dd412ab7": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression."
+    "2580dd412ab7": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "439c70cdebd1": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes."
   },
   "access": {
     "Road access to the peninsula": {
       "name": "Accès routier à la presqu’île",
-      "status": "Accès touristique non confirmé",
-      "detail": "La réintégration de la presqu’île est autorisée lundi à 19 h, mais l’accès routier touristique sans restriction n’est pas annoncé. Ouvrez le détail par destination ; la confirmation en direct de l’autorité routière reste importante."
+      "status": "Presqu’île réintégrée · vérifier les fermetures en direct",
+      "detail": "La réintégration achevée et la réouverture des campings indiquent que l’accès principal fonctionne pour les retours autorisés. Inforoutes affiche encore des fermetures départementales liées au feu ; une vérification en direct par destination reste nécessaire."
     },
     "Travel to the peninsula": {
       "name": "Déplacement vers la presqu’île",
-      "status": "Réintégration lundi à 19 h",
-      "detail": "La préfète autorise la réintégration de la presqu’île de Lège-Cap-Ferret lundi à 19 h. Cette annonce ne confirme pas un accès touristique sans restriction."
+      "status": "Réintégration achevée · prudence maintenue",
+      "detail": "Le calendrier de réintégration de la presqu’île a pris effet et certains campings peuvent rouvrir. C’est un signal fort d’accès pratique, mais pas un feu vert général pour les zones incendiées, les pistes forestières ou toutes les activités touristiques."
     },
     "Road access · Claouey": {
       "name": "Accès routier · Claouey",
-      "status": "Réintégration lundi à 19 h",
-      "detail": "Claouey est compris dans la réintégration de la presqu’île autorisée lundi à 19 h. L’accès touristique sans restriction et les conditions routières restent à confirmer."
+      "status": "Réintégrée · campings en réouverture",
+      "detail": "Claouey est réintégrée et cinq campings nommés du secteur peuvent rouvrir. Vérifiez encore les restrictions routières liées au feu avant le trajet."
     },
     "Road access · Petit Piquey & Piraillan": {
       "name": "Accès routier · Petit Piquey et Piraillan",
-      "status": "Réintégration lundi à 19 h",
-      "detail": "Petit Piquey et Piraillan sont compris dans la réintégration de la presqu’île autorisée lundi à 19 h. L’accès touristique sans restriction et les conditions routières restent à confirmer."
+      "status": "Réintégrés · vérification en direct conseillée",
+      "detail": "Petit Piquey et Piraillan font partie de la presqu’île réintégrée ; le camping du Truc Vert dans le secteur de Piquey peut rouvrir. Les zones incendiées et sécurisées restent exclues."
     },
     "Road access · Grand Piquey": {
       "name": "Accès routier · Grand Piquey",
-      "status": "Réintégration lundi à 19 h",
-      "detail": "Grand Piquey est compris dans la réintégration de la presqu’île autorisée lundi à 19 h. L’accès touristique sans restriction et les conditions routières restent à confirmer."
+      "status": "Réintégré · vérification en direct conseillée",
+      "detail": "Grand Piquey fait partie de la presqu’île réintégrée. Aucune fermeture propre à la destination n’a été trouvée, mais les restrictions routières en direct restent prioritaires."
     },
     "Road access · Le Canon & L’Herbe": {
       "name": "Accès routier · Le Canon et L’Herbe",
-      "status": "Réintégration lundi à 19 h",
-      "detail": "Le Canon et L’Herbe sont compris dans la réintégration de la presqu’île autorisée lundi à 19 h. L’accès touristique sans restriction et les conditions routières restent à confirmer."
+      "status": "Réintégrés · vérification en direct conseillée",
+      "detail": "Le Canon et L’Herbe font partie de la presqu’île réintégrée. Aucune fermeture propre à ces villages n’a été trouvée, mais les restrictions routières en direct restent prioritaires."
     },
     "Road access · Cap Ferret": {
       "name": "Accès routier · Cap Ferret",
-      "status": "Réintégration lundi à 19 h",
-      "detail": "Le village du Cap Ferret et Bélisaire sont compris dans la réintégration de la presqu’île autorisée lundi à 19 h. L’accès touristique sans restriction et les conditions routières restent à confirmer."
+      "status": "Réintégré · vérification en direct conseillée",
+      "detail": "Le village du Cap Ferret et Bélisaire font partie de la presqu’île réintégrée. Aucune fermeture propre à la destination n’a été trouvée, sans que cela certifie l’ouverture de chaque service touristique ou piste forestière."
     },
     "Maritime leisure activities": {
       "name": "Loisirs nautiques",
-      "status": "Inaccessibles",
-      "detail": "Certaines zones du bassin d’Arcachon éloignées du feu ont rouvert, mais la presqu’île reste évacuée et l’arrêté de la préfecture maritime maintient la fermeture du couloir ouest et des cercles de sécurité autour des points d’embarquement."
+      "status": "Activités encadrées possibles hors zones incendiées",
+      "detail": "La vigilance orange autorise les activités encadrées par un professionnel et l’accès aux bases nautiques aménagées hors zones incendiées. Chaque opérateur et les restrictions maritimes éventuelles doivent encore être vérifiés."
     },
     "Beaches": {
       "name": "Plages",
-      "status": "Inaccessibles",
-      "detail": "Habitants et visiteurs ont reçu l’ordre de quitter le secteur. Les postes de secours municipaux sont fermés."
+      "status": "Accès aménagé possible hors zones incendiées",
+      "detail": "La vigilance orange autorise l’accès aux plans plage aménagés hors zones incendiées. Cela ne prouve pas que chaque plage, route ou poste de secours soit ouvert ; les fermetures locales restent prioritaires."
     },
     "Cycling & hiking": {
       "name": "Vélo et randonnée",
-      "status": "Interdits",
-      "detail": "Toutes les pistes cyclables forestières sont fermées ; le risque d’incendie reste au niveau rouge en Gironde."
+      "status": "Pistes cyclables en cœur de forêt fermées",
+      "detail": "La mairie maintient explicitement fermées toute la journée les pistes cyclables en cœur de massif forestier. La Vélodyssée et les pistes situées dans les villages, en bord de bassin ou permettant l’accès aux plages océanes restent ouvertes ; les pistes forestières, chemins ruraux et chemins d’exploitation restent interdits sauf aux ayants droit."
     }
   },
   "localCommerce": {
     "Groceries and food shops": {
       "name": "Commerces alimentaires",
-      "status": "Aucun accès public",
-      "detail": "L’ordre d’évacuation empêche l’accès normal des clients. Aucune réouverture générale des supermarchés, commerces alimentaires ou du marché du Cap Ferret n’a été annoncée."
+      "status": "Réouverture non confirmée de façon systématique",
+      "detail": "La réintégration de la presqu’île et la réouverture des campings rendent la reprise du commerce possible, mais aucune confirmation officielle propre à l’incendie n’a été trouvée pour le Super U de Claouey, Carrefour Contact, le marché du Cap Ferret ou l’ensemble des commerces alimentaires. Les horaires habituels ne prouvent pas l’ouverture actuelle."
     },
     "Pharmacies": {
       "name": "Pharmacies",
-      "status": "Aucun accès public confirmé",
-      "detail": "Aucune réouverture propre aux pharmacies ni aucun dispositif d’accès public n’a été trouvé. Les consignes d’urgence et des autorités prévalent sur les horaires habituels."
+      "status": "Réouverture non confirmée",
+      "detail": "Aucun avis actuel propre à l’incendie ne confirme la réouverture des pharmacies. L’ouverture d’urgence antérieure à Lège ne permet pas d’établir leur fonctionnement aujourd’hui ; les horaires d’annuaire restent non vérifiés."
     },
     "Other local shops and services": {
       "name": "Autres commerces et services locaux",
-      "status": "Aucune reprise normale",
-      "detail": "Aucune annonce générale ne confirme la reprise des commerces destinés aux visiteurs ou des services locaux du quotidien."
+      "status": "Reprise en cours · vérification individuelle",
+      "detail": "La préfecture décrit un retour progressif à la normale et certains établissements touristiques annoncent leur réouverture, mais aucune liste complète et spécifique à l’incendie ne recense les commerces et services locaux ouverts."
     }
   },
   "ferries": {
@@ -1197,7 +1162,7 @@
   "aviation": {
     "overall": {
       "status": "Vols exploités · retards/annulations des arrivées",
-      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 14:53 CEST ; avis préfectoraux d’évacuation"
+      "sourceName": "Tableau de l’aéroport de Bordeaux mis à jour à 17:25 CEST ; avis préfectoraux d’évacuation"
     },
     "operationalRisk": {
       "closure": {
@@ -1255,11 +1220,11 @@
   "reopeningSignals": {
     "Fire contained or controlled": {
       "name": "Incendie fixé ou maîtrisé",
-      "detail": "Condition remplie au niveau de la maîtrise du feu. La préfecture indique que l’incendie girondin est fixé et contenu dans son périmètre, même si des secteurs actifs persistent à Lège et au Porge. Cela ne lève pas à lui seul les restrictions locales d’évacuation ou d’accès."
+      "detail": "Condition remplie au niveau de la maîtrise du feu. La préfecture indique que le feu reste fixé, même s’il demeure actif sur la frange littorale et que les équipes continuent d’éteindre les fumerolles."
     },
     "Evacuation order lifted": {
       "name": "Ordre d’évacuation levé",
-      "detail": "Réintégration autorisée par zone : Le Porge village hors Le Ferron et Plein Soleil à 14 h, Lège bourg à 14 h et la presqu’île à 19 h. L’ordre reste en vigueur dans chaque zone jusqu’à l’heure indiquée."
+      "detail": "Le calendrier de réintégration de la presqu’île a pris effet, et les derniers quartiers fermés du Porge, Plein Soleil et Le Ferron, peuvent aussi être réintégrés après le déminage."
     },
     "RD106 reopened in both directions": {
       "name": "RD106 rouverte dans les deux sens",
@@ -1267,19 +1232,19 @@
     },
     "Public allowed to enter the peninsula": {
       "name": "Public autorisé à entrer sur la presqu’île",
-      "detail": "La réintégration de la presqu’île est confirmée lundi 3 août à 19 h ; l’entrée touristique sans restriction n’est pas confirmée."
+      "detail": "La réintégration de la presqu’île a pris effet et huit campings peuvent rouvrir, mais aucun avis unique ne décrit une entrée sans restriction pour tous les touristes et toutes les activités."
     },
     "Services and businesses restarting": {
       "name": "Reprise des services et des commerces",
-      "detail": "Aucune annonce générale de réouverture n’a été détectée."
+      "detail": "La réouverture de campings et de certains établissements touristiques est confirmée, mais aucune liste officielle couvrant toute la presqu’île ne confirme les supermarchés, pharmacies et autres commerces du quotidien."
     },
     "Forest and beaches declared safe": {
       "name": "Forêts et plages déclarées sûres",
-      "detail": "Les pistes forestières et les postes de secours restent fermés."
+      "detail": "Les plans plage aménagés et certains accès cyclables peuvent rouvrir hors zones incendiées, mais les zones brûlées et la fréquentation libre des espaces forestiers restent interdites."
     },
     "Wildfire risk downgraded": {
       "name": "Risque d’incendie abaissé",
-      "detail": "Le risque d’incendie reste au niveau rouge en Gironde."
+      "detail": "La vigilance feux de forêt en Gironde est passée du rouge à l’orange à compter du 4 août, avec maintien de restrictions."
     },
     "Water and electricity networks checked": {
       "name": "Réseaux d’eau et d’électricité contrôlés",
@@ -2565,25 +2530,32 @@
       "interesting": "Ce type de détail opérationnel peut apparaître sur les réseaux sociaux avant la presse, mais les chiffres et moyens engagés doivent rester vérifiés officiellement.",
       "credibility": "Relais d’expert ou d’autorité · moyen",
       "incremental": "signal moyens engagés"
+    },
+    "https://bsky.app/profile/did:plc:z6afjekzgr5whh5ypxdom2vb/post/3msbchmwi5n2g": {
+      "title": "Gironde — Incendie en Gironde : « La vigne est restée 20 heures dans la fumée »… le vin de 2026 n’aura pas le…",
+      "summary": "Il apporte du contexte local sur les fumées, la pollution ou la qualité de l’air au-delà de la zone évacuée. Texte du message : Gironde — Incendie en Gironde : « La vigne est restée 20 heures dans la fumée »… le vin de 2026 n’aura pas le goût du feu #Gironde #News #Breaking",
+      "interesting": "Les fumées peuvent affecter le confort, les déplacements et le risque opérationnel même sans ordre d’évacuation local.",
+      "credibility": "Relais média · moyen",
+      "incremental": "signal fumées/air"
     }
   },
   "mapStatuses": {
     "Saumos": "Zone de départ signalée le 22 juillet",
-    "Le Porge": "Évacué · habitations touchées",
-    "Lège": "Évacué · feu à proximité / habitations touchées",
-    "Arès": "Évacuation préventive obligatoire",
-    "Andernos-les-Bains": "Évacuation préventive rapportée par Reuters",
-    "Saint-Médard-en-Jalles": "Évacuation de secteurs menacés",
-    "Saint-Jean-d’Illac": "Évacuation de secteurs menacés",
-    "Martignas-sur-Jalle": "Évacuation de secteurs menacés",
-    "Saint-Aubin-de-Médoc": "Évacuation de secteurs menacés",
-    "Le Haillan": "Évacuation préventive ordonnée",
-    "Mérignac · extra-rocade": "Évacuation préventive partielle ordonnée · conséquences aéroportuaires à préciser",
-    "Eysines · extra-rocade": "Évacuation préventive partielle ordonnée",
-    "Claouey": "Évacué",
-    "Le Canon": "Évacué · départ de navette maritime annoncé",
-    "Grand Piquey": "Évacué · départ de navette maritime annoncé",
-    "Cap Ferret": "Évacué",
+    "Le Porge": "Réintégré · derniers quartiers rouverts après déminage · secteurs sinistrés interdits",
+    "Lège": "Réintégré · le feu reste actif sur la frange littorale",
+    "Arès": "Évacuation préventive antérieure levée · restrictions locales possibles",
+    "Andernos-les-Bains": "Évacuation préventive antérieure levée · restrictions locales possibles",
+    "Saint-Médard-en-Jalles": "Évacuation préventive antérieure · vérifier les restrictions locales",
+    "Saint-Jean-d’Illac": "Évacuation préventive antérieure · vérifier les restrictions locales",
+    "Martignas-sur-Jalle": "Évacuation préventive antérieure · vérifier les restrictions locales",
+    "Saint-Aubin-de-Médoc": "Évacuation préventive antérieure · vérifier les restrictions locales",
+    "Le Haillan": "Évacuation préventive antérieure · vérifier les restrictions locales",
+    "Mérignac · extra-rocade": "Évacuation partielle antérieure · vérifier l’aéroport et les accès routiers en direct",
+    "Eysines · extra-rocade": "Évacuation partielle antérieure · vérifier les restrictions locales",
+    "Claouey": "Réintégré · cinq campings nommés autorisés à rouvrir",
+    "Le Canon": "Réintégré · restrictions forestières maintenues",
+    "Grand Piquey": "Réintégré · restrictions forestières maintenues",
+    "Cap Ferret": "Réintégré · restrictions forestières maintenues",
     "Marcheprime": "Alerte d’évacuation imminente de la mairie ; Le Monde signale des évacuations de quartiers",
     "Cestas": "Le Monde signale plusieurs quartiers sous nouvel ordre d’évacuation ; page préfectorale directe en attente"
   },
@@ -3223,10 +3195,23 @@
     "37715392d08a": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "ce9a47f79622": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
     "6025467ced72": "Thème du titre : suivi de l’incendie en Gironde et de ses conséquences locales.",
-    "2580dd412ab7": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression."
+    "2580dd412ab7": "Thème du titre : surface brûlée, ampleur du feu ou direction de progression.",
+    "439c70cdebd1": "Thème du titre : fumées et effets sur la qualité de l’air liés aux incendies en Gironde et dans les Landes."
   },
-  "generatedAt": "2026-08-04T12:54:58.499Z",
+  "generatedAt": "2026-08-04T15:27:41.508Z",
   "officialCheckpoints": {
+    "checkpoint-2026-08-04-prefecture-orange-vigilance": {
+      "status": "Vigilance feux de forêt abaissée à l’orange",
+      "title": "Vigilance Gironde · orange à compter du 4 août",
+      "detail": "La préfecture abaisse du rouge à l’orange la vigilance feux de forêt en Gironde. Les sites de loisirs aménagés, bases nautiques, la Vélodyssée et les pistes desservant les plages ou stations peuvent rouvrir hors zones incendiées ; les zones brûlées et la fréquentation libre des espaces forestiers restent interdites.",
+      "authorityLevel": "Préfecture"
+    },
+    "checkpoint-2026-08-04-prefecture-campsites-le-porge": {
+      "status": "Huit campings rouvrent · derniers quartiers du Porge réintégrés",
+      "title": "Point de reprise · campings et Le Porge",
+      "detail": "La préfecture autorise la réouverture de huit campings non touchés de Lège-Cap-Ferret. Son point indique aussi que Plein Soleil et Le Ferron peuvent être réintégrés après la récupération de plus de 400 obus et munitions ; le feu reste fixé mais actif sur la frange littorale.",
+      "authorityLevel": "Préfecture"
+    },
     "checkpoint-2026-07-26-tvcap-nasa-1446": {
       "status": "Détections thermiques mises à jour",
       "title": "Détections thermiques NASA · 24 h",
@@ -3348,33 +3333,43 @@
       "status": "Calendrier de réintégration par zone annoncé",
       "title": "Réintégration · Le Porge et Lège 14 h, presqu’île 19 h",
       "detail": "La préfète de la Gironde, Sophie Brocas, autorise la réintégration à 14 h du Porge village hors Le Ferron et Plein Soleil, à 14 h de Lège bourg, puis à 19 h de la presqu’île de Lège-Cap-Ferret. L’annonce ne vaut pas accès touristique sans restriction ; les campings du Cap Ferret ne sont pas encore autorisés à rouvrir."
+    },
+    "checkpoint-2026-08-04-prefecture-campsites-1051": {
+      "status": "Huit campings épargnés autorisés à rouvrir",
+      "title": "Point préfectoral de reprise · campings et derniers retours au Porge",
+      "detail": "La préfecture autorise la réouverture de huit campings épargnés à Lège Bourg, Claouey et Piquey, et confirme la réintégration de Plein Soleil et du Ferron au Porge après la récupération de plus de 400 obus et munitions par les démineurs."
+    },
+    "checkpoint-2026-08-04-prefecture-orange-0000": {
+      "status": "Vigilance feux de forêt abaissée à l’orange",
+      "title": "Point préfectoral · entrée en vigueur de la vigilance orange",
+      "detail": "La Gironde passe de la vigilance rouge à orange. Hors zones incendiées, les plans plage et bases nautiques aménagés, les activités encadrées, la Vélodyssée et les pistes desservant les plages ou stations peuvent fonctionner ; les secteurs incendiés et la fréquentation libre des massifs restent interdits."
     }
   },
   "decision": {
     "verdictLabel": "PAS ENCORE",
-    "summary": "La réintégration de la presqu’île a commencé ; l’accès touristique sans restriction n’est pas confirmé.",
-    "window": "Horaire d’accès touristique sans restriction non confirmé",
+    "summary": "Ne prévoyez pas encore d’aller au Cap Ferret.",
+    "window": "Aucune fenêtre de réouverture touristique annoncée",
     "confidence": "Élevée",
     "driver": {
-      "fact": "La préfète fixe trois horaires de réintégration par zone pour lundi",
-      "detail": "C’est le premier calendrier explicite de réintégration. Il remplace une évacuation sans échéance par trois étapes géographiques ; il ne signifie ni retour de tous les habitants à 14 h ni accès touristique sans restric…",
-      "sourceName": "France 3 Nouvelle-Aquitaine, 2 August 2026 at 19:31 CEST, reporting Gironde Prefect Sophie Brocas’s announcement"
+      "fact": "La reprise s’élargit : huit campings rouvrent et la vigilance passe à l’orange",
+      "detail": "Cette évolution remplace une situation de retour programmé par une phase de reprise plus large mais incomplète. Les hébergements de plein air et plusieurs activités encadrées peuvent reprendre hors zones incendiées ;…",
+      "sourceName": "Gironde Prefecture, campsite reopening notice updated 4 August 2026"
     },
-    "flipCondition": "Une autorité doit confirmer explicitement l’entrée touristique sans restriction et l’accès routier pratique ; les restrictions concernant les campings, la forêt, les plages et la navigation doivent encore être confirmées séparément.",
+    "flipCondition": "La maîtrise du feu, la levée de l’évacuation, l’accès public par route ou transport autorisé et les commerces essentiels doivent passer de bloqués/incertains à confirmés.",
     "scanSummary": {
-      "text": "37 sources vérifiées à 14:54 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
+      "text": "37 sources vérifiées à 17:27 ; seuls les changements de condition, d’avis ou de fait important sont publiés."
     },
     "checklist": {
       "fire-contained-or-controlled": {
         "label": "Incendie fixé ou maîtrisé",
         "status": "Confirmé",
-        "detail": "Condition remplie au niveau de la maîtrise du feu. La préfecture indique que l’incendie girondin est fixé et contenu dans son périmètre, même si des secteurs actifs persistent à Lège et au Porge. Cela ne lève pas à lui seul les restrictions locales d’évacuation ou d’accès.",
+        "detail": "Condition remplie au niveau de la maîtrise du feu. La préfecture indique que le feu reste fixé, même s’il demeure actif sur la frange littorale et que les équipes continuent d’éteindre les fumerolles.",
         "sourceName": "Gironde Prefecture"
       },
       "evacuation-order-lifted": {
         "label": "Ordre d’évacuation levé",
-        "status": "À confirmer",
-        "detail": "Réintégration autorisée par zone : Le Porge village hors Le Ferron et Plein Soleil à 14 h, Lège bourg à 14 h et la presqu’île à 19 h. L’ordre reste en vigueur dans chaque zone jusqu’à l’heure indiquée.",
+        "status": "Confirmé",
+        "detail": "Le calendrier de réintégration de la presqu’île a pris effet, et les derniers quartiers fermés du Porge, Plein Soleil et Le Ferron, peuvent aussi être réintégrés après le déminage.",
         "sourceName": "Gironde Prefecture"
       },
       "rd106-reopened-in-both-directions": {
@@ -3386,25 +3381,25 @@
       "public-allowed-to-enter-the-peninsula": {
         "label": "Public autorisé à entrer sur la presqu’île",
         "status": "À confirmer",
-        "detail": "La réintégration de la presqu’île est confirmée lundi 3 août à 19 h ; l’entrée touristique sans restriction n’est pas confirmée.",
+        "detail": "La réintégration de la presqu’île a pris effet et huit campings peuvent rouvrir, mais aucun avis unique ne décrit une entrée sans restriction pour tous les touristes et toutes les activités.",
         "sourceName": "Gironde Inforoutes"
       },
       "services-and-businesses-restarting": {
         "label": "Reprise des services et des commerces",
         "status": "À confirmer",
-        "detail": "Aucune annonce générale de réouverture n’a été détectée.",
+        "detail": "La réouverture de campings et de certains établissements touristiques est confirmée, mais aucune liste officielle couvrant toute la presqu’île ne confirme les supermarchés, pharmacies et autres commerces du quotidien.",
         "sourceName": "Lège-Cap-Ferret Town Hall"
       },
       "forest-and-beaches-declared-safe": {
         "label": "Forêts et plages déclarées sûres",
         "status": "Non rempli",
-        "detail": "Les pistes forestières et les postes de secours restent fermés.",
+        "detail": "Les plans plage aménagés et certains accès cyclables peuvent rouvrir hors zones incendiées, mais les zones brûlées et la fréquentation libre des espaces forestiers restent interdites.",
         "sourceName": "Lège-Cap-Ferret Town Hall"
       },
       "wildfire-risk-downgraded": {
         "label": "Risque d’incendie abaissé",
-        "status": "Non rempli",
-        "detail": "Le risque d’incendie reste au niveau rouge en Gironde.",
+        "status": "Confirmé",
+        "detail": "La vigilance feux de forêt en Gironde est passée du rouge à l’orange à compter du 4 août, avec maintien de restrictions.",
         "sourceName": "Gironde Prefecture"
       },
       "water-and-electricity-networks-checked": {
