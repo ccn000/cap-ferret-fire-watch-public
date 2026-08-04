@@ -1,19 +1,20 @@
 {
-  "generatedAt": "2026-08-04T15:27:41.508Z",
+  "generatedAt": "2026-08-04T19:17:42.225Z",
+  "archivedAt": "2026-08-04T19:17:42.225Z",
   "sectionUpdates": {
     "assessment": "2026-08-04T10:51:43+02:00",
-    "map": "2026-08-04T15:27:41.508Z",
+    "map": "2026-08-04T19:17:42.225Z",
     "material": "2026-08-04T10:51:43+02:00",
     "access": "2026-08-04T15:26:32.229Z",
     "localCommerce": "2026-08-04T15:26:32.229Z",
     "restaurants": "2026-07-24T06:40:00+02:00",
     "ferries": "2026-07-24T18:26:50+02:00",
-    "aviation": "2026-08-04T17:25:00+02:00",
+    "aviation": "2026-08-04T21:15:00+02:00",
     "reopening": "2026-08-04T10:51:43+02:00",
-    "articles": "2026-08-04T13:10:00.000Z",
+    "articles": "2026-08-04T17:23:16.000Z",
     "social": "2026-08-04T15:14:06.000Z",
-    "sources": "2026-08-04T15:27:41.508Z",
-    "weather": "2026-08-04T15:27:40.676Z",
+    "sources": "2026-08-04T19:17:42.225Z",
+    "weather": "2026-08-04T19:17:40.694Z",
     "officialCheckpoints": "2026-08-04T10:51:43+02:00"
   },
   "incident": {
@@ -1156,6 +1157,44 @@
   ],
   "updates": [
     {
+      "id": "d56183698cef",
+      "time": "19:23",
+      "title": "Gironde : sept hectares de forêt partis en fumée dans le Libournais, des habitations menacées - Sud Ouest",
+      "detail": "Adds smoke or air-quality context from outside reporting, relevant for health and travel comfort even when access rules are unchanged.",
+      "language": "fr",
+      "titleTheme": "Headline theme: smoke and air-quality effects from the Gironde/Landes fires.",
+      "candidateText": "Gironde : sept hectares de forêt partis en fumée dans le Libournais, des habitations menacées - Sud Ouest <a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSzc5eWlVeV9sMGJ1Q0Y5QWVoUU93OFBGMFUxUkYtYmc1UDlUOXN6dl9fc1BVbF83cjJ4aFdYTUthbktuS2x3RHVjcUdsc1A1eW53YTZBaU9IV1BsTkJzcHZBZHRhckFnVER3aXFNeFZtWXBKSGtCb0x6ZGt0ZmtpUDdYR3QyM0ZjUDRwQkdmMDRtODRPMTVnQ0dwUThwQ2xveWE0X0hQMGxlMEstNm5zenBDajZ5N3dTdGViOTRsVFlZVGVrT3FOLS1IVGY3RTk1dENkX2pMYWxpV3M?oc=5\" target=\"_blank\">Gironde : sept hectares de forêt partis en fumée dans le Libournais, des habitations menacées</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sud Ouest</font>",
+      "sourceId": "google-news-sudouest-local",
+      "source": "Google News · Sud Ouest local",
+      "sourceTier": "regional-media",
+      "sourceKind": "rss",
+      "critical": false,
+      "sourceType": "media",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSzc5eWlVeV9sMGJ1Q0Y5QWVoUU93OFBGMFUxUkYtYmc1UDlUOXN6dl9fc1BVbF83cjJ4aFdYTUthbktuS2x3RHVjcUdsc1A1eW53YTZBaU9IV1BsTkJzcHZBZHRhckFnVER3aXFNeFZtWXBKSGtCb0x6ZGt0ZmtpUDdYR3QyM0ZjUDRwQkdmMDRtODRPMTVnQ0dwUThwQ2xveWE0X0hQMGxlMEstNm5zenBDajZ5N3dTdGViOTRsVFlZVGVrT3FOLS1IVGY3RTk1dENkX2pMYWxpV3M?oc=5",
+      "importance": 4,
+      "publishedAt": "2026-08-04T17:23:16.000Z",
+      "classification": {
+        "score": 16,
+        "priority": "urgent-review",
+        "reasons": [
+          "fire-scale",
+          "air-quality",
+          "holiday-impact",
+          "regional-access-logistics"
+        ],
+        "authorityAttributed": false,
+        "changeLanguage": true,
+        "numbers": []
+      },
+      "liveIndex": false,
+      "confirmedBy": {
+        "count": 1,
+        "sources": [
+          "Google News · Sud Ouest local"
+        ]
+      }
+    },
+    {
       "id": "439c70cdebd1",
       "time": "15:10",
       "title": "Incendie en Gironde : « La vigne est restée 20 heures dans la fumée »… le vin de 2026 n’aura pas le goût du feu - Sud Ouest",
@@ -2024,46 +2063,6 @@
       }
     },
     {
-      "id": "81f2cc2c8cbd",
-      "time": "09:17",
-      "title": "EN DIRECT, incendies : en Gironde, les mesures d’évacuation prennent fin ; dans le Var, l’extinction du feu, stabilisé mais pas encore fixé, va durer « plusieurs jours »",
-      "detail": "Adds evacuation reporting but no independently confirmed material fact beyond the current official evacuation and access baseline.",
-      "language": "fr",
-      "titleTheme": "Headline theme: evacuation orders, evacuation scale or resident movement.",
-      "candidateText": "EN DIRECT, incendies : en Gironde, les mesures d’évacuation prennent fin ; dans le Var, l’extinction du feu, stabilisé mais pas encore fixé, va durer « plusieurs jours » La préfète de Gironde a autorisé le retour de milliers de personnes évacuées, lundi à partir de 14 heures, à Lège-Cap-Ferret et au Porge. Dans le Var, en raison de « l’évaluation favorable du feu », les mesures d’évacuation et de confinement préventifs ont été levées dimanche.",
-      "sourceId": "lemonde-planete-live-index",
-      "source": "Le Monde · Planète live index",
-      "sourceTier": "major-media",
-      "sourceKind": "rss",
-      "critical": true,
-      "sourceType": "media",
-      "url": "https://www.lemonde.fr/planete/live/2026/08/03/en-direct-incendies-en-gironde-les-mesures-d-evacuation-prennent-fin-dans-le-var-l-extinction-du-feu-stabilise-mais-pas-encore-fixe-va-durer-plusieurs-jours_6737310_3244.html",
-      "importance": 4,
-      "publishedAt": "2026-08-03T07:17:36.000Z",
-      "classification": {
-        "score": 23,
-        "priority": "urgent-review",
-        "reasons": [
-          "evacuation",
-          "control-status",
-          "access",
-          "regional-access-logistics"
-        ],
-        "authorityAttributed": true,
-        "changeLanguage": false,
-        "numbers": [
-          "14"
-        ]
-      },
-      "liveIndex": true,
-      "confirmedBy": {
-        "count": 1,
-        "sources": [
-          "Le Monde · Planète live index"
-        ]
-      }
-    },
-    {
       "id": "a1f95caf3c63",
       "time": "08:45",
       "title": "Guerre au Moyen-Orient, feu fixé en Gironde, orages dans le Sud-Ouest… Les infos du lundi 3 août - Sud Ouest",
@@ -2763,14 +2762,14 @@
     "overall": {
       "level": "amber",
       "status": "Operating flights · arrival delays/cancellations",
-      "sourceName": "Bordeaux Airport board updated at 17:25 CEST; prefectural evacuation notices",
+      "sourceName": "Bordeaux Airport board updated at 21:15 CEST; prefectural evacuation notices",
       "sourceUrl": "https://www.bordeaux.aeroport.fr/vols-destinations/arrivees-departs-du-jour"
     },
     "operationalRisk": {
       "closure": {
         "level": "amber",
         "status": "Elevated risk · flights operating but heavily disrupted",
-        "detail": "The official board still lists arrivals and departures, but it flags 1 delayed and 0 cancelled arrivals, plus 0 delayed and 0 cancelled departures. The airport's own flash notice says activity continues, while the hotel zone around the airport is evacuated until further notice and the halls close overnight, so the site cannot provide accommodation. Treat flight operation, terminal overnight access and ground access as separate signals."
+        "detail": "The official board still lists arrivals and departures, but it flags 5 delayed and 0 cancelled arrivals, plus 0 delayed and 0 cancelled departures. The airport's own flash notice says activity continues, while the hotel zone around the airport is evacuated until further notice and the halls close overnight, so the site cannot provide accommodation. Treat flight operation, terminal overnight access and ground access as separate signals."
       },
       "groundAccess": {
         "level": "amber",
@@ -2910,126 +2909,126 @@
       "name": "Lège-Cap-Ferret Town Hall",
       "type": "Official",
       "url": "https://www.ville-lege-capferret.fr/actualites/information-importante-incendie-saumos/",
-      "checkedAt": "2026-08-04T15:27:36.600Z",
+      "checkedAt": "2026-08-04T19:17:33.909Z",
       "status": "ok"
     },
     {
       "name": "Gironde Prefecture",
       "type": "Official",
       "url": "https://www.gironde.gouv.fr/",
-      "checkedAt": "2026-08-04T15:27:36.631Z",
+      "checkedAt": "2026-08-04T19:17:33.942Z",
       "status": "ok"
     },
     {
       "name": "Marcheprime Town Hall",
       "type": "Official local",
       "url": "https://ville-marcheprime.fr/actualites/alerte-extreme-evacuation-imminente/",
-      "checkedAt": "2026-08-04T15:27:36.631Z",
+      "checkedAt": "2026-08-04T19:17:33.943Z",
       "status": "ok"
     },
     {
       "name": "Gironde Prefecture · press releases",
       "type": "Official",
       "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026",
-      "checkedAt": "2026-08-04T15:27:36.632Z",
+      "checkedAt": "2026-08-04T19:17:33.943Z",
       "status": "ok"
     },
     {
       "name": "Gironde Department",
       "type": "Official",
       "url": "https://www.gironde.fr/actualites/vigilance-rouge-pour-le-risque-feu-de-foret",
-      "checkedAt": "2026-08-04T15:27:36.632Z",
+      "checkedAt": "2026-08-04T19:17:33.943Z",
       "status": "ok"
     },
     {
       "name": "Bordeaux Métropole",
       "type": "Official local",
       "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees-collecte-dons",
-      "checkedAt": "2026-08-04T15:27:36.632Z",
+      "checkedAt": "2026-08-04T19:17:33.944Z",
       "status": "ok"
     },
     {
       "name": "Bordeaux Métropole · wildfire and pollution restrictions",
       "type": "Official local",
       "url": "https://www.bordeaux-metropole.fr/actualites/vigilance-noire-feux-foret-pollution-atmospherique-alertes-renforcees",
-      "checkedAt": "2026-08-04T15:27:36.633Z",
+      "checkedAt": "2026-08-04T19:17:33.944Z",
       "status": "ok"
     },
     {
       "name": "Gironde Inforoutes",
       "type": "Official transport",
       "url": "https://www.gironde.fr/deplacements/inforoutes",
-      "checkedAt": "2026-08-04T15:27:36.633Z",
+      "checkedAt": "2026-08-04T19:17:33.944Z",
       "status": "ok"
     },
     {
       "name": "Atlantic maritime prefecture",
       "type": "Official maritime",
       "url": "https://www.premar-atlantique.gouv.fr/communiques-presse/reouverture-partielle-du-bassin-d-arcachon-33-a-la-navigation",
-      "checkedAt": "2026-08-04T15:27:36.633Z",
+      "checkedAt": "2026-08-04T19:17:33.945Z",
       "status": "ok"
     },
     {
       "name": "Nouvelle-Aquitaine transport",
       "type": "Official transport",
       "url": "https://transports.nouvelle-aquitaine.fr/",
-      "checkedAt": "2026-08-04T15:27:36.634Z",
+      "checkedAt": "2026-08-04T19:17:33.945Z",
       "status": "ok"
     },
     {
       "name": "Feux de Forêt",
       "type": "Specialist",
       "url": "https://feuxdeforet.fr/",
-      "checkedAt": "2026-08-04T15:27:36.634Z",
+      "checkedAt": "2026-08-04T19:17:33.946Z",
       "status": "failed"
     },
     {
       "name": "NASA FIRMS",
       "type": "Satellite",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/",
-      "checkedAt": "2026-08-04T15:27:36.634Z",
+      "checkedAt": "2026-08-04T19:17:33.946Z",
       "status": "ok"
     },
     {
       "name": "Météo-France · forêts",
       "type": "Official",
       "url": "https://meteofrance.com/meteo-des-forets",
-      "checkedAt": "2026-08-04T15:27:36.634Z",
+      "checkedAt": "2026-08-04T19:17:33.946Z",
       "status": "ok"
     },
     {
       "name": "Atmo Nouvelle-Aquitaine",
       "type": "Official air quality",
       "url": "https://www.atmo-nouvelleaquitaine.org/",
-      "checkedAt": "2026-08-04T15:27:36.635Z",
+      "checkedAt": "2026-08-04T19:17:33.946Z",
       "status": "ok"
     },
     {
       "name": "France Bleu / ici Gironde",
       "type": "Local media",
       "url": "https://www.francebleu.fr/gironde",
-      "checkedAt": "2026-08-04T15:27:36.635Z",
+      "checkedAt": "2026-08-04T19:17:33.947Z",
       "status": "ok"
     },
     {
       "name": "TVCapFerret · Bassin fire live",
       "type": "Local media",
       "url": "https://tvcapferret.com/vigilance-orange-feux-foret-gironde-lege-cap-ferret/",
-      "checkedAt": "2026-08-04T15:27:36.635Z",
+      "checkedAt": "2026-08-04T19:17:33.947Z",
       "status": "ok"
     },
     {
       "name": "Bordeaux Airport",
       "type": "Official transport",
       "url": "https://www.bordeaux.aeroport.fr/vols-destinations/arrivees-departs-du-jour",
-      "checkedAt": "2026-08-04T15:27:38.247Z",
+      "checkedAt": "2026-08-04T19:17:34.967Z",
       "status": "ok"
     },
     {
       "name": "Public social networks",
       "type": "Signal",
       "url": "https://bsky.app/search?q=incendie%20Cap%20Ferret",
-      "checkedAt": "2026-08-04T15:27:41.508Z",
+      "checkedAt": "2026-08-04T19:17:42.225Z",
       "status": "ok"
     }
   ],
@@ -3047,7 +3046,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -3063,7 +3062,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -3095,7 +3094,7 @@
         "valid": true,
         "network": "mastodon",
         "reason": "Mastodon URLs must identify an account and numeric status.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -3324,8 +3323,8 @@
   "collection": {
     "feedSuccesses": 12,
     "feedFailures": 0,
-    "newItemsSeen": 649,
-    "liveblogItemsSeen": 7,
+    "newItemsSeen": 642,
+    "liveblogItemsSeen": 6,
     "sourceHealth": [
       {
         "id": "lemonde-planete-live-index",
@@ -3334,11 +3333,11 @@
         "url": "https://www.lemonde.fr/planete/rss_full.xml",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:38.579Z",
-        "latencyMs": 570,
-        "itemCount": 4,
+        "checkedAt": "2026-08-04T19:17:35.198Z",
+        "latencyMs": 432,
+        "itemCount": 3,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:38.579Z",
+        "lastGoodAt": "2026-08-04T19:17:35.198Z",
         "lastFailureAt": "2026-07-31T14:29:06.827Z"
       },
       {
@@ -3348,11 +3347,11 @@
         "url": "https://news.google.com/rss/search?q=(wildfire%20OR%20wildfires%20OR%20%22forest%20fire%22%20OR%20fires%20OR%20evacuation%20OR%20smoke)%20(Gironde%20OR%20Landes%20OR%20Bordeaux%20OR%20%22Cap%20Ferret%22%20OR%20Lacanau%20OR%20Arcachon%20OR%20Saumos%20OR%20%22Le%20Porge%22)&hl=en-GB&gl=GB&ceid=GB%3Aen",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:38.580Z",
-        "latencyMs": 406,
-        "itemCount": 47,
+        "checkedAt": "2026-08-04T19:17:35.199Z",
+        "latencyMs": 728,
+        "itemCount": 43,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:38.580Z",
+        "lastGoodAt": "2026-08-04T19:17:35.199Z",
         "lastFailureAt": "2026-07-31T14:40:29.441Z"
       },
       {
@@ -3362,11 +3361,11 @@
         "url": "https://news.google.com/rss/search?q=(wildfire%20OR%20%22forest%20fire%22%20OR%20evacuation%20OR%20smoke)%20(Bordeaux%20OR%20%22Cap%20Ferret%22%20OR%20Lacanau%20OR%20Arcachon)%20(tourists%20OR%20tourism%20OR%20travel%20OR%20airport%20OR%20flights%20OR%20holiday%20OR%20insurance%20OR%20business)&hl=en-US&gl=US&ceid=US%3Aen",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:38.581Z",
-        "latencyMs": 413,
-        "itemCount": 68,
+        "checkedAt": "2026-08-04T19:17:35.199Z",
+        "latencyMs": 742,
+        "itemCount": 67,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:38.581Z",
+        "lastGoodAt": "2026-08-04T19:17:35.199Z",
         "lastFailureAt": "2026-07-31T14:40:29.442Z"
       },
       {
@@ -3376,11 +3375,11 @@
         "url": "https://news.google.com/rss/search?q=(site%3Areuters.com%20OR%20site%3Aapnews.com)%20(wildfire%20OR%20wildfires%20OR%20%22forest%20fire%22%20OR%20fires%20OR%20evacuation%20OR%20smoke)%20(France%20OR%20Gironde%20OR%20Landes%20OR%20Bordeaux%20OR%20%22Cap%20Ferret%22%20OR%20Lacanau%20OR%20Arcachon%20OR%20Saumos)&hl=en-GB&gl=GB&ceid=GB%3Aen",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:38.581Z",
-        "latencyMs": 428,
-        "itemCount": 19,
+        "checkedAt": "2026-08-04T19:17:35.200Z",
+        "latencyMs": 752,
+        "itemCount": 20,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:38.581Z",
+        "lastGoodAt": "2026-08-04T19:17:35.200Z",
         "lastFailureAt": "2026-07-31T14:40:29.443Z"
       },
       {
@@ -3390,11 +3389,11 @@
         "url": "https://news.google.com/rss/search?q=(site%3Anytimes.com%20OR%20site%3Aft.com%20OR%20site%3Aeconomist.com)%20(wildfire%20OR%20wildfires%20OR%20%22forest%20fire%22%20OR%20fires%20OR%20evacuation%20OR%20smoke%20OR%20tourism%20OR%20airport)%20(France%20OR%20Gironde%20OR%20Landes%20OR%20Bordeaux%20OR%20%22Cap%20Ferret%22%20OR%20Lacanau%20OR%20Arcachon)&hl=en-GB&gl=GB&ceid=GB%3Aen",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:38.582Z",
-        "latencyMs": 519,
+        "checkedAt": "2026-08-04T19:17:35.201Z",
+        "latencyMs": 846,
         "itemCount": 10,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:38.582Z",
+        "lastGoodAt": "2026-08-04T19:17:35.201Z",
         "lastFailureAt": "2026-07-31T14:40:29.443Z"
       },
       {
@@ -3404,11 +3403,11 @@
         "url": "https://news.google.com/rss/search?q=(site%3Abloomberg.com%20OR%20site%3Abbc.com%20OR%20site%3Atheguardian.com)%20(wildfire%20OR%20wildfires%20OR%20%22forest%20fire%22%20OR%20fires%20OR%20evacuation%20OR%20smoke%20OR%20tourism%20OR%20airport)%20(France%20OR%20Gironde%20OR%20Landes%20OR%20Bordeaux%20OR%20%22Cap%20Ferret%22%20OR%20Lacanau%20OR%20Arcachon)&hl=en-GB&gl=GB&ceid=GB%3Aen",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:38.583Z",
-        "latencyMs": 525,
-        "itemCount": 9,
+        "checkedAt": "2026-08-04T19:17:35.201Z",
+        "latencyMs": 790,
+        "itemCount": 8,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:38.583Z",
+        "lastGoodAt": "2026-08-04T19:17:35.201Z",
         "lastFailureAt": "2026-07-31T14:40:29.444Z"
       },
       {
@@ -3418,11 +3417,11 @@
         "url": "https://news.google.com/rss/search?q=(bosbrand%20OR%20bosbranden%20OR%20natuurbrand%20OR%20brand%20OR%20evacuatie%20OR%20rook)%20(Gironde%20OR%20Landes%20OR%20Bordeaux%20OR%20%22Cap%20Ferret%22%20OR%20Lacanau%20OR%20Arcachon)&hl=nl&gl=NL&ceid=NL%3Anl",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:38.584Z",
-        "latencyMs": 418,
-        "itemCount": 55,
+        "checkedAt": "2026-08-04T19:17:35.201Z",
+        "latencyMs": 907,
+        "itemCount": 54,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:38.584Z",
+        "lastGoodAt": "2026-08-04T19:17:35.201Z",
         "lastFailureAt": "2026-07-31T14:40:29.444Z"
       },
       {
@@ -3432,11 +3431,11 @@
         "url": "https://news.google.com/rss/search?q=(bosbrand%20OR%20bosbranden%20OR%20natuurbrand%20OR%20brand%20OR%20evacuatie%20OR%20rook%20OR%20vakantiegangers)%20(Gironde%20OR%20Landes%20OR%20Bordeaux%20OR%20%22Cap%20Ferret%22%20OR%20Lacanau%20OR%20Arcachon)&hl=nl-BE&gl=BE&ceid=BE%3Anl",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:38.584Z",
-        "latencyMs": 562,
-        "itemCount": 57,
+        "checkedAt": "2026-08-04T19:17:35.202Z",
+        "latencyMs": 825,
+        "itemCount": 59,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:38.584Z",
+        "lastGoodAt": "2026-08-04T19:17:35.202Z",
         "lastFailureAt": "2026-07-31T14:40:29.445Z"
       },
       {
@@ -3446,11 +3445,11 @@
         "url": "https://news.google.com/rss/search?q=%28incendie+OR+feu+OR+%C3%A9vacuation%29+%28Gironde+OR+Landes+OR+Bordeaux+OR+L%C3%A8ge-Cap-Ferret+OR+Saumos+OR+Le+Porge+OR+Cestas+OR+Marcheprime+OR+A63+OR+Biscarrosse%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:38.585Z",
-        "latencyMs": 432,
+        "checkedAt": "2026-08-04T19:17:35.202Z",
+        "latencyMs": 805,
         "itemCount": 97,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:38.585Z",
+        "lastGoodAt": "2026-08-04T19:17:35.202Z",
         "lastFailureAt": "2026-07-31T14:40:29.445Z"
       },
       {
@@ -3460,11 +3459,11 @@
         "url": "https://news.google.com/rss/search?q=%28r%C3%A9ouverture+OR+retour+OR+acc%C3%A8s%29+%28Cap+Ferret+OR+L%C3%A8ge%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:38.586Z",
-        "latencyMs": 538,
+        "checkedAt": "2026-08-04T19:17:35.203Z",
+        "latencyMs": 770,
         "itemCount": 100,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:38.586Z",
+        "lastGoodAt": "2026-08-04T19:17:35.203Z",
         "lastFailureAt": "2026-07-31T14:40:29.446Z"
       },
       {
@@ -3474,11 +3473,11 @@
         "url": "https://news.google.com/rss/search?q=site%3Asudouest.fr+%28incendie+OR+feu+OR+%C3%A9vacuation%29+%28Gironde+OR+Saumos+OR+L%C3%A8ge-Cap-Ferret+OR+Bordeaux%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:38.586Z",
-        "latencyMs": 554,
-        "itemCount": 95,
+        "checkedAt": "2026-08-04T19:17:35.203Z",
+        "latencyMs": 780,
+        "itemCount": 93,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:38.586Z",
+        "lastGoodAt": "2026-08-04T19:17:35.203Z",
         "lastFailureAt": "2026-07-31T14:40:29.446Z"
       },
       {
@@ -3488,11 +3487,11 @@
         "url": "https://news.google.com/rss/search?q=%28incendie+OR+fum%C3%A9es+OR+PM10%29+%28Bordeaux+OR+Gironde+OR+Arcachon%29+%28a%C3%A9roport+OR+cars+OR+transport+OR+qualit%C3%A9+de+l%27air%29&hl=fr&gl=FR&ceid=FR%3Afr",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:38.587Z",
-        "latencyMs": 529,
+        "checkedAt": "2026-08-04T19:17:35.204Z",
+        "latencyMs": 812,
         "itemCount": 88,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:38.587Z",
+        "lastGoodAt": "2026-08-04T19:17:35.204Z",
         "lastFailureAt": "2026-07-31T14:40:29.447Z"
       },
       {
@@ -3502,11 +3501,11 @@
         "url": "https://www.franceinfo.fr/faits-divers/incendies-en-gironde/direct-incendie-en-gironde-la-prefecture-ordonne-l-evacuation-sans-delai-des-premiers-villages-de-la-presqu-ile-du-capferret_8120039.html",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:39.149Z",
-        "latencyMs": 356,
+        "checkedAt": "2026-08-04T19:17:36.109Z",
+        "latencyMs": 207,
         "itemCount": 3,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:39.149Z",
+        "lastGoodAt": "2026-08-04T19:17:36.109Z",
         "lastFailureAt": "2026-07-31T14:29:06.830Z"
       },
       {
@@ -3515,12 +3514,12 @@
         "kind": "liveblog-health",
         "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-des-evacuations-par-bateau-en-gironde-la-situation-nest-pas-sous-controle-dans-les-landes-20260724_CUWC25TVWRFZ7JZIHU2QBJ66PI/",
         "critical": false,
-        "status": "failed",
-        "checkedAt": "2026-08-04T15:27:39.149Z",
-        "latencyMs": 279,
-        "itemCount": null,
-        "error": "403 ",
-        "lastGoodAt": null,
+        "status": "ok",
+        "checkedAt": "2026-08-04T19:17:36.109Z",
+        "latencyMs": 2559,
+        "itemCount": 0,
+        "error": null,
+        "lastGoodAt": "2026-08-04T19:17:36.109Z",
         "lastFailureAt": "2026-08-04T15:27:39.149Z"
       },
       {
@@ -3530,14 +3529,14 @@
         "url": "https://www.ville-lege-capferret.fr/actualites/information-importante-incendie-saumos/",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:36.600Z",
-        "latencyMs": 257,
+        "checkedAt": "2026-08-04T19:17:33.909Z",
+        "latencyMs": 304,
         "itemCount": 5917,
         "error": null,
         "contentHash": "b0f62555ab991e3f5d17",
         "contentChanged": false,
         "changedAt": "2026-08-02T15:50:48.799Z",
-        "lastGoodAt": "2026-08-04T15:27:36.600Z",
+        "lastGoodAt": "2026-08-04T19:17:33.909Z",
         "lastFailureAt": "2026-07-31T14:29:06.785Z",
         "latestOfficialPointAt": "2026-08-02T12:00:00+02:00"
       },
@@ -3548,14 +3547,14 @@
         "url": "https://www.gironde.gouv.fr/",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:36.631Z",
-        "latencyMs": 1129,
-        "itemCount": 740,
+        "checkedAt": "2026-08-04T19:17:33.942Z",
+        "latencyMs": 881,
+        "itemCount": 741,
         "error": null,
-        "contentHash": "6e26514ee5517dc7028a",
-        "contentChanged": false,
-        "changedAt": "2026-08-04T15:26:10.372Z",
-        "lastGoodAt": "2026-08-04T15:27:36.631Z",
+        "contentHash": "9c2269efd17916cade4b",
+        "contentChanged": true,
+        "changedAt": "2026-08-04T19:17:33.942Z",
+        "lastGoodAt": "2026-08-04T19:17:33.942Z",
         "lastFailureAt": "2026-07-31T20:35:58.194Z",
         "latestOfficialPointAt": null
       },
@@ -3566,14 +3565,14 @@
         "url": "https://ville-marcheprime.fr/actualites/alerte-extreme-evacuation-imminente/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:36.631Z",
-        "latencyMs": 664,
+        "checkedAt": "2026-08-04T19:17:33.943Z",
+        "latencyMs": 695,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-08-04T15:27:36.631Z",
+        "lastGoodAt": "2026-08-04T19:17:33.943Z",
         "lastFailureAt": "2026-08-03T07:39:46.036Z",
         "latestOfficialPointAt": null
       },
@@ -3584,14 +3583,14 @@
         "url": "https://www.gironde.gouv.fr/Actualites/Communiques-de-presse/Communiques-de-presse-2026/Juillet-2026",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:36.632Z",
-        "latencyMs": 599,
+        "checkedAt": "2026-08-04T19:17:33.943Z",
+        "latencyMs": 456,
         "itemCount": 763,
         "error": null,
         "contentHash": "ce258973887206c69843",
         "contentChanged": false,
         "changedAt": "2026-08-04T12:54:35.089Z",
-        "lastGoodAt": "2026-08-04T15:27:36.632Z",
+        "lastGoodAt": "2026-08-04T19:17:33.943Z",
         "lastFailureAt": "2026-07-31T20:35:58.197Z",
         "latestOfficialPointAt": null
       },
@@ -3602,14 +3601,14 @@
         "url": "https://www.gironde.fr/actualites/vigilance-rouge-pour-le-risque-feu-de-foret",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:36.632Z",
-        "latencyMs": 717,
+        "checkedAt": "2026-08-04T19:17:33.943Z",
+        "latencyMs": 947,
         "itemCount": 874,
         "error": null,
         "contentHash": "96da42b0d5762794e547",
         "contentChanged": false,
         "changedAt": "2026-08-04T15:26:10.373Z",
-        "lastGoodAt": "2026-08-04T15:27:36.632Z",
+        "lastGoodAt": "2026-08-04T19:17:33.943Z",
         "lastFailureAt": "2026-08-03T07:39:46.038Z",
         "latestOfficialPointAt": null
       },
@@ -3620,14 +3619,14 @@
         "url": "https://www.bordeaux-metropole.fr/actualites/incendies-en-gironde-accueil-personnes-evacuees-collecte-dons",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:36.632Z",
-        "latencyMs": 1129,
+        "checkedAt": "2026-08-04T19:17:33.944Z",
+        "latencyMs": 507,
         "itemCount": 2690,
         "error": null,
-        "contentHash": "4e763f6f8959267ea388",
-        "contentChanged": false,
-        "changedAt": "2026-08-04T15:26:10.373Z",
-        "lastGoodAt": "2026-08-04T15:27:36.632Z",
+        "contentHash": "61fd0aee3209b23932a2",
+        "contentChanged": true,
+        "changedAt": "2026-08-04T19:17:33.944Z",
+        "lastGoodAt": "2026-08-04T19:17:33.944Z",
         "lastFailureAt": "2026-08-04T13:13:39.942Z",
         "latestOfficialPointAt": null
       },
@@ -3638,14 +3637,14 @@
         "url": "https://www.bordeaux-metropole.fr/actualites/vigilance-noire-feux-foret-pollution-atmospherique-alertes-renforcees",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:36.633Z",
-        "latencyMs": 1125,
+        "checkedAt": "2026-08-04T19:17:33.944Z",
+        "latencyMs": 505,
         "itemCount": 1487,
         "error": null,
         "contentHash": "68b1c41f361cf3f22ded",
         "contentChanged": false,
         "changedAt": "2026-08-04T15:26:10.373Z",
-        "lastGoodAt": "2026-08-04T15:27:36.633Z",
+        "lastGoodAt": "2026-08-04T19:17:33.944Z",
         "lastFailureAt": "2026-08-04T13:13:39.942Z",
         "latestOfficialPointAt": null
       },
@@ -3656,14 +3655,14 @@
         "url": "https://www.gironde.fr/deplacements/inforoutes",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:36.633Z",
-        "latencyMs": 456,
+        "checkedAt": "2026-08-04T19:17:33.944Z",
+        "latencyMs": 282,
         "itemCount": 2177,
         "error": null,
         "contentHash": "87bcaf63c6aa58de6f50",
         "contentChanged": false,
         "changedAt": "2026-08-04T10:52:52.503Z",
-        "lastGoodAt": "2026-08-04T15:27:36.633Z",
+        "lastGoodAt": "2026-08-04T19:17:33.944Z",
         "lastFailureAt": "2026-08-03T07:39:46.041Z",
         "latestOfficialPointAt": null
       },
@@ -3674,14 +3673,14 @@
         "url": "https://www.premar-atlantique.gouv.fr/communiques-presse/reouverture-partielle-du-bassin-d-arcachon-33-a-la-navigation",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:36.633Z",
-        "latencyMs": 992,
+        "checkedAt": "2026-08-04T19:17:33.945Z",
+        "latencyMs": 770,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-08-04T15:27:36.633Z",
+        "lastGoodAt": "2026-08-04T19:17:33.945Z",
         "lastFailureAt": "2026-07-31T14:29:06.818Z",
         "latestOfficialPointAt": null
       },
@@ -3692,14 +3691,14 @@
         "url": "https://transports.nouvelle-aquitaine.fr/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:36.634Z",
-        "latencyMs": 1613,
+        "checkedAt": "2026-08-04T19:17:33.945Z",
+        "latencyMs": 1021,
         "itemCount": 1307,
         "error": null,
         "contentHash": "774535b3b77f9e2b7e9c",
         "contentChanged": false,
         "changedAt": "2026-08-04T15:26:10.374Z",
-        "lastGoodAt": "2026-08-04T15:27:36.634Z",
+        "lastGoodAt": "2026-08-04T19:17:33.945Z",
         "lastFailureAt": "2026-07-31T14:29:06.819Z",
         "latestOfficialPointAt": null
       },
@@ -3710,15 +3709,15 @@
         "url": "https://feuxdeforet.fr/",
         "critical": false,
         "status": "failed",
-        "checkedAt": "2026-08-04T15:27:36.634Z",
-        "latencyMs": 451,
+        "checkedAt": "2026-08-04T19:17:33.946Z",
+        "latencyMs": 367,
         "itemCount": null,
         "error": "403 ",
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
         "lastGoodAt": "2026-07-29T13:54:16.907Z",
-        "lastFailureAt": "2026-08-04T15:27:36.634Z",
+        "lastFailureAt": "2026-08-04T19:17:33.946Z",
         "latestOfficialPointAt": null
       },
       {
@@ -3728,14 +3727,14 @@
         "url": "https://firms.modaps.eosdis.nasa.gov/map/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:36.634Z",
-        "latencyMs": 1089,
+        "checkedAt": "2026-08-04T19:17:33.946Z",
+        "latencyMs": 833,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-08-04T15:27:36.634Z",
+        "lastGoodAt": "2026-08-04T19:17:33.946Z",
         "lastFailureAt": "2026-08-03T07:39:46.045Z",
         "latestOfficialPointAt": null
       },
@@ -3746,14 +3745,14 @@
         "url": "https://meteofrance.com/meteo-des-forets",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:36.634Z",
-        "latencyMs": 674,
+        "checkedAt": "2026-08-04T19:17:33.946Z",
+        "latencyMs": 514,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-08-04T15:27:36.634Z",
+        "lastGoodAt": "2026-08-04T19:17:33.946Z",
         "lastFailureAt": "2026-07-31T14:29:06.820Z",
         "latestOfficialPointAt": null
       },
@@ -3764,14 +3763,14 @@
         "url": "https://www.atmo-nouvelleaquitaine.org/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:36.635Z",
-        "latencyMs": 1129,
+        "checkedAt": "2026-08-04T19:17:33.946Z",
+        "latencyMs": 824,
         "itemCount": 614,
         "error": null,
         "contentHash": "02d200f0fabca4f0f7a2",
         "contentChanged": false,
         "changedAt": "2026-08-04T09:51:52.499Z",
-        "lastGoodAt": "2026-08-04T15:27:36.635Z",
+        "lastGoodAt": "2026-08-04T19:17:33.946Z",
         "lastFailureAt": "2026-08-03T07:39:46.047Z",
         "latestOfficialPointAt": null
       },
@@ -3782,14 +3781,14 @@
         "url": "https://www.francebleu.fr/gironde",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:36.635Z",
-        "latencyMs": 1190,
+        "checkedAt": "2026-08-04T19:17:33.947Z",
+        "latencyMs": 767,
         "itemCount": null,
         "error": null,
         "contentHash": null,
         "contentChanged": false,
         "changedAt": null,
-        "lastGoodAt": "2026-08-04T15:27:36.635Z",
+        "lastGoodAt": "2026-08-04T19:17:33.947Z",
         "lastFailureAt": "2026-07-31T14:29:06.820Z",
         "latestOfficialPointAt": null
       },
@@ -3800,14 +3799,14 @@
         "url": "https://tvcapferret.com/vigilance-orange-feux-foret-gironde-lege-cap-ferret/",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:36.635Z",
-        "latencyMs": 693,
-        "itemCount": 14107,
+        "checkedAt": "2026-08-04T19:17:33.947Z",
+        "latencyMs": 548,
+        "itemCount": 14222,
         "error": null,
-        "contentHash": "05b54a59f93b528262f5",
-        "contentChanged": false,
-        "changedAt": "2026-08-04T08:50:55.137Z",
-        "lastGoodAt": "2026-08-04T15:27:36.635Z",
+        "contentHash": "40ddc4c34b272106d847",
+        "contentChanged": true,
+        "changedAt": "2026-08-04T19:17:33.947Z",
+        "lastGoodAt": "2026-08-04T19:17:33.947Z",
         "lastFailureAt": "2026-07-31T14:29:06.820Z",
         "latestOfficialPointAt": null
       },
@@ -3818,11 +3817,11 @@
         "url": "https://www.bordeaux.aeroport.fr/vols-destinations/arrivees-departs-du-jour",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:38.247Z",
-        "latencyMs": 332,
-        "itemCount": 57,
+        "checkedAt": "2026-08-04T19:17:34.967Z",
+        "latencyMs": 231,
+        "itemCount": 31,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:38.247Z",
+        "lastGoodAt": "2026-08-04T19:17:34.967Z",
         "lastFailureAt": "2026-07-31T14:29:06.825Z"
       },
       {
@@ -3832,11 +3831,11 @@
         "url": "https://api.bsky.app/xrpc/app.bsky.feed.searchPosts",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:41.508Z",
+        "checkedAt": "2026-08-04T19:17:42.225Z",
         "latencyMs": null,
         "itemCount": 30,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:41.508Z",
+        "lastGoodAt": "2026-08-04T19:17:42.225Z",
         "lastFailureAt": "2026-07-31T14:29:06.852Z"
       },
       {
@@ -3846,12 +3845,12 @@
         "url": "https://www.reddit.com/search.rss",
         "critical": false,
         "status": "failed",
-        "checkedAt": "2026-08-04T15:27:41.508Z",
+        "checkedAt": "2026-08-04T19:17:42.225Z",
         "latencyMs": null,
         "itemCount": null,
         "error": "This operation was aborted",
         "lastGoodAt": "2026-07-26T19:05:06.976Z",
-        "lastFailureAt": "2026-08-04T15:27:41.508Z"
+        "lastFailureAt": "2026-08-04T19:17:42.225Z"
       },
       {
         "id": "mastodon-search",
@@ -3860,11 +3859,11 @@
         "url": "https://mastodon.social/api/v1/timelines/tag/gironde",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:41.508Z",
+        "checkedAt": "2026-08-04T19:17:42.225Z",
         "latencyMs": null,
         "itemCount": 20,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:41.508Z",
+        "lastGoodAt": "2026-08-04T19:17:42.225Z",
         "lastFailureAt": "2026-07-31T14:29:06.852Z"
       },
       {
@@ -3874,11 +3873,11 @@
         "url": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:40.676Z",
+        "checkedAt": "2026-08-04T19:17:40.694Z",
         "latencyMs": null,
         "itemCount": 3,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:40.676Z",
+        "lastGoodAt": "2026-08-04T19:17:40.694Z",
         "lastFailureAt": "2026-07-31T14:29:06.849Z"
       },
       {
@@ -3888,11 +3887,11 @@
         "url": "https://sig.gironde.fr/arcgis/services/ec_routes_ferm%C3%A9es/MapServer/WFSServer?service=WFS&version=2.0.0&request=GetFeature&typenames=ec_routes_ferm%C3%A9es%3ARoutes_d%C3%A9partementales_ferm%C3%A9es&outputFormat=GEOJSON",
         "critical": true,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:40.955Z",
+        "checkedAt": "2026-08-04T19:17:41.306Z",
         "latencyMs": null,
         "itemCount": 16,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:40.955Z",
+        "lastGoodAt": "2026-08-04T19:17:41.306Z",
         "lastFailureAt": "2026-08-03T07:40:20.040Z"
       },
       {
@@ -3902,25 +3901,25 @@
         "url": "https://firms.modaps.eosdis.nasa.gov/mapserver/wms/fires/31abf073d7735a23db666ff6c75a4991/?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetCapabilities",
         "critical": false,
         "status": "ok",
-        "checkedAt": "2026-08-04T15:27:40.957Z",
-        "latencyMs": 550,
+        "checkedAt": "2026-08-04T19:17:41.307Z",
+        "latencyMs": 919,
         "itemCount": 1,
         "error": null,
-        "lastGoodAt": "2026-08-04T15:27:40.957Z",
+        "lastGoodAt": "2026-08-04T19:17:41.307Z",
         "lastFailureAt": "2026-08-03T07:40:20.040Z"
       }
     ],
     "health": {
       "checked": 37,
-      "healthy": 34,
-      "failed": 3,
+      "healthy": 35,
+      "failed": 2,
       "criticalFailures": 0,
       "transientCriticalFailures": 0,
       "synthesisReviewRequired": false,
       "newestUrgentCandidateAt": "2026-07-31T12:40:11.000Z"
     },
     "social": {
-      "checkedAt": "2026-08-04T15:27:41.508Z",
+      "checkedAt": "2026-08-04T19:17:42.225Z",
       "newestCandidateAt": "2026-08-04T15:14:06.000Z",
       "newestDisplayedAt": "2026-08-04T15:14:06.000Z",
       "lagMinutes": 0,
@@ -3936,22 +3935,41 @@
       "checked": 16,
       "healthy": 15,
       "failed": 1,
-      "reviewSuggested": false,
-      "changedSources": []
+      "reviewSuggested": true,
+      "changedSources": [
+        {
+          "id": "reference-ff9937ffc1",
+          "name": "Gironde Prefecture",
+          "checkedAt": "2026-08-04T19:17:33.942Z",
+          "changedAt": "2026-08-04T19:17:33.942Z"
+        },
+        {
+          "id": "reference-13e79eff1b",
+          "name": "Bordeaux Métropole",
+          "checkedAt": "2026-08-04T19:17:33.944Z",
+          "changedAt": "2026-08-04T19:17:33.944Z"
+        },
+        {
+          "id": "reference-033df89804",
+          "name": "TVCapFerret · Bassin fire live",
+          "checkedAt": "2026-08-04T19:17:33.947Z",
+          "changedAt": "2026-08-04T19:17:33.947Z"
+        }
+      ]
     },
     "aviation": {
       "status": "ok",
-      "checkedAt": "2026-08-04T15:27:38.247Z",
-      "boardUpdatedAt": "2026-08-04T17:25:00+02:00",
-      "listedFlightCount": 57,
+      "checkedAt": "2026-08-04T19:17:34.967Z",
+      "boardUpdatedAt": "2026-08-04T21:15:00+02:00",
+      "listedFlightCount": 31,
       "operatingSignal": true,
       "arrivals": {
-        "listedFlightCount": 33,
-        "delayedFlightCount": 1,
+        "listedFlightCount": 19,
+        "delayedFlightCount": 5,
         "cancelledFlightCount": 0
       },
       "departures": {
-        "listedFlightCount": 24,
+        "listedFlightCount": 12,
         "delayedFlightCount": 0,
         "cancelledFlightCount": 0
       },
@@ -3975,27 +3993,34 @@
       },
       "failedSources": [
         {
-          "id": "liberation-live",
-          "lastGoodAt": null,
-          "lastFailureAt": "2026-08-04T15:27:39.149Z",
-          "error": "403 "
-        },
-        {
           "id": "reference-f19745349c",
           "lastGoodAt": "2026-07-29T13:54:16.907Z",
-          "lastFailureAt": "2026-08-04T15:27:36.634Z",
+          "lastFailureAt": "2026-08-04T19:17:33.946Z",
           "error": "403 "
         },
         {
           "id": "reddit-search",
           "lastGoodAt": "2026-07-26T19:05:06.976Z",
-          "lastFailureAt": "2026-08-04T15:27:41.508Z",
+          "lastFailureAt": "2026-08-04T19:17:42.225Z",
           "error": "This operation was aborted"
         }
       ]
     }
   },
   "socialCandidates": [
+    {
+      "title": "Gironde — Incendie de Saumos : centaines de maisons détruites en Gironde #Gironde #UnionEuropéenne #Saumos #News #Breaking",
+      "source": "Bluesky · @netasgardfrance.bsky.social",
+      "url": "https://bsky.app/profile/did:plc:z6afjekzgr5whh5ypxdom2vb/post/3msbjdvv7wh2x",
+      "createdAt": "2026-08-04T17:17:17Z",
+      "verification": "Unverified",
+      "linkValidation": {
+        "valid": true,
+        "network": "bluesky",
+        "reason": "Bluesky URLs must identify a profile and post record.",
+        "checkedAt": "2026-08-04T19:17:39.954Z"
+      }
+    },
     {
       "title": "\"Solidarité incendies : le grand concert en direct\" sur M6 jeudi 27 août 2026, les artistes présents # Divertissement # Inedit # Solidarite # Incendie # Gironde # Concert # Artistes # Peoples # Live # Concert @courbet_julien @Elodiegossuin ",
       "source": "Mastodon · @coulissestv",
@@ -4006,7 +4031,7 @@
         "valid": true,
         "network": "mastodon",
         "reason": "Mastodon URLs must identify an account and numeric status.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4019,7 +4044,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4032,7 +4057,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4045,7 +4070,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4058,7 +4083,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4071,7 +4096,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4084,7 +4109,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4097,7 +4122,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4110,7 +4135,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4123,7 +4148,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4136,7 +4161,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4149,7 +4174,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4162,7 +4187,7 @@
         "valid": true,
         "network": "mastodon",
         "reason": "Mastodon URLs must identify an account and numeric status.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4175,7 +4200,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4188,7 +4213,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4201,7 +4226,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4214,7 +4239,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4227,7 +4252,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4240,7 +4265,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4253,7 +4278,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4266,7 +4291,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4279,7 +4304,7 @@
         "valid": true,
         "network": "mastodon",
         "reason": "Mastodon URLs must identify an account and numeric status.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4292,7 +4317,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4305,7 +4330,7 @@
         "valid": true,
         "network": "mastodon",
         "reason": "Mastodon URLs must identify an account and numeric status.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4318,7 +4343,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4331,7 +4356,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4344,7 +4369,7 @@
         "valid": true,
         "network": "mastodon",
         "reason": "Mastodon URLs must identify an account and numeric status.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4357,7 +4382,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4370,7 +4395,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4383,7 +4408,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4396,7 +4421,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4409,7 +4434,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4422,7 +4447,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4435,7 +4460,7 @@
         "valid": true,
         "network": "bluesky",
         "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     },
     {
@@ -4448,25 +4473,12 @@
         "valid": true,
         "network": "mastodon",
         "reason": "Mastodon URLs must identify an account and numeric status.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
-      }
-    },
-    {
-      "title": "www.lemonde.fr/planete/arti... Incompétence, manque d'écoute des sylviculteurs, priorisation des riches villas du Cap Ferret, difficulté de gérer des forêts privées morcelées et le",
-      "source": "Bluesky · @papyresiste.bsky.social",
-      "url": "https://bsky.app/profile/did:plc:dhqapafrs75vjxyypaqzyh3g/post/3ms5rqjofxs2o",
-      "createdAt": "2026-08-03T05:36:53.377Z",
-      "verification": "Unverified",
-      "linkValidation": {
-        "valid": true,
-        "network": "bluesky",
-        "reason": "Bluesky URLs must identify a profile and post record.",
-        "checkedAt": "2026-08-04T15:27:40.347Z"
+        "checkedAt": "2026-08-04T19:17:39.954Z"
       }
     }
   ],
   "traffic": {
-    "checkedAt": "2026-08-04T15:27:40.955Z",
+    "checkedAt": "2026-08-04T19:17:41.306Z",
     "sourceName": "Inforoutes Gironde",
     "sourceUrl": "https://www.gironde.fr/deplacements/inforoutes",
     "officialClosures": {
@@ -7175,65 +7187,65 @@
     "location": "Saumos–Lège fire corridor reference point",
     "latitude": 44.91,
     "longitude": -1.0600004,
-    "observedAt": "2026-08-04T17:15:00+02:00",
-    "modelUpdatedAt": "2026-08-04T15:27:40.676Z",
+    "observedAt": "2026-08-04T21:15:00+02:00",
+    "modelUpdatedAt": "2026-08-04T19:17:40.694Z",
     "sourceName": "Open-Meteo",
     "sourceUrl": "https://api.open-meteo.com/v1/forecast?latitude=44.91&longitude=-1.06&current=temperature_2m,relative_humidity_2m,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&hourly=temperature_2m,relative_humidity_2m,precipitation_probability,precipitation,wind_speed_10m,wind_direction_10m,wind_gusts_10m&forecast_days=2&timezone=Europe%2FParis",
     "officialFireDangerName": "Météo-France · Météo des forêts",
     "officialFireDangerUrl": "https://meteofrance.com/meteo-des-forets",
     "current": {
-      "temperatureC": 26.6,
-      "humidityPct": 57,
+      "temperatureC": 23,
+      "humidityPct": 80,
       "precipitationMm": 0,
-      "windSpeedKmh": 12.5,
-      "windDirectionDeg": 316,
+      "windSpeedKmh": 9.7,
+      "windDirectionDeg": 309,
       "windDirection": "NW",
-      "windGustKmh": 31.3
+      "windGustKmh": 24.5
     },
     "forecast24h": {
-      "endsAt": "2026-08-05T15:15:00.000Z",
-      "maxTemperatureC": 26.6,
-      "minHumidityPct": 54,
-      "maxWindSpeedKmh": 13,
-      "maxWindGustKmh": 32.8,
-      "peakGustAt": "2026-08-04T18:00:00+02:00",
+      "endsAt": "2026-08-05T19:15:00.000Z",
+      "maxTemperatureC": 26.1,
+      "minHumidityPct": 50,
+      "maxWindSpeedKmh": 12,
+      "maxWindGustKmh": 29.9,
+      "peakGustAt": "2026-08-05T18:00:00+02:00",
       "peakGustDirectionDeg": 316,
       "peakGustDirection": "NW",
       "precipitationMm": 0,
       "maxPrecipitationProbabilityPct": 10,
       "checkpoints": [
         {
-          "time": "2026-08-04T23:00:00+02:00",
-          "temperatureC": 21.1,
-          "humidityPct": 92,
+          "time": "2026-08-05T03:00:00+02:00",
+          "temperatureC": 19.4,
+          "humidityPct": 98,
           "precipitationProbabilityPct": 0,
           "precipitationMm": 0,
-          "windSpeedKmh": 5.9,
-          "windDirectionDeg": 308,
-          "windDirection": "NW",
-          "windGustKmh": 16.9
+          "windSpeedKmh": 3.3,
+          "windDirectionDeg": 257,
+          "windDirection": "WSW",
+          "windGustKmh": 7.9
         },
         {
-          "time": "2026-08-05T05:00:00+02:00",
-          "temperatureC": 18.8,
-          "humidityPct": 100,
-          "precipitationProbabilityPct": 0,
+          "time": "2026-08-05T09:00:00+02:00",
+          "temperatureC": 21.4,
+          "humidityPct": 88,
+          "precipitationProbabilityPct": 5,
           "precipitationMm": 0,
-          "windSpeedKmh": 2.2,
-          "windDirectionDeg": 180,
-          "windDirection": "S",
-          "windGustKmh": 3.6
+          "windSpeedKmh": 2.3,
+          "windDirectionDeg": 309,
+          "windDirection": "NW",
+          "windGustKmh": 6.5
         },
         {
-          "time": "2026-08-05T17:00:00+02:00",
-          "temperatureC": 23.5,
-          "humidityPct": 63,
+          "time": "2026-08-05T21:00:00+02:00",
+          "temperatureC": 22.1,
+          "humidityPct": 68,
           "precipitationProbabilityPct": 0,
           "precipitationMm": 0,
-          "windSpeedKmh": 9.2,
-          "windDirectionDeg": 312,
+          "windSpeedKmh": 7,
+          "windDirectionDeg": 325,
           "windDirection": "NW",
-          "windGustKmh": 23
+          "windGustKmh": 20.5
         }
       ]
     }
@@ -9123,10 +9135,10 @@
     },
     "flipCondition": "Fire mastery/control, evacuation lift, public access by road or authorised transport, and basic local commerce must move from blocked/unknown to confirmed.",
     "scanSummary": {
-      "text": "Scanned 37 sources at 17:27; visible changes are published only when a gate, verdict or material fact changes.",
-      "scannedAt": "2026-08-04T15:27:41.508Z",
+      "text": "Scanned 37 sources at 21:17; visible changes are published only when a gate, verdict or material fact changes.",
+      "scannedAt": "2026-08-04T19:17:42.225Z",
       "sourcesChecked": 37,
-      "sourcesHealthy": 34
+      "sourcesHealthy": 35
     },
     "checklist": [
       {
@@ -9157,7 +9169,7 @@
         "detail": "Peninsula reintegration is authorised from Monday 19:00, but a matching live Inforoutes confirmation for every affected road segment is still awaited.",
         "sourceName": "Gironde Inforoutes",
         "sourceUrl": "https://www.gironde.fr/deplacements/inforoutes",
-        "asOf": "2026-08-04T15:27:40.955Z"
+        "asOf": "2026-08-04T19:17:41.306Z"
       },
       {
         "id": "public-allowed-to-enter-the-peninsula",
